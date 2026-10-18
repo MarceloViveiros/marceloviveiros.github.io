@@ -642,7 +642,7 @@
       "name": "Projeto de fãs · D2 Survivors",
       "type": "jogo-fa",
       "approach": "web-unconfirmed",
-      "playability": "nao-verificado",
+      "playability": "jogavel",
       "developmentStage": "desconhecido",
       "sourceKind": "website",
       "github": null,
@@ -690,7 +690,7 @@
             "Abra o site do projeto pelo botão Jogar no navegador.",
             "Siga as opções e instruções exibidas pelo próprio jogo."
           ],
-          "limitations": "Tela inicial carregada; nenhuma partida testada. O site declara não ter vínculo ou aprovação da Blizzard. Repositório, versão numerada e licença não confirmados. A revisão registra um hash SHA-256 do HTML consultado, não um commit do jogo."
+          "limitations": "Testado e aprovado pelo Bora de Play em 18/10/2026, por confirmação do responsável pelo canal. O site declara não ter vínculo ou aprovação da Blizzard. Repositório, versão numerada e licença não confirmados. A revisão registra um hash SHA-256 do HTML consultado, não um commit do jogo."
         },
         "en": {
           "summary": "A Diablo II-inspired fan project with a survival concept, running in a browser. This is not a port of the complete original game.",
@@ -703,7 +703,7 @@
             "Open the project site using Play in browser.",
             "Follow the options and instructions shown by the game."
           ],
-          "limitations": "Title screen loaded; no gameplay tested. The site states it is not affiliated with or endorsed by Blizzard. Repository, numbered version and license not confirmed. The review records a SHA-256 hash of the consulted HTML, not a game commit."
+          "limitations": "Tested and approved by Bora de Play on 2026-10-18, as confirmed by the channel owner. The site states it is not affiliated with or endorsed by Blizzard. Repository, numbered version and license not confirmed. The review records a SHA-256 hash of the consulted HTML, not a game commit."
         },
         "es": {
           "summary": "Proyecto de fans inspirado en Diablo II, con propuesta de supervivencia y ejecución en navegador. No es un port del juego original completo.",
@@ -716,8 +716,14 @@
             "Abre el sitio del proyecto con Jugar en el navegador.",
             "Sigue las opciones e instrucciones del propio juego."
           ],
-          "limitations": "Pantalla inicial cargada; no se probó una partida. El sitio declara no estar afiliado ni respaldado por Blizzard. Repositorio, versión numerada y licencia no confirmados. La revisión registra un hash SHA-256 del HTML consultado, no un commit del juego."
+          "limitations": "Probado y aprobado por Bora de Play el 18/10/2026, por confirmación del responsable del canal. El sitio declara no estar afiliado ni respaldado por Blizzard. Repositorio, versión numerada y licencia no confirmados. La revisión registra un hash SHA-256 del HTML consultado, no un commit del juego."
         }
+      },
+      "channelReview": {
+        "status": "approved",
+        "reviewedAt": "2026-10-18",
+        "reviewer": "Bora de Play",
+        "basis": "owner-confirmation"
       }
     },
     {
