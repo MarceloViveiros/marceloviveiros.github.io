@@ -1,0 +1,1710 @@
+{
+  "schemaVersion": 3,
+  "updatedAt": "2026-10-18T14:47:17.165170+00:00",
+  "projects": [
+    {
+      "id": "web-openlara",
+      "editionId": "web-openlara",
+      "game": "Tomb Raider",
+      "name": "OpenLara",
+      "type": "port",
+      "approach": "source-port",
+      "playability": "nao-verificado",
+      "developmentStage": "desconhecido",
+      "github": "https://github.com/XProger/OpenLara",
+      "instructionsUrl": "https://github.com/XProger/OpenLara/blob/3b268ca4bf986c380f44a26ffd9218bf6d376249/README.md",
+      "reviewedAt": "2026-10-16",
+      "reviewedVersion": "3b268ca4bf986c380f44a26ffd9218bf6d376249",
+      "evidenceUrl": "https://github.com/XProger/OpenLara/blob/3b268ca4bf986c380f44a26ffd9218bf6d376249/README.md",
+      "reviewMethod": "documentation",
+      "origins": [
+        "PC"
+      ],
+      "targets": [
+        "Web"
+      ],
+      "stars": 5127,
+      "starsCollectedAt": "2026-10-18T14:46:47.425012+00:00",
+      "content": {
+        "pt": {
+          "summary": "Motor de Tomb Raider com uma fase demonstrativa em WebGL.",
+          "originalFiles": "A demonstração inclui uma fase; não é a campanha completa.",
+          "requirements": [
+            "Navegador atualizado com JavaScript e WebGL/WebAssembly. Controles e desempenho dependem do projeto e do dispositivo."
+          ],
+          "installation": [
+            "Abra a página do autor e aguarde o carregamento da demonstração."
+          ],
+          "limitations": "Documentação conferida; jogabilidade não testada pelo catálogo. Verifique suporte a celular, controles e salvamento na página do autor."
+        },
+        "en": {
+          "summary": "Tomb Raider engine with a WebGL demo level.",
+          "originalFiles": "The demo includes one level, not the full campaign.",
+          "requirements": [
+            "Updated browser with JavaScript and WebGL/WebAssembly. Controls and performance depend on the project and device."
+          ],
+          "installation": [
+            "Open the author’s page and wait for the demo to load."
+          ],
+          "limitations": "Documentation reviewed; gameplay not tested by the catalog. Check mobile support, controls and saving on the author’s page."
+        },
+        "es": {
+          "summary": "Motor de Tomb Raider con una fase de demostración WebGL.",
+          "originalFiles": "La demo incluye una fase, no la campaña completa.",
+          "requirements": [
+            "Navegador actualizado con JavaScript y WebGL/WebAssembly. Controles y rendimiento dependen del proyecto y dispositivo."
+          ],
+          "installation": [
+            "Abre la página del autor y espera a que cargue la demo."
+          ],
+          "limitations": "Documentación revisada; jugabilidad no probada por el catálogo. Consulta móvil, controles y guardado en la página del autor."
+        }
+      },
+      "browser": {
+        "url": "https://xproger.github.io/OpenLara/",
+        "access": "demo",
+        "verification": "documentation",
+        "checkedAt": "2026-10-16T22:24:22.040586+00:00",
+        "pageCheckedAt": "2026-10-16T22:27:47.014405+00:00",
+        "pageCheck": "landing-page",
+        "health": {
+          "status": "reachable",
+          "checkedAt": "2026-10-18T14:46:50.296791+00:00",
+          "method": "http-html",
+          "reason": null
+        }
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/en/6/69/Tomb_Raider_%281996%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "kind": "reference",
+        "source": "https://en.wikipedia.org/wiki/Tomb_Raider_(1996_video_game)"
+      }
+    },
+    {
+      "id": "web-diabloweb",
+      "editionId": "web-diabloweb",
+      "game": "Diablo",
+      "name": "DiabloWeb",
+      "type": "port",
+      "approach": "source-port",
+      "playability": "nao-verificado",
+      "developmentStage": "desconhecido",
+      "github": "https://github.com/d07RiV/diabloweb",
+      "instructionsUrl": "https://github.com/d07RiV/diabloweb/blob/c61ef19c54ea646aed328bd8cc82c8a5f1ebd81d/README.md",
+      "reviewedAt": "2026-10-16",
+      "reviewedVersion": "c61ef19c54ea646aed328bd8cc82c8a5f1ebd81d",
+      "evidenceUrl": "https://github.com/d07RiV/diabloweb/blob/c61ef19c54ea646aed328bd8cc82c8a5f1ebd81d/README.md",
+      "reviewMethod": "documentation",
+      "origins": [
+        "PC"
+      ],
+      "targets": [
+        "Web"
+      ],
+      "stars": 2891,
+      "starsCollectedAt": "2026-10-18T14:46:47.425012+00:00",
+      "content": {
+        "pt": {
+          "summary": "Diablo no navegador, com opção shareware e uso dos seus dados do jogo completo.",
+          "originalFiles": "O jogo completo exige seu DIABDAT.MPQ de uma cópia original. A opção shareware tem conteúdo limitado.",
+          "requirements": [
+            "Navegador atualizado com JavaScript e WebGL/WebAssembly. Controles e desempenho dependem do projeto e do dispositivo."
+          ],
+          "installation": [
+            "Use a opção shareware ou selecione seu DIABDAT.MPQ seguindo a página do projeto."
+          ],
+          "limitations": "Documentação conferida; jogabilidade não testada pelo catálogo. Verifique suporte a celular, controles e salvamento na página do autor."
+        },
+        "en": {
+          "summary": "Diablo in the browser, with shareware support and your own full-game data.",
+          "originalFiles": "The full game requires DIABDAT.MPQ from your original copy. Shareware has limited content.",
+          "requirements": [
+            "Updated browser with JavaScript and WebGL/WebAssembly. Controls and performance depend on the project and device."
+          ],
+          "installation": [
+            "Use the shareware option or select your DIABDAT.MPQ following the project page."
+          ],
+          "limitations": "Documentation reviewed; gameplay not tested by the catalog. Check mobile support, controls and saving on the author’s page."
+        },
+        "es": {
+          "summary": "Diablo en el navegador, con shareware y tus datos del juego completo.",
+          "originalFiles": "El juego completo exige DIABDAT.MPQ de tu copia original. El shareware tiene contenido limitado.",
+          "requirements": [
+            "Navegador actualizado con JavaScript y WebGL/WebAssembly. Controles y rendimiento dependen del proyecto y dispositivo."
+          ],
+          "installation": [
+            "Usa el shareware o selecciona tu DIABDAT.MPQ según la página del proyecto."
+          ],
+          "limitations": "Documentación revisada; jugabilidad no probada por el catálogo. Consulta móvil, controles y guardado en la página del autor."
+        }
+      },
+      "browser": {
+        "url": "https://d07riv.github.io/diabloweb/",
+        "access": "shareware",
+        "verification": "documentation",
+        "checkedAt": "2026-10-16T22:24:22.040586+00:00",
+        "pageCheckedAt": "2026-10-16T22:27:47.014417+00:00",
+        "pageCheck": "landing-page",
+        "health": {
+          "status": "reachable",
+          "checkedAt": "2026-10-18T14:46:50.494999+00:00",
+          "method": "http-html",
+          "reason": null
+        }
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/en/3/3a/Diablo_Coverart.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "kind": "reference",
+        "source": "https://en.wikipedia.org/wiki/Diablo_(video_game)"
+      }
+    },
+    {
+      "id": "web-half-life",
+      "editionId": "web-half-life",
+      "game": "Half-Life",
+      "name": "WebXash",
+      "type": "port",
+      "approach": "source-port",
+      "playability": "nao-verificado",
+      "developmentStage": "desconhecido",
+      "github": "https://github.com/x8BitRain/webXash",
+      "instructionsUrl": "https://github.com/x8BitRain/webXash/blob/ff86609dac6f67b52a4731260dd9900e2e6fce65/README.md",
+      "reviewedAt": "2026-10-16",
+      "reviewedVersion": "ff86609dac6f67b52a4731260dd9900e2e6fce65",
+      "evidenceUrl": "https://github.com/x8BitRain/webXash/blob/ff86609dac6f67b52a4731260dd9900e2e6fce65/README.md",
+      "reviewMethod": "documentation",
+      "origins": [
+        "PC"
+      ],
+      "targets": [
+        "Web"
+      ],
+      "stars": 172,
+      "starsCollectedAt": "2026-10-18T14:46:47.425012+00:00",
+      "content": {
+        "pt": {
+          "summary": "Half-Life no navegador pelo motor Xash3D compilado para WebAssembly.",
+          "originalFiles": "Exige seus arquivos originais, incluindo a pasta valve.",
+          "requirements": [
+            "Navegador atualizado com JavaScript e WebGL/WebAssembly. Controles e desempenho dependem do projeto e do dispositivo."
+          ],
+          "installation": [
+            "Abra Open game folder ou Open zip e selecione os arquivos próprios conforme o README."
+          ],
+          "limitations": "Documentação conferida; jogabilidade não testada pelo catálogo. Verifique suporte a celular, controles e salvamento na página do autor."
+        },
+        "en": {
+          "summary": "Half-Life in the browser through the Xash3D WebAssembly engine.",
+          "originalFiles": "Requires your original game files, including the valve folder.",
+          "requirements": [
+            "Updated browser with JavaScript and WebGL/WebAssembly. Controls and performance depend on the project and device."
+          ],
+          "installation": [
+            "Choose Open game folder or Open zip and select your own files as described in the README."
+          ],
+          "limitations": "Documentation reviewed; gameplay not tested by the catalog. Check mobile support, controls and saving on the author’s page."
+        },
+        "es": {
+          "summary": "Half-Life en el navegador mediante Xash3D y WebAssembly.",
+          "originalFiles": "Exige tus archivos originales, incluida la carpeta valve.",
+          "requirements": [
+            "Navegador actualizado con JavaScript y WebGL/WebAssembly. Controles y rendimiento dependen del proyecto y dispositivo."
+          ],
+          "installation": [
+            "Usa Open game folder u Open zip y selecciona tus archivos según el README."
+          ],
+          "limitations": "Documentación revisada; jugabilidad no probada por el catálogo. Consulta móvil, controles y guardado en la página del autor."
+        }
+      },
+      "browser": {
+        "url": "https://x8bitrain.github.io/webXash/",
+        "access": "own-files",
+        "verification": "documentation",
+        "checkedAt": "2026-10-16T22:24:22.040586+00:00",
+        "pageCheckedAt": "2026-10-16T22:27:47.014422+00:00",
+        "pageCheck": "landing-page",
+        "health": {
+          "status": "reachable",
+          "checkedAt": "2026-10-18T14:46:50.648286+00:00",
+          "method": "http-html",
+          "reason": null
+        }
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/en/f/fa/Half-Life_Cover_Art.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "kind": "reference",
+        "source": "https://en.wikipedia.org/wiki/Half-Life_(video_game)"
+      }
+    },
+    {
+      "id": "web-counter-strike",
+      "editionId": "web-counter-strike",
+      "game": "Counter-Strike 1.6",
+      "name": "WebXash",
+      "type": "port",
+      "approach": "source-port",
+      "playability": "nao-verificado",
+      "developmentStage": "desconhecido",
+      "github": "https://github.com/x8BitRain/webXash",
+      "instructionsUrl": "https://github.com/x8BitRain/webXash/blob/ff86609dac6f67b52a4731260dd9900e2e6fce65/README.md",
+      "reviewedAt": "2026-10-16",
+      "reviewedVersion": "ff86609dac6f67b52a4731260dd9900e2e6fce65",
+      "evidenceUrl": "https://github.com/x8BitRain/webXash/blob/ff86609dac6f67b52a4731260dd9900e2e6fce65/README.md",
+      "reviewMethod": "documentation",
+      "origins": [
+        "PC"
+      ],
+      "targets": [
+        "Web"
+      ],
+      "stars": 172,
+      "starsCollectedAt": "2026-10-18T14:46:47.425012+00:00",
+      "content": {
+        "pt": {
+          "summary": "Counter-Strike 1.6 no navegador usando WebXash e arquivos da sua instalação.",
+          "originalFiles": "Exige as pastas valve e cstrike da sua cópia, conforme o guia.",
+          "requirements": [
+            "Navegador atualizado com JavaScript e WebGL/WebAssembly. Controles e desempenho dependem do projeto e do dispositivo."
+          ],
+          "installation": [
+            "Selecione a pasta raiz com valve/cstrike ou um ZIP na estrutura indicada pelo autor."
+          ],
+          "limitations": "Documentação conferida; jogabilidade não testada pelo catálogo. Verifique suporte a celular, controles e salvamento na página do autor."
+        },
+        "en": {
+          "summary": "Counter-Strike 1.6 in the browser using WebXash and your installation files.",
+          "originalFiles": "Requires valve and cstrike folders from your copy, following the guide.",
+          "requirements": [
+            "Updated browser with JavaScript and WebGL/WebAssembly. Controls and performance depend on the project and device."
+          ],
+          "installation": [
+            "Select the root folder containing valve/cstrike or a ZIP using the author’s layout."
+          ],
+          "limitations": "Documentation reviewed; gameplay not tested by the catalog. Check mobile support, controls and saving on the author’s page."
+        },
+        "es": {
+          "summary": "Counter-Strike 1.6 en el navegador con WebXash y archivos de tu instalación.",
+          "originalFiles": "Exige las carpetas valve y cstrike de tu copia, según la guía.",
+          "requirements": [
+            "Navegador actualizado con JavaScript y WebGL/WebAssembly. Controles y rendimiento dependen del proyecto y dispositivo."
+          ],
+          "installation": [
+            "Selecciona la carpeta raíz con valve/cstrike o un ZIP con la estructura indicada por el autor."
+          ],
+          "limitations": "Documentación revisada; jugabilidad no probada por el catálogo. Consulta móvil, controles y guardado en la página del autor."
+        }
+      },
+      "browser": {
+        "url": "https://x8bitrain.github.io/webXash/",
+        "access": "own-files",
+        "verification": "documentation",
+        "checkedAt": "2026-10-16T22:24:22.040586+00:00",
+        "pageCheckedAt": "2026-10-16T22:27:47.014424+00:00",
+        "pageCheck": "landing-page",
+        "health": {
+          "status": "reachable",
+          "checkedAt": "2026-10-18T14:46:50.789763+00:00",
+          "method": "http-html",
+          "reason": null
+        }
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/en/6/67/Counter-Strike_Box.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "kind": "reference",
+        "source": "https://en.wikipedia.org/wiki/Counter-Strike_(video_game)"
+      }
+    },
+    {
+      "id": "web-quake",
+      "editionId": "web-quake",
+      "game": "Quake",
+      "name": "Qwasm",
+      "type": "port",
+      "approach": "source-port",
+      "playability": "nao-verificado",
+      "developmentStage": "desconhecido",
+      "github": "https://github.com/GMH-Code/Qwasm",
+      "instructionsUrl": "https://github.com/GMH-Code/Qwasm/blob/f56b5e71e4be8effede29bae1785a5306dcc0249/README.md",
+      "reviewedAt": "2026-10-16",
+      "reviewedVersion": "f56b5e71e4be8effede29bae1785a5306dcc0249",
+      "evidenceUrl": "https://github.com/GMH-Code/Qwasm/blob/f56b5e71e4be8effede29bae1785a5306dcc0249/README.md",
+      "reviewMethod": "documentation",
+      "origins": [
+        "PC"
+      ],
+      "targets": [
+        "Web"
+      ],
+      "stars": 58,
+      "starsCollectedAt": "2026-10-18T14:46:47.425012+00:00",
+      "content": {
+        "pt": {
+          "summary": "Motor de Quake no navegador, com opção livre com bots e suporte aos seus arquivos PAK.",
+          "originalFiles": "A página oferece shareware (primeiro episódio) e LibreQuake; o jogo completo exige seu PAK1.PAK.",
+          "requirements": [
+            "Navegador atualizado com JavaScript e WebGL/WebAssembly. Controles e desempenho dependem do projeto e do dispositivo."
+          ],
+          "installation": [
+            "Abra o projeto e siga a seleção dos seus PAKs ou a opção livre disponibilizada pelo autor."
+          ],
+          "limitations": "Documentação conferida; jogabilidade não testada pelo catálogo. Verifique suporte a celular, controles e salvamento na página do autor."
+        },
+        "en": {
+          "summary": "Quake engine in the browser, with a free bot option and support for your PAK files.",
+          "originalFiles": "The page offers shareware (first episode) and LibreQuake; the full game requires your PAK1.PAK.",
+          "requirements": [
+            "Updated browser with JavaScript and WebGL/WebAssembly. Controls and performance depend on the project and device."
+          ],
+          "installation": [
+            "Open the project and follow its PAK selection or the author’s free option."
+          ],
+          "limitations": "Documentation reviewed; gameplay not tested by the catalog. Check mobile support, controls and saving on the author’s page."
+        },
+        "es": {
+          "summary": "Motor de Quake en el navegador, con opción libre con bots y tus archivos PAK.",
+          "originalFiles": "La página ofrece shareware (primer episodio) y LibreQuake; el juego completo exige tu PAK1.PAK.",
+          "requirements": [
+            "Navegador actualizado con JavaScript y WebGL/WebAssembly. Controles y rendimiento dependen del proyecto y dispositivo."
+          ],
+          "installation": [
+            "Abre el proyecto y sigue la selección de PAK o la opción libre del autor."
+          ],
+          "limitations": "Documentación revisada; jugabilidad no probada por el catálogo. Consulta móvil, controles y guardado en la página del autor."
+        }
+      },
+      "browser": {
+        "url": "https://qwasm.m-h.org.uk/",
+        "access": "shareware",
+        "verification": "documentation",
+        "checkedAt": "2026-10-16T22:24:22.040586+00:00",
+        "pageCheckedAt": "2026-10-16T22:27:47.014425+00:00",
+        "pageCheck": "landing-page",
+        "health": {
+          "status": "reachable",
+          "checkedAt": "2026-10-18T14:46:50.903225+00:00",
+          "method": "http-html",
+          "reason": null
+        }
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/en/4/4c/Quake1cover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "kind": "reference",
+        "source": "https://en.wikipedia.org/wiki/Quake_(video_game)"
+      }
+    },
+    {
+      "id": "web-freeciv",
+      "editionId": "web-freeciv",
+      "game": "Freeciv-web",
+      "name": "Freeciv-web",
+      "type": "port",
+      "approach": "source-port",
+      "playability": "nao-verificado",
+      "developmentStage": "desconhecido",
+      "github": "https://github.com/freeciv/freeciv-web",
+      "instructionsUrl": "https://github.com/freeciv/freeciv-web/blob/c19ce060fadc99663f8aba3652ca94b07174467c/README.md",
+      "reviewedAt": "2026-10-16",
+      "reviewedVersion": "c19ce060fadc99663f8aba3652ca94b07174467c",
+      "evidenceUrl": "https://github.com/freeciv/freeciv-web/blob/c19ce060fadc99663f8aba3652ca94b07174467c/README.md",
+      "reviewMethod": "documentation",
+      "origins": [
+        "PC"
+      ],
+      "targets": [
+        "Web"
+      ],
+      "stars": 2211,
+      "starsCollectedAt": "2026-10-18T14:46:47.425012+00:00",
+      "content": {
+        "pt": {
+          "summary": "Estratégia por turnos gratuita para navegador, com partidas individuais e multiplayer.",
+          "originalFiles": "Não exige arquivos de um jogo comercial. Os servidores disponíveis estão listados pelo projeto.",
+          "requirements": [
+            "Navegador atualizado com JavaScript e WebGL/WebAssembly. Controles e desempenho dependem do projeto e do dispositivo."
+          ],
+          "installation": [
+            "Abra o servidor indicado pelo projeto e escolha uma modalidade de partida."
+          ],
+          "limitations": "Documentação conferida; jogabilidade não testada pelo catálogo. Verifique suporte a celular, controles e salvamento na página do autor."
+        },
+        "en": {
+          "summary": "Free turn-based browser strategy with single-player and multiplayer modes.",
+          "originalFiles": "No commercial game files required. Available servers are listed by the project.",
+          "requirements": [
+            "Updated browser with JavaScript and WebGL/WebAssembly. Controls and performance depend on the project and device."
+          ],
+          "installation": [
+            "Open a server listed by the project and choose a game mode."
+          ],
+          "limitations": "Documentation reviewed; gameplay not tested by the catalog. Check mobile support, controls and saving on the author’s page."
+        },
+        "es": {
+          "summary": "Estrategia por turnos gratuita en el navegador, individual y multijugador.",
+          "originalFiles": "No exige archivos de un juego comercial. El proyecto enumera los servidores disponibles.",
+          "requirements": [
+            "Navegador actualizado con JavaScript y WebGL/WebAssembly. Controles y rendimiento dependen del proyecto y dispositivo."
+          ],
+          "installation": [
+            "Abre un servidor indicado por el proyecto y elige una modalidad de partida."
+          ],
+          "limitations": "Documentación revisada; jugabilidad no probada por el catálogo. Consulta móvil, controles y guardado en la página del autor."
+        }
+      },
+      "browser": {
+        "url": "https://www.freecivweb.com/",
+        "access": "free",
+        "verification": "documentation",
+        "checkedAt": "2026-10-16T22:24:22.040586+00:00",
+        "pageCheckedAt": "2026-10-16T22:27:47.014429+00:00",
+        "pageCheck": "landing-page",
+        "health": {
+          "status": "reachable",
+          "checkedAt": "2026-10-18T14:46:51.365770+00:00",
+          "method": "http-html",
+          "reason": null
+        }
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Freeciv_Web_Logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "kind": "reference",
+        "source": "https://en.wikipedia.org/wiki/Freeciv"
+      }
+    },
+    {
+      "id": "web-diablo-johnimril",
+      "editionId": "web-diabloweb",
+      "game": "Diablo",
+      "name": "Diablo Web · JohnImril",
+      "type": "port",
+      "approach": "source-port",
+      "playability": "nao-verificado",
+      "developmentStage": "desconhecido",
+      "github": "https://github.com/JohnImril/diablo_web",
+      "instructionsUrl": "https://github.com/JohnImril/diablo_web/blob/8e9775f6fef73d0b7f0a5c7fa09a1301e7f21ab3/README.md",
+      "reviewedAt": "2026-10-16",
+      "reviewedVersion": "8e9775f6fef73d0b7f0a5c7fa09a1301e7f21ab3",
+      "evidenceUrl": "https://github.com/JohnImril/diablo_web/blob/8e9775f6fef73d0b7f0a5c7fa09a1301e7f21ab3/README.md",
+      "reviewMethod": "documentation",
+      "origins": [
+        "PC"
+      ],
+      "targets": [
+        "Web"
+      ],
+      "stars": 62,
+      "starsCollectedAt": "2026-10-18T14:46:47.425012+00:00",
+      "content": {
+        "pt": {
+          "summary": "Cliente moderno de Diablo com demo shareware, importação do seu MPQ e gerenciamento local de saves.",
+          "originalFiles": "O jogo completo exige seu DIABDAT.MPQ de uma cópia original. A opção shareware tem conteúdo limitado.",
+          "requirements": [
+            "Navegador atualizado com JavaScript e WebGL/WebAssembly. Controles e desempenho dependem do projeto e do dispositivo."
+          ],
+          "installation": [
+            "Use a opção shareware ou selecione seu DIABDAT.MPQ seguindo a página do projeto."
+          ],
+          "limitations": "Multiplayer experimental; controles móveis ainda em melhoria. Licença geral do cliente não esclarecida pelo repositório. Jogabilidade não testada pelo catálogo."
+        },
+        "en": {
+          "summary": "Modern Diablo client with a shareware demo, your own MPQ import and local save management.",
+          "originalFiles": "The full game requires DIABDAT.MPQ from your original copy. Shareware has limited content.",
+          "requirements": [
+            "Updated browser with JavaScript and WebGL/WebAssembly. Controls and performance depend on the project and device."
+          ],
+          "installation": [
+            "Use the shareware option or select your DIABDAT.MPQ following the project page."
+          ],
+          "limitations": "Experimental multiplayer; mobile controls still need work. The repository does not clarify an overall client license. Gameplay not tested by the catalog."
+        },
+        "es": {
+          "summary": "Cliente moderno de Diablo con demo shareware, importación de tu MPQ y gestión local de partidas.",
+          "originalFiles": "El juego completo exige DIABDAT.MPQ de tu copia original. El shareware tiene contenido limitado.",
+          "requirements": [
+            "Navegador actualizado con JavaScript y WebGL/WebAssembly. Controles y rendimiento dependen del proyecto y dispositivo."
+          ],
+          "installation": [
+            "Usa el shareware o selecciona tu DIABDAT.MPQ según la página del proyecto."
+          ],
+          "limitations": "Multijugador experimental; controles móviles aún en desarrollo. El repositorio no aclara una licencia general del cliente. Jugabilidad no probada por el catálogo."
+        }
+      },
+      "browser": {
+        "url": "https://johnimril.github.io/diablo_web/",
+        "access": "shareware",
+        "verification": "documentation",
+        "checkedAt": "2026-10-16T22:42:24.460395+00:00",
+        "pageCheckedAt": "2026-10-16T22:42:24.460395+00:00",
+        "pageCheck": "landing-page",
+        "health": {
+          "status": "reachable",
+          "checkedAt": "2026-10-18T14:46:52.172243+00:00",
+          "method": "http-html",
+          "reason": null
+        }
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/en/3/3a/Diablo_Coverart.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "kind": "reference",
+        "source": "https://en.wikipedia.org/wiki/Diablo_(video_game)"
+      }
+    },
+    {
+      "id": "web-halo-hcemobile",
+      "editionId": "web-halo-ce",
+      "game": "Halo: Combat Evolved",
+      "name": "HCEMobile · base OpenCE",
+      "type": "port",
+      "approach": "engine-reimplementation",
+      "playability": "nao-verificado",
+      "developmentStage": "desconhecido",
+      "github": "https://github.com/OpenCommunityEdition/OpenCE",
+      "instructionsUrl": "https://github.com/OpenCommunityEdition/OpenCE/blob/25697bbaa1b2135807807c0b749891fb636f52ae/port/web/README.md",
+      "reviewedAt": "2026-10-16",
+      "reviewedVersion": "25697bbaa1b2135807807c0b749891fb636f52ae",
+      "evidenceUrl": "https://github.com/OpenCommunityEdition/OpenCE/blob/25697bbaa1b2135807807c0b749891fb636f52ae/README.md",
+      "reviewMethod": "documentation",
+      "origins": [
+        "Xbox"
+      ],
+      "targets": [
+        "Web"
+      ],
+      "stars": 1662,
+      "starsCollectedAt": "2026-10-18T14:46:47.425012+00:00",
+      "content": {
+        "pt": {
+          "summary": "Adaptação de Halo de Xbox para navegador, com tela de importação da sua imagem de disco. O site cita o motor OpenCE.",
+          "originalFiles": "Exige sua imagem original de Halo: Combat Evolved de Xbox (.iso ou .xiso) compatível e verificada. Nada foi importado pelo catálogo.",
+          "requirements": [
+            "Navegador com WebAssembly, WebGL 2 e memória/armazenamento suficientes.",
+            "A página informa até 1,8 GB para os mapas; confira a compatibilidade do seu aparelho no guia."
+          ],
+          "installation": [
+            "Escolha Continue in the browser. Instalar o aplicativo é opcional.",
+            "Em Choose disc image, forneça sua própria imagem do jogo.",
+            "Siga os testes de compatibilidade e controles do site."
+          ],
+          "limitations": "Página de configuração e fontes do motor conferidas; campanha, multiplayer e controles móveis não testados pelo catálogo. A versão hospedada pode diferir do commit do motor. Conta do serviço é exigida para partidas online, conforme a página."
+        },
+        "en": {
+          "summary": "Browser adaptation of Xbox Halo with a disc-image import screen. The site credits the OpenCE engine.",
+          "originalFiles": "Requires your own compatible, verified Xbox Halo: Combat Evolved disc image (.iso or .xiso). The catalog imported nothing.",
+          "requirements": [
+            "Browser with WebAssembly, WebGL 2 and sufficient memory/storage.",
+            "The page lists up to 1.8 GB for maps; check your device compatibility in its guide."
+          ],
+          "installation": [
+            "Choose Continue in the browser. App installation is optional.",
+            "Use Choose disc image to provide your own game image.",
+            "Follow the site’s compatibility and control checks."
+          ],
+          "limitations": "Setup page and engine sources checked; campaign, multiplayer and mobile controls not tested by the catalog. The hosted build may differ from the engine commit. Online play requires a service account according to the page."
+        },
+        "es": {
+          "summary": "Adaptación de Halo de Xbox al navegador, con importación de tu imagen de disco. El sitio cita el motor OpenCE.",
+          "originalFiles": "Exige tu imagen original compatible y verificada de Halo: Combat Evolved de Xbox (.iso o .xiso). El catálogo no importó archivos.",
+          "requirements": [
+            "Navegador con WebAssembly, WebGL 2 y memoria/almacenamiento suficientes.",
+            "La página indica hasta 1,8 GB para mapas; consulta compatibilidad del dispositivo en la guía."
+          ],
+          "installation": [
+            "Elige Continue in the browser. Instalar la app es opcional.",
+            "En Choose disc image, proporciona tu imagen del juego.",
+            "Sigue las comprobaciones de compatibilidad y controles del sitio."
+          ],
+          "limitations": "Página de configuración y fuentes del motor revisadas; campaña, multijugador y controles móviles no probados por el catálogo. La versión alojada puede diferir del commit del motor. Jugar online requiere una cuenta del servicio según la página."
+        }
+      },
+      "browser": {
+        "url": "https://hcemobile.com/",
+        "access": "own-files",
+        "verification": "documentation",
+        "checkedAt": "2026-10-16T22:42:24.460395+00:00",
+        "pageCheckedAt": "2026-10-16T22:42:24.460395+00:00",
+        "pageCheck": "landing-page",
+        "health": {
+          "status": "reachable",
+          "checkedAt": "2026-10-18T14:46:52.302638+00:00",
+          "method": "http-html",
+          "reason": null
+        }
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/en/8/80/Halo_-_Combat_Evolved_%28XBox_version_-_box_art%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "kind": "reference",
+        "source": "https://en.wikipedia.org/wiki/Halo%3A_Combat_Evolved"
+      }
+    },
+    {
+      "id": "web-d2-survivors",
+      "editionId": "web-d2-survivors",
+      "game": "D2 Survivors",
+      "name": "Projeto de fãs · D2 Survivors",
+      "type": "jogo-fa",
+      "approach": "web-unconfirmed",
+      "playability": "nao-verificado",
+      "developmentStage": "desconhecido",
+      "sourceKind": "website",
+      "github": null,
+      "instructionsUrl": "https://d2survivors.lol/",
+      "evidenceUrl": "https://d2survivors.lol/",
+      "reviewedAt": "2026-10-17",
+      "reviewedVersion": "c600ec5acf3db128e4de795327f05d29b1d5040139a80d3ac15812bd249281f2",
+      "reviewMethod": "documentation",
+      "origins": [
+        "PC"
+      ],
+      "targets": [
+        "Web"
+      ],
+      "stars": null,
+      "starsCollectedAt": null,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/en/d/d5/Diablo_II_Coverart.png",
+        "kind": "reference",
+        "source": "https://en.wikipedia.org/wiki/Diablo_II"
+      },
+      "browser": {
+        "url": "https://d2survivors.lol/",
+        "access": "web",
+        "verification": "documentation",
+        "checkedAt": "2026-10-17T11:35:34.661329+00:00",
+        "pageCheck": "title-screen",
+        "pageCheckedAt": "2026-10-17T11:35:34.661329+00:00",
+        "health": {
+          "status": "reachable",
+          "checkedAt": "2026-10-18T14:46:52.482577+00:00",
+          "method": "http-html",
+          "reason": null
+        }
+      },
+      "content": {
+        "pt": {
+          "summary": "Projeto de fãs inspirado em Diablo II, com proposta de sobrevivência e execução pelo navegador. Não é um port do jogo original completo.",
+          "originalFiles": "A tela inicial não solicitou arquivos originais. Requisitos completos e origem/licença dos recursos não foram confirmados.",
+          "requirements": [
+            "Navegador atualizado com JavaScript.",
+            "Compatibilidade móvel, desempenho e controles ainda não verificados."
+          ],
+          "installation": [
+            "Abra o site do projeto pelo botão Jogar no navegador.",
+            "Siga as opções e instruções exibidas pelo próprio jogo."
+          ],
+          "limitations": "Tela inicial carregada; nenhuma partida testada. O site declara não ter vínculo ou aprovação da Blizzard. Repositório, versão numerada e licença não confirmados. A revisão registra um hash SHA-256 do HTML consultado, não um commit do jogo."
+        },
+        "en": {
+          "summary": "A Diablo II-inspired fan project with a survival concept, running in a browser. This is not a port of the complete original game.",
+          "originalFiles": "The title screen did not request original files. Full requirements and asset origins/licensing were not confirmed.",
+          "requirements": [
+            "An up-to-date browser with JavaScript.",
+            "Mobile compatibility, performance and controls have not been verified."
+          ],
+          "installation": [
+            "Open the project site using Play in browser.",
+            "Follow the options and instructions shown by the game."
+          ],
+          "limitations": "Title screen loaded; no gameplay tested. The site states it is not affiliated with or endorsed by Blizzard. Repository, numbered version and license not confirmed. The review records a SHA-256 hash of the consulted HTML, not a game commit."
+        },
+        "es": {
+          "summary": "Proyecto de fans inspirado en Diablo II, con propuesta de supervivencia y ejecución en navegador. No es un port del juego original completo.",
+          "originalFiles": "La pantalla inicial no solicitó archivos originales. No se confirmaron los requisitos completos ni el origen o licencia de los recursos.",
+          "requirements": [
+            "Navegador actualizado con JavaScript.",
+            "Compatibilidad móvil, rendimiento y controles aún no verificados."
+          ],
+          "installation": [
+            "Abre el sitio del proyecto con Jugar en el navegador.",
+            "Sigue las opciones e instrucciones del propio juego."
+          ],
+          "limitations": "Pantalla inicial cargada; no se probó una partida. El sitio declara no estar afiliado ni respaldado por Blizzard. Repositorio, versión numerada y licencia no confirmados. La revisión registra un hash SHA-256 del HTML consultado, no un commit del juego."
+        }
+      }
+    },
+    {
+      "id": "web-nfs-underground-2",
+      "editionId": "web-nfs-underground-2",
+      "game": "Need for Speed: Underground 2",
+      "name": "NFS Underground 2 Web Online · gfernandezcano25",
+      "type": "port",
+      "approach": "web-unconfirmed",
+      "playability": "nao-verificado",
+      "developmentStage": "experimental",
+      "sourceKind": "website",
+      "github": null,
+      "instructionsUrl": "https://nfsunderground2.site/",
+      "evidenceUrl": "https://nfsunderground2.site/",
+      "discoveredVia": "https://ported2browser.com/ports/01M52FZSRNZZ4GTNF764YGZSN5&pt",
+      "reviewedAt": "2026-10-18",
+      "reviewedVersion": "96098de18d37d0c3ae943715edb5957fcca0335e1eb7b897ad7cbf13e2474b04",
+      "reviewMethod": "documentation",
+      "origins": [
+        "PS2"
+      ],
+      "targets": [
+        "Web"
+      ],
+      "stars": null,
+      "starsCollectedAt": null,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/en/1/10/Nfsu2-win-cover.jpg",
+        "kind": "reference",
+        "source": "https://en.wikipedia.org/wiki/Need_for_Speed%3A_Underground_2"
+      },
+      "browser": {
+        "url": "https://nfsunderground2.site/",
+        "access": "web",
+        "verification": "documentation",
+        "checkedAt": "2026-10-18T11:43:26.835069+00:00",
+        "pageCheck": "landing-page",
+        "pageCheckedAt": "2026-10-18T11:43:26.835069+00:00",
+        "health": {
+          "status": "reachable",
+          "checkedAt": "2026-10-18T14:46:52.897796+00:00",
+          "method": "http-html",
+          "reason": null
+        }
+      },
+      "content": {
+        "pt": {
+          "summary": "Adaptação experimental de Need for Speed: Underground 2 para navegador. A página anuncia corridas solo e online, com teclado, controle e toque.",
+          "originalFiles": "A página inicial não solicitou arquivos originais. Os requisitos posteriores ao carregamento do motor não foram confirmados.",
+          "requirements": [
+            "Navegador atualizado com JavaScript e suporte a WebAssembly e WebGPU, conforme informado pelo projeto.",
+            "Desempenho varia conforme o computador; o autor recomenda começar em resolução 1x."
+          ],
+          "installation": [
+            "Abra o link direto pelo botão Jogar no navegador.",
+            "Aguarde o carregamento do motor e siga as opções do jogo.",
+            "Se encontrar erros, relate sua experiência na comunidade desta ficha."
+          ],
+          "limitations": "Página inicial e opções abertas; nenhuma corrida testada pelo Bora de Play. O autor informa problemas de desempenho e modo online experimental. A página menciona o motor PS2 Web Recomp; essa descrição técnica não foi auditada. O hash identifica o HTML consultado, não uma versão do jogo. Link encontrado no Ported2Browser e conferido no destino."
+        },
+        "en": {
+          "summary": "An experimental browser adaptation of Need for Speed: Underground 2. The page advertises solo and online racing with keyboard, gamepad and touch controls.",
+          "originalFiles": "The landing page did not request original files. Requirements after engine loading have not been confirmed.",
+          "requirements": [
+            "An up-to-date browser with JavaScript, WebAssembly and WebGPU support, as stated by the project.",
+            "Performance varies by computer; the author recommends starting at 1x resolution."
+          ],
+          "installation": [
+            "Open the direct link using Play in browser.",
+            "Wait for the engine to load and follow the game options.",
+            "Report errors and your experience in this entry’s community section."
+          ],
+          "limitations": "Landing page and options opened; Bora de Play has not tested a race. The author reports performance issues and experimental online play. The page mentions PS2 Web Recomp; this technical claim has not been audited. The hash identifies the consulted HTML, not a game version. Discovered through Ported2Browser and checked at the destination."
+        },
+        "es": {
+          "summary": "Adaptación experimental de Need for Speed: Underground 2 para navegador. La página anuncia carreras individuales y en línea con teclado, mando y controles táctiles.",
+          "originalFiles": "La página inicial no solicitó archivos originales. No se confirmaron los requisitos posteriores a la carga del motor.",
+          "requirements": [
+            "Navegador actualizado con JavaScript y soporte de WebAssembly y WebGPU, según el proyecto.",
+            "El rendimiento varía según el equipo; el autor recomienda empezar con resolución 1x."
+          ],
+          "installation": [
+            "Abre el enlace directo con Jugar en el navegador.",
+            "Espera a que cargue el motor y sigue las opciones del juego.",
+            "Comunica errores y tu experiencia en la comunidad de esta ficha."
+          ],
+          "limitations": "Página inicial y opciones abiertas; Bora de Play no ha probado una carrera. El autor informa problemas de rendimiento y modo en línea experimental. La página menciona PS2 Web Recomp; esta descripción técnica no fue auditada. El hash identifica el HTML consultado, no una versión del juego. Encontrado en Ported2Browser y comprobado en el destino."
+        }
+      }
+    },
+    {
+      "id": "web-inx-173356d8ec5d0a",
+      "editionId": "web-inx-173356d8ec5d0a",
+      "game": "LEGO Island",
+      "name": "LEGO Island · Web",
+      "type": "port",
+      "approach": "web-unconfirmed",
+      "playability": "nao-verificado",
+      "developmentStage": "desconhecido",
+      "sourceKind": "website",
+      "github": null,
+      "instructionsUrl": "https://isle.pizza/",
+      "evidenceUrl": "https://isle.pizza/",
+      "discoveredVia": "https://www.inxanitylabs.com/games/lego-island",
+      "reviewedAt": "2026-10-18",
+      "reviewedVersion": "717ffb14180eac4c8d17b9e2d1762eb1f3b52ef2fc0282bb81e417b88954c384",
+      "reviewMethod": "documentation",
+      "origins": [
+        "Outro"
+      ],
+      "targets": [
+        "Web"
+      ],
+      "stars": null,
+      "starsCollectedAt": null,
+      "image": {
+        "url": "https://www.inxanitylabs.com/assets/games/lego-island.webp",
+        "kind": "reference",
+        "source": "https://www.inxanitylabs.com/games/lego-island",
+        "provider": "inxanity-declared-cover-v1",
+        "subject": "LEGO Island"
+      },
+      "browser": {
+        "url": "https://isle.pizza/",
+        "access": "web",
+        "verification": "documentation",
+        "checkedAt": "2026-10-18T12:13:35.387153+00:00",
+        "pageCheck": "http-html",
+        "health": {
+          "status": "reachable",
+          "checkedAt": "2026-10-18T14:46:53.516636+00:00",
+          "method": "http-html",
+          "reason": null
+        }
+      },
+      "content": {
+        "pt": {
+          "summary": "Explore a ilha de LEGO de 1997, monte veículos e faça entregas de pizza nesta adaptação para navegador.",
+          "originalFiles": "Não verificado. Confira na página do jogo se são necessários arquivos próprios.",
+          "requirements": [
+            "Navegador atualizado; confira tecnologias, controles e requisitos no destino."
+          ],
+          "installation": [
+            "Abra o link direto pelo botão Jogar no navegador.",
+            "Siga as instruções da página do jogo.",
+            "Compartilhe erros e sua experiência na comunidade desta ficha."
+          ],
+          "limitations": "Abertura de página não comprova funcionamento de uma partida. Campanha, controles, desempenho e tecnologia não testados pelo Bora de Play. O hash identifica o HTML consultado. Os avisos de desenvolvimento da fonte foram preservados."
+        },
+        "en": {
+          "summary": "Explore 1997’s LEGO Island, build vehicles and deliver pizzas in this browser adaptation.",
+          "originalFiles": "Not verified. Check the game page for any required files you must supply.",
+          "requirements": [
+            "An up-to-date browser; check technologies, controls and requirements at the destination."
+          ],
+          "installation": [
+            "Open the direct link using Play in browser.",
+            "Follow the instructions on the game page.",
+            "Share errors and your experience in this entry’s community section."
+          ],
+          "limitations": "Opening a page does not prove gameplay works. Campaign, controls, performance and technology have not been tested by Bora de Play. The hash identifies the consulted HTML. Development notices from the source were preserved."
+        },
+        "es": {
+          "summary": "Explora LEGO Island de 1997, construye vehículos y reparte pizzas en esta adaptación para navegador.",
+          "originalFiles": "No verificado. Consulta si la página del juego requiere tus propios archivos.",
+          "requirements": [
+            "Navegador actualizado; consulta tecnologías, controles y requisitos en el destino."
+          ],
+          "installation": [
+            "Abre el enlace directo con Jugar en el navegador.",
+            "Sigue las instrucciones de la página del juego.",
+            "Comparte errores y tu experiencia en la comunidad de esta ficha."
+          ],
+          "limitations": "Abrir una página no demuestra que una partida funcione. Bora de Play no ha probado campaña, controles, rendimiento ni tecnología. El hash identifica el HTML consultado. Se conservaron los avisos de desarrollo de la fuente."
+        }
+      }
+    },
+    {
+      "id": "web-inx-b11934a8276d08",
+      "editionId": "web-inx-b11934a8276d08",
+      "game": "Dragon Ball Z: Budokai Tenkaichi 3",
+      "name": "Dragon Ball Z: Budokai Tenkaichi 3 · Web",
+      "type": "port",
+      "approach": "web-unconfirmed",
+      "playability": "nao-verificado",
+      "developmentStage": "desconhecido",
+      "sourceKind": "website",
+      "github": null,
+      "instructionsUrl": "https://dragonballbt3.online/",
+      "evidenceUrl": "https://dragonballbt3.online/",
+      "discoveredVia": "https://www.inxanitylabs.com/games/dragon-ball-bt3",
+      "reviewedAt": "2026-10-18",
+      "reviewedVersion": "c973eb90a02d24c23b35bc400b379d55b54f3743fa98987d228c247f1bfcd842",
+      "reviewMethod": "documentation",
+      "origins": [
+        "PS2"
+      ],
+      "targets": [
+        "Web"
+      ],
+      "stars": null,
+      "starsCollectedAt": null,
+      "image": {
+        "url": "https://www.inxanitylabs.com/assets/games/dragon-ball-bt3.webp",
+        "kind": "reference",
+        "source": "https://www.inxanitylabs.com/games/dragon-ball-bt3",
+        "provider": "inxanity-declared-cover-v1",
+        "subject": "Dragon Ball Z: Budokai Tenkaichi 3"
+      },
+      "browser": {
+        "url": "https://dragonballbt3.online/",
+        "access": "web",
+        "verification": "documentation",
+        "checkedAt": "2026-10-18T12:13:36.036799+00:00",
+        "pageCheck": "http-html",
+        "health": {
+          "status": "reachable",
+          "checkedAt": "2026-10-18T14:46:53.826267+00:00",
+          "method": "http-html",
+          "reason": null
+        }
+      },
+      "content": {
+        "pt": {
+          "summary": "Os combates de Dragon Ball Z: Budokai Tenkaichi 3 do PS2 no navegador, com opções de jogo solo e duelos online.",
+          "originalFiles": "Não verificado. Confira na página do jogo se são necessários arquivos próprios.",
+          "requirements": [
+            "Navegador atualizado; confira tecnologias, controles e requisitos no destino."
+          ],
+          "installation": [
+            "Abra o link direto pelo botão Jogar no navegador.",
+            "Siga as instruções da página do jogo.",
+            "Compartilhe erros e sua experiência na comunidade desta ficha."
+          ],
+          "limitations": "Abertura de página não comprova funcionamento de uma partida. Campanha, controles, desempenho e tecnologia não testados pelo Bora de Play. O hash identifica o HTML consultado. Os avisos de desenvolvimento da fonte foram preservados."
+        },
+        "en": {
+          "summary": "Dragon Ball Z: Budokai Tenkaichi 3’s PS2 battles in a browser, with solo play and online duel options.",
+          "originalFiles": "Not verified. Check the game page for any required files you must supply.",
+          "requirements": [
+            "An up-to-date browser; check technologies, controls and requirements at the destination."
+          ],
+          "installation": [
+            "Open the direct link using Play in browser.",
+            "Follow the instructions on the game page.",
+            "Share errors and your experience in this entry’s community section."
+          ],
+          "limitations": "Opening a page does not prove gameplay works. Campaign, controls, performance and technology have not been tested by Bora de Play. The hash identifies the consulted HTML. Development notices from the source were preserved."
+        },
+        "es": {
+          "summary": "Los combates de Dragon Ball Z: Budokai Tenkaichi 3 de PS2 en navegador, con opciones individuales y duelos en línea.",
+          "originalFiles": "No verificado. Consulta si la página del juego requiere tus propios archivos.",
+          "requirements": [
+            "Navegador actualizado; consulta tecnologías, controles y requisitos en el destino."
+          ],
+          "installation": [
+            "Abre el enlace directo con Jugar en el navegador.",
+            "Sigue las instrucciones de la página del juego.",
+            "Comparte errores y tu experiencia en la comunidad de esta ficha."
+          ],
+          "limitations": "Abrir una página no demuestra que una partida funcione. Bora de Play no ha probado campaña, controles, rendimiento ni tecnología. El hash identifica el HTML consultado. Se conservaron los avisos de desarrollo de la fuente."
+        }
+      }
+    },
+    {
+      "id": "web-inx-c2c22ae5c18c45",
+      "editionId": "web-inx-c2c22ae5c18c45",
+      "game": "Counter-Strike 1.6",
+      "name": "Counter-Strike 1.6 · Web",
+      "type": "port",
+      "approach": "web-unconfirmed",
+      "playability": "nao-verificado",
+      "developmentStage": "desconhecido",
+      "sourceKind": "website",
+      "github": null,
+      "instructionsUrl": "https://combatskirmish.net/quickjoin",
+      "evidenceUrl": "https://combatskirmish.net/quickjoin",
+      "discoveredVia": "https://www.inxanitylabs.com/games/counter-strike",
+      "reviewedAt": "2026-10-18",
+      "reviewedVersion": "57daf5bbd12e8d72f15bacb4f8a6563a990b61d2167db20dab568723ca76ae89",
+      "reviewMethod": "documentation",
+      "origins": [
+        "Outro"
+      ],
+      "targets": [
+        "Web"
+      ],
+      "stars": null,
+      "starsCollectedAt": null,
+      "image": {
+        "url": "https://www.inxanitylabs.com/assets/games/counter-strike.webp",
+        "kind": "reference",
+        "source": "https://www.inxanitylabs.com/games/counter-strike",
+        "provider": "inxanity-declared-cover-v1",
+        "subject": "Counter-Strike 1.6"
+      },
+      "browser": {
+        "url": "https://combatskirmish.net/quickjoin",
+        "access": "web",
+        "verification": "documentation",
+        "checkedAt": "2026-10-18T12:13:36.723264+00:00",
+        "pageCheck": "http-html",
+        "health": {
+          "status": "reachable",
+          "checkedAt": "2026-10-18T14:46:54.229606+00:00",
+          "method": "http-html",
+          "reason": null
+        }
+      },
+      "content": {
+        "pt": {
+          "summary": "Versão de Counter-Strike 1.6 para navegador com acesso a partidas online, incluindo modos clássicos e variações da comunidade.",
+          "originalFiles": "Não verificado. Confira na página do jogo se são necessários arquivos próprios.",
+          "requirements": [
+            "Navegador atualizado; confira tecnologias, controles e requisitos no destino."
+          ],
+          "installation": [
+            "Abra o link direto pelo botão Jogar no navegador.",
+            "Siga as instruções da página do jogo.",
+            "Compartilhe erros e sua experiência na comunidade desta ficha."
+          ],
+          "limitations": "Abertura de página não comprova funcionamento de uma partida. Campanha, controles, desempenho e tecnologia não testados pelo Bora de Play. O hash identifica o HTML consultado. Os avisos de desenvolvimento da fonte foram preservados."
+        },
+        "en": {
+          "summary": "A browser version of Counter-Strike 1.6 with online matches, including classic modes and community variations.",
+          "originalFiles": "Not verified. Check the game page for any required files you must supply.",
+          "requirements": [
+            "An up-to-date browser; check technologies, controls and requirements at the destination."
+          ],
+          "installation": [
+            "Open the direct link using Play in browser.",
+            "Follow the instructions on the game page.",
+            "Share errors and your experience in this entry’s community section."
+          ],
+          "limitations": "Opening a page does not prove gameplay works. Campaign, controls, performance and technology have not been tested by Bora de Play. The hash identifies the consulted HTML. Development notices from the source were preserved."
+        },
+        "es": {
+          "summary": "Versión de Counter-Strike 1.6 para navegador con partidas en línea, modos clásicos y variantes de la comunidad.",
+          "originalFiles": "No verificado. Consulta si la página del juego requiere tus propios archivos.",
+          "requirements": [
+            "Navegador actualizado; consulta tecnologías, controles y requisitos en el destino."
+          ],
+          "installation": [
+            "Abre el enlace directo con Jugar en el navegador.",
+            "Sigue las instrucciones de la página del juego.",
+            "Comparte errores y tu experiencia en la comunidad de esta ficha."
+          ],
+          "limitations": "Abrir una página no demuestra que una partida funcione. Bora de Play no ha probado campaña, controles, rendimiento ni tecnología. El hash identifica el HTML consultado. Se conservaron los avisos de desarrollo de la fuente."
+        }
+      }
+    },
+    {
+      "id": "web-inx-dcdcedce860882",
+      "editionId": "web-inx-dcdcedce860882",
+      "game": "Pokémon Redstone",
+      "name": "Pokémon Redstone · Web",
+      "type": "port",
+      "approach": "web-unconfirmed",
+      "playability": "nao-verificado",
+      "developmentStage": "desconhecido",
+      "sourceKind": "website",
+      "github": null,
+      "instructionsUrl": "https://pokemon-redstone.pages.dev/",
+      "evidenceUrl": "https://pokemon-redstone.pages.dev/",
+      "discoveredVia": "https://www.inxanitylabs.com/games/pokemon-redstone",
+      "reviewedAt": "2026-10-18",
+      "reviewedVersion": "a7bd060e9b454c882f529c2bca3d24620fd3500dba03c3f411274ce8d013d93c",
+      "reviewMethod": "documentation",
+      "origins": [
+        "Outro"
+      ],
+      "targets": [
+        "Web"
+      ],
+      "stars": null,
+      "starsCollectedAt": null,
+      "image": {
+        "url": "https://www.inxanitylabs.com/assets/games/pokemon-redstone.webp",
+        "kind": "reference",
+        "source": "https://www.inxanitylabs.com/games/pokemon-redstone",
+        "provider": "inxanity-declared-cover-v1",
+        "subject": "Pokémon Redstone"
+      },
+      "browser": {
+        "url": "https://pokemon-redstone.pages.dev/",
+        "access": "web",
+        "verification": "documentation",
+        "checkedAt": "2026-10-18T12:13:37.027418+00:00",
+        "pageCheck": "http-html",
+        "health": {
+          "status": "reachable",
+          "checkedAt": "2026-10-18T14:46:54.865058+00:00",
+          "method": "http-html",
+          "reason": null
+        }
+      },
+      "content": {
+        "pt": {
+          "summary": "Uma aventura de fãs que mistura Pokémon e Minecraft: explore, capture criaturas e use mineração e construção para avançar.",
+          "originalFiles": "Não verificado. Confira na página do jogo se são necessários arquivos próprios.",
+          "requirements": [
+            "Navegador atualizado; confira tecnologias, controles e requisitos no destino."
+          ],
+          "installation": [
+            "Abra o link direto pelo botão Jogar no navegador.",
+            "Siga as instruções da página do jogo.",
+            "Compartilhe erros e sua experiência na comunidade desta ficha."
+          ],
+          "limitations": "Abertura de página não comprova funcionamento de uma partida. Campanha, controles, desempenho e tecnologia não testados pelo Bora de Play. O hash identifica o HTML consultado. Os avisos de desenvolvimento da fonte foram preservados."
+        },
+        "en": {
+          "summary": "A fan adventure mixing Pokémon and Minecraft: explore, catch creatures, mine and build to progress.",
+          "originalFiles": "Not verified. Check the game page for any required files you must supply.",
+          "requirements": [
+            "An up-to-date browser; check technologies, controls and requirements at the destination."
+          ],
+          "installation": [
+            "Open the direct link using Play in browser.",
+            "Follow the instructions on the game page.",
+            "Share errors and your experience in this entry’s community section."
+          ],
+          "limitations": "Opening a page does not prove gameplay works. Campaign, controls, performance and technology have not been tested by Bora de Play. The hash identifies the consulted HTML. Development notices from the source were preserved."
+        },
+        "es": {
+          "summary": "Aventura de fans que mezcla Pokémon y Minecraft: explora, captura criaturas, mina y construye para avanzar.",
+          "originalFiles": "No verificado. Consulta si la página del juego requiere tus propios archivos.",
+          "requirements": [
+            "Navegador actualizado; consulta tecnologías, controles y requisitos en el destino."
+          ],
+          "installation": [
+            "Abre el enlace directo con Jugar en el navegador.",
+            "Sigue las instrucciones de la página del juego.",
+            "Comparte errores y tu experiencia en la comunidad de esta ficha."
+          ],
+          "limitations": "Abrir una página no demuestra que una partida funcione. Bora de Play no ha probado campaña, controles, rendimiento ni tecnología. El hash identifica el HTML consultado. Se conservaron los avisos de desarrollo de la fuente."
+        }
+      }
+    },
+    {
+      "id": "web-inx-8e8ee282a49575",
+      "editionId": "web-inx-8e8ee282a49575",
+      "game": "Taipei Rush",
+      "name": "Taipei Rush · Web",
+      "type": "port",
+      "approach": "web-unconfirmed",
+      "playability": "nao-verificado",
+      "developmentStage": "desconhecido",
+      "sourceKind": "website",
+      "github": null,
+      "instructionsUrl": "https://www.taipei-rush.app/",
+      "evidenceUrl": "https://www.taipei-rush.app/",
+      "discoveredVia": "https://www.inxanitylabs.com/games/taipei-rush",
+      "reviewedAt": "2026-10-18",
+      "reviewedVersion": "24e7b3572b4fe40ef6dd1d88e10929ddf83b2232ecb566d314ef0bd6c25f6962",
+      "reviewMethod": "documentation",
+      "origins": [
+        "Outro"
+      ],
+      "targets": [
+        "Web"
+      ],
+      "stars": null,
+      "starsCollectedAt": null,
+      "image": {
+        "url": "https://www.inxanitylabs.com/assets/games/taipei-rush.webp",
+        "kind": "reference",
+        "source": "https://www.inxanitylabs.com/games/taipei-rush",
+        "provider": "inxanity-declared-cover-v1",
+        "subject": "Taipei Rush"
+      },
+      "browser": {
+        "url": "https://www.taipei-rush.app/",
+        "access": "web",
+        "verification": "documentation",
+        "checkedAt": "2026-10-18T12:13:37.637904+00:00",
+        "pageCheck": "http-html",
+        "health": {
+          "status": "reachable",
+          "checkedAt": "2026-10-18T14:46:54.986387+00:00",
+          "method": "http-html",
+          "reason": null
+        }
+      },
+      "content": {
+        "pt": {
+          "summary": "Explore uma cidade inspirada em Taipei, dirija veículos e cumpra missões nesta experiência de mundo aberto para navegador.",
+          "originalFiles": "Não verificado. Confira na página do jogo se são necessários arquivos próprios.",
+          "requirements": [
+            "Navegador atualizado; confira tecnologias, controles e requisitos no destino."
+          ],
+          "installation": [
+            "Abra o link direto pelo botão Jogar no navegador.",
+            "Siga as instruções da página do jogo.",
+            "Compartilhe erros e sua experiência na comunidade desta ficha."
+          ],
+          "limitations": "Abertura de página não comprova funcionamento de uma partida. Campanha, controles, desempenho e tecnologia não testados pelo Bora de Play. O hash identifica o HTML consultado. Os avisos de desenvolvimento da fonte foram preservados."
+        },
+        "en": {
+          "summary": "Explore a Taipei-inspired city, drive vehicles and take on missions in this open-world browser game.",
+          "originalFiles": "Not verified. Check the game page for any required files you must supply.",
+          "requirements": [
+            "An up-to-date browser; check technologies, controls and requirements at the destination."
+          ],
+          "installation": [
+            "Open the direct link using Play in browser.",
+            "Follow the instructions on the game page.",
+            "Share errors and your experience in this entry’s community section."
+          ],
+          "limitations": "Opening a page does not prove gameplay works. Campaign, controls, performance and technology have not been tested by Bora de Play. The hash identifies the consulted HTML. Development notices from the source were preserved."
+        },
+        "es": {
+          "summary": "Explora una ciudad inspirada en Taipei, conduce vehículos y completa misiones en este juego de mundo abierto para navegador.",
+          "originalFiles": "No verificado. Consulta si la página del juego requiere tus propios archivos.",
+          "requirements": [
+            "Navegador actualizado; consulta tecnologías, controles y requisitos en el destino."
+          ],
+          "installation": [
+            "Abre el enlace directo con Jugar en el navegador.",
+            "Sigue las instrucciones de la página del juego.",
+            "Comparte errores y tu experiencia en la comunidad de esta ficha."
+          ],
+          "limitations": "Abrir una página no demuestra que una partida funcione. Bora de Play no ha probado campaña, controles, rendimiento ni tecnología. El hash identifica el HTML consultado. Se conservaron los avisos de desarrollo de la fuente."
+        }
+      }
+    },
+    {
+      "id": "web-inx-28bb0c63510dfd",
+      "editionId": "web-inx-28bb0c63510dfd",
+      "game": "Redcoats",
+      "name": "Redcoats · Web",
+      "type": "port",
+      "approach": "web-unconfirmed",
+      "playability": "nao-verificado",
+      "developmentStage": "desconhecido",
+      "sourceKind": "website",
+      "github": null,
+      "instructionsUrl": "https://redcoats.io/app/",
+      "evidenceUrl": "https://redcoats.io/app/",
+      "discoveredVia": "https://www.inxanitylabs.com/games/redcoats",
+      "reviewedAt": "2026-10-18",
+      "reviewedVersion": "387e787aee9c96547d9aca2e3ed288c093fd8da983bb8faa85557565c1f3672c",
+      "reviewMethod": "documentation",
+      "origins": [
+        "Outro"
+      ],
+      "targets": [
+        "Web"
+      ],
+      "stars": null,
+      "starsCollectedAt": null,
+      "image": {
+        "url": "https://www.inxanitylabs.com/assets/games/redcoats.webp",
+        "kind": "reference",
+        "source": "https://www.inxanitylabs.com/games/redcoats",
+        "provider": "inxanity-declared-cover-v1",
+        "subject": "Redcoats"
+      },
+      "browser": {
+        "url": "https://redcoats.io/app/",
+        "access": "web",
+        "verification": "documentation",
+        "checkedAt": "2026-10-18T14:47:11.473125+00:00",
+        "pageCheck": "http-html",
+        "health": {
+          "status": "reachable",
+          "checkedAt": "2026-10-18T14:47:09.461465+00:00",
+          "method": "http-html",
+          "reason": null
+        }
+      },
+      "content": {
+        "pt": {
+          "summary": "Batalhas online com infantaria, cavalaria e canhões, em um jogo de tiro inspirado nos conflitos da era da pólvora.",
+          "originalFiles": "Não verificado. Confira na página do jogo se são necessários arquivos próprios.",
+          "requirements": [
+            "Navegador atualizado; confira tecnologias, controles e requisitos no destino."
+          ],
+          "installation": [
+            "Abra o link direto pelo botão Jogar no navegador.",
+            "Siga as instruções da página do jogo.",
+            "Compartilhe erros e sua experiência na comunidade desta ficha."
+          ],
+          "limitations": "Abertura de página não comprova funcionamento de uma partida. Campanha, controles, desempenho e tecnologia não testados pelo Bora de Play. O hash identifica o HTML consultado. Os avisos de desenvolvimento da fonte foram preservados."
+        },
+        "en": {
+          "summary": "Online battles with infantry, cavalry and cannons in a shooter inspired by the age of gunpowder.",
+          "originalFiles": "Not verified. Check the game page for any required files you must supply.",
+          "requirements": [
+            "An up-to-date browser; check technologies, controls and requirements at the destination."
+          ],
+          "installation": [
+            "Open the direct link using Play in browser.",
+            "Follow the instructions on the game page.",
+            "Share errors and your experience in this entry’s community section."
+          ],
+          "limitations": "Opening a page does not prove gameplay works. Campaign, controls, performance and technology have not been tested by Bora de Play. The hash identifies the consulted HTML. Development notices from the source were preserved."
+        },
+        "es": {
+          "summary": "Batallas en línea con infantería, caballería y cañones en un juego de disparos inspirado en la era de la pólvora.",
+          "originalFiles": "No verificado. Consulta si la página del juego requiere tus propios archivos.",
+          "requirements": [
+            "Navegador actualizado; consulta tecnologías, controles y requisitos en el destino."
+          ],
+          "installation": [
+            "Abre el enlace directo con Jugar en el navegador.",
+            "Sigue las instrucciones de la página del juego.",
+            "Comparte errores y tu experiencia en la comunidad de esta ficha."
+          ],
+          "limitations": "Abrir una página no demuestra que una partida funcione. Bora de Play no ha probado campaña, controles, rendimiento ni tecnología. El hash identifica el HTML consultado. Se conservaron los avisos de desarrollo de la fuente."
+        }
+      }
+    },
+    {
+      "id": "web-inx-63b577666e15b6",
+      "editionId": "web-inx-63b577666e15b6",
+      "game": "Salty Seas",
+      "name": "Salty Seas · Web",
+      "type": "port",
+      "approach": "web-unconfirmed",
+      "playability": "nao-verificado",
+      "developmentStage": "desconhecido",
+      "sourceKind": "website",
+      "github": null,
+      "instructionsUrl": "https://saltyseas.io/app/",
+      "evidenceUrl": "https://saltyseas.io/app/",
+      "discoveredVia": "https://www.inxanitylabs.com/games/salty-seas",
+      "reviewedAt": "2026-10-18",
+      "reviewedVersion": "e0104c9b3a9e98ac83e897f28eb3b5e3faabe11749f13e9ecef139374d262873",
+      "reviewMethod": "documentation",
+      "origins": [
+        "Outro"
+      ],
+      "targets": [
+        "Web"
+      ],
+      "stars": null,
+      "starsCollectedAt": null,
+      "image": {
+        "url": "https://www.inxanitylabs.com/assets/games/salty-seas.webp",
+        "kind": "reference",
+        "source": "https://www.inxanitylabs.com/games/salty-seas",
+        "provider": "inxanity-declared-cover-v1",
+        "subject": "Salty Seas"
+      },
+      "browser": {
+        "url": "https://saltyseas.io/app/",
+        "access": "web",
+        "verification": "documentation",
+        "checkedAt": "2026-10-18T14:47:13.027779+00:00",
+        "pageCheck": "http-html",
+        "health": {
+          "status": "reachable",
+          "checkedAt": "2026-10-18T14:47:11.661643+00:00",
+          "method": "http-html",
+          "reason": null
+        }
+      },
+      "content": {
+        "pt": {
+          "summary": "Aventura multiplayer de piratas: forme uma tripulação, navegue e participe de combates entre navios pelo navegador.",
+          "originalFiles": "Não verificado. Confira na página do jogo se são necessários arquivos próprios.",
+          "requirements": [
+            "Navegador atualizado; confira tecnologias, controles e requisitos no destino."
+          ],
+          "installation": [
+            "Abra o link direto pelo botão Jogar no navegador.",
+            "Siga as instruções da página do jogo.",
+            "Compartilhe erros e sua experiência na comunidade desta ficha."
+          ],
+          "limitations": "Abertura de página não comprova funcionamento de uma partida. Campanha, controles, desempenho e tecnologia não testados pelo Bora de Play. O hash identifica o HTML consultado. Os avisos de desenvolvimento da fonte foram preservados."
+        },
+        "en": {
+          "summary": "A multiplayer pirate adventure: form a crew, sail and fight ship battles in your browser.",
+          "originalFiles": "Not verified. Check the game page for any required files you must supply.",
+          "requirements": [
+            "An up-to-date browser; check technologies, controls and requirements at the destination."
+          ],
+          "installation": [
+            "Open the direct link using Play in browser.",
+            "Follow the instructions on the game page.",
+            "Share errors and your experience in this entry’s community section."
+          ],
+          "limitations": "Opening a page does not prove gameplay works. Campaign, controls, performance and technology have not been tested by Bora de Play. The hash identifies the consulted HTML. Development notices from the source were preserved."
+        },
+        "es": {
+          "summary": "Aventura multijugador de piratas: forma una tripulación, navega y combate entre barcos desde el navegador.",
+          "originalFiles": "No verificado. Consulta si la página del juego requiere tus propios archivos.",
+          "requirements": [
+            "Navegador actualizado; consulta tecnologías, controles y requisitos en el destino."
+          ],
+          "installation": [
+            "Abre el enlace directo con Jugar en el navegador.",
+            "Sigue las instrucciones de la página del juego.",
+            "Comparte errores y tu experiencia en la comunidad de esta ficha."
+          ],
+          "limitations": "Abrir una página no demuestra que una partida funcione. Bora de Play no ha probado campaña, controles, rendimiento ni tecnología. El hash identifica el HTML consultado. Se conservaron los avisos de desarrollo de la fuente."
+        }
+      }
+    },
+    {
+      "id": "web-inx-0f41d50c92f5c7",
+      "editionId": "web-inx-0f41d50c92f5c7",
+      "game": "Park Baron",
+      "name": "Park Baron · Web",
+      "type": "port",
+      "approach": "web-unconfirmed",
+      "playability": "nao-verificado",
+      "developmentStage": "desconhecido",
+      "sourceKind": "website",
+      "github": null,
+      "instructionsUrl": "https://parkbaron.com/play",
+      "evidenceUrl": "https://parkbaron.com/play",
+      "discoveredVia": "https://www.inxanitylabs.com/games/park-baron",
+      "reviewedAt": "2026-10-18",
+      "reviewedVersion": "1b6ec15bb58bf9fbb9813a403b6414acb2c24ea3c962e4cc9aed8571ad72c12b",
+      "reviewMethod": "documentation",
+      "origins": [
+        "Outro"
+      ],
+      "targets": [
+        "Web"
+      ],
+      "stars": null,
+      "starsCollectedAt": null,
+      "image": {
+        "url": "https://www.inxanitylabs.com/assets/games/park-baron.webp",
+        "kind": "reference",
+        "source": "https://www.inxanitylabs.com/games/park-baron",
+        "provider": "inxanity-declared-cover-v1",
+        "subject": "Park Baron"
+      },
+      "browser": {
+        "url": "https://parkbaron.com/play",
+        "access": "web",
+        "verification": "documentation",
+        "checkedAt": "2026-10-18T14:47:13.741285+00:00",
+        "pageCheck": "http-html",
+        "health": {
+          "status": "reachable",
+          "checkedAt": "2026-10-18T14:47:13.222377+00:00",
+          "method": "http-html",
+          "reason": null
+        }
+      },
+      "content": {
+        "pt": {
+          "summary": "Construa e administre um parque de diversões, desenhando montanhas-russas e planejando atrações para os visitantes.",
+          "originalFiles": "Não verificado. Confira na página do jogo se são necessários arquivos próprios.",
+          "requirements": [
+            "Navegador atualizado; confira tecnologias, controles e requisitos no destino."
+          ],
+          "installation": [
+            "Abra o link direto pelo botão Jogar no navegador.",
+            "Siga as instruções da página do jogo.",
+            "Compartilhe erros e sua experiência na comunidade desta ficha."
+          ],
+          "limitations": "Abertura de página não comprova funcionamento de uma partida. Campanha, controles, desempenho e tecnologia não testados pelo Bora de Play. O hash identifica o HTML consultado. Os avisos de desenvolvimento da fonte foram preservados."
+        },
+        "en": {
+          "summary": "Build and manage a theme park, designing roller coasters and planning attractions for visitors.",
+          "originalFiles": "Not verified. Check the game page for any required files you must supply.",
+          "requirements": [
+            "An up-to-date browser; check technologies, controls and requirements at the destination."
+          ],
+          "installation": [
+            "Open the direct link using Play in browser.",
+            "Follow the instructions on the game page.",
+            "Share errors and your experience in this entry’s community section."
+          ],
+          "limitations": "Opening a page does not prove gameplay works. Campaign, controls, performance and technology have not been tested by Bora de Play. The hash identifies the consulted HTML. Development notices from the source were preserved."
+        },
+        "es": {
+          "summary": "Construye y administra un parque de atracciones, diseñando montañas rusas y organizando actividades para los visitantes.",
+          "originalFiles": "No verificado. Consulta si la página del juego requiere tus propios archivos.",
+          "requirements": [
+            "Navegador actualizado; consulta tecnologías, controles y requisitos en el destino."
+          ],
+          "installation": [
+            "Abre el enlace directo con Jugar en el navegador.",
+            "Sigue las instrucciones de la página del juego.",
+            "Comparte errores y tu experiencia en la comunidad de esta ficha."
+          ],
+          "limitations": "Abrir una página no demuestra que una partida funcione. Bora de Play no ha probado campaña, controles, rendimiento ni tecnología. El hash identifica el HTML consultado. Se conservaron los avisos de desarrollo de la fuente."
+        }
+      }
+    },
+    {
+      "id": "web-inx-abd766ccbbdee8",
+      "editionId": "web-inx-abd766ccbbdee8",
+      "game": "SandStorm",
+      "name": "SandStorm · Web",
+      "type": "port",
+      "approach": "web-unconfirmed",
+      "playability": "nao-verificado",
+      "developmentStage": "desconhecido",
+      "sourceKind": "website",
+      "github": null,
+      "instructionsUrl": "https://sandstorm.ink/play.html",
+      "evidenceUrl": "https://sandstorm.ink/play.html",
+      "discoveredVia": "https://www.inxanitylabs.com/games/sandstorm",
+      "reviewedAt": "2026-10-18",
+      "reviewedVersion": "d4004b6393d76a830551f540e7a9a627aa959ea761a8b4cf0fa0e43d2aaff22a",
+      "reviewMethod": "documentation",
+      "origins": [
+        "Outro"
+      ],
+      "targets": [
+        "Web"
+      ],
+      "stars": null,
+      "starsCollectedAt": null,
+      "image": {
+        "url": "https://www.inxanitylabs.com/assets/games/sandstorm.webp",
+        "kind": "reference",
+        "source": "https://www.inxanitylabs.com/games/sandstorm",
+        "provider": "inxanity-declared-cover-v1",
+        "subject": "SandStorm"
+      },
+      "browser": {
+        "url": "https://sandstorm.ink/play.html",
+        "access": "web",
+        "verification": "documentation",
+        "checkedAt": "2026-10-18T14:47:14.617809+00:00",
+        "pageCheck": "http-html",
+        "health": {
+          "status": "reachable",
+          "checkedAt": "2026-10-18T14:47:13.925311+00:00",
+          "method": "http-html",
+          "reason": null
+        }
+      },
+      "content": {
+        "pt": {
+          "summary": "Jogo de tiro em um cenário de areia e partículas destrutíveis, no qual o próprio terreno faz parte do combate.",
+          "originalFiles": "Não verificado. Confira na página do jogo se são necessários arquivos próprios.",
+          "requirements": [
+            "Navegador atualizado; confira tecnologias, controles e requisitos no destino."
+          ],
+          "installation": [
+            "Abra o link direto pelo botão Jogar no navegador.",
+            "Siga as instruções da página do jogo.",
+            "Compartilhe erros e sua experiência na comunidade desta ficha."
+          ],
+          "limitations": "Abertura de página não comprova funcionamento de uma partida. Campanha, controles, desempenho e tecnologia não testados pelo Bora de Play. O hash identifica o HTML consultado. Os avisos de desenvolvimento da fonte foram preservados."
+        },
+        "en": {
+          "summary": "A shooter set in a world of sand and destructible particles, where the terrain itself is part of the combat.",
+          "originalFiles": "Not verified. Check the game page for any required files you must supply.",
+          "requirements": [
+            "An up-to-date browser; check technologies, controls and requirements at the destination."
+          ],
+          "installation": [
+            "Open the direct link using Play in browser.",
+            "Follow the instructions on the game page.",
+            "Share errors and your experience in this entry’s community section."
+          ],
+          "limitations": "Opening a page does not prove gameplay works. Campaign, controls, performance and technology have not been tested by Bora de Play. The hash identifies the consulted HTML. Development notices from the source were preserved."
+        },
+        "es": {
+          "summary": "Juego de disparos en un escenario de arena y partículas destructibles, donde el terreno forma parte del combate.",
+          "originalFiles": "No verificado. Consulta si la página del juego requiere tus propios archivos.",
+          "requirements": [
+            "Navegador actualizado; consulta tecnologías, controles y requisitos en el destino."
+          ],
+          "installation": [
+            "Abre el enlace directo con Jugar en el navegador.",
+            "Sigue las instrucciones de la página del juego.",
+            "Comparte errores y tu experiencia en la comunidad de esta ficha."
+          ],
+          "limitations": "Abrir una página no demuestra que una partida funcione. Bora de Play no ha probado campaña, controles, rendimiento ni tecnología. El hash identifica el HTML consultado. Se conservaron los avisos de desarrollo de la fuente."
+        }
+      }
+    },
+    {
+      "id": "web-inx-d508c20694d759",
+      "editionId": "web-inx-d508c20694d759",
+      "game": "GTA Vice City",
+      "name": "GTA Vice City · Web",
+      "type": "port",
+      "approach": "web-unconfirmed",
+      "playability": "nao-verificado",
+      "developmentStage": "desconhecido",
+      "sourceKind": "website",
+      "github": null,
+      "instructionsUrl": "https://wasmarcade.com/vice-city",
+      "evidenceUrl": "https://wasmarcade.com/vice-city",
+      "discoveredVia": "https://www.inxanitylabs.com/games/gta-vice-city",
+      "reviewedAt": "2026-10-18",
+      "reviewedVersion": "6c82e536e7c6ad58fbb5a53576b8f9d2ec09b5c5a902a7914374845abc5fe6d1",
+      "reviewMethod": "documentation",
+      "origins": [
+        "Outro"
+      ],
+      "targets": [
+        "Web"
+      ],
+      "stars": null,
+      "starsCollectedAt": null,
+      "image": {
+        "url": "https://www.inxanitylabs.com/assets/games/gta-vice-city.webp",
+        "kind": "reference",
+        "source": "https://www.inxanitylabs.com/games/gta-vice-city",
+        "provider": "inxanity-declared-cover-v1",
+        "subject": "GTA Vice City"
+      },
+      "browser": {
+        "url": "https://wasmarcade.com/vice-city",
+        "access": "web",
+        "verification": "documentation",
+        "checkedAt": "2026-10-18T14:47:16.765152+00:00",
+        "pageCheck": "http-html",
+        "health": {
+          "status": "reachable",
+          "checkedAt": "2026-10-18T14:47:15.497424+00:00",
+          "method": "http-html",
+          "reason": null
+        }
+      },
+      "content": {
+        "pt": {
+          "summary": "Adaptação de GTA Vice City para navegador, ambientada na cidade dos anos 1980 com direção, exploração e missões de Tommy Vercetti.",
+          "originalFiles": "Não verificado. Confira na página do jogo se são necessários arquivos próprios.",
+          "requirements": [
+            "Navegador atualizado; confira tecnologias, controles e requisitos no destino."
+          ],
+          "installation": [
+            "Abra o link direto pelo botão Jogar no navegador.",
+            "Siga as instruções da página do jogo.",
+            "Compartilhe erros e sua experiência na comunidade desta ficha."
+          ],
+          "limitations": "Abertura de página não comprova funcionamento de uma partida. Campanha, controles, desempenho e tecnologia não testados pelo Bora de Play. O hash identifica o HTML consultado. Os avisos de desenvolvimento da fonte foram preservados."
+        },
+        "en": {
+          "summary": "A browser adaptation of GTA Vice City, featuring driving, exploration and Tommy Vercetti’s missions in its 1980s-inspired city.",
+          "originalFiles": "Not verified. Check the game page for any required files you must supply.",
+          "requirements": [
+            "An up-to-date browser; check technologies, controls and requirements at the destination."
+          ],
+          "installation": [
+            "Open the direct link using Play in browser.",
+            "Follow the instructions on the game page.",
+            "Share errors and your experience in this entry’s community section."
+          ],
+          "limitations": "Opening a page does not prove gameplay works. Campaign, controls, performance and technology have not been tested by Bora de Play. The hash identifies the consulted HTML. Development notices from the source were preserved."
+        },
+        "es": {
+          "summary": "Adaptación de GTA Vice City para navegador, con conducción, exploración y las misiones de Tommy Vercetti en su ciudad inspirada en los años ochenta.",
+          "originalFiles": "No verificado. Consulta si la página del juego requiere tus propios archivos.",
+          "requirements": [
+            "Navegador actualizado; consulta tecnologías, controles y requisitos en el destino."
+          ],
+          "installation": [
+            "Abre el enlace directo con Jugar en el navegador.",
+            "Sigue las instrucciones de la página del juego.",
+            "Comparte errores y tu experiencia en la comunidad de esta ficha."
+          ],
+          "limitations": "Abrir una página no demuestra que una partida funcione. Bora de Play no ha probado campaña, controles, rendimiento ni tecnología. El hash identifica el HTML consultado. Se conservaron los avisos de desarrollo de la fuente."
+        }
+      }
+    }
+  ],
+  "automation": {
+    "lastRunAt": "2026-10-18T14:46:47.424448+00:00",
+    "metadata": "updated",
+    "discovery": "completed",
+    "inxanity": {
+      "status": "completed",
+      "checkedAt": "2026-10-18T14:47:09.091834+00:00",
+      "discovered": 81,
+      "reviewed": 6,
+      "added": 5,
+      "duplicates": 0,
+      "pending": 71
+    },
+    "images": {
+      "filled": 0,
+      "pending": 0,
+      "providerRequests": 0,
+      "imageProbes": 5,
+      "unavailableCovers": 0,
+      "missingGameCovers": 0
+    },
+    "totalProjects": 20,
+    "pendingRepositories": 127,
+    "reviewedRepositories": 6,
+    "lowRelevanceRepositories": 63,
+    "ruleVersion": "documentary-v2"
+  }
+}

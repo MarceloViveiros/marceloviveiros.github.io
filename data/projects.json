@@ -1,0 +1,3335 @@
+{
+  "schemaVersion": 3,
+  "collectedAt": "2026-10-16T11:53:29.930652+00:00",
+  "reviewedAt": "2026-10-16",
+  "projects": [
+    {
+      "id": "ship-of-harkinian",
+      "game": "The Legend of Zelda: Ocarina of Time",
+      "name": "Ship of Harkinian",
+      "origins": [
+        "Nintendo 64"
+      ],
+      "targets": [
+        "Windows",
+        "Linux",
+        "macOS"
+      ],
+      "type": "port",
+      "github": "https://github.com/HarbourMasters/Shipwright",
+      "instructionsUrl": "https://github.com/HarbourMasters/Shipwright/blob/dd702b0679f2240209763d00277e7343ee1424b9/README.md",
+      "evidenceUrl": "https://github.com/HarbourMasters/Shipwright/blob/dd702b0679f2240209763d00277e7343ee1424b9/README.md",
+      "reviewedAt": "2026-10-16",
+      "reviewedVersion": "dd702b0679f2240209763d00277e7343ee1424b9",
+      "reviewMethod": "documentation",
+      "stars": 5665,
+      "starsCollectedAt": "2026-10-18T14:37:23.258962+00:00",
+      "content": {
+        "pt": {
+          "summary": "Port nativo baseado na descompilação de Ocarina of Time.",
+          "originalFiles": "ROM própria de uma edição compatível.",
+          "requirements": [
+            "OpenGL; alternativas DirectX 11 e Metal conforme sistema."
+          ],
+          "installation": [
+            "Confira o hash da ROM nas instruções.",
+            "Baixe a release, abra o aplicativo e selecione a ROM quando solicitado."
+          ],
+          "limitations": "Builds de teste podem apresentar falhas."
+        },
+        "en": {
+          "summary": "Native port based on the Ocarina of Time decompilation.",
+          "originalFiles": "Your own ROM from a supported edition.",
+          "requirements": [
+            "OpenGL; DirectX 11 and Metal alternatives depend on OS."
+          ],
+          "installation": [
+            "Check the ROM hash against the instructions.",
+            "Download a release, open the application and select your ROM when prompted."
+          ],
+          "limitations": "Test builds may contain bugs."
+        },
+        "es": {
+          "summary": "Port nativo basado en la descompilación de Ocarina of Time.",
+          "originalFiles": "Tu propia ROM de una edición compatible.",
+          "requirements": [
+            "OpenGL; alternativas DirectX 11 y Metal según sistema."
+          ],
+          "installation": [
+            "Comprueba el hash de la ROM en las instrucciones.",
+            "Descarga una versión, abre la aplicación y selecciona tu ROM cuando se solicite."
+          ],
+          "limitations": "Las versiones de prueba pueden presentar fallos."
+        }
+      },
+      "playability": "jogavel",
+      "developmentStage": "desenvolvimento",
+      "approach": "source-port",
+      "editionId": "ship-of-harkinian",
+      "upstream": {
+        "checkedAt": "2026-10-18T14:37:23.258962+00:00",
+        "head": "dd702b0679f2240209763d00277e7343ee1424b9",
+        "pushedAt": "2026-10-17T16:45:33Z",
+        "archived": false,
+        "latestRelease": {
+          "tag": "9.3.0",
+          "url": "https://github.com/HarbourMasters/Shipwright/releases/tag/9.3.0",
+          "publishedAt": "2026-10-06T02:44:55Z",
+          "prerelease": false,
+          "hasDownload": true
+        },
+        "documentationChanged": false
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/en/5/57/The_Legend_of_Zelda_Ocarina_of_Time.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "kind": "reference",
+        "source": "https://en.wikipedia.org/wiki/The_Legend_of_Zelda%3A_Ocarina_of_Time",
+        "subject": "The Legend of Zelda: Ocarina of Time",
+        "provider": "wikipedia-summary-v1",
+        "checkedAt": "2026-10-18T12:09:59.138691+00:00"
+      }
+    },
+    {
+      "id": "zelda64-recompiled",
+      "game": "The Legend of Zelda: Majora’s Mask",
+      "name": "Zelda 64: Recompiled",
+      "origins": [
+        "Nintendo 64"
+      ],
+      "targets": [
+        "Windows",
+        "Linux",
+        "macOS"
+      ],
+      "type": "recompilacao",
+      "github": "https://github.com/Zelda64Recomp/Zelda64Recomp",
+      "instructionsUrl": "https://github.com/Zelda64Recomp/Zelda64Recomp/blob/b65c482ed672258eb684ab94a4e8c8aa662615ee/README.md",
+      "evidenceUrl": "https://github.com/Zelda64Recomp/Zelda64Recomp/blob/b65c482ed672258eb684ab94a4e8c8aa662615ee/README.md",
+      "reviewedAt": "2026-10-16",
+      "reviewedVersion": "b65c482ed672258eb684ab94a4e8c8aa662615ee",
+      "reviewMethod": "documentation",
+      "stars": 7461,
+      "starsCollectedAt": "2026-10-18T14:37:24.646380+00:00",
+      "content": {
+        "pt": {
+          "summary": "Recompilação nativa de Majora’s Mask, com melhorias visuais e mods.",
+          "originalFiles": "ROM própria da edição norte-americana de N64.",
+          "requirements": [
+            "GPU Direct3D 12, Vulkan 1.2 ou Metal compatível; x86-64 requer SSE4.1."
+          ],
+          "installation": [
+            "Baixe e extraia a release do seu sistema.",
+            "Abra o aplicativo e selecione a ROM no menu."
+          ],
+          "limitations": "Suporte futuro a Ocarina of Time não está incluído nesta ficha."
+        },
+        "en": {
+          "summary": "Native Majora’s Mask recompilation with visual enhancements and mods.",
+          "originalFiles": "Your own North American N64 ROM.",
+          "requirements": [
+            "Compatible Direct3D 12, Vulkan 1.2 or Metal GPU; x86-64 requires SSE4.1."
+          ],
+          "installation": [
+            "Download and extract the release for your OS.",
+            "Open the application and select the ROM in the menu."
+          ],
+          "limitations": "Future Ocarina of Time support is outside this entry."
+        },
+        "es": {
+          "summary": "Recompilación nativa de Majora’s Mask con mejoras visuales y mods.",
+          "originalFiles": "Tu propia ROM norteamericana de N64.",
+          "requirements": [
+            "GPU compatible con Direct3D 12, Vulkan 1.2 o Metal; x86-64 requiere SSE4.1."
+          ],
+          "installation": [
+            "Descarga y extrae la versión para tu sistema.",
+            "Abre la aplicación y selecciona la ROM en el menú."
+          ],
+          "limitations": "El futuro soporte de Ocarina of Time queda fuera de esta ficha."
+        }
+      },
+      "playability": "jogavel",
+      "developmentStage": "desenvolvimento",
+      "approach": "static-recompilation",
+      "editionId": "zelda64-recompiled",
+      "relatedProject": "https://github.com/2ship2harkinian/2ship2harkinian",
+      "upstream": {
+        "checkedAt": "2026-10-18T14:37:24.646380+00:00",
+        "head": "b65c482ed672258eb684ab94a4e8c8aa662615ee",
+        "pushedAt": "2026-09-25T18:57:57Z",
+        "archived": false,
+        "latestRelease": {
+          "tag": "v1.2.2",
+          "url": "https://github.com/Zelda64Recomp/Zelda64Recomp/releases/tag/v1.2.2",
+          "publishedAt": "2025-08-27T00:58:35Z",
+          "prerelease": false,
+          "hasDownload": true
+        },
+        "documentationChanged": false
+      },
+      "image": {
+        "url": "https://cdn2.steamgriddb.com/grid/fa56d7c88e197e561a7f7becc3be7386.png",
+        "source": "https://www.steamgriddb.com/grid/729091",
+        "kind": "reference"
+      }
+    },
+    {
+      "id": "opengoal-jak1",
+      "game": "Jak and Daxter: The Precursor Legacy",
+      "name": "OpenGOAL · Jak 1",
+      "origins": [
+        "PS2"
+      ],
+      "targets": [
+        "Windows",
+        "Linux",
+        "macOS"
+      ],
+      "type": "port",
+      "github": "https://github.com/open-goal/jak-project",
+      "instructionsUrl": "https://github.com/open-goal/jak-project/blob/32c3cf73970f885c0a588623208232db72a74a58/README.md",
+      "evidenceUrl": "https://github.com/open-goal/jak-project/blob/32c3cf73970f885c0a588623208232db72a74a58/README.md",
+      "reviewedAt": "2026-10-16",
+      "reviewedVersion": "32c3cf73970f885c0a588623208232db72a74a58",
+      "reviewMethod": "documentation",
+      "stars": 3586,
+      "starsCollectedAt": "2026-10-18T14:37:26.044849+00:00",
+      "content": {
+        "pt": {
+          "summary": "Port nativo de Jak 1 pelo projeto OpenGOAL.",
+          "originalFiles": "Cópia própria de PS2; reedições PS3/PS4/PS5 não servem.",
+          "requirements": [
+            "x86-64; macOS utiliza Rosetta."
+          ],
+          "installation": [
+            "Leia a seção inicial do README.",
+            "Siga o guia de instalação indicado pelo autor, usando sua cópia."
+          ],
+          "limitations": "Ficha restrita a Jak 1; Jak 2 é beta e Jak 3 segue em desenvolvimento."
+        },
+        "en": {
+          "summary": "Native Jak 1 port from the OpenGOAL project.",
+          "originalFiles": "Your own PS2 copy; PS3/PS4/PS5 editions are unsupported.",
+          "requirements": [
+            "x86-64; macOS uses Rosetta."
+          ],
+          "installation": [
+            "Read the introductory README section.",
+            "Follow the author’s linked setup guide using your copy."
+          ],
+          "limitations": "This entry covers Jak 1; Jak 2 is beta and Jak 3 remains in development."
+        },
+        "es": {
+          "summary": "Port nativo de Jak 1 del proyecto OpenGOAL.",
+          "originalFiles": "Tu propia copia de PS2; reediciones PS3/PS4/PS5 no compatibles.",
+          "requirements": [
+            "x86-64; macOS utiliza Rosetta."
+          ],
+          "installation": [
+            "Lee la sección inicial del README.",
+            "Sigue la guía de instalación del autor utilizando tu copia."
+          ],
+          "limitations": "Ficha limitada a Jak 1; Jak 2 es beta y Jak 3 sigue en desarrollo."
+        }
+      },
+      "playability": "jogavel",
+      "developmentStage": "maduro",
+      "approach": "source-port",
+      "editionId": "opengoal-jak1",
+      "upstream": {
+        "checkedAt": "2026-10-18T14:37:26.044849+00:00",
+        "head": "32c3cf73970f885c0a588623208232db72a74a58",
+        "pushedAt": "2026-10-16T01:27:52Z",
+        "archived": false,
+        "latestRelease": {
+          "tag": "v0.3.9",
+          "url": "https://github.com/open-goal/jak-project/releases/tag/v0.3.9",
+          "publishedAt": "2026-10-15T23:15:46Z",
+          "prerelease": false,
+          "hasDownload": true
+        },
+        "documentationChanged": false
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/en/b/b6/Jak_and_Daxter_-_The_Precursor_Legacy_Coverart.png",
+        "source": "https://en.wikipedia.org/wiki/Jak_and_Daxter%3A_The_Precursor_Legacy",
+        "kind": "reference"
+      }
+    },
+    {
+      "id": "unleashed-recompiled",
+      "game": "Sonic Unleashed",
+      "name": "Unleashed Recompiled",
+      "origins": [
+        "Xbox 360"
+      ],
+      "targets": [
+        "Windows",
+        "Linux"
+      ],
+      "type": "recompilacao",
+      "github": "https://github.com/hedge-dev/UnleashedRecomp",
+      "instructionsUrl": "https://github.com/hedge-dev/UnleashedRecomp/blob/cf829a9eca8fb680fba4b0409ddeb6ca92f22e3c/README.md",
+      "evidenceUrl": "https://github.com/hedge-dev/UnleashedRecomp/blob/cf829a9eca8fb680fba4b0409ddeb6ca92f22e3c/README.md",
+      "reviewedAt": "2026-10-16",
+      "reviewedVersion": "cf829a9eca8fb680fba4b0409ddeb6ca92f22e3c",
+      "reviewMethod": "documentation",
+      "stars": 5218,
+      "starsCollectedAt": "2026-10-18T14:37:27.299111+00:00",
+      "content": {
+        "pt": {
+          "summary": "Recompilação da edição Xbox 360, com melhorias gráficas.",
+          "originalFiles": "Cópia própria US/EU e Title Update; DLC opcional.",
+          "requirements": [
+            "CPU AVX, GPU D3D12/Vulkan 1.2, 8 GB RAM e 6–10 GiB; confira requisitos completos."
+          ],
+          "installation": [
+            "Siga o guia para obter seus arquivos originais.",
+            "Extraia a release e forneça os arquivos ao assistente."
+          ],
+          "limitations": "Arquivos modificados e edições PS3/japonesa não são aceitos."
+        },
+        "en": {
+          "summary": "Xbox 360 recompilation with graphical enhancements.",
+          "originalFiles": "Your own US/EU copy and Title Update; optional DLC.",
+          "requirements": [
+            "AVX CPU, D3D12/Vulkan 1.2 GPU, 8 GB RAM and 6–10 GiB; check full requirements."
+          ],
+          "installation": [
+            "Follow the guide to obtain your original files.",
+            "Extract a release and provide files to the wizard."
+          ],
+          "limitations": "Modified files and PS3/Japanese editions are unsupported."
+        },
+        "es": {
+          "summary": "Recompilación de la edición Xbox 360 con mejoras gráficas.",
+          "originalFiles": "Tu propia copia US/EU y Title Update; DLC opcional.",
+          "requirements": [
+            "CPU AVX, GPU D3D12/Vulkan 1.2, 8 GB RAM y 6–10 GiB; consulta requisitos completos."
+          ],
+          "installation": [
+            "Sigue la guía para obtener tus archivos originales.",
+            "Extrae una versión y proporciona los archivos al asistente."
+          ],
+          "limitations": "No admite archivos modificados ni ediciones PS3/japonesa."
+        }
+      },
+      "playability": "jogavel",
+      "developmentStage": "desenvolvimento",
+      "approach": "static-recompilation",
+      "editionId": "unleashed-recompiled",
+      "upstream": {
+        "checkedAt": "2026-10-18T14:37:27.299111+00:00",
+        "head": "cf829a9eca8fb680fba4b0409ddeb6ca92f22e3c",
+        "pushedAt": "2026-06-29T11:05:43Z",
+        "archived": false,
+        "latestRelease": {
+          "tag": "v1.0.3",
+          "url": "https://github.com/hedge-dev/UnleashedRecomp/releases/tag/v1.0.3",
+          "publishedAt": "2025-04-03T22:04:45Z",
+          "prerelease": false,
+          "hasDownload": true
+        },
+        "documentationChanged": false
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/en/a/a0/Sonic_unleashed_boxart.jpg",
+        "source": "https://en.wikipedia.org/wiki/Sonic_Unleashed",
+        "kind": "reference"
+      }
+    },
+    {
+      "id": "rpcs3",
+      "game": "PlayStation 3",
+      "name": "RPCS3",
+      "origins": [
+        "PS3"
+      ],
+      "targets": [
+        "Windows",
+        "Linux",
+        "macOS",
+        "FreeBSD"
+      ],
+      "type": "emulador",
+      "github": "https://github.com/RPCS3/rpcs3",
+      "instructionsUrl": "https://github.com/RPCS3/rpcs3/blob/f94e9f8647aeae07ea064dbafe407a41a922f485/README.md",
+      "evidenceUrl": "https://github.com/RPCS3/rpcs3/blob/f94e9f8647aeae07ea064dbafe407a41a922f485/README.md",
+      "reviewedAt": "2026-10-16",
+      "reviewedVersion": "f94e9f8647aeae07ea064dbafe407a41a922f485",
+      "reviewMethod": "documentation",
+      "stars": 20116,
+      "starsCollectedAt": "2026-10-18T14:37:28.608422+00:00",
+      "content": {
+        "pt": {
+          "summary": "Emulador e depurador de PS3 para vários sistemas.",
+          "originalFiles": "Consulte no Quickstart os procedimentos para cópias próprias e arquivos necessários.",
+          "requirements": [
+            "Drivers atualizados; Windows requer Visual C++ 2022. Consulte requisitos completos no guia oficial."
+          ],
+          "installation": [
+            "Abra o Quickstart indicado no README.",
+            "Confira requisitos e compatibilidade do título antes de seguir a instalação oficial."
+          ],
+          "limitations": "Compatibilidade varia por jogo e versão; não é um port individual."
+        },
+        "en": {
+          "summary": "PS3 emulator and debugger for multiple systems.",
+          "originalFiles": "Check the Quickstart for your own copies and required files.",
+          "requirements": [
+            "Updated drivers; Windows requires Visual C++ 2022. See full requirements in the official guide."
+          ],
+          "installation": [
+            "Open the Quickstart linked in the README.",
+            "Check requirements and title compatibility before following official setup."
+          ],
+          "limitations": "Compatibility varies by game and version; not an individual port."
+        },
+        "es": {
+          "summary": "Emulador y depurador de PS3 para varios sistemas.",
+          "originalFiles": "Consulta el Quickstart sobre copias propias y archivos necesarios.",
+          "requirements": [
+            "Drivers actualizados; Windows requiere Visual C++ 2022. Consulta requisitos completos en la guía oficial."
+          ],
+          "installation": [
+            "Abre el Quickstart enlazado en el README.",
+            "Comprueba requisitos y compatibilidad del título antes de seguir la instalación oficial."
+          ],
+          "limitations": "La compatibilidad varía por juego y versión; no es un port individual."
+        }
+      },
+      "playability": "por-jogo",
+      "developmentStage": "desenvolvimento",
+      "approach": "emulation",
+      "editionId": "rpcs3",
+      "upstream": {
+        "checkedAt": "2026-10-18T14:37:28.608422+00:00",
+        "head": "1b336f41fa61d4b09737666c531016e11043d390",
+        "pushedAt": "2026-10-18T11:39:14Z",
+        "archived": false,
+        "latestRelease": {
+          "tag": "v0.0.43",
+          "url": "https://github.com/RPCS3/rpcs3/releases/tag/v0.0.43",
+          "publishedAt": "2026-09-30T22:12:32Z",
+          "prerelease": false,
+          "hasDownload": false
+        },
+        "documentationChanged": true
+      },
+      "image": {
+        "url": "assets/platforms/ps3.svg",
+        "kind": "console"
+      }
+    },
+    {
+      "id": "shadps4",
+      "game": "PlayStation 4",
+      "name": "shadPS4",
+      "origins": [
+        "PS4"
+      ],
+      "targets": [
+        "Windows",
+        "Linux",
+        "macOS"
+      ],
+      "type": "emulador",
+      "github": "https://github.com/shadps4-emu/shadPS4",
+      "instructionsUrl": "https://github.com/shadps4-emu/shadPS4/wiki/I.-Quick-start-%5BUsers%5D",
+      "evidenceUrl": "https://github.com/shadps4-emu/shadPS4/blob/5aa7ffa3f4f21bba827d7865ed8f69f98f993542/README.md",
+      "reviewedAt": "2026-10-16",
+      "reviewedVersion": "5aa7ffa3f4f21bba827d7865ed8f69f98f993542",
+      "reviewMethod": "documentation",
+      "stars": 33715,
+      "starsCollectedAt": "2026-10-18T14:37:29.799275+00:00",
+      "content": {
+        "pt": {
+          "summary": "Emulador de PS4 em estágio inicial; utiliza launcher separado.",
+          "originalFiles": "Arquivos dos próprios jogos e módulos conforme guia oficial.",
+          "requirements": [
+            "Confira CPU, GPU e memória no Quickstart; macOS exige 26+ e Apple Silicon."
+          ],
+          "installation": [
+            "Baixe o QtLauncher indicado no guia.",
+            "Configure caminhos e arquivos próprios conforme Quickstart e confira a compatibilidade."
+          ],
+          "limitations": "Muitos títulos não funcionam; o núcleo não inclui interface gráfica."
+        },
+        "en": {
+          "summary": "Early-stage PS4 emulator with a separate launcher.",
+          "originalFiles": "Your own game files and modules as specified in the official guide.",
+          "requirements": [
+            "Check CPU, GPU and memory in Quickstart; macOS requires 26+ and Apple Silicon."
+          ],
+          "installation": [
+            "Download the QtLauncher linked in the guide.",
+            "Configure paths and your files using Quickstart, then check compatibility."
+          ],
+          "limitations": "Many titles do not work; the core has no graphical interface."
+        },
+        "es": {
+          "summary": "Emulador de PS4 en fase inicial con launcher separado.",
+          "originalFiles": "Archivos de tus juegos y módulos según la guía oficial.",
+          "requirements": [
+            "Consulta CPU, GPU y memoria en Quickstart; macOS requiere 26+ y Apple Silicon."
+          ],
+          "installation": [
+            "Descarga el QtLauncher enlazado en la guía.",
+            "Configura rutas y archivos propios según Quickstart y comprueba compatibilidad."
+          ],
+          "limitations": "Muchos títulos no funcionan; el núcleo no incluye interfaz gráfica."
+        }
+      },
+      "playability": "por-jogo",
+      "developmentStage": "desenvolvimento",
+      "approach": "emulation",
+      "editionId": "shadps4",
+      "upstream": {
+        "checkedAt": "2026-10-18T14:37:29.799275+00:00",
+        "head": "cd3cc8022aef5be7766443f694e79d270544eaf4",
+        "pushedAt": "2026-10-18T13:23:20Z",
+        "archived": false,
+        "latestRelease": {
+          "tag": "Pre-release-shadPS4-2026-10-18-cd3cc8022aef5be7766443f694e79d270544eaf4",
+          "url": "https://github.com/shadps4-emu/shadPS4/releases/tag/Pre-release-shadPS4-2026-10-18-cd3cc8022aef5be7766443f694e79d270544eaf4",
+          "publishedAt": "2026-10-18T13:22:52Z",
+          "prerelease": true,
+          "hasDownload": true
+        },
+        "documentationChanged": true
+      },
+      "image": {
+        "url": "assets/platforms/ps4.svg",
+        "kind": "console"
+      }
+    },
+    {
+      "id": "god-of-war-iii-remastered",
+      "editionId": "god-of-war-iii-remastered",
+      "game": "God of War III Remastered",
+      "name": "GoW3 PC · FelipePrado0",
+      "origins": [
+        "PS4"
+      ],
+      "targets": [
+        "Windows",
+        "Linux"
+      ],
+      "type": "port",
+      "approach": "native-runtime",
+      "developmentStage": "desenvolvimento",
+      "playability": "jogavel",
+      "github": "https://github.com/FelipePrado0/gow3_pc",
+      "instructionsUrl": "https://github.com/FelipePrado0/gow3_pc/blob/7180a7bafa51afbe991523f6392f69ea1cf03e1e/README.md",
+      "evidenceUrl": "https://github.com/FelipePrado0/gow3_pc/blob/7180a7bafa51afbe991523f6392f69ea1cf03e1e/README.md",
+      "reviewedAt": "2026-10-16",
+      "reviewedVersion": "7180a7bafa51afbe991523f6392f69ea1cf03e1e",
+      "reviewMethod": "documentation",
+      "stars": 3300,
+      "starsCollectedAt": "2026-10-18T14:37:31.137437+00:00",
+      "fork": true,
+      "parentRepository": "Supermedo/bloodborne_pc",
+      "reviewedRelease": {
+        "tag": "windows-v2.4.0",
+        "url": "https://github.com/FelipePrado0/gow3_pc/releases/tag/windows-v2.4.0",
+        "publishedAt": "2026-10-16T05:09:39Z"
+      },
+      "content": {
+        "pt": {
+          "summary": "Adaptação da edição PS4 com runtime próprio e gráficos derivados do shadPS4.",
+          "originalFiles": "Dump próprio CUSA01623/CUSA01715, 01.00 ou 01.02.",
+          "requirements": [
+            "Windows x64, CPU AVX e GPU Vulkan 1.3; Linux experimental."
+          ],
+          "installation": [
+            "Extraia a release e abra o launcher.",
+            "Selecione sua pasta com eboot.bin, salve e pressione PLAY."
+          ],
+          "limitations": "Autor relata campanha completa em configuração específica; há falhas em outros PCs."
+        },
+        "en": {
+          "summary": "PS4 adaptation with a custom runtime and shadPS4-derived graphics.",
+          "originalFiles": "Your own CUSA01623/CUSA01715 dump, 01.00 or 01.02.",
+          "requirements": [
+            "Windows x64, AVX CPU and Vulkan 1.3 GPU; experimental Linux."
+          ],
+          "installation": [
+            "Extract the release and open the launcher.",
+            "Select your folder containing eboot.bin, save and press PLAY."
+          ],
+          "limitations": "Author reports a full playthrough on one setup; other PCs have issues."
+        },
+        "es": {
+          "summary": "Adaptación de PS4 con runtime propio y gráficos derivados de shadPS4.",
+          "originalFiles": "Tu dump CUSA01623/CUSA01715, 01.00 o 01.02.",
+          "requirements": [
+            "Windows x64, CPU AVX y GPU Vulkan 1.3; Linux experimental."
+          ],
+          "installation": [
+            "Extrae la versión y abre el launcher.",
+            "Selecciona tu carpeta con eboot.bin, guarda y pulsa PLAY."
+          ],
+          "limitations": "El autor relata una campaña completa en un equipo; otros presentan fallos."
+        }
+      },
+      "upstream": {
+        "checkedAt": "2026-10-18T14:37:31.137437+00:00",
+        "head": "5428f3944962a1d9b5742eba644087aa14a4a2a7",
+        "pushedAt": "2026-10-18T06:10:14Z",
+        "archived": false,
+        "latestRelease": {
+          "tag": "windows-v2.5.0",
+          "url": "https://github.com/FelipePrado0/gow3_pc/releases/tag/windows-v2.5.0",
+          "publishedAt": "2026-10-18T06:10:15Z",
+          "prerelease": false,
+          "hasDownload": true
+        },
+        "documentationChanged": true
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/en/8/8b/God_of_War_III_cover_art.jpg",
+        "source": "https://en.wikipedia.org/wiki/God_of_War_III",
+        "kind": "reference"
+      },
+      "channelReview": {
+        "status": "approved",
+        "reviewedAt": "2026-10-17",
+        "reviewer": "Bora de Play",
+        "basis": "owner-confirmation"
+      }
+    },
+    {
+      "id": "pt-pc",
+      "editionId": "pt-pc",
+      "game": "P.T.",
+      "name": "P.T. PC · Hallway Engine",
+      "origins": [
+        "PS4"
+      ],
+      "targets": [
+        "Windows",
+        "Linux",
+        "macOS"
+      ],
+      "type": "port",
+      "approach": "engine-reimplementation",
+      "developmentStage": "desenvolvimento",
+      "playability": "jogavel",
+      "github": "https://github.com/LoreanXavier/pt-pc",
+      "instructionsUrl": "https://github.com/LoreanXavier/pt-pc/blob/d0a9b8f8969588a9ab2b1db03a35854d3af63f2e/README.md",
+      "evidenceUrl": "https://github.com/LoreanXavier/pt-pc/blob/d0a9b8f8969588a9ab2b1db03a35854d3af63f2e/README.md",
+      "reviewedAt": "2026-10-16",
+      "reviewedVersion": "d0a9b8f8969588a9ab2b1db03a35854d3af63f2e",
+      "reviewMethod": "documentation",
+      "stars": 1929,
+      "starsCollectedAt": "2026-10-18T14:37:32.423690+00:00",
+      "fork": false,
+      "parentRepository": null,
+      "reviewedRelease": {
+        "tag": "v1.0.5",
+        "url": "https://github.com/LoreanXavier/pt-pc/releases/tag/v1.0.5",
+        "publishedAt": "2026-10-16T01:00:43Z"
+      },
+      "content": {
+        "pt": {
+          "summary": "Lógica reconstruída em C++ no Hallway Engine, lendo os arquivos originais.",
+          "originalFiles": "Cópia própria; referência do autor: CUSA01127.",
+          "requirements": [
+            "Confira requisitos da release; README e versões publicadas divergem."
+          ],
+          "installation": [
+            "Baixe o instalador para seu sistema.",
+            "Indique seus arquivos e a pasta de destino conforme guia."
+          ],
+          "limitations": "Autor relata teaser completo; compatibilidade e correções variam por versão."
+        },
+        "en": {
+          "summary": "C++ logic rebuilt in Hallway Engine, reading original game files.",
+          "originalFiles": "Your own copy; author’s reference: CUSA01127.",
+          "requirements": [
+            "Check release requirements; README and published versions differ."
+          ],
+          "installation": [
+            "Download the installer for your OS.",
+            "Choose your files and destination using the guide."
+          ],
+          "limitations": "Author reports the full teaser; compatibility and fixes vary by version."
+        },
+        "es": {
+          "summary": "Lógica reconstruida en C++ con Hallway Engine y archivos originales.",
+          "originalFiles": "Tu propia copia; referencia del autor: CUSA01127.",
+          "requirements": [
+            "Consulta requisitos de la versión; README y publicaciones difieren."
+          ],
+          "installation": [
+            "Descarga el instalador para tu sistema.",
+            "Indica tus archivos y el destino siguiendo la guía."
+          ],
+          "limitations": "El autor relata el teaser completo; compatibilidad y correcciones varían por versión."
+        }
+      },
+      "upstream": {
+        "checkedAt": "2026-10-18T14:37:32.423690+00:00",
+        "head": "d0a9b8f8969588a9ab2b1db03a35854d3af63f2e",
+        "pushedAt": "2026-10-16T01:12:11Z",
+        "archived": false,
+        "latestRelease": {
+          "tag": "v1.0.5",
+          "url": "https://github.com/LoreanXavier/pt-pc/releases/tag/v1.0.5",
+          "publishedAt": "2026-10-16T01:00:43Z",
+          "prerelease": false,
+          "hasDownload": true
+        },
+        "documentationChanged": false
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/P.T._cover_art.jpg/330px-P.T._cover_art.jpg",
+        "source": "https://en.wikipedia.org/wiki/P.T._(video_game)",
+        "kind": "reference"
+      }
+    },
+    {
+      "id": "links-awakening-switch",
+      "editionId": "links-awakening-switch",
+      "game": "The Legend of Zelda: Link’s Awakening (2019)",
+      "name": "LAS Recomp",
+      "origins": [
+        "Switch"
+      ],
+      "targets": [
+        "Windows",
+        "Linux",
+        "macOS"
+      ],
+      "type": "recompilacao",
+      "approach": "static-recompilation",
+      "developmentStage": "beta",
+      "playability": "jogavel",
+      "github": "https://github.com/peiikai/LASRecomp",
+      "instructionsUrl": "https://github.com/peiikai/LASRecomp/blob/6244eb9d4d3497094e21cac7dabe998ded1f2800/README.md",
+      "evidenceUrl": "https://github.com/peiikai/LASRecomp/blob/6244eb9d4d3497094e21cac7dabe998ded1f2800/README.md",
+      "reviewedAt": "2026-10-16",
+      "reviewedVersion": "6244eb9d4d3497094e21cac7dabe998ded1f2800",
+      "reviewMethod": "documentation",
+      "stars": 1266,
+      "starsCollectedAt": "2026-10-18T14:37:33.668737+00:00",
+      "fork": false,
+      "parentRepository": null,
+      "reviewedRelease": {
+        "tag": "beta_4",
+        "url": "https://github.com/peiikai/LASRecomp/releases/tag/beta_4",
+        "publishedAt": "2026-10-15T03:07:44Z"
+      },
+      "content": {
+        "pt": {
+          "summary": "Recompilação do remake de Switch de 2019; não é Link’s Awakening DX.",
+          "originalFiles": "Arquivos próprios extraídos da versão 1.0.0.",
+          "requirements": [
+            "Windows/Linux x86-64 com Vulkan; macOS Apple Silicon com Metal."
+          ],
+          "installation": [
+            "Baixe o pacote do seu sistema.",
+            "Abra e forneça os arquivos para recompilação local inicial."
+          ],
+          "limitations": "Beta: falhas gráficas, crashes e modos de randomizer experimentais."
+        },
+        "en": {
+          "summary": "Recompilation of the 2019 Switch remake, not Link’s Awakening DX.",
+          "originalFiles": "Your own extracted version 1.0.0 files.",
+          "requirements": [
+            "Windows/Linux x86-64 with Vulkan; Apple Silicon macOS with Metal."
+          ],
+          "installation": [
+            "Download your OS package.",
+            "Open it and supply files for initial local recompilation."
+          ],
+          "limitations": "Beta: graphics issues, crashes and experimental randomizer modes."
+        },
+        "es": {
+          "summary": "Recompilación del remake de Switch de 2019; no es Link’s Awakening DX.",
+          "originalFiles": "Tus archivos extraídos de la versión 1.0.0.",
+          "requirements": [
+            "Windows/Linux x86-64 con Vulkan; macOS Apple Silicon con Metal."
+          ],
+          "installation": [
+            "Descarga el paquete para tu sistema.",
+            "Ábrelo y proporciona archivos para la recompilación local inicial."
+          ],
+          "limitations": "Beta: fallos gráficos, cierres y modos experimentales de randomizer."
+        }
+      },
+      "upstream": {
+        "checkedAt": "2026-10-18T14:37:33.668737+00:00",
+        "head": "09f8e5ebf28aeefd6daa1456c73ae1b7a51efec5",
+        "pushedAt": "2026-10-18T14:18:36Z",
+        "archived": false,
+        "latestRelease": {
+          "tag": "test-perf-4",
+          "url": "https://github.com/peiikai/LASRecomp/releases/tag/test-perf-4",
+          "publishedAt": "2026-10-18T06:00:34Z",
+          "prerelease": true,
+          "hasDownload": true
+        },
+        "documentationChanged": true
+      },
+      "image": {
+        "url": "https://raw.githubusercontent.com/peiikai/LASRecomp/6244eb9d4d3497094e21cac7dabe998ded1f2800/docs/ultrawide.jpg",
+        "source": "https://github.com/peiikai/LASRecomp/blob/6244eb9d4d3497094e21cac7dabe998ded1f2800/README.md",
+        "kind": "reference"
+      }
+    },
+    {
+      "id": "shadow-colossus-ps4",
+      "editionId": "shadow-colossus-ps4",
+      "game": "Shadow of the Colossus (2018)",
+      "name": "Shadow of the Colossus PC · AjncSystem",
+      "origins": [
+        "PS4"
+      ],
+      "targets": [
+        "Windows"
+      ],
+      "type": "port",
+      "approach": "native-runtime",
+      "developmentStage": "desenvolvimento",
+      "playability": "parcial",
+      "github": "https://github.com/AjncSystem/ShadowOfTheColossus-PC",
+      "instructionsUrl": "https://github.com/AjncSystem/ShadowOfTheColossus-PC/blob/70bb43859cd7ff181a6d409540b757866184d60d/README.md",
+      "evidenceUrl": "https://github.com/AjncSystem/ShadowOfTheColossus-PC/blob/70bb43859cd7ff181a6d409540b757866184d60d/README.md",
+      "reviewedAt": "2026-10-16",
+      "reviewedVersion": "70bb43859cd7ff181a6d409540b757866184d60d",
+      "reviewMethod": "documentation",
+      "stars": 1028,
+      "starsCollectedAt": "2026-10-18T14:37:34.752062+00:00",
+      "fork": false,
+      "parentRepository": null,
+      "reviewedRelease": {
+        "tag": "v0.57",
+        "url": "https://github.com/AjncSystem/ShadowOfTheColossus-PC/releases/tag/v0.57",
+        "publishedAt": "2026-10-14T12:24:11Z"
+      },
+      "content": {
+        "pt": {
+          "summary": "Adaptação do remake Bluepoint de PS4, distinta da versão PS2.",
+          "originalFiles": "Dump próprio CUSA08809; EU 1.01 para patches; módulos próprios para áudio.",
+          "requirements": [
+            "Windows 10/11 x64 e Vulkan 1.3."
+          ],
+          "installation": [
+            "Extraia SotC-PC.zip e abra SotC.exe.",
+            "Confira o jogo e módulos de áudio no launcher; clique em JOGAR."
+          ],
+          "limitations": "Sessões documentadas não comprovam campanha completa; há limitações de GPU e shaders."
+        },
+        "en": {
+          "summary": "Adaptation of the Bluepoint PS4 remake, separate from PS2.",
+          "originalFiles": "Your CUSA08809 dump; EU 1.01 for patches; your modules for audio.",
+          "requirements": [
+            "Windows 10/11 x64 and Vulkan 1.3."
+          ],
+          "installation": [
+            "Extract SotC-PC.zip and open SotC.exe.",
+            "Check game and audio modules in the launcher, then play."
+          ],
+          "limitations": "Documented sessions do not establish a full playthrough; GPU and shader limitations remain."
+        },
+        "es": {
+          "summary": "Adaptación del remake Bluepoint de PS4, distinta de PS2.",
+          "originalFiles": "Tu dump CUSA08809; EU 1.01 para parches; módulos propios para audio.",
+          "requirements": [
+            "Windows 10/11 x64 y Vulkan 1.3."
+          ],
+          "installation": [
+            "Extrae SotC-PC.zip y abre SotC.exe.",
+            "Comprueba juego y módulos de audio en el launcher; pulsa JOGAR."
+          ],
+          "limitations": "Las sesiones documentadas no prueban una campaña completa; persisten límites de GPU y shaders."
+        }
+      },
+      "upstream": {
+        "checkedAt": "2026-10-18T14:37:34.752062+00:00",
+        "head": "70bb43859cd7ff181a6d409540b757866184d60d",
+        "pushedAt": "2026-10-17T01:41:22Z",
+        "archived": false,
+        "latestRelease": {
+          "tag": "v0.57",
+          "url": "https://github.com/AjncSystem/ShadowOfTheColossus-PC/releases/tag/v0.57",
+          "publishedAt": "2026-10-14T12:24:11Z",
+          "prerelease": false,
+          "hasDownload": true
+        },
+        "documentationChanged": false
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/en/a/a4/ShadowOfTheColossus2018.jpg",
+        "source": "https://en.wikipedia.org/wiki/Shadow_of_the_Colossus_(2018_video_game)",
+        "kind": "reference"
+      }
+    },
+    {
+      "id": "bloodborne-linux",
+      "editionId": "bloodborne-ps4",
+      "game": "Bloodborne",
+      "name": "bbport · Linux · deadinside28",
+      "origins": [
+        "PS4"
+      ],
+      "targets": [
+        "Linux"
+      ],
+      "type": "port",
+      "approach": "native-runtime",
+      "developmentStage": "experimental",
+      "playability": "parcial",
+      "github": "https://github.com/deadinside28/bloodborne_pc",
+      "instructionsUrl": "https://github.com/deadinside28/bloodborne_pc/blob/3c57da4198ad62039f63f33bfd205b9916518acf/README.md",
+      "evidenceUrl": "https://github.com/deadinside28/bloodborne_pc/blob/3c57da4198ad62039f63f33bfd205b9916518acf/README.md",
+      "reviewedAt": "2026-10-16",
+      "reviewedVersion": "3c57da4198ad62039f63f33bfd205b9916518acf",
+      "reviewMethod": "documentation",
+      "stars": 3207,
+      "starsCollectedAt": "2026-10-18T14:37:36.308087+00:00",
+      "fork": false,
+      "parentRepository": null,
+      "reviewedRelease": {
+        "tag": "0.51",
+        "url": "https://github.com/deadinside28/bloodborne_pc/releases/tag/0.51",
+        "publishedAt": "2026-10-10T22:58:52Z"
+      },
+      "content": {
+        "pt": {
+          "summary": "Runtime específico de Bloodborne com renderizador derivado do shadPS4.",
+          "originalFiles": "Dump próprio com update 1.09; referência CUSA03173.",
+          "requirements": [
+            "Linux x86-64 e Vulkan 1.3; confira requisitos completos."
+          ],
+          "installation": [
+            "Consulte o pacote ou build da versão revisada.",
+            "No launcher, selecione sua pasta do jogo e inicie."
+          ],
+          "limitations": "Campanha completa não verificada; testes aprofundados concentrados em uma GPU AMD."
+        },
+        "en": {
+          "summary": "Bloodborne-specific runtime with a shadPS4-derived renderer.",
+          "originalFiles": "Your own dump with update 1.09; reference CUSA03173.",
+          "requirements": [
+            "Linux x86-64 and Vulkan 1.3; check full requirements."
+          ],
+          "installation": [
+            "Check the reviewed version’s package or build instructions.",
+            "Select your game folder in the launcher and start."
+          ],
+          "limitations": "Full playthrough unverified; thorough testing concentrated on one AMD GPU."
+        },
+        "es": {
+          "summary": "Runtime específico de Bloodborne con renderizador derivado de shadPS4.",
+          "originalFiles": "Tu dump con update 1.09; referencia CUSA03173.",
+          "requirements": [
+            "Linux x86-64 y Vulkan 1.3; consulta requisitos completos."
+          ],
+          "installation": [
+            "Consulta el paquete o compilación de la versión revisada.",
+            "Selecciona tu carpeta del juego en el launcher e inicia."
+          ],
+          "limitations": "Campaña completa no verificada; pruebas exhaustivas concentradas en una GPU AMD."
+        }
+      },
+      "relatedProject": "https://github.com/Supermedo/bloodborne_pc",
+      "upstream": {
+        "checkedAt": "2026-10-18T14:37:36.308087+00:00",
+        "head": "3c57da4198ad62039f63f33bfd205b9916518acf",
+        "pushedAt": "2026-10-15T09:18:37Z",
+        "archived": false,
+        "latestRelease": {
+          "tag": "0.6-pre1",
+          "url": "https://github.com/deadinside28/bloodborne_pc/releases/tag/0.6-pre1",
+          "publishedAt": "2026-10-15T09:19:35Z",
+          "prerelease": true,
+          "hasDownload": true
+        },
+        "documentationChanged": false
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/en/6/68/Bloodborne_Cover_Wallpaper.jpg",
+        "source": "https://en.wikipedia.org/wiki/Bloodborne",
+        "kind": "reference"
+      }
+    },
+    {
+      "id": "bloodborne-windows",
+      "editionId": "bloodborne-ps4",
+      "game": "Bloodborne",
+      "name": "Bloodborne for Windows · Supermedo",
+      "origins": [
+        "PS4"
+      ],
+      "targets": [
+        "Windows"
+      ],
+      "type": "port",
+      "approach": "native-runtime",
+      "developmentStage": "desenvolvimento",
+      "playability": "jogavel",
+      "github": "https://github.com/Supermedo/bloodborne_pc",
+      "instructionsUrl": "https://github.com/Supermedo/bloodborne_pc/blob/fce08780508a72f50d34a3d3a2926e746d12284c/README.md",
+      "evidenceUrl": "https://github.com/Supermedo/bloodborne_pc/blob/fce08780508a72f50d34a3d3a2926e746d12284c/README.md",
+      "reviewedAt": "2026-10-16",
+      "reviewedVersion": "fce08780508a72f50d34a3d3a2926e746d12284c",
+      "reviewMethod": "documentation",
+      "stars": 3663,
+      "starsCollectedAt": "2026-10-18T14:37:37.615738+00:00",
+      "fork": true,
+      "parentRepository": "deadinside28/bloodborne_pc",
+      "reviewedRelease": {
+        "tag": "windows-v1.8.2",
+        "url": "https://github.com/Supermedo/bloodborne_pc/releases/tag/windows-v1.8.2",
+        "publishedAt": "2026-10-15T22:27:37Z"
+      },
+      "content": {
+        "pt": {
+          "summary": "Adaptação para Windows, relacionada ao projeto Linux bbport.",
+          "originalFiles": "Dump próprio CUSA03173; update 1.09 necessário para patches.",
+          "requirements": [
+            "Windows x64, CPU AVX e GPU Vulkan 1.3; consulte guia."
+          ],
+          "installation": [
+            "Extraia a release e abra Bloodborne.exe.",
+            "Escolha sua pasta em Game & effects e pressione PLAY."
+          ],
+          "limitations": "Recursos e compatibilidade variam; a ficha não certifica campanha completa."
+        },
+        "en": {
+          "summary": "Windows adaptation related to the Linux bbport project.",
+          "originalFiles": "Your CUSA03173 dump; update 1.09 needed for patches.",
+          "requirements": [
+            "Windows x64, AVX CPU and Vulkan 1.3 GPU; check guide."
+          ],
+          "installation": [
+            "Extract the release and open Bloodborne.exe.",
+            "Choose your folder in Game & effects and press PLAY."
+          ],
+          "limitations": "Features and compatibility vary; this entry does not certify a full playthrough."
+        },
+        "es": {
+          "summary": "Adaptación para Windows relacionada con el proyecto Linux bbport.",
+          "originalFiles": "Tu dump CUSA03173; update 1.09 necesario para parches.",
+          "requirements": [
+            "Windows x64, CPU AVX y GPU Vulkan 1.3; consulta guía."
+          ],
+          "installation": [
+            "Extrae la versión y abre Bloodborne.exe.",
+            "Elige tu carpeta en Game & effects y pulsa PLAY."
+          ],
+          "limitations": "Funciones y compatibilidad varían; la ficha no certifica campaña completa."
+        }
+      },
+      "relatedProject": "https://github.com/deadinside28/bloodborne_pc",
+      "upstream": {
+        "checkedAt": "2026-10-18T14:37:37.615738+00:00",
+        "head": "b3fc78bff0997f75f73e14a5fffeb1141f0cea70",
+        "pushedAt": "2026-10-18T11:00:14Z",
+        "archived": false,
+        "latestRelease": {
+          "tag": "windows-v1.9.1",
+          "url": "https://github.com/Supermedo/bloodborne_pc/releases/tag/windows-v1.9.1",
+          "publishedAt": "2026-10-17T19:14:54Z",
+          "prerelease": false,
+          "hasDownload": true
+        },
+        "documentationChanged": true
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/en/6/68/Bloodborne_Cover_Wallpaper.jpg",
+        "source": "https://en.wikipedia.org/wiki/Bloodborne",
+        "kind": "reference"
+      }
+    },
+    {
+      "id": "infamous-second-son",
+      "editionId": "infamous-second-son",
+      "game": "inFAMOUS Second Son",
+      "name": "inFAMOUS PC · HayatoG",
+      "origins": [
+        "PS4"
+      ],
+      "targets": [
+        "Windows",
+        "Linux"
+      ],
+      "type": "port",
+      "approach": "native-runtime",
+      "developmentStage": "desenvolvimento",
+      "playability": "parcial",
+      "github": "https://github.com/HayatoG/iss_pc",
+      "instructionsUrl": "https://github.com/HayatoG/iss_pc/blob/9c24de1bc3bf768968683a11095f8d916173fa7e/README.md",
+      "evidenceUrl": "https://github.com/HayatoG/iss_pc/blob/9c24de1bc3bf768968683a11095f8d916173fa7e/README.md",
+      "reviewedAt": "2026-10-16",
+      "reviewedVersion": "9c24de1bc3bf768968683a11095f8d916173fa7e",
+      "reviewMethod": "documentation",
+      "stars": 550,
+      "starsCollectedAt": "2026-10-18T14:37:38.866431+00:00",
+      "fork": false,
+      "parentRepository": null,
+      "reviewedRelease": {
+        "tag": "v2026.10.16-e7b467e",
+        "url": "https://github.com/HayatoG/iss_pc/releases/tag/v2026.10.16-e7b467e",
+        "publishedAt": "2026-10-16T00:31:46Z"
+      },
+      "content": {
+        "pt": {
+          "summary": "Adaptação específica com runtime próprio e gráficos traduzidos para Vulkan.",
+          "originalFiles": "Dump próprio CUSA00223: base 1.00 com update 1.07.",
+          "requirements": [
+            "Vulkan 1.3, cerca de 33 GB; confira requisitos do sistema."
+          ],
+          "installation": [
+            "Extraia o pacote da release.",
+            "No launcher, selecione sua pasta unificada e pressione Play."
+          ],
+          "limitations": "Primeiros capítulos documentados; desempenho instável e efeitos gráficos com falhas."
+        },
+        "en": {
+          "summary": "Game-specific adaptation with a custom runtime and Vulkan graphics translation.",
+          "originalFiles": "Your CUSA00223 dump: base 1.00 with update 1.07.",
+          "requirements": [
+            "Vulkan 1.3, around 33 GB; check OS requirements."
+          ],
+          "installation": [
+            "Extract the release package.",
+            "Select your merged game folder in the launcher and press Play."
+          ],
+          "limitations": "Early chapters documented; unstable performance and graphical effects issues."
+        },
+        "es": {
+          "summary": "Adaptación específica con runtime propio y traducción gráfica a Vulkan.",
+          "originalFiles": "Tu dump CUSA00223: base 1.00 con update 1.07.",
+          "requirements": [
+            "Vulkan 1.3, unos 33 GB; consulta requisitos del sistema."
+          ],
+          "installation": [
+            "Extrae el paquete publicado.",
+            "Selecciona tu carpeta unificada en el launcher y pulsa Play."
+          ],
+          "limitations": "Primeros capítulos documentados; rendimiento inestable y fallos en efectos gráficos."
+        }
+      },
+      "upstream": {
+        "checkedAt": "2026-10-18T14:37:38.866431+00:00",
+        "head": "3c197589dc6f48f496f5bcc0665f3363fa995abb",
+        "pushedAt": "2026-10-17T18:24:28Z",
+        "archived": false,
+        "latestRelease": {
+          "tag": "v2026.10.17-fd729b2",
+          "url": "https://github.com/HayatoG/iss_pc/releases/tag/v2026.10.17-fd729b2",
+          "publishedAt": "2026-10-17T14:59:50Z",
+          "prerelease": false,
+          "hasDownload": true
+        },
+        "documentationChanged": true
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/en/3/34/Infamous_second_son_boxart.jpg",
+        "source": "https://en.wikipedia.org/wiki/Infamous_Second_Son",
+        "kind": "reference"
+      }
+    },
+    {
+      "id": "the-last-guardian",
+      "editionId": "the-last-guardian",
+      "game": "The Last Guardian",
+      "name": "The Last Guardian PC · HayatoG",
+      "origins": [
+        "PS4"
+      ],
+      "targets": [
+        "Linux",
+        "Windows"
+      ],
+      "type": "port",
+      "approach": "native-runtime",
+      "developmentStage": "desenvolvimento",
+      "playability": "parcial",
+      "github": "https://github.com/HayatoG/tlg_pc",
+      "instructionsUrl": "https://github.com/HayatoG/tlg_pc/blob/8a0b6f7cafba22d2dc995ca1d126d74c22b65589/README.md",
+      "evidenceUrl": "https://github.com/HayatoG/tlg_pc/blob/8a0b6f7cafba22d2dc995ca1d126d74c22b65589/README.md",
+      "reviewedAt": "2026-10-16",
+      "reviewedVersion": "8a0b6f7cafba22d2dc995ca1d126d74c22b65589",
+      "reviewMethod": "documentation",
+      "stars": 257,
+      "starsCollectedAt": "2026-10-18T14:37:40.024743+00:00",
+      "fork": false,
+      "parentRepository": null,
+      "reviewedRelease": {
+        "tag": "v2026.10.15-aa287a3",
+        "url": "https://github.com/HayatoG/tlg_pc/releases/tag/v2026.10.15-aa287a3",
+        "publishedAt": "2026-10-15T03:50:36Z"
+      },
+      "content": {
+        "pt": {
+          "summary": "Adaptação de PS4 com runtime específico e tradução gráfica para Vulkan.",
+          "originalFiles": "Dump próprio CUSA03627, update 01.03; módulo próprio libSceNgs2 para som.",
+          "requirements": [
+            "Vulkan 1.3 e cerca de 25 GB; confira requisitos completos."
+          ],
+          "installation": [
+            "Extraia o pacote e configure seu módulo de áudio.",
+            "Selecione sua pasta no launcher e inicie."
+          ],
+          "limitations": "Sessões curtas no Linux; Windows ainda sem teste de gameplay pelo autor."
+        },
+        "en": {
+          "summary": "PS4 adaptation with a game-specific runtime and Vulkan graphics translation.",
+          "originalFiles": "Your CUSA03627 dump, update 01.03; your libSceNgs2 module for sound.",
+          "requirements": [
+            "Vulkan 1.3 and around 25 GB; check full requirements."
+          ],
+          "installation": [
+            "Extract the package and configure your audio module.",
+            "Select your folder in the launcher and start."
+          ],
+          "limitations": "Short Linux sessions; Windows gameplay not yet tested by the author."
+        },
+        "es": {
+          "summary": "Adaptación de PS4 con runtime específico y traducción gráfica a Vulkan.",
+          "originalFiles": "Tu dump CUSA03627, update 01.03; módulo propio libSceNgs2 para sonido.",
+          "requirements": [
+            "Vulkan 1.3 y unos 25 GB; consulta requisitos completos."
+          ],
+          "installation": [
+            "Extrae el paquete y configura tu módulo de audio.",
+            "Selecciona tu carpeta en el launcher e inicia."
+          ],
+          "limitations": "Sesiones cortas en Linux; el autor aún no probó gameplay en Windows."
+        }
+      },
+      "upstream": {
+        "checkedAt": "2026-10-18T14:37:40.024743+00:00",
+        "head": "b8d5f412398fae52a444400a9b5131bc1c970cc3",
+        "pushedAt": "2026-10-17T15:12:31Z",
+        "archived": false,
+        "latestRelease": {
+          "tag": "v2026.10.17-b8d5f41",
+          "url": "https://github.com/HayatoG/tlg_pc/releases/tag/v2026.10.17-b8d5f41",
+          "publishedAt": "2026-10-17T15:12:31Z",
+          "prerelease": false,
+          "hasDownload": true
+        },
+        "documentationChanged": true
+      },
+      "image": {
+        "url": "https://raw.githubusercontent.com/HayatoG/tlg_pc/8a0b6f7cafba22d2dc995ca1d126d74c22b65589/docs/screenshots/03-trico.jpg",
+        "source": "https://github.com/HayatoG/tlg_pc/blob/8a0b6f7cafba22d2dc995ca1d126d74c22b65589/README.md",
+        "kind": "reference"
+      }
+    },
+    {
+      "id": "metroid-prime-gamecube",
+      "editionId": "metroid-prime-gamecube",
+      "game": "Metroid Prime (GameCube)",
+      "name": "Metroid Prime Port · Odrannnn",
+      "origins": [
+        "GameCube"
+      ],
+      "targets": [
+        "Windows",
+        "Linux",
+        "Android",
+        "macOS"
+      ],
+      "type": "port",
+      "approach": "source-port",
+      "developmentStage": "desenvolvimento",
+      "playability": "jogavel",
+      "github": "https://github.com/Odrannnn/MetroidPrimePort",
+      "instructionsUrl": "https://github.com/Odrannnn/MetroidPrimePort/blob/d6ee4c0a10b7e6138ded4517c203e2724bf0613f/README.md",
+      "evidenceUrl": "https://github.com/Odrannnn/MetroidPrimePort/blob/d6ee4c0a10b7e6138ded4517c203e2724bf0613f/README.md",
+      "reviewedAt": "2026-10-16",
+      "reviewedVersion": "d6ee4c0a10b7e6138ded4517c203e2724bf0613f",
+      "reviewMethod": "documentation",
+      "stars": 461,
+      "starsCollectedAt": "2026-10-18T14:37:41.315093+00:00",
+      "fork": false,
+      "parentRepository": null,
+      "reviewedRelease": {
+        "tag": "v0.27.0",
+        "url": "https://github.com/Odrannnn/MetroidPrimePort/releases/tag/v0.27.0",
+        "publishedAt": "2026-10-14T22:06:04Z"
+      },
+      "content": {
+        "pt": {
+          "summary": "Port baseado em PrimeDecomp, com renderização Aurora/SDL3/WebGPU.",
+          "originalFiles": "Imagem própria GameCube USA 1.00/1.01/1.02 ou PAL.",
+          "requirements": [
+            "Confira a release para seu sistema e requisitos gráficos no guia."
+          ],
+          "installation": [
+            "Baixe e extraia o pacote do seu sistema.",
+            "Abra o aplicativo e selecione sua imagem de disco."
+          ],
+          "limitations": "macOS experimental sem teste em hardware; não executa Remastered ou Trilogy como base."
+        },
+        "en": {
+          "summary": "PrimeDecomp-based port using Aurora/SDL3/WebGPU rendering.",
+          "originalFiles": "Your GameCube USA 1.00/1.01/1.02 or PAL disc image.",
+          "requirements": [
+            "Check your OS release and graphics requirements in the guide."
+          ],
+          "installation": [
+            "Download and extract your OS package.",
+            "Open the application and choose your disc image."
+          ],
+          "limitations": "Experimental macOS untested on hardware; Remastered and Trilogy are not base games."
+        },
+        "es": {
+          "summary": "Port basado en PrimeDecomp con renderización Aurora/SDL3/WebGPU.",
+          "originalFiles": "Tu imagen GameCube USA 1.00/1.01/1.02 o PAL.",
+          "requirements": [
+            "Consulta versión del sistema y requisitos gráficos en la guía."
+          ],
+          "installation": [
+            "Descarga y extrae el paquete para tu sistema.",
+            "Abre la aplicación y elige tu imagen de disco."
+          ],
+          "limitations": "macOS experimental sin pruebas en hardware; Remastered y Trilogy no sirven como juego base."
+        }
+      },
+      "upstream": {
+        "checkedAt": "2026-10-18T14:37:41.315093+00:00",
+        "head": "73750b802dd55676fcefdb549d52f9d360a965cd",
+        "pushedAt": "2026-10-18T13:12:15Z",
+        "archived": false,
+        "latestRelease": {
+          "tag": "v0.29.0",
+          "url": "https://github.com/Odrannnn/MetroidPrimePort/releases/tag/v0.29.0",
+          "publishedAt": "2026-10-17T23:44:22Z",
+          "prerelease": false,
+          "hasDownload": true
+        },
+        "documentationChanged": true
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/en/b/ba/MetroidPrimebox.jpg",
+        "source": "https://en.wikipedia.org/wiki/Metroid_Prime",
+        "kind": "reference"
+      }
+    },
+    {
+      "id": "animal-crossing-gamecube",
+      "editionId": "animal-crossing-gamecube",
+      "game": "Animal Crossing",
+      "name": "Animal Crossing PC Port",
+      "origins": [
+        "GameCube"
+      ],
+      "targets": [
+        "Windows"
+      ],
+      "type": "port",
+      "approach": "source-port",
+      "developmentStage": "desenvolvimento",
+      "playability": "jogavel",
+      "github": "https://github.com/flyngmt/ACGC-PC-Port",
+      "instructionsUrl": "https://github.com/flyngmt/ACGC-PC-Port/blob/4099d246c927e75b4fd342ca13f4ac4395c55af5/README.md",
+      "evidenceUrl": "https://github.com/flyngmt/ACGC-PC-Port/blob/4099d246c927e75b4fd342ca13f4ac4395c55af5/README.md",
+      "reviewedAt": "2026-10-16",
+      "reviewedVersion": "4099d246c927e75b4fd342ca13f4ac4395c55af5",
+      "reviewMethod": "documentation",
+      "stars": 1503,
+      "starsCollectedAt": "2026-10-18T14:37:42.572630+00:00",
+      "fork": false,
+      "parentRepository": null,
+      "content": {
+        "pt": {
+          "summary": "Código C reconstruído do GameCube com gráficos OpenGL.",
+          "originalFiles": "Imagem própria USA Rev 0 GAFE01_00 em ISO, GCM ou CISO.",
+          "requirements": [
+            "Windows e GPU OpenGL 3.3."
+          ],
+          "installation": [
+            "Extraia o pacote oficial.",
+            "Coloque sua imagem na pasta rom e abra AnimalCrossing.exe."
+          ],
+          "limitations": "Compatibilidade restrita à edição indicada; sem teste de gameplay pelo catálogo."
+        },
+        "en": {
+          "summary": "Reconstructed GameCube C code with OpenGL graphics.",
+          "originalFiles": "Your USA Rev 0 GAFE01_00 disc image in ISO, GCM or CISO format.",
+          "requirements": [
+            "Windows and an OpenGL 3.3 GPU."
+          ],
+          "installation": [
+            "Extract the official package.",
+            "Put your image in rom and open AnimalCrossing.exe."
+          ],
+          "limitations": "Limited to the specified edition; gameplay not tested by this catalog."
+        },
+        "es": {
+          "summary": "Código C reconstruido de GameCube con gráficos OpenGL.",
+          "originalFiles": "Tu imagen USA Rev 0 GAFE01_00 en ISO, GCM o CISO.",
+          "requirements": [
+            "Windows y GPU OpenGL 3.3."
+          ],
+          "installation": [
+            "Extrae el paquete oficial.",
+            "Pon tu imagen en rom y abre AnimalCrossing.exe."
+          ],
+          "limitations": "Compatibilidad limitada a la edición indicada; el catálogo no probó el juego."
+        }
+      },
+      "upstream": {
+        "checkedAt": "2026-10-18T14:37:42.572630+00:00",
+        "head": "4099d246c927e75b4fd342ca13f4ac4395c55af5",
+        "pushedAt": "2026-08-02T00:56:51Z",
+        "archived": false,
+        "latestRelease": {
+          "tag": "v0.9.3-playtest",
+          "url": "https://github.com/flyngmt/ACGC-PC-Port/releases/tag/v0.9.3-playtest",
+          "publishedAt": "2026-08-02T00:56:51Z",
+          "prerelease": true,
+          "hasDownload": true
+        },
+        "documentationChanged": false
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/en/8/82/Animal_Crossing_Coverart.png",
+        "source": "https://en.wikipedia.org/wiki/Animal_Crossing_(video_game)",
+        "kind": "reference"
+      }
+    },
+    {
+      "id": "wipeout-phantom",
+      "editionId": "wipeout-phantom",
+      "game": "WipeOut",
+      "name": "WipeOut Phantom Edition",
+      "origins": [
+        "PS1"
+      ],
+      "targets": [
+        "Windows"
+      ],
+      "type": "port",
+      "approach": "source-port",
+      "developmentStage": "desenvolvimento",
+      "playability": "jogavel",
+      "github": "https://github.com/wipeout-phantom-edition/wipeout-phantom-edition",
+      "instructionsUrl": "https://github.com/wipeout-phantom-edition/wipeout-phantom-edition/blob/2a4f8937f129de42d94b210090114bf798773121/README.md",
+      "evidenceUrl": "https://github.com/wipeout-phantom-edition/wipeout-phantom-edition/blob/2a4f8937f129de42d94b210090114bf798773121/README.md",
+      "reviewedAt": "2026-10-16",
+      "reviewedVersion": "2a4f8937f129de42d94b210090114bf798773121",
+      "reviewMethod": "documentation",
+      "stars": 977,
+      "starsCollectedAt": "2026-10-18T14:37:43.922819+00:00",
+      "fork": false,
+      "parentRepository": null,
+      "content": {
+        "pt": {
+          "summary": "Source port que usa os dados do PlayStation, com resolução e controles modernos.",
+          "originalFiles": "Cópia própria USA de PS1; imagens multi-bin/cue, nove BIN e um CUE.",
+          "requirements": [
+            "Pacote para Windows; dados da versão PC original não servem."
+          ],
+          "installation": [
+            "Extraia a release oficial.",
+            "Copie suas imagens para wipeout/diskimages e inicie o jogo para extrair os dados."
+          ],
+          "limitations": "Extração inicial pode ser lenta; confira o formato MODE2/2352 e as faixas de áudio."
+        },
+        "en": {
+          "summary": "Source port using PlayStation data with modern resolution and controls.",
+          "originalFiles": "Your USA PS1 copy; multi-bin/cue images, nine BIN files and one CUE.",
+          "requirements": [
+            "Windows package; original PC version data is incompatible."
+          ],
+          "installation": [
+            "Extract the official release.",
+            "Copy your images into wipeout/diskimages and launch to extract the data."
+          ],
+          "limitations": "Initial extraction can be slow; check MODE2/2352 and the audio tracks."
+        },
+        "es": {
+          "summary": "Source port con datos de PlayStation, resolución y controles modernos.",
+          "originalFiles": "Tu copia USA de PS1; imágenes multi-bin/cue, nueve BIN y un CUE.",
+          "requirements": [
+            "Paquete para Windows; los datos del PC original no sirven."
+          ],
+          "installation": [
+            "Extrae la versión oficial.",
+            "Copia tus imágenes a wipeout/diskimages e inicia para extraer los datos."
+          ],
+          "limitations": "La extracción inicial puede ser lenta; comprueba MODE2/2352 y las pistas de audio."
+        }
+      },
+      "upstream": {
+        "checkedAt": "2026-10-18T14:37:43.922819+00:00",
+        "head": "2a4f8937f129de42d94b210090114bf798773121",
+        "pushedAt": "2024-08-21T02:53:02Z",
+        "archived": false,
+        "latestRelease": {
+          "tag": "v1.2.256",
+          "url": "https://github.com/wipeout-phantom-edition/wipeout-phantom-edition/releases/tag/v1.2.256",
+          "publishedAt": "2024-02-17T07:13:37Z",
+          "prerelease": false,
+          "hasDownload": true
+        },
+        "documentationChanged": false
+      },
+      "image": {
+        "url": "https://raw.githubusercontent.com/wipeout-phantom-edition/wipeout-phantom-edition/2a4f8937f129de42d94b210090114bf798773121/images/screenshot02.png",
+        "source": "https://github.com/wipeout-phantom-edition/wipeout-phantom-edition/blob/2a4f8937f129de42d94b210090114bf798773121/README.md",
+        "kind": "reference"
+      }
+    },
+    {
+      "id": "2ship-majora",
+      "editionId": "zelda64-recompiled",
+      "game": "The Legend of Zelda: Majora’s Mask",
+      "name": "2 Ship 2 Harkinian",
+      "origins": [
+        "Nintendo 64"
+      ],
+      "targets": [
+        "Windows",
+        "Linux",
+        "macOS"
+      ],
+      "type": "port",
+      "approach": "source-port",
+      "developmentStage": "desenvolvimento",
+      "playability": "jogavel",
+      "github": "https://github.com/2ship2harkinian/2ship2harkinian",
+      "instructionsUrl": "https://github.com/2ship2harkinian/2ship2harkinian/blob/f1dda4c28cb9ed7cc80d8c78337ee31a8d2c7d0e/README.md",
+      "evidenceUrl": "https://github.com/2ship2harkinian/2ship2harkinian/blob/f1dda4c28cb9ed7cc80d8c78337ee31a8d2c7d0e/README.md",
+      "reviewedAt": "2026-10-16",
+      "reviewedVersion": "f1dda4c28cb9ed7cc80d8c78337ee31a8d2c7d0e",
+      "reviewMethod": "documentation",
+      "stars": 2340,
+      "starsCollectedAt": "2026-10-18T14:37:45.494172+00:00",
+      "fork": false,
+      "parentRepository": null,
+      "content": {
+        "pt": {
+          "summary": "Alternativa baseada em código reconstruído para Majora’s Mask.",
+          "originalFiles": "ROM própria compatível com os hashes listados pelo projeto.",
+          "requirements": [
+            "DirectX 11 no Windows, OpenGL ou Metal no macOS."
+          ],
+          "installation": [
+            "Confira o hash da sua ROM e extraia a release do sistema.",
+            "Abra 2ship; no Linux, deixe a ROM junto do AppImage; no macOS, selecione quando solicitado."
+          ],
+          "limitations": "Nightlies podem apresentar bugs e crashes; não confundir com Zelda 64: Recompiled."
+        },
+        "en": {
+          "summary": "A reconstructed-code alternative for Majora’s Mask.",
+          "originalFiles": "Your own ROM matching a hash supported by the project.",
+          "requirements": [
+            "DirectX 11 on Windows, OpenGL or Metal on macOS."
+          ],
+          "installation": [
+            "Check your ROM hash and extract your OS release.",
+            "Open 2ship; on Linux keep the ROM beside the AppImage; on macOS select it when prompted."
+          ],
+          "limitations": "Nightlies may have bugs and crashes; distinct from Zelda 64: Recompiled."
+        },
+        "es": {
+          "summary": "Alternativa basada en código reconstruido para Majora’s Mask.",
+          "originalFiles": "Tu ROM con un hash admitido por el proyecto.",
+          "requirements": [
+            "DirectX 11 en Windows, OpenGL o Metal en macOS."
+          ],
+          "installation": [
+            "Verifica el hash y extrae la versión de tu sistema.",
+            "Abre 2ship; en Linux deja la ROM junto al AppImage; en macOS selecciónala cuando se solicite."
+          ],
+          "limitations": "Las versiones nightly pueden fallar; es distinto de Zelda 64: Recompiled."
+        }
+      },
+      "relatedProject": "https://github.com/Zelda64Recomp/Zelda64Recomp",
+      "upstream": {
+        "checkedAt": "2026-10-18T14:37:45.494172+00:00",
+        "head": "f1dda4c28cb9ed7cc80d8c78337ee31a8d2c7d0e",
+        "pushedAt": "2026-10-14T16:36:30Z",
+        "archived": false,
+        "latestRelease": {
+          "tag": "5.0.1",
+          "url": "https://github.com/2ship2harkinian/2ship2harkinian/releases/tag/5.0.1",
+          "publishedAt": "2026-08-25T17:54:43Z",
+          "prerelease": false,
+          "hasDownload": true
+        },
+        "documentationChanged": false
+      },
+      "image": {
+        "url": "https://cdn2.steamgriddb.com/grid/fa56d7c88e197e561a7f7becc3be7386.png",
+        "source": "https://www.steamgriddb.com/grid/729091",
+        "kind": "reference"
+      }
+    },
+    {
+      "id": "starship-sf64",
+      "editionId": "starship-sf64",
+      "game": "Star Fox 64",
+      "name": "Starship",
+      "origins": [
+        "Nintendo 64"
+      ],
+      "targets": [
+        "Windows",
+        "Linux",
+        "macOS"
+      ],
+      "type": "port",
+      "approach": "source-port",
+      "developmentStage": "desenvolvimento",
+      "playability": "jogavel",
+      "github": "https://github.com/HarbourMasters/Starship",
+      "instructionsUrl": "https://github.com/HarbourMasters/Starship/blob/3322643f0bbf80d2f8f7e1c0d2c4c578515f6c90/README.md",
+      "evidenceUrl": "https://github.com/HarbourMasters/Starship/blob/3322643f0bbf80d2f8f7e1c0d2c4c578515f6c90/README.md",
+      "reviewedAt": "2026-10-16",
+      "reviewedVersion": "3322643f0bbf80d2f8f7e1c0d2c4c578515f6c90",
+      "reviewMethod": "documentation",
+      "stars": 2105,
+      "starsCollectedAt": "2026-10-18T14:37:46.792762+00:00",
+      "fork": false,
+      "parentRepository": null,
+      "content": {
+        "pt": {
+          "summary": "Adaptação de Star Fox 64 com renderização moderna via libultraship.",
+          "originalFiles": "ROM própria USA 1.0 ou 1.1 em formato .z64.",
+          "requirements": [
+            "DirectX 11, OpenGL ou Metal conforme o sistema."
+          ],
+          "installation": [
+            "Valide a versão da ROM e extraia todos os arquivos da release.",
+            "Abra Starship e indique sua ROM para gerar os dados locais."
+          ],
+          "limitations": "ROMs JP/EU não geram os dados principais; podem fornecer vozes adicionais com uma ROM USA."
+        },
+        "en": {
+          "summary": "Star Fox 64 adaptation with modern rendering through libultraship.",
+          "originalFiles": "Your USA 1.0 or 1.1 ROM in .z64 format.",
+          "requirements": [
+            "DirectX 11, OpenGL or Metal depending on your OS."
+          ],
+          "installation": [
+            "Validate your ROM version and extract the complete release.",
+            "Open Starship and select your ROM to generate local data."
+          ],
+          "limitations": "JP/EU ROMs cannot generate base assets; they can supply extra voices alongside a USA ROM."
+        },
+        "es": {
+          "summary": "Adaptación de Star Fox 64 con renderizado moderno mediante libultraship.",
+          "originalFiles": "Tu ROM USA 1.0 o 1.1 en formato .z64.",
+          "requirements": [
+            "DirectX 11, OpenGL o Metal según el sistema."
+          ],
+          "installation": [
+            "Valida la ROM y extrae todos los archivos de la versión.",
+            "Abre Starship y selecciona tu ROM para generar los datos locales."
+          ],
+          "limitations": "Las ROM JP/EU no generan los datos base; pueden aportar voces junto a una ROM USA."
+        }
+      },
+      "upstream": {
+        "checkedAt": "2026-10-18T14:37:46.792762+00:00",
+        "head": "3322643f0bbf80d2f8f7e1c0d2c4c578515f6c90",
+        "pushedAt": "2026-09-15T21:17:12Z",
+        "archived": false,
+        "latestRelease": {
+          "tag": "v2.0.0",
+          "url": "https://github.com/HarbourMasters/Starship/releases/tag/v2.0.0",
+          "publishedAt": "2025-05-25T03:43:32Z",
+          "prerelease": false,
+          "hasDownload": true
+        },
+        "documentationChanged": false
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/63/StarFox64_N64_Game_Box.jpg/330px-StarFox64_N64_Game_Box.jpg",
+        "source": "https://en.wikipedia.org/wiki/Star_Fox_64",
+        "kind": "reference"
+      }
+    },
+    {
+      "id": "perfect-dark",
+      "editionId": "perfect-dark",
+      "game": "Perfect Dark",
+      "name": "Perfect Dark PC port",
+      "origins": [
+        "Nintendo 64"
+      ],
+      "targets": [
+        "Windows",
+        "Linux",
+        "macOS"
+      ],
+      "type": "port",
+      "approach": "source-port",
+      "developmentStage": "desenvolvimento",
+      "playability": "jogavel",
+      "github": "https://github.com/perfect-dark-pc-port/perfect_dark",
+      "instructionsUrl": "https://github.com/perfect-dark-pc-port/perfect_dark/blob/32a1cb9f268dd3ac73016801025c6bbbfa20130f/README.md",
+      "evidenceUrl": "https://github.com/perfect-dark-pc-port/perfect_dark/blob/32a1cb9f268dd3ac73016801025c6bbbfa20130f/README.md",
+      "reviewedAt": "2026-10-16",
+      "reviewedVersion": "32a1cb9f268dd3ac73016801025c6bbbfa20130f",
+      "reviewMethod": "documentation",
+      "stars": 2062,
+      "starsCollectedAt": "2026-10-18T14:37:48.064508+00:00",
+      "fork": true,
+      "parentRepository": "n64decomp/perfect_dark",
+      "content": {
+        "pt": {
+          "summary": "Port baseado na decompilação, com campanha e multiplayer local documentados.",
+          "originalFiles": "ROM própria; USA Rev 1 / NTSC-final recomendada.",
+          "requirements": [
+            "Windows 7+, Linux ou macOS; confira arquitetura e requisitos gráficos no guia."
+          ],
+          "installation": [
+            "Obtenha a build indicada no README para seu sistema.",
+            "Crie data junto do executável, coloque pd.ntsc-final.z64 e inicie."
+          ],
+          "limitations": "Bugs gráficos, de gameplay e crashes ocasionais; outras regiões podem exigir build própria."
+        },
+        "en": {
+          "summary": "Decompilation-based port with documented single-player and local multiplayer.",
+          "originalFiles": "Your ROM; USA Rev 1 / NTSC-final is recommended.",
+          "requirements": [
+            "Windows 7+, Linux or macOS; check architecture and graphics requirements in the guide."
+          ],
+          "installation": [
+            "Get the build linked in the README for your OS.",
+            "Create data beside the executable, add pd.ntsc-final.z64 and launch."
+          ],
+          "limitations": "Graphics and gameplay bugs and occasional crashes; other regions may require a custom build."
+        },
+        "es": {
+          "summary": "Port basado en decompilación con campaña y multijugador local documentados.",
+          "originalFiles": "Tu ROM; se recomienda USA Rev 1 / NTSC-final.",
+          "requirements": [
+            "Windows 7+, Linux o macOS; consulta arquitectura y requisitos gráficos en la guía."
+          ],
+          "installation": [
+            "Obtén la compilación indicada en el README para tu sistema.",
+            "Crea data junto al ejecutable, añade pd.ntsc-final.z64 e inicia."
+          ],
+          "limitations": "Fallos gráficos, de juego y cierres ocasionales; otras regiones pueden exigir compilación propia."
+        }
+      },
+      "upstream": {
+        "checkedAt": "2026-10-18T14:37:48.064508+00:00",
+        "head": "32a1cb9f268dd3ac73016801025c6bbbfa20130f",
+        "pushedAt": "2026-08-13T05:58:19Z",
+        "archived": false,
+        "latestRelease": {
+          "tag": "ci-dev-build",
+          "url": "https://github.com/perfect-dark-pc-port/perfect_dark/releases/tag/ci-dev-build",
+          "publishedAt": "2024-05-14T09:41:23Z",
+          "prerelease": false,
+          "hasDownload": true
+        },
+        "documentationChanged": false
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/32/Perfect_dark_box.jpg/330px-Perfect_dark_box.jpg",
+        "source": "https://en.wikipedia.org/wiki/Perfect_Dark",
+        "kind": "reference"
+      }
+    },
+    {
+      "id": "project-cane",
+      "editionId": "project-cane",
+      "game": "Sly Cooper and the Thievius Raccoonus",
+      "name": "ProjectCane",
+      "origins": [
+        "PS2"
+      ],
+      "targets": [
+        "Windows",
+        "Linux"
+      ],
+      "type": "port",
+      "approach": "source-port",
+      "developmentStage": "desenvolvimento",
+      "playability": "jogavel",
+      "github": "https://github.com/theclub654/ProjectCane",
+      "instructionsUrl": "https://github.com/theclub654/ProjectCane/blob/d8e34caf5edd2a0e2d4ec292b69145425ec6201c/README.md",
+      "evidenceUrl": "https://github.com/theclub654/ProjectCane/blob/d8e34caf5edd2a0e2d4ec292b69145425ec6201c/README.md",
+      "reviewedAt": "2026-10-16",
+      "reviewedVersion": "d8e34caf5edd2a0e2d4ec292b69145425ec6201c",
+      "reviewMethod": "documentation",
+      "stars": 274,
+      "starsCollectedAt": "2026-10-18T14:37:49.261452+00:00",
+      "fork": false,
+      "parentRepository": null,
+      "content": {
+        "pt": {
+          "summary": "Port nativo que evoluiu de um visualizador de mapas; autor relata jogo completo.",
+          "originalFiles": "ISO própria NTSC da edição original.",
+          "requirements": [
+            "Windows ou Linux x86-64; no Linux, glibc 2.35+."
+          ],
+          "installation": [
+            "Extraia o pacote e abra o File Extractor incluído.",
+            "Selecione sua ISO e extraia para a pasta do port; mantenha Worlds e Cutscenes junto do executável.",
+            "Inicie o jogo ou o script Run ProjectCane.sh no Linux."
+          ],
+          "limitations": "Verifique permissões da pasta e bibliotecas do sistema; não confundir com versões remasterizadas."
+        },
+        "en": {
+          "summary": "Native port that grew from a map viewer; author reports a complete playable game.",
+          "originalFiles": "Your NTSC ISO of the original edition.",
+          "requirements": [
+            "Windows or x86-64 Linux; glibc 2.35+ on Linux."
+          ],
+          "installation": [
+            "Extract the package and open the included File Extractor.",
+            "Select your ISO and extract into the port folder; keep Worlds and Cutscenes beside the executable.",
+            "Launch the game or Run ProjectCane.sh on Linux."
+          ],
+          "limitations": "Check folder permissions and system libraries; separate from remastered editions."
+        },
+        "es": {
+          "summary": "Port nativo que comenzó como visor de mapas; el autor relata un juego completo.",
+          "originalFiles": "Tu ISO NTSC de la edición original.",
+          "requirements": [
+            "Windows o Linux x86-64; glibc 2.35+ en Linux."
+          ],
+          "installation": [
+            "Extrae el paquete y abre el File Extractor incluido.",
+            "Selecciona tu ISO y extrae en la carpeta del port; conserva Worlds y Cutscenes junto al ejecutable.",
+            "Inicia el juego o Run ProjectCane.sh en Linux."
+          ],
+          "limitations": "Comprueba permisos y bibliotecas del sistema; es distinto de las remasterizaciones."
+        }
+      },
+      "upstream": {
+        "checkedAt": "2026-10-18T14:37:49.261452+00:00",
+        "head": "d8e34caf5edd2a0e2d4ec292b69145425ec6201c",
+        "pushedAt": "2026-10-15T02:39:28Z",
+        "archived": false,
+        "latestRelease": {
+          "tag": "v0.4.1-beta.1",
+          "url": "https://github.com/theclub654/ProjectCane/releases/tag/v0.4.1-beta.1",
+          "publishedAt": "2026-10-15T01:25:34Z",
+          "prerelease": false,
+          "hasDownload": true
+        },
+        "documentationChanged": false
+      },
+      "image": {
+        "url": "https://raw.githubusercontent.com/theclub654/ProjectCane/d8e34caf5edd2a0e2d4ec292b69145425ec6201c/README-assets/projectcane-logo.png",
+        "source": "https://github.com/theclub654/ProjectCane/blob/d8e34caf5edd2a0e2d4ec292b69145425ec6201c/README.md",
+        "kind": "reference"
+      }
+    },
+    {
+      "id": "g-diffuser",
+      "editionId": "g-diffuser",
+      "game": "F-Zero X",
+      "name": "G-Diffuser",
+      "origins": [
+        "Nintendo 64"
+      ],
+      "targets": [
+        "Windows",
+        "Linux"
+      ],
+      "type": "port",
+      "approach": "source-port",
+      "developmentStage": "desenvolvimento",
+      "playability": "jogavel",
+      "github": "https://github.com/Zorkats/G-Diffuser",
+      "instructionsUrl": "https://github.com/Zorkats/G-Diffuser/blob/535abe9559934fda7a3493c038fd238a0ef3394a/README.md",
+      "evidenceUrl": "https://github.com/Zorkats/G-Diffuser/blob/535abe9559934fda7a3493c038fd238a0ef3394a/README.md",
+      "reviewedAt": "2026-10-16",
+      "reviewedVersion": "535abe9559934fda7a3493c038fd238a0ef3394a",
+      "reviewMethod": "documentation",
+      "stars": 291,
+      "starsCollectedAt": "2026-10-18T14:37:50.409699+00:00",
+      "fork": false,
+      "parentRepository": null,
+      "content": {
+        "pt": {
+          "summary": "Port por decompilação que inclui suporte ao Expansion Kit do 64DD.",
+          "originalFiles": "ROM própria USA Rev 0 .z64, disco do Expansion Kit e IPL do 64DD próprios.",
+          "requirements": [
+            "Windows com Direct3D 11 ou Linux x86-64 com OpenGL e glibc 2.35+."
+          ],
+          "installation": [
+            "Extraia a release do sistema e abra o assistente inicial.",
+            "Selecione os três arquivos e escolha Build game data and continue."
+          ],
+          "limitations": "O Expansion Kit e o IPL são obrigatórios nesta versão; interpolação e multiplayer ainda têm limitações."
+        },
+        "en": {
+          "summary": "Decompilation-based port including the 64DD Expansion Kit.",
+          "originalFiles": "Your USA Rev 0 .z64 ROM, Expansion Kit disk and 64DD IPL dumps.",
+          "requirements": [
+            "Windows with Direct3D 11 or x86-64 Linux with OpenGL and glibc 2.35+."
+          ],
+          "installation": [
+            "Extract your OS release and open the first-run wizard.",
+            "Select all three files and choose Build game data and continue."
+          ],
+          "limitations": "Expansion Kit and IPL are required in this version; interpolation and multiplayer still have limitations."
+        },
+        "es": {
+          "summary": "Port por decompilación que incluye el Expansion Kit de 64DD.",
+          "originalFiles": "Tu ROM USA Rev 0 .z64, disco Expansion Kit e IPL de 64DD propios.",
+          "requirements": [
+            "Windows con Direct3D 11 o Linux x86-64 con OpenGL y glibc 2.35+."
+          ],
+          "installation": [
+            "Extrae la versión de tu sistema y abre el asistente inicial.",
+            "Selecciona los tres archivos y pulsa Build game data and continue."
+          ],
+          "limitations": "El Expansion Kit y el IPL son obligatorios en esta versión; interpolación y multijugador tienen limitaciones."
+        }
+      },
+      "upstream": {
+        "checkedAt": "2026-10-18T14:37:50.409699+00:00",
+        "head": "bf1f367b51f8eb9c834519eb152b9a98f151a1dc",
+        "pushedAt": "2026-10-18T10:40:58Z",
+        "archived": false,
+        "latestRelease": {
+          "tag": "nightly",
+          "url": "https://github.com/Zorkats/G-Diffuser/releases/tag/nightly",
+          "publishedAt": "2026-10-13T00:14:19Z",
+          "prerelease": true,
+          "hasDownload": true
+        },
+        "documentationChanged": true
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/21/F-Zero_X_box_art.jpg/330px-F-Zero_X_box_art.jpg",
+        "source": "https://en.wikipedia.org/wiki/F-Zero_X",
+        "kind": "reference"
+      }
+    },
+    {
+      "id": "gravity-rush-2",
+      "editionId": "gravity-rush-2",
+      "game": "Gravity Rush 2",
+      "name": "Gravity Rush 2 PC · HayatoG",
+      "origins": [
+        "PS4"
+      ],
+      "targets": [
+        "Linux",
+        "Windows"
+      ],
+      "type": "port",
+      "approach": "native-runtime",
+      "developmentStage": "desenvolvimento",
+      "playability": "parcial",
+      "github": "https://github.com/HayatoG/gr2_pc",
+      "instructionsUrl": "https://github.com/HayatoG/gr2_pc/blob/3159679aa6ce1c56eaafb5978d838bc0422367e4/README.md",
+      "evidenceUrl": "https://github.com/HayatoG/gr2_pc/blob/3159679aa6ce1c56eaafb5978d838bc0422367e4/README.md",
+      "reviewedAt": "2026-10-16",
+      "reviewedVersion": "3159679aa6ce1c56eaafb5978d838bc0422367e4",
+      "reviewMethod": "documentation",
+      "stars": 49,
+      "starsCollectedAt": "2026-10-18T14:37:51.748686+00:00",
+      "fork": false,
+      "parentRepository": null,
+      "content": {
+        "pt": {
+          "summary": "Runtime específico de PS4 com tradução gráfica e gameplay documentado no Linux.",
+          "originalFiles": "Dump próprio CUSA03694 com update 01.11; módulo próprio libSceNgs2.sprx para áudio.",
+          "requirements": [
+            "Linux x86-64 glibc 2.39+; pacote Windows 10/11 x64 ainda sem teste em jogo pelo autor."
+          ],
+          "installation": [
+            "Extraia o pacote e prepare sua pasta com jogo base e update 01.11 conforme a lista oficial.",
+            "Coloque seu módulo de áudio em system_lib, abra o launcher, selecione a pasta e clique em Jogar."
+          ],
+          "limitations": "Saves e mundo aberto em teste; Windows sem validação em jogo; macOS apenas planejado."
+        },
+        "en": {
+          "summary": "PS4-specific runtime with graphics translation and documented Linux gameplay.",
+          "originalFiles": "Your CUSA03694 dump with update 01.11; your libSceNgs2.sprx module for audio.",
+          "requirements": [
+            "x86-64 Linux with glibc 2.39+; Windows 10/11 x64 package has no author gameplay test yet."
+          ],
+          "installation": [
+            "Extract the package and prepare your base game plus update 01.11 using the official file list.",
+            "Put your audio module in system_lib, open the launcher, select the folder and play."
+          ],
+          "limitations": "Saves and open world are under test; Windows gameplay unvalidated; macOS is only planned."
+        },
+        "es": {
+          "summary": "Runtime específico de PS4 con traducción gráfica y juego documentado en Linux.",
+          "originalFiles": "Tu dump CUSA03694 con update 01.11; tu módulo libSceNgs2.sprx para audio.",
+          "requirements": [
+            "Linux x86-64 glibc 2.39+; paquete Windows 10/11 x64 aún sin prueba en juego del autor."
+          ],
+          "installation": [
+            "Extrae el paquete y prepara juego base más update 01.11 según la lista oficial.",
+            "Pon tu módulo de audio en system_lib, abre el launcher, selecciona la carpeta y juega."
+          ],
+          "limitations": "Saves y mundo abierto en pruebas; Windows sin validación en juego; macOS solo planeado."
+        }
+      },
+      "upstream": {
+        "checkedAt": "2026-10-18T14:37:51.748686+00:00",
+        "head": "fd637d0c40301af63ddbc056f7998ab809857088",
+        "pushedAt": "2026-10-17T15:35:22Z",
+        "archived": false,
+        "latestRelease": {
+          "tag": "v2026.10.17-fd637d0",
+          "url": "https://github.com/HayatoG/gr2_pc/releases/tag/v2026.10.17-fd637d0",
+          "publishedAt": "2026-10-17T15:10:30Z",
+          "prerelease": false,
+          "hasDownload": true
+        },
+        "documentationChanged": true
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/en/9/94/Gravity_Rush_2.jpg",
+        "source": "https://en.wikipedia.org/wiki/Gravity_Rush_2",
+        "kind": "reference"
+      }
+    },
+    {
+      "id": "conker-recompiled",
+      "editionId": "conker-recompiled",
+      "game": "Conker’s Bad Fur Day",
+      "name": "Conker’s Bad Fur Day: Recompiled",
+      "origins": [
+        "Nintendo 64"
+      ],
+      "targets": [
+        "Windows",
+        "Linux",
+        "macOS"
+      ],
+      "type": "recompilacao",
+      "approach": "static-recompilation",
+      "developmentStage": "desenvolvimento",
+      "playability": "jogavel",
+      "github": "https://github.com/sciaschi/CBFD-Recompiled",
+      "instructionsUrl": "https://github.com/sciaschi/CBFD-Recompiled/blob/ed1b8bb7f3f036334124ec27eb28efa64e400178/README.md",
+      "evidenceUrl": "https://github.com/sciaschi/CBFD-Recompiled/blob/ed1b8bb7f3f036334124ec27eb28efa64e400178/README.md",
+      "reviewedAt": "2026-10-16",
+      "reviewedVersion": "ed1b8bb7f3f036334124ec27eb28efa64e400178",
+      "reviewMethod": "documentation",
+      "stars": 284,
+      "starsCollectedAt": "2026-10-18T14:37:52.989150+00:00",
+      "fork": false,
+      "parentRepository": null,
+      "content": {
+        "pt": {
+          "summary": "Recompilação estática com N64Recomp e renderização RT64.",
+          "originalFiles": "ROM própria USA .z64 compatível.",
+          "requirements": [
+            "Windows com Direct3D 12/Vulkan, Linux Vulkan ou macOS 15+ Apple Silicon."
+          ],
+          "installation": [
+            "Extraia a release do seu sistema.",
+            "Abra ConkerRecomp e selecione sua ROM USA no primeiro uso."
+          ],
+          "limitations": "Autor relata campanha completa; conclusão no macOS não confirmada e Intel Mac não testado."
+        },
+        "en": {
+          "summary": "Static recompilation using N64Recomp and RT64 rendering.",
+          "originalFiles": "Your compatible USA .z64 ROM.",
+          "requirements": [
+            "Windows with Direct3D 12/Vulkan, Linux with Vulkan or macOS 15+ on Apple Silicon."
+          ],
+          "installation": [
+            "Extract your OS release.",
+            "Open ConkerRecomp and choose your USA ROM on first launch."
+          ],
+          "limitations": "Author reports a completed campaign; macOS completion is unconfirmed and Intel Macs untested."
+        },
+        "es": {
+          "summary": "Recompilación estática con N64Recomp y renderizado RT64.",
+          "originalFiles": "Tu ROM USA .z64 compatible.",
+          "requirements": [
+            "Windows con Direct3D 12/Vulkan, Linux Vulkan o macOS 15+ Apple Silicon."
+          ],
+          "installation": [
+            "Extrae la versión de tu sistema.",
+            "Abre ConkerRecomp y selecciona tu ROM USA la primera vez."
+          ],
+          "limitations": "El autor relata campaña completa; finalización en macOS sin confirmar e Intel Mac sin probar."
+        }
+      },
+      "upstream": {
+        "checkedAt": "2026-10-18T14:37:52.989150+00:00",
+        "head": "ed1b8bb7f3f036334124ec27eb28efa64e400178",
+        "pushedAt": "2026-10-17T20:54:25Z",
+        "archived": false,
+        "latestRelease": {
+          "tag": "V0.1.6",
+          "url": "https://github.com/sciaschi/CBFD-Recompiled/releases/tag/V0.1.6",
+          "publishedAt": "2026-10-13T21:55:43Z",
+          "prerelease": false,
+          "hasDownload": true
+        },
+        "documentationChanged": false
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Conkersbfdbox.jpg/330px-Conkersbfdbox.jpg",
+        "source": "https://en.wikipedia.org/wiki/Conker's_Bad_Fur_Day",
+        "kind": "reference"
+      }
+    },
+    {
+      "id": "ace-combat-6",
+      "editionId": "ace-combat-6",
+      "game": "Ace Combat 6: Fires of Liberation",
+      "name": "AC6Recomp",
+      "origins": [
+        "Xbox 360"
+      ],
+      "targets": [
+        "Windows"
+      ],
+      "type": "recompilacao",
+      "approach": "static-recompilation",
+      "developmentStage": "experimental",
+      "playability": "parcial",
+      "github": "https://github.com/sal063/AC6_recomp",
+      "instructionsUrl": "https://github.com/sal063/AC6_recomp/blob/09144bb092ad871584808aeead69c395edbd5200/README.md",
+      "evidenceUrl": "https://github.com/sal063/AC6_recomp/blob/09144bb092ad871584808aeead69c395edbd5200/README.md",
+      "reviewedAt": "2026-10-16",
+      "reviewedVersion": "09144bb092ad871584808aeead69c395edbd5200",
+      "reviewMethod": "documentation",
+      "stars": 537,
+      "starsCollectedAt": "2026-10-18T14:37:54.159712+00:00",
+      "fork": false,
+      "parentRepository": null,
+      "content": {
+        "pt": {
+          "summary": "Código PowerPC recompilado; renderização ainda usa backend RexGlue/Xenia.",
+          "originalFiles": "Cópia própria USA; outras regiões não suportadas.",
+          "requirements": [
+            "Windows 10/11 x64, CPU AVX2 e GPU Direct3D 12."
+          ],
+          "installation": [
+            "Extraia a build oficial.",
+            "Deixe sua ISO ou pasta assets extraída junto de ac6recomp.exe e abra o executável."
+          ],
+          "limitations": "Projeto experimental com boot e gameplay; bugs, crashes e funções ausentes. Desempenho pode exigir GPU forte."
+        },
+        "en": {
+          "summary": "Recompiled PowerPC code; rendering still uses the RexGlue/Xenia backend.",
+          "originalFiles": "Your USA copy; other regions are unsupported.",
+          "requirements": [
+            "Windows 10/11 x64, AVX2 CPU and Direct3D 12 GPU."
+          ],
+          "installation": [
+            "Extract the official build.",
+            "Place your ISO or extracted assets folder beside ac6recomp.exe and launch."
+          ],
+          "limitations": "Experimental project with boot and gameplay; bugs, crashes and missing features. Performance may require a powerful GPU."
+        },
+        "es": {
+          "summary": "Código PowerPC recompilado; renderizado todavía mediante RexGlue/Xenia.",
+          "originalFiles": "Tu copia USA; otras regiones no admitidas.",
+          "requirements": [
+            "Windows 10/11 x64, CPU AVX2 y GPU Direct3D 12."
+          ],
+          "installation": [
+            "Extrae la compilación oficial.",
+            "Deja tu ISO o carpeta assets extraída junto a ac6recomp.exe e inicia."
+          ],
+          "limitations": "Proyecto experimental con arranque y juego; fallos, cierres y funciones ausentes. Puede exigir una GPU potente."
+        }
+      },
+      "upstream": {
+        "checkedAt": "2026-10-18T14:37:54.159712+00:00",
+        "head": "09144bb092ad871584808aeead69c395edbd5200",
+        "pushedAt": "2026-08-22T15:52:26Z",
+        "archived": false,
+        "latestRelease": {
+          "tag": "v1.0.0-beta.2",
+          "url": "https://github.com/sal063/AC6_recomp/releases/tag/v1.0.0-beta.2",
+          "publishedAt": "2026-08-17T20:00:51Z",
+          "prerelease": true,
+          "hasDownload": true
+        },
+        "documentationChanged": false
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/en/1/16/Ace_Combat_6_Fires_of_Liberation_Game_Cover.jpg",
+        "source": "https://en.wikipedia.org/wiki/Ace_Combat_6%3A_Fires_of_Liberation",
+        "kind": "reference"
+      }
+    },
+    {
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/en/1/1c/Darkness_cover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "kind": "reference",
+        "source": "https://en.wikipedia.org/wiki/The_Darkness_(video_game)",
+        "subject": "The Darkness (video game)",
+        "provider": "wikipedia-summary-v1",
+        "checkedAt": "2026-10-17T15:24:53.608784+00:00"
+      },
+      "id": "auto-1274ce75aefd8c",
+      "editionId": "auto-1274ce75aefd8c",
+      "game": "The Darkness",
+      "name": "portingpete/The-Darkness-Recomp",
+      "type": "recompilacao",
+      "approach": "static-recompilation",
+      "origins": [
+        "Xbox 360"
+      ],
+      "targets": [
+        "Windows"
+      ],
+      "playability": "nao-verificado",
+      "developmentStage": "experimental",
+      "github": "https://github.com/portingpete/The-Darkness-Recomp",
+      "instructionsUrl": "https://github.com/portingpete/The-Darkness-Recomp/blob/98f0bcd49dfee90dfee968a3b75fd40e892c91e7/README.md",
+      "evidenceUrl": "https://github.com/portingpete/The-Darkness-Recomp/blob/98f0bcd49dfee90dfee968a3b75fd40e892c91e7/README.md",
+      "reviewedAt": "2026-10-17",
+      "reviewedVersion": "98f0bcd49dfee90dfee968a3b75fd40e892c91e7",
+      "reviewMethod": "documentation",
+      "reviewAgent": "documentary-rules-v2",
+      "authorClaim": "Playable today",
+      "screeningVersion": "documentary-v2",
+      "documentaryEvidence": {
+        "technique": {
+          "url": "https://github.com/portingpete/The-Darkness-Recomp/blob/98f0bcd49dfee90dfee968a3b75fd40e892c91e7/README.md"
+        },
+        "pc": {
+          "url": "https://github.com/portingpete/The-Darkness-Recomp/blob/98f0bcd49dfee90dfee968a3b75fd40e892c91e7/README.md"
+        },
+        "instructions": {
+          "url": "https://github.com/portingpete/The-Darkness-Recomp/blob/98f0bcd49dfee90dfee968a3b75fd40e892c91e7/README.md"
+        },
+        "requirements": {
+          "url": "https://github.com/portingpete/The-Darkness-Recomp/blob/98f0bcd49dfee90dfee968a3b75fd40e892c91e7/README.md"
+        },
+        "ownFiles": {
+          "url": "https://github.com/portingpete/The-Darkness-Recomp/blob/98f0bcd49dfee90dfee968a3b75fd40e892c91e7/README.md"
+        },
+        "playabilityClaim": {
+          "url": "https://github.com/portingpete/The-Darkness-Recomp/blob/98f0bcd49dfee90dfee968a3b75fd40e892c91e7/README.md"
+        }
+      },
+      "stars": 302,
+      "starsCollectedAt": "2026-10-18T14:37:55.424931+00:00",
+      "content": {
+        "pt": {
+          "summary": "Recompilação de The Darkness para PC, trazendo a campanha de tiro e os poderes sobrenaturais da versão de Xbox 360.",
+          "originalFiles": "Forneça sua própria cópia compatível; confira edição e arquivos exigidos no README.",
+          "requirements": [
+            "Confira os requisitos completos e as diferenças entre sistemas na fonte fixada."
+          ],
+          "installation": [
+            "Abra o README fixado e confira a seção de instalação.",
+            "Use a release oficial e forneça seus arquivos conforme o autor."
+          ],
+          "limitations": "Triagem por regras, sem execução do jogo. Alegações podem estar desatualizadas ou incorretas; não há garantia de campanha completa no seu PC."
+        },
+        "en": {
+          "summary": "A PC recompilation of The Darkness, bringing the Xbox 360 shooter and its supernatural powers to desktop.",
+          "originalFiles": "Provide your own compatible copy; check the required edition and files in the README.",
+          "requirements": [
+            "Check full requirements and OS differences in the pinned source."
+          ],
+          "installation": [
+            "Open the pinned README and check the installation section.",
+            "Use the official release and supply your files as instructed by its author."
+          ],
+          "limitations": "Rule-based screening without running the game. Claims may be outdated or incorrect; a full playthrough on your PC is not guaranteed."
+        },
+        "es": {
+          "summary": "Recompilación de The Darkness para PC, basada en la aventura de disparos y poderes sobrenaturales de Xbox 360.",
+          "originalFiles": "Proporciona tu copia compatible; consulta edición y archivos necesarios en el README.",
+          "requirements": [
+            "Consulta requisitos completos y diferencias entre sistemas en la fuente fijada."
+          ],
+          "installation": [
+            "Abre el README fijado y consulta la instalación.",
+            "Usa la versión oficial y aporta tus archivos según el autor."
+          ],
+          "limitations": "Filtro por reglas sin ejecutar el juego. Las afirmaciones pueden ser incorrectas o antiguas; no se garantiza una campaña completa en tu PC."
+        }
+      },
+      "upstream": {
+        "checkedAt": "2026-10-18T14:37:55.424931+00:00",
+        "head": "98f0bcd49dfee90dfee968a3b75fd40e892c91e7",
+        "pushedAt": "2026-10-16T17:31:54Z",
+        "archived": false,
+        "latestRelease": {
+          "tag": "v0.1.7",
+          "url": "https://github.com/portingpete/The-Darkness-Recomp/releases/tag/v0.1.7",
+          "publishedAt": "2026-10-14T16:37:11Z",
+          "prerelease": true,
+          "hasDownload": true
+        },
+        "documentationChanged": false
+      }
+    },
+    {
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/en/a/ad/Black_cover_art.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "kind": "reference",
+        "source": "https://en.wikipedia.org/wiki/Black_(video_game)",
+        "subject": "Black (video game)",
+        "provider": "wikipedia-summary-v1",
+        "checkedAt": "2026-10-17T15:24:53.855544+00:00"
+      },
+      "id": "auto-f0068d695798ef",
+      "editionId": "auto-f0068d695798ef",
+      "game": "Black",
+      "name": "TGP482/BLACK-XBERecomp",
+      "type": "recompilacao",
+      "approach": "static-recompilation",
+      "origins": [
+        "Xbox"
+      ],
+      "targets": [
+        "Windows"
+      ],
+      "playability": "nao-verificado",
+      "developmentStage": "desconhecido",
+      "github": "https://github.com/TGP482/BLACK-XBERecomp",
+      "instructionsUrl": "https://github.com/TGP482/BLACK-XBERecomp/blob/39ad6973d3eed447acda81f99722ac27e6ee0b71/README.md",
+      "evidenceUrl": "https://github.com/TGP482/BLACK-XBERecomp/blob/39ad6973d3eed447acda81f99722ac27e6ee0b71/README.md",
+      "reviewedAt": "2026-10-17",
+      "reviewedVersion": "39ad6973d3eed447acda81f99722ac27e6ee0b71",
+      "reviewMethod": "documentation",
+      "reviewAgent": "documentary-rules-v2",
+      "authorClaim": "while the game is running",
+      "screeningVersion": "documentary-v2",
+      "documentaryEvidence": {
+        "technique": {
+          "url": "https://github.com/TGP482/BLACK-XBERecomp/blob/39ad6973d3eed447acda81f99722ac27e6ee0b71/README.md"
+        },
+        "pc": {
+          "url": "https://github.com/TGP482/BLACK-XBERecomp/blob/39ad6973d3eed447acda81f99722ac27e6ee0b71/README.md"
+        },
+        "instructions": {
+          "url": "https://github.com/TGP482/BLACK-XBERecomp/blob/39ad6973d3eed447acda81f99722ac27e6ee0b71/README.md"
+        },
+        "requirements": {
+          "url": "https://github.com/TGP482/BLACK-XBERecomp/blob/39ad6973d3eed447acda81f99722ac27e6ee0b71/README.md"
+        },
+        "ownFiles": {
+          "url": "https://github.com/TGP482/BLACK-XBERecomp/blob/39ad6973d3eed447acda81f99722ac27e6ee0b71/README.md"
+        },
+        "playabilityClaim": {
+          "url": "https://github.com/TGP482/BLACK-XBERecomp/blob/39ad6973d3eed447acda81f99722ac27e6ee0b71/README.md"
+        }
+      },
+      "stars": 366,
+      "starsCollectedAt": "2026-10-18T14:37:56.619362+00:00",
+      "content": {
+        "pt": {
+          "summary": "Adaptação de Black para Windows por recompilação da versão de Xbox, com foco no combate em primeira pessoa do jogo original.",
+          "originalFiles": "Forneça sua própria cópia compatível; confira edição e arquivos exigidos no README.",
+          "requirements": [
+            "Confira os requisitos completos e as diferenças entre sistemas na fonte fixada."
+          ],
+          "installation": [
+            "Abra o README fixado e confira a seção de instalação.",
+            "Use a release oficial e forneça seus arquivos conforme o autor."
+          ],
+          "limitations": "Triagem por regras, sem execução do jogo. Alegações podem estar desatualizadas ou incorretas; não há garantia de campanha completa no seu PC."
+        },
+        "en": {
+          "summary": "A Windows adaptation of Black through recompilation of the Xbox version, focused on the original first-person combat.",
+          "originalFiles": "Provide your own compatible copy; check the required edition and files in the README.",
+          "requirements": [
+            "Check full requirements and OS differences in the pinned source."
+          ],
+          "installation": [
+            "Open the pinned README and check the installation section.",
+            "Use the official release and supply your files as instructed by its author."
+          ],
+          "limitations": "Rule-based screening without running the game. Claims may be outdated or incorrect; a full playthrough on your PC is not guaranteed."
+        },
+        "es": {
+          "summary": "Adaptación de Black para Windows mediante recompilación de la versión de Xbox y su combate en primera persona.",
+          "originalFiles": "Proporciona tu copia compatible; consulta edición y archivos necesarios en el README.",
+          "requirements": [
+            "Consulta requisitos completos y diferencias entre sistemas en la fuente fijada."
+          ],
+          "installation": [
+            "Abre el README fijado y consulta la instalación.",
+            "Usa la versión oficial y aporta tus archivos según el autor."
+          ],
+          "limitations": "Filtro por reglas sin ejecutar el juego. Las afirmaciones pueden ser incorrectas o antiguas; no se garantiza una campaña completa en tu PC."
+        }
+      },
+      "upstream": {
+        "checkedAt": "2026-10-18T14:37:56.619362+00:00",
+        "head": "0d3ef51253d3007b351411b80cb30068fe37ecb1",
+        "pushedAt": "2026-10-18T14:32:25Z",
+        "archived": false,
+        "latestRelease": {
+          "tag": "V1",
+          "url": "https://github.com/TGP482/BLACK-XBERecomp/releases/tag/V1",
+          "publishedAt": "2026-10-15T16:17:32Z",
+          "prerelease": false,
+          "hasDownload": true
+        },
+        "documentationChanged": true
+      }
+    },
+    {
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/en/4/44/Crash_Bandicoot_Cover.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "kind": "reference",
+        "source": "https://en.wikipedia.org/wiki/Crash_Bandicoot_(video_game)",
+        "subject": "Crash Bandicoot (video game)",
+        "provider": "wikipedia-summary-v1",
+        "checkedAt": "2026-10-17T15:24:54.115310+00:00"
+      },
+      "id": "auto-0a3ccbe4ef86e1",
+      "editionId": "auto-0a3ccbe4ef86e1",
+      "game": "Crash Bandicoot",
+      "name": "Matteo842/CrashBandicoot-Launcher",
+      "type": "recompilacao",
+      "approach": "static-recompilation",
+      "origins": [
+        "PS1"
+      ],
+      "targets": [
+        "Windows",
+        "Linux"
+      ],
+      "playability": "nao-verificado",
+      "developmentStage": "desconhecido",
+      "github": "https://github.com/Matteo842/CrashBandicoot-Launcher",
+      "instructionsUrl": "https://github.com/Matteo842/CrashBandicoot-Launcher/blob/5c7b2ff989eb84bfa2b9143787108f5d2cea50c6/README.md",
+      "evidenceUrl": "https://github.com/Matteo842/CrashBandicoot-Launcher/blob/5c7b2ff989eb84bfa2b9143787108f5d2cea50c6/README.md",
+      "reviewedAt": "2026-10-17",
+      "reviewedVersion": "5c7b2ff989eb84bfa2b9143787108f5d2cea50c6",
+      "reviewMethod": "documentation",
+      "reviewAgent": "documentary-rules-v2",
+      "authorClaim": "running natively on PC",
+      "screeningVersion": "documentary-v2",
+      "documentaryEvidence": {
+        "technique": {
+          "url": "https://github.com/Matteo842/CrashBandicoot-Launcher/blob/5c7b2ff989eb84bfa2b9143787108f5d2cea50c6/README.md"
+        },
+        "pc": {
+          "url": "https://github.com/Matteo842/CrashBandicoot-Launcher/blob/5c7b2ff989eb84bfa2b9143787108f5d2cea50c6/README.md"
+        },
+        "instructions": {
+          "url": "https://github.com/Matteo842/CrashBandicoot-Launcher/blob/5c7b2ff989eb84bfa2b9143787108f5d2cea50c6/README.md"
+        },
+        "requirements": {
+          "url": "https://github.com/Matteo842/CrashBandicoot-Launcher/blob/5c7b2ff989eb84bfa2b9143787108f5d2cea50c6/README.md"
+        },
+        "ownFiles": {
+          "url": "https://github.com/Matteo842/CrashBandicoot-Launcher/blob/5c7b2ff989eb84bfa2b9143787108f5d2cea50c6/README.md"
+        },
+        "playabilityClaim": {
+          "url": "https://github.com/Matteo842/CrashBandicoot-Launcher/blob/5c7b2ff989eb84bfa2b9143787108f5d2cea50c6/README.md"
+        }
+      },
+      "stars": 276,
+      "starsCollectedAt": "2026-10-18T14:37:58.181425+00:00",
+      "content": {
+        "pt": {
+          "summary": "Projeto para jogar Crash Bandicoot no PC, levando as fases de plataforma do clássico de PlayStation a Windows e Linux.",
+          "originalFiles": "Forneça sua própria cópia compatível; confira edição e arquivos exigidos no README.",
+          "requirements": [
+            "Confira os requisitos completos e as diferenças entre sistemas na fonte fixada."
+          ],
+          "installation": [
+            "Abra o README fixado e confira a seção de instalação.",
+            "Use a release oficial e forneça seus arquivos conforme o autor."
+          ],
+          "limitations": "Triagem por regras, sem execução do jogo. Alegações podem estar desatualizadas ou incorretas; não há garantia de campanha completa no seu PC."
+        },
+        "en": {
+          "summary": "A project bringing Crash Bandicoot’s classic PlayStation platforming stages to Windows and Linux.",
+          "originalFiles": "Provide your own compatible copy; check the required edition and files in the README.",
+          "requirements": [
+            "Check full requirements and OS differences in the pinned source."
+          ],
+          "installation": [
+            "Open the pinned README and check the installation section.",
+            "Use the official release and supply your files as instructed by its author."
+          ],
+          "limitations": "Rule-based screening without running the game. Claims may be outdated or incorrect; a full playthrough on your PC is not guaranteed."
+        },
+        "es": {
+          "summary": "Proyecto que lleva las fases de plataformas del Crash Bandicoot de PlayStation a Windows y Linux.",
+          "originalFiles": "Proporciona tu copia compatible; consulta edición y archivos necesarios en el README.",
+          "requirements": [
+            "Consulta requisitos completos y diferencias entre sistemas en la fuente fijada."
+          ],
+          "installation": [
+            "Abre el README fijado y consulta la instalación.",
+            "Usa la versión oficial y aporta tus archivos según el autor."
+          ],
+          "limitations": "Filtro por reglas sin ejecutar el juego. Las afirmaciones pueden ser incorrectas o antiguas; no se garantiza una campaña completa en tu PC."
+        }
+      },
+      "upstream": {
+        "checkedAt": "2026-10-18T14:37:58.181425+00:00",
+        "head": "6415234c5a2e366717f7cf83471c5cf23f340941",
+        "pushedAt": "2026-10-18T13:29:45Z",
+        "archived": false,
+        "latestRelease": {
+          "tag": "2.2",
+          "url": "https://github.com/Matteo842/CrashBandicoot-Launcher/releases/tag/2.2",
+          "publishedAt": "2026-10-14T10:18:51Z",
+          "prerelease": false,
+          "hasDownload": true
+        },
+        "documentationChanged": true
+      }
+    },
+    {
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/en/1/13/GoldenEye_007_N64_cover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "kind": "reference",
+        "source": "https://en.wikipedia.org/wiki/GoldenEye_007",
+        "subject": "GoldenEye 007",
+        "provider": "wikipedia-summary-v1",
+        "checkedAt": "2026-10-17T15:24:54.364964+00:00"
+      },
+      "id": "auto-e2142f6b425bc5",
+      "editionId": "auto-e2142f6b425bc5",
+      "game": "GoldenEye 007",
+      "name": "jkdansereau/goldeneye-pc-port",
+      "type": "port",
+      "approach": "source-port",
+      "origins": [
+        "Nintendo 64"
+      ],
+      "targets": [
+        "Windows",
+        "Linux"
+      ],
+      "playability": "nao-verificado",
+      "developmentStage": "desconhecido",
+      "github": "https://github.com/jkdansereau/goldeneye-pc-port",
+      "instructionsUrl": "https://github.com/jkdansereau/goldeneye-pc-port/blob/fda76b69837e6c5aae436e0d3e798989e49b06d2/README.md",
+      "evidenceUrl": "https://github.com/jkdansereau/goldeneye-pc-port/blob/fda76b69837e6c5aae436e0d3e798989e49b06d2/README.md",
+      "reviewedAt": "2026-10-17",
+      "reviewedVersion": "fda76b69837e6c5aae436e0d3e798989e49b06d2",
+      "reviewMethod": "documentation",
+      "reviewAgent": "documentary-rules-v2",
+      "authorClaim": "campaign playable",
+      "screeningVersion": "documentary-v2",
+      "documentaryEvidence": {
+        "technique": {
+          "url": "https://github.com/jkdansereau/goldeneye-pc-port/blob/fda76b69837e6c5aae436e0d3e798989e49b06d2/README.md"
+        },
+        "pc": {
+          "url": "https://github.com/jkdansereau/goldeneye-pc-port/blob/fda76b69837e6c5aae436e0d3e798989e49b06d2/README.md"
+        },
+        "instructions": {
+          "url": "https://github.com/jkdansereau/goldeneye-pc-port/blob/fda76b69837e6c5aae436e0d3e798989e49b06d2/README.md"
+        },
+        "requirements": {
+          "url": "https://github.com/jkdansereau/goldeneye-pc-port/blob/fda76b69837e6c5aae436e0d3e798989e49b06d2/README.md"
+        },
+        "ownFiles": {
+          "url": "https://github.com/jkdansereau/goldeneye-pc-port/blob/fda76b69837e6c5aae436e0d3e798989e49b06d2/README.md"
+        },
+        "playabilityClaim": {
+          "url": "https://github.com/jkdansereau/goldeneye-pc-port/blob/fda76b69837e6c5aae436e0d3e798989e49b06d2/README.md"
+        }
+      },
+      "stars": 272,
+      "starsCollectedAt": "2026-10-18T14:37:59.776229+00:00",
+      "content": {
+        "pt": {
+          "summary": "Adaptação de GoldenEye 007 para Windows e Linux, baseada no jogo de espionagem e tiro em primeira pessoa do Nintendo 64.",
+          "originalFiles": "Forneça sua própria cópia compatível; confira edição e arquivos exigidos no README.",
+          "requirements": [
+            "Confira os requisitos completos e as diferenças entre sistemas na fonte fixada."
+          ],
+          "installation": [
+            "Abra o README fixado e confira a seção de instalação.",
+            "Use a release oficial e forneça seus arquivos conforme o autor."
+          ],
+          "limitations": "Triagem por regras, sem execução do jogo. Alegações podem estar desatualizadas ou incorretas; não há garantia de campanha completa no seu PC."
+        },
+        "en": {
+          "summary": "A Windows and Linux adaptation of GoldenEye 007, based on the Nintendo 64 spy-themed first-person shooter.",
+          "originalFiles": "Provide your own compatible copy; check the required edition and files in the README.",
+          "requirements": [
+            "Check full requirements and OS differences in the pinned source."
+          ],
+          "installation": [
+            "Open the pinned README and check the installation section.",
+            "Use the official release and supply your files as instructed by its author."
+          ],
+          "limitations": "Rule-based screening without running the game. Claims may be outdated or incorrect; a full playthrough on your PC is not guaranteed."
+        },
+        "es": {
+          "summary": "Adaptación de GoldenEye 007 para Windows y Linux, basada en el juego de espionaje y disparos de Nintendo 64.",
+          "originalFiles": "Proporciona tu copia compatible; consulta edición y archivos necesarios en el README.",
+          "requirements": [
+            "Consulta requisitos completos y diferencias entre sistemas en la fuente fijada."
+          ],
+          "installation": [
+            "Abre el README fijado y consulta la instalación.",
+            "Usa la versión oficial y aporta tus archivos según el autor."
+          ],
+          "limitations": "Filtro por reglas sin ejecutar el juego. Las afirmaciones pueden ser incorrectas o antiguas; no se garantiza una campaña completa en tu PC."
+        }
+      },
+      "upstream": {
+        "checkedAt": "2026-10-18T14:37:59.776229+00:00",
+        "head": "fda76b69837e6c5aae436e0d3e798989e49b06d2",
+        "pushedAt": "2026-10-14T02:09:45Z",
+        "archived": false,
+        "latestRelease": {
+          "tag": "v0.5.0",
+          "url": "https://github.com/jkdansereau/goldeneye-pc-port/releases/tag/v0.5.0",
+          "publishedAt": "2026-10-07T15:42:22Z",
+          "prerelease": false,
+          "hasDownload": true
+        },
+        "documentationChanged": false
+      }
+    },
+    {
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/en/1/13/Pikmin_cover_art.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "kind": "reference",
+        "source": "https://en.wikipedia.org/wiki/Pikmin_(video_game)",
+        "subject": "Pikmin (video game)",
+        "provider": "wikipedia-summary-v1",
+        "checkedAt": "2026-10-17T15:24:54.606253+00:00"
+      },
+      "id": "auto-a276312b894e60",
+      "editionId": "auto-a276312b894e60",
+      "game": "Open Nectar — Pikmin",
+      "name": "SSunnKing/Open-Nectar---Pikmin-Native-PC-Mobile-Port",
+      "type": "port",
+      "approach": "source-port",
+      "origins": [
+        "GameCube"
+      ],
+      "targets": [
+        "Windows",
+        "Linux",
+        "macOS"
+      ],
+      "playability": "nao-verificado",
+      "developmentStage": "experimental",
+      "github": "https://github.com/SSunnKing/Open-Nectar---Pikmin-Native-PC-Mobile-Port",
+      "instructionsUrl": "https://github.com/SSunnKing/Open-Nectar---Pikmin-Native-PC-Mobile-Port/blob/7496d7da1562d9d2a82d19c9eacf6f4ea2ebc366/README.md",
+      "evidenceUrl": "https://github.com/SSunnKing/Open-Nectar---Pikmin-Native-PC-Mobile-Port/blob/7496d7da1562d9d2a82d19c9eacf6f4ea2ebc366/README.md",
+      "reviewedAt": "2026-10-17",
+      "reviewedVersion": "7496d7da1562d9d2a82d19c9eacf6f4ea2ebc366",
+      "reviewMethod": "documentation",
+      "reviewAgent": "documentary-rules-v2",
+      "authorClaim": "Most of the game playable",
+      "screeningVersion": "documentary-v2",
+      "documentaryEvidence": {
+        "technique": {
+          "url": "https://github.com/SSunnKing/Open-Nectar---Pikmin-Native-PC-Mobile-Port/blob/7496d7da1562d9d2a82d19c9eacf6f4ea2ebc366/README.md"
+        },
+        "pc": {
+          "url": "https://github.com/SSunnKing/Open-Nectar---Pikmin-Native-PC-Mobile-Port/blob/7496d7da1562d9d2a82d19c9eacf6f4ea2ebc366/README.md"
+        },
+        "instructions": {
+          "url": "https://github.com/SSunnKing/Open-Nectar---Pikmin-Native-PC-Mobile-Port/blob/7496d7da1562d9d2a82d19c9eacf6f4ea2ebc366/README.md"
+        },
+        "requirements": {
+          "url": "https://github.com/SSunnKing/Open-Nectar---Pikmin-Native-PC-Mobile-Port/blob/7496d7da1562d9d2a82d19c9eacf6f4ea2ebc366/README.md"
+        },
+        "ownFiles": {
+          "url": "https://github.com/SSunnKing/Open-Nectar---Pikmin-Native-PC-Mobile-Port/blob/7496d7da1562d9d2a82d19c9eacf6f4ea2ebc366/README.md"
+        },
+        "playabilityClaim": {
+          "url": "https://github.com/SSunnKing/Open-Nectar---Pikmin-Native-PC-Mobile-Port/blob/7496d7da1562d9d2a82d19c9eacf6f4ea2ebc366/README.md"
+        }
+      },
+      "stars": 250,
+      "starsCollectedAt": "2026-10-18T14:38:01.218224+00:00",
+      "content": {
+        "pt": {
+          "summary": "Open Nectar leva Pikmin do GameCube ao PC: exploração e estratégia com pequenas criaturas para superar obstáculos e recolher recursos.",
+          "originalFiles": "Forneça sua própria cópia compatível; confira edição e arquivos exigidos no README.",
+          "requirements": [
+            "Confira os requisitos completos e as diferenças entre sistemas na fonte fixada."
+          ],
+          "installation": [
+            "Abra o README fixado e confira a seção de instalação.",
+            "Use a release oficial e forneça seus arquivos conforme o autor."
+          ],
+          "limitations": "Triagem por regras, sem execução do jogo. Alegações podem estar desatualizadas ou incorretas; não há garantia de campanha completa no seu PC."
+        },
+        "en": {
+          "summary": "Open Nectar brings GameCube’s Pikmin to PC: exploration and strategy using tiny creatures to overcome obstacles and gather resources.",
+          "originalFiles": "Provide your own compatible copy; check the required edition and files in the README.",
+          "requirements": [
+            "Check full requirements and OS differences in the pinned source."
+          ],
+          "installation": [
+            "Open the pinned README and check the installation section.",
+            "Use the official release and supply your files as instructed by its author."
+          ],
+          "limitations": "Rule-based screening without running the game. Claims may be outdated or incorrect; a full playthrough on your PC is not guaranteed."
+        },
+        "es": {
+          "summary": "Open Nectar lleva Pikmin de GameCube al PC: exploración y estrategia con pequeñas criaturas para superar obstáculos y reunir recursos.",
+          "originalFiles": "Proporciona tu copia compatible; consulta edición y archivos necesarios en el README.",
+          "requirements": [
+            "Consulta requisitos completos y diferencias entre sistemas en la fuente fijada."
+          ],
+          "installation": [
+            "Abre el README fijado y consulta la instalación.",
+            "Usa la versión oficial y aporta tus archivos según el autor."
+          ],
+          "limitations": "Filtro por reglas sin ejecutar el juego. Las afirmaciones pueden ser incorrectas o antiguas; no se garantiza una campaña completa en tu PC."
+        }
+      },
+      "upstream": {
+        "checkedAt": "2026-10-18T14:38:01.218224+00:00",
+        "head": "eed2df260dc80dc89ea8e7e6fcce3879d409fcc0",
+        "pushedAt": "2026-10-18T14:24:21Z",
+        "archived": false,
+        "latestRelease": {
+          "tag": "1.0.1",
+          "url": "https://github.com/SSunnKing/Open-Nectar---Pikmin-Native-PC-Mobile-Port/releases/tag/1.0.1",
+          "publishedAt": "2026-10-18T14:19:56Z",
+          "prerelease": false,
+          "hasDownload": true
+        },
+        "documentationChanged": true
+      }
+    },
+    {
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/en/1/1e/Scda_boxart.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "kind": "reference",
+        "source": "https://en.wikipedia.org/wiki/Tom_Clancy%27s_Splinter_Cell%3A_Double_Agent",
+        "subject": "Tom Clancy's Splinter Cell: Double Agent",
+        "provider": "wikipedia-summary-v1",
+        "checkedAt": "2026-10-17T15:24:54.845175+00:00"
+      },
+      "id": "auto-52d5040f4e2d07",
+      "editionId": "auto-52d5040f4e2d07",
+      "game": "Splinter Cell: Double Agent",
+      "name": "TGP482/SCDA-XBERecomp",
+      "type": "recompilacao",
+      "approach": "static-recompilation",
+      "origins": [
+        "Xbox"
+      ],
+      "targets": [
+        "Windows"
+      ],
+      "playability": "nao-verificado",
+      "developmentStage": "desconhecido",
+      "github": "https://github.com/TGP482/SCDA-XBERecomp",
+      "instructionsUrl": "https://github.com/TGP482/SCDA-XBERecomp/blob/e8f8b443e97cc89c8b1f009df5b6b66e50a771ee/README.md",
+      "evidenceUrl": "https://github.com/TGP482/SCDA-XBERecomp/blob/e8f8b443e97cc89c8b1f009df5b6b66e50a771ee/README.md",
+      "reviewedAt": "2026-10-17",
+      "reviewedVersion": "e8f8b443e97cc89c8b1f009df5b6b66e50a771ee",
+      "reviewMethod": "documentation",
+      "reviewAgent": "documentary-rules-v2",
+      "authorClaim": "while the game is running",
+      "screeningVersion": "documentary-v2",
+      "documentaryEvidence": {
+        "technique": {
+          "url": "https://github.com/TGP482/SCDA-XBERecomp/blob/e8f8b443e97cc89c8b1f009df5b6b66e50a771ee/README.md"
+        },
+        "pc": {
+          "url": "https://github.com/TGP482/SCDA-XBERecomp/blob/e8f8b443e97cc89c8b1f009df5b6b66e50a771ee/README.md"
+        },
+        "instructions": {
+          "url": "https://github.com/TGP482/SCDA-XBERecomp/blob/e8f8b443e97cc89c8b1f009df5b6b66e50a771ee/README.md"
+        },
+        "requirements": {
+          "url": "https://github.com/TGP482/SCDA-XBERecomp/blob/e8f8b443e97cc89c8b1f009df5b6b66e50a771ee/README.md"
+        },
+        "ownFiles": {
+          "url": "https://github.com/TGP482/SCDA-XBERecomp/blob/e8f8b443e97cc89c8b1f009df5b6b66e50a771ee/README.md"
+        },
+        "playabilityClaim": {
+          "url": "https://github.com/TGP482/SCDA-XBERecomp/blob/e8f8b443e97cc89c8b1f009df5b6b66e50a771ee/README.md"
+        }
+      },
+      "stars": 265,
+      "starsCollectedAt": "2026-10-18T14:38:02.344938+00:00",
+      "content": {
+        "pt": {
+          "summary": "Recompilação da versão de Xbox de Splinter Cell: Double Agent para Windows, centrada nas missões de infiltração de Sam Fisher.",
+          "originalFiles": "Forneça sua própria cópia compatível; confira edição e arquivos exigidos no README.",
+          "requirements": [
+            "Confira os requisitos completos e as diferenças entre sistemas na fonte fixada."
+          ],
+          "installation": [
+            "Abra o README fixado e confira a seção de instalação.",
+            "Use a release oficial e forneça seus arquivos conforme o autor."
+          ],
+          "limitations": "Triagem por regras, sem execução do jogo. Alegações podem estar desatualizadas ou incorretas; não há garantia de campanha completa no seu PC."
+        },
+        "en": {
+          "summary": "A Windows recompilation of the Xbox version of Splinter Cell: Double Agent, centered on Sam Fisher’s stealth missions.",
+          "originalFiles": "Provide your own compatible copy; check the required edition and files in the README.",
+          "requirements": [
+            "Check full requirements and OS differences in the pinned source."
+          ],
+          "installation": [
+            "Open the pinned README and check the installation section.",
+            "Use the official release and supply your files as instructed by its author."
+          ],
+          "limitations": "Rule-based screening without running the game. Claims may be outdated or incorrect; a full playthrough on your PC is not guaranteed."
+        },
+        "es": {
+          "summary": "Recompilación para Windows de la versión de Xbox de Splinter Cell: Double Agent y las misiones de infiltración de Sam Fisher.",
+          "originalFiles": "Proporciona tu copia compatible; consulta edición y archivos necesarios en el README.",
+          "requirements": [
+            "Consulta requisitos completos y diferencias entre sistemas en la fuente fijada."
+          ],
+          "installation": [
+            "Abre el README fijado y consulta la instalación.",
+            "Usa la versión oficial y aporta tus archivos según el autor."
+          ],
+          "limitations": "Filtro por reglas sin ejecutar el juego. Las afirmaciones pueden ser incorrectas o antiguas; no se garantiza una campaña completa en tu PC."
+        }
+      },
+      "upstream": {
+        "checkedAt": "2026-10-18T14:38:02.344938+00:00",
+        "head": "9f29dcb566012810f7e875de37b7258d2f52bde2",
+        "pushedAt": "2026-10-18T10:01:43Z",
+        "archived": false,
+        "latestRelease": {
+          "tag": "V1",
+          "url": "https://github.com/TGP482/SCDA-XBERecomp/releases/tag/V1",
+          "publishedAt": "2026-10-11T19:19:36Z",
+          "prerelease": false,
+          "hasDownload": true
+        },
+        "documentationChanged": true
+      }
+    },
+    {
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/en/7/77/Forza_Horizon_boxart.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "kind": "reference",
+        "source": "https://en.wikipedia.org/wiki/Forza_Horizon",
+        "subject": "Forza Horizon",
+        "provider": "wikipedia-summary-v1",
+        "checkedAt": "2026-10-17T15:24:55.084937+00:00"
+      },
+      "id": "auto-58c7e18397bc99",
+      "editionId": "auto-58c7e18397bc99",
+      "game": "Forza Horizon 1: ReImagined",
+      "name": "Dyotson/ForzaHorizon1-ReImagined",
+      "type": "port",
+      "approach": "source-port",
+      "origins": [
+        "Xbox 360"
+      ],
+      "targets": [
+        "Windows",
+        "Linux"
+      ],
+      "playability": "nao-verificado",
+      "developmentStage": "experimental",
+      "github": "https://github.com/Dyotson/ForzaHorizon1-ReImagined",
+      "instructionsUrl": "https://github.com/Dyotson/ForzaHorizon1-ReImagined/blob/af8dd5b7a9d918215e147daa1520420faa20e5d6/README.md",
+      "evidenceUrl": "https://github.com/Dyotson/ForzaHorizon1-ReImagined/blob/af8dd5b7a9d918215e147daa1520420faa20e5d6/README.md",
+      "reviewedAt": "2026-10-17",
+      "reviewedVersion": "af8dd5b7a9d918215e147daa1520420faa20e5d6",
+      "reviewMethod": "documentation",
+      "reviewAgent": "documentary-rules-v2",
+      "authorClaim": "running natively on PC",
+      "screeningVersion": "documentary-v2",
+      "documentaryEvidence": {
+        "technique": {
+          "url": "https://github.com/Dyotson/ForzaHorizon1-ReImagined/blob/af8dd5b7a9d918215e147daa1520420faa20e5d6/README.md"
+        },
+        "pc": {
+          "url": "https://github.com/Dyotson/ForzaHorizon1-ReImagined/blob/af8dd5b7a9d918215e147daa1520420faa20e5d6/README.md"
+        },
+        "instructions": {
+          "url": "https://github.com/Dyotson/ForzaHorizon1-ReImagined/blob/af8dd5b7a9d918215e147daa1520420faa20e5d6/README.md"
+        },
+        "requirements": {
+          "url": "https://github.com/Dyotson/ForzaHorizon1-ReImagined/blob/af8dd5b7a9d918215e147daa1520420faa20e5d6/README.md"
+        },
+        "ownFiles": {
+          "url": "https://github.com/Dyotson/ForzaHorizon1-ReImagined/blob/af8dd5b7a9d918215e147daa1520420faa20e5d6/README.md"
+        },
+        "playabilityClaim": {
+          "url": "https://github.com/Dyotson/ForzaHorizon1-ReImagined/blob/af8dd5b7a9d918215e147daa1520420faa20e5d6/README.md"
+        }
+      },
+      "stars": 210,
+      "starsCollectedAt": "2026-10-18T14:38:03.585722+00:00",
+      "content": {
+        "pt": {
+          "summary": "ReImagined adapta o primeiro Forza Horizon de Xbox 360 para PC, com a proposta de corrida em mundo aberto do festival Horizon.",
+          "originalFiles": "Forneça sua própria cópia compatível; confira edição e arquivos exigidos no README.",
+          "requirements": [
+            "Confira os requisitos completos e as diferenças entre sistemas na fonte fixada."
+          ],
+          "installation": [
+            "Abra o README fixado e confira a seção de instalação.",
+            "Use a release oficial e forneça seus arquivos conforme o autor."
+          ],
+          "limitations": "Triagem por regras, sem execução do jogo. Alegações podem estar desatualizadas ou incorretas; não há garantia de campanha completa no seu PC."
+        },
+        "en": {
+          "summary": "ReImagined adapts the first Xbox 360 Forza Horizon to PC, bringing its Horizon Festival open-world racing concept.",
+          "originalFiles": "Provide your own compatible copy; check the required edition and files in the README.",
+          "requirements": [
+            "Check full requirements and OS differences in the pinned source."
+          ],
+          "installation": [
+            "Open the pinned README and check the installation section.",
+            "Use the official release and supply your files as instructed by its author."
+          ],
+          "limitations": "Rule-based screening without running the game. Claims may be outdated or incorrect; a full playthrough on your PC is not guaranteed."
+        },
+        "es": {
+          "summary": "ReImagined adapta el primer Forza Horizon de Xbox 360 al PC y su propuesta de carreras de mundo abierto en el festival Horizon.",
+          "originalFiles": "Proporciona tu copia compatible; consulta edición y archivos necesarios en el README.",
+          "requirements": [
+            "Consulta requisitos completos y diferencias entre sistemas en la fuente fijada."
+          ],
+          "installation": [
+            "Abre el README fijado y consulta la instalación.",
+            "Usa la versión oficial y aporta tus archivos según el autor."
+          ],
+          "limitations": "Filtro por reglas sin ejecutar el juego. Las afirmaciones pueden ser incorrectas o antiguas; no se garantiza una campaña completa en tu PC."
+        }
+      },
+      "upstream": {
+        "checkedAt": "2026-10-18T14:38:03.585722+00:00",
+        "head": "92322ba87964ba69bf2db0f202d1697c8f8f79cd",
+        "pushedAt": "2026-10-18T14:08:04Z",
+        "archived": false,
+        "latestRelease": {
+          "tag": "v0.1.23",
+          "url": "https://github.com/Dyotson/ForzaHorizon1-ReImagined/releases/tag/v0.1.23",
+          "publishedAt": "2026-10-18T04:44:12Z",
+          "prerelease": false,
+          "hasDownload": true
+        },
+        "documentationChanged": true
+      }
+    },
+    {
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/en/2/21/King-kong-cover-pc.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "kind": "reference",
+        "source": "https://en.wikipedia.org/wiki/King_Kong_(2005_video_game)",
+        "subject": "King Kong (2005 video game)",
+        "provider": "wikipedia-summary-v1",
+        "checkedAt": "2026-10-17T15:24:55.324973+00:00"
+      },
+      "id": "auto-b2f752a89ad390",
+      "editionId": "auto-b2f752a89ad390",
+      "game": "Peter Jackson's King Kong",
+      "name": "TekRantGaming/king-kong-recompiled",
+      "type": "recompilacao",
+      "approach": "static-recompilation",
+      "origins": [
+        "Xbox 360"
+      ],
+      "targets": [
+        "Windows"
+      ],
+      "playability": "nao-verificado",
+      "developmentStage": "desconhecido",
+      "github": "https://github.com/TekRantGaming/king-kong-recompiled",
+      "instructionsUrl": "https://github.com/TekRantGaming/king-kong-recompiled/blob/c852d9f467201e9a02c1aaf099b65522535b3473/README.md",
+      "evidenceUrl": "https://github.com/TekRantGaming/king-kong-recompiled/blob/c852d9f467201e9a02c1aaf099b65522535b3473/README.md",
+      "reviewedAt": "2026-10-17",
+      "reviewedVersion": "c852d9f467201e9a02c1aaf099b65522535b3473",
+      "reviewMethod": "documentation",
+      "reviewAgent": "documentary-rules-v2",
+      "authorClaim": "port runs it natively",
+      "screeningVersion": "documentary-v2",
+      "documentaryEvidence": {
+        "technique": {
+          "url": "https://github.com/TekRantGaming/king-kong-recompiled/blob/c852d9f467201e9a02c1aaf099b65522535b3473/README.md"
+        },
+        "pc": {
+          "url": "https://github.com/TekRantGaming/king-kong-recompiled/blob/c852d9f467201e9a02c1aaf099b65522535b3473/README.md"
+        },
+        "instructions": {
+          "url": "https://github.com/TekRantGaming/king-kong-recompiled/blob/c852d9f467201e9a02c1aaf099b65522535b3473/README.md"
+        },
+        "requirements": {
+          "url": "https://github.com/TekRantGaming/king-kong-recompiled/blob/c852d9f467201e9a02c1aaf099b65522535b3473/README.md"
+        },
+        "ownFiles": {
+          "url": "https://github.com/TekRantGaming/king-kong-recompiled/blob/c852d9f467201e9a02c1aaf099b65522535b3473/README.md"
+        },
+        "playabilityClaim": {
+          "url": "https://github.com/TekRantGaming/king-kong-recompiled/blob/c852d9f467201e9a02c1aaf099b65522535b3473/README.md"
+        }
+      },
+      "stars": 186,
+      "starsCollectedAt": "2026-10-18T14:38:04.859121+00:00",
+      "content": {
+        "pt": {
+          "summary": "Recompilação de Peter Jackson’s King Kong para Windows, baseada na versão de Xbox 360 da aventura de ação ambientada na Ilha da Caveira.",
+          "originalFiles": "Forneça sua própria cópia compatível; confira edição e arquivos exigidos no README.",
+          "requirements": [
+            "Confira os requisitos completos e as diferenças entre sistemas na fonte fixada."
+          ],
+          "installation": [
+            "Abra o README fixado e confira a seção de instalação.",
+            "Use a release oficial e forneça seus arquivos conforme o autor."
+          ],
+          "limitations": "Triagem por regras, sem execução do jogo. Alegações podem estar desatualizadas ou incorretas; não há garantia de campanha completa no seu PC."
+        },
+        "en": {
+          "summary": "A Windows recompilation of Peter Jackson’s King Kong, based on the Xbox 360 action adventure set on Skull Island.",
+          "originalFiles": "Provide your own compatible copy; check the required edition and files in the README.",
+          "requirements": [
+            "Check full requirements and OS differences in the pinned source."
+          ],
+          "installation": [
+            "Open the pinned README and check the installation section.",
+            "Use the official release and supply your files as instructed by its author."
+          ],
+          "limitations": "Rule-based screening without running the game. Claims may be outdated or incorrect; a full playthrough on your PC is not guaranteed."
+        },
+        "es": {
+          "summary": "Recompilación de Peter Jackson’s King Kong para Windows, basada en la aventura de acción de Xbox 360 ambientada en la Isla Calavera.",
+          "originalFiles": "Proporciona tu copia compatible; consulta edición y archivos necesarios en el README.",
+          "requirements": [
+            "Consulta requisitos completos y diferencias entre sistemas en la fuente fijada."
+          ],
+          "installation": [
+            "Abre el README fijado y consulta la instalación.",
+            "Usa la versión oficial y aporta tus archivos según el autor."
+          ],
+          "limitations": "Filtro por reglas sin ejecutar el juego. Las afirmaciones pueden ser incorrectas o antiguas; no se garantiza una campaña completa en tu PC."
+        }
+      },
+      "upstream": {
+        "checkedAt": "2026-10-18T14:38:04.859121+00:00",
+        "head": "c852d9f467201e9a02c1aaf099b65522535b3473",
+        "pushedAt": "2026-10-13T22:17:46Z",
+        "archived": false,
+        "latestRelease": {
+          "tag": "v1.9.11",
+          "url": "https://github.com/TekRantGaming/king-kong-recompiled/releases/tag/v1.9.11",
+          "publishedAt": "2026-10-11T04:20:53Z",
+          "prerelease": false,
+          "hasDownload": true
+        },
+        "documentationChanged": false
+      }
+    },
+    {
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/en/8/8d/Doaxbvbox.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "kind": "reference",
+        "source": "https://en.wikipedia.org/wiki/Dead_or_Alive_Xtreme_Beach_Volleyball",
+        "subject": "Dead or Alive Xtreme Beach Volleyball",
+        "provider": "wikipedia-summary-v1",
+        "checkedAt": "2026-10-18T12:08:09.898670+00:00"
+      },
+      "id": "auto-87167d9b93aebf",
+      "editionId": "auto-87167d9b93aebf",
+      "game": "DOAXVB",
+      "name": "NoRain211/doaxvb-re",
+      "type": "recompilacao",
+      "approach": "static-recompilation",
+      "origins": [
+        "Xbox"
+      ],
+      "targets": [
+        "Windows",
+        "Linux",
+        "macOS"
+      ],
+      "playability": "nao-verificado",
+      "developmentStage": "experimental",
+      "github": "https://github.com/NoRain211/doaxvb-re",
+      "instructionsUrl": "https://github.com/NoRain211/doaxvb-re/blob/e282a3fc15c793e621098fc0a5d9e70aa6a6e9c2/README.md",
+      "evidenceUrl": "https://github.com/NoRain211/doaxvb-re/blob/e282a3fc15c793e621098fc0a5d9e70aa6a6e9c2/README.md",
+      "reviewedAt": "2026-10-18",
+      "reviewedVersion": "e282a3fc15c793e621098fc0a5d9e70aa6a6e9c2",
+      "reviewMethod": "documentation",
+      "reviewAgent": "documentary-rules-v2",
+      "authorClaim": "Fully playable",
+      "screeningVersion": "documentary-v2",
+      "documentaryEvidence": {
+        "technique": {
+          "url": "https://github.com/NoRain211/doaxvb-re/blob/e282a3fc15c793e621098fc0a5d9e70aa6a6e9c2/README.md"
+        },
+        "pc": {
+          "url": "https://github.com/NoRain211/doaxvb-re/blob/e282a3fc15c793e621098fc0a5d9e70aa6a6e9c2/README.md"
+        },
+        "instructions": {
+          "url": "https://github.com/NoRain211/doaxvb-re/blob/e282a3fc15c793e621098fc0a5d9e70aa6a6e9c2/README.md"
+        },
+        "requirements": {
+          "url": "https://github.com/NoRain211/doaxvb-re/blob/e282a3fc15c793e621098fc0a5d9e70aa6a6e9c2/README.md"
+        },
+        "ownFiles": {
+          "url": "https://github.com/NoRain211/doaxvb-re/blob/e282a3fc15c793e621098fc0a5d9e70aa6a6e9c2/README.md"
+        },
+        "playabilityClaim": {
+          "url": "https://github.com/NoRain211/doaxvb-re/blob/e282a3fc15c793e621098fc0a5d9e70aa6a6e9c2/README.md"
+        }
+      },
+      "stars": 180,
+      "starsCollectedAt": "2026-10-18T14:38:06.371446+00:00",
+      "content": {
+        "pt": {
+          "summary": "Port de Dead or Alive Xtreme Beach Volleyball do Xbox para PC, com partidas de vôlei e atividades de férias na ilha de Zack.",
+          "originalFiles": "Forneça sua própria cópia compatível; confira edição e arquivos exigidos no README.",
+          "requirements": [
+            "Confira os requisitos completos e as diferenças entre sistemas na fonte fixada."
+          ],
+          "installation": [
+            "Abra o README fixado e confira a seção de instalação.",
+            "Use a release oficial e forneça seus arquivos conforme o autor."
+          ],
+          "limitations": "Triagem por regras, sem execução do jogo. Alegações podem estar desatualizadas ou incorretas; não há garantia de campanha completa no seu PC."
+        },
+        "en": {
+          "summary": "A PC port of Xbox’s Dead or Alive Xtreme Beach Volleyball, featuring volleyball matches and holiday activities on Zack Island.",
+          "originalFiles": "Provide your own compatible copy; check the required edition and files in the README.",
+          "requirements": [
+            "Check full requirements and OS differences in the pinned source."
+          ],
+          "installation": [
+            "Open the pinned README and check the installation section.",
+            "Use the official release and supply your files as instructed by its author."
+          ],
+          "limitations": "Rule-based screening without running the game. Claims may be outdated or incorrect; a full playthrough on your PC is not guaranteed."
+        },
+        "es": {
+          "summary": "Port al PC de Dead or Alive Xtreme Beach Volleyball de Xbox, con partidos de voleibol y actividades de vacaciones en la isla de Zack.",
+          "originalFiles": "Proporciona tu copia compatible; consulta edición y archivos necesarios en el README.",
+          "requirements": [
+            "Consulta requisitos completos y diferencias entre sistemas en la fuente fijada."
+          ],
+          "installation": [
+            "Abre el README fijado y consulta la instalación.",
+            "Usa la versión oficial y aporta tus archivos según el autor."
+          ],
+          "limitations": "Filtro por reglas sin ejecutar el juego. Las afirmaciones pueden ser incorrectas o antiguas; no se garantiza una campaña completa en tu PC."
+        }
+      },
+      "upstream": {
+        "checkedAt": "2026-10-18T14:38:06.371446+00:00",
+        "head": "e282a3fc15c793e621098fc0a5d9e70aa6a6e9c2",
+        "pushedAt": "2026-10-18T03:39:50Z",
+        "archived": false,
+        "latestRelease": {
+          "tag": "v0.6.0-rc1",
+          "url": "https://github.com/NoRain211/doaxvb-re/releases/tag/v0.6.0-rc1",
+          "publishedAt": "2026-10-09T23:28:43Z",
+          "prerelease": true,
+          "hasDownload": true
+        },
+        "documentationChanged": false
+      }
+    },
+    {
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/en/3/37/Soulcalibur_II_flyer.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "kind": "reference",
+        "source": "https://en.wikipedia.org/wiki/Soulcalibur_II",
+        "subject": "Soulcalibur II",
+        "provider": "wikipedia-summary-v1",
+        "checkedAt": "2026-10-18T12:08:09.998385+00:00"
+      },
+      "id": "auto-ef78f74e6dcc16",
+      "editionId": "auto-ef78f74e6dcc16",
+      "game": "Ring Out",
+      "name": "jackpoison-prog/RingOut",
+      "type": "recompilacao",
+      "approach": "static-recompilation",
+      "origins": [
+        "GameCube"
+      ],
+      "targets": [
+        "Windows",
+        "Linux"
+      ],
+      "playability": "nao-verificado",
+      "developmentStage": "desconhecido",
+      "github": "https://github.com/jackpoison-prog/RingOut",
+      "instructionsUrl": "https://github.com/jackpoison-prog/RingOut/blob/6aa0179f8efbb8e0040e6383b3a486e94fbbb58c/README.md",
+      "evidenceUrl": "https://github.com/jackpoison-prog/RingOut/blob/6aa0179f8efbb8e0040e6383b3a486e94fbbb58c/README.md",
+      "reviewedAt": "2026-10-18",
+      "reviewedVersion": "6aa0179f8efbb8e0040e6383b3a486e94fbbb58c",
+      "reviewMethod": "documentation",
+      "reviewAgent": "documentary-rules-v2",
+      "authorClaim": "Fully playable",
+      "screeningVersion": "documentary-v2",
+      "documentaryEvidence": {
+        "technique": {
+          "url": "https://github.com/jackpoison-prog/RingOut/blob/6aa0179f8efbb8e0040e6383b3a486e94fbbb58c/README.md"
+        },
+        "pc": {
+          "url": "https://github.com/jackpoison-prog/RingOut/blob/6aa0179f8efbb8e0040e6383b3a486e94fbbb58c/README.md"
+        },
+        "instructions": {
+          "url": "https://github.com/jackpoison-prog/RingOut/blob/6aa0179f8efbb8e0040e6383b3a486e94fbbb58c/README.md"
+        },
+        "requirements": {
+          "url": "https://github.com/jackpoison-prog/RingOut/blob/6aa0179f8efbb8e0040e6383b3a486e94fbbb58c/README.md"
+        },
+        "ownFiles": {
+          "url": "https://github.com/jackpoison-prog/RingOut/blob/6aa0179f8efbb8e0040e6383b3a486e94fbbb58c/README.md"
+        },
+        "playabilityClaim": {
+          "url": "https://github.com/jackpoison-prog/RingOut/blob/6aa0179f8efbb8e0040e6383b3a486e94fbbb58c/README.md"
+        }
+      },
+      "stars": 164,
+      "starsCollectedAt": "2026-10-18T14:38:07.916671+00:00",
+      "content": {
+        "pt": {
+          "summary": "Ring Out recompila a edição GameCube de Soulcalibur II para PC, levando os duelos com armas do jogo a um runtime derivado do Dolphin.",
+          "originalFiles": "Forneça sua própria cópia compatível; confira edição e arquivos exigidos no README.",
+          "requirements": [
+            "Confira os requisitos completos e as diferenças entre sistemas na fonte fixada."
+          ],
+          "installation": [
+            "Abra o README fixado e confira a seção de instalação.",
+            "Use a release oficial e forneça seus arquivos conforme o autor."
+          ],
+          "limitations": "Triagem por regras, sem execução do jogo. Alegações podem estar desatualizadas ou incorretas; não há garantia de campanha completa no seu PC."
+        },
+        "en": {
+          "summary": "Ring Out recompiles the GameCube edition of Soulcalibur II for PC, bringing its weapon-based duels to a Dolphin-derived runtime.",
+          "originalFiles": "Provide your own compatible copy; check the required edition and files in the README.",
+          "requirements": [
+            "Check full requirements and OS differences in the pinned source."
+          ],
+          "installation": [
+            "Open the pinned README and check the installation section.",
+            "Use the official release and supply your files as instructed by its author."
+          ],
+          "limitations": "Rule-based screening without running the game. Claims may be outdated or incorrect; a full playthrough on your PC is not guaranteed."
+        },
+        "es": {
+          "summary": "Ring Out recompila la edición de GameCube de Soulcalibur II para PC y lleva sus duelos con armas a un entorno derivado de Dolphin.",
+          "originalFiles": "Proporciona tu copia compatible; consulta edición y archivos necesarios en el README.",
+          "requirements": [
+            "Consulta requisitos completos y diferencias entre sistemas en la fuente fijada."
+          ],
+          "installation": [
+            "Abre el README fijado y consulta la instalación.",
+            "Usa la versión oficial y aporta tus archivos según el autor."
+          ],
+          "limitations": "Filtro por reglas sin ejecutar el juego. Las afirmaciones pueden ser incorrectas o antiguas; no se garantiza una campaña completa en tu PC."
+        }
+      },
+      "upstream": {
+        "checkedAt": "2026-10-18T14:38:07.916671+00:00",
+        "head": "6aa0179f8efbb8e0040e6383b3a486e94fbbb58c",
+        "pushedAt": "2026-10-15T20:32:46Z",
+        "archived": false,
+        "latestRelease": {
+          "tag": "v1.6.9",
+          "url": "https://github.com/jackpoison-prog/RingOut/releases/tag/v1.6.9",
+          "publishedAt": "2026-10-15T20:32:46Z",
+          "prerelease": false,
+          "hasDownload": true
+        },
+        "documentationChanged": false
+      }
+    },
+    {
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/en/9/99/Conkersbfdbox.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "kind": "reference",
+        "source": "https://en.wikipedia.org/wiki/Conker%27s_Bad_Fur_Day",
+        "subject": "Conker's Bad Fur Day",
+        "provider": "wikipedia-summary-v1",
+        "checkedAt": "2026-10-18T19:25:59.347749+00:00"
+      },
+      "id": "auto-74834b948c2589",
+      "editionId": "auto-74834b948c2589",
+      "game": "Conker's Bad Fur Day: Reloaded",
+      "name": "DahSidiAbdallah/ConkerBFDReloaded",
+      "type": "recompilacao",
+      "approach": "static-recompilation",
+      "origins": [
+        "Nintendo 64"
+      ],
+      "targets": [
+        "Windows",
+        "Linux"
+      ],
+      "playability": "nao-verificado",
+      "developmentStage": "desconhecido",
+      "github": "https://github.com/DahSidiAbdallah/ConkerBFDReloaded",
+      "instructionsUrl": "https://github.com/DahSidiAbdallah/ConkerBFDReloaded/blob/b5b2d6d697766dfecc13f4169e3a1141af58ef7e/README.md",
+      "evidenceUrl": "https://github.com/DahSidiAbdallah/ConkerBFDReloaded/blob/b5b2d6d697766dfecc13f4169e3a1141af58ef7e/README.md",
+      "reviewedAt": "2026-10-18",
+      "reviewedVersion": "b5b2d6d697766dfecc13f4169e3a1141af58ef7e",
+      "reviewMethod": "documentation",
+      "reviewAgent": "documentary-rules-v2",
+      "authorClaim": "running natively on PC",
+      "screeningVersion": "documentary-v2",
+      "documentaryEvidence": {
+        "technique": {
+          "url": "https://github.com/DahSidiAbdallah/ConkerBFDReloaded/blob/b5b2d6d697766dfecc13f4169e3a1141af58ef7e/README.md"
+        },
+        "pc": {
+          "url": "https://github.com/DahSidiAbdallah/ConkerBFDReloaded/blob/b5b2d6d697766dfecc13f4169e3a1141af58ef7e/README.md"
+        },
+        "instructions": {
+          "url": "https://github.com/DahSidiAbdallah/ConkerBFDReloaded/blob/b5b2d6d697766dfecc13f4169e3a1141af58ef7e/README.md"
+        },
+        "requirements": {
+          "url": "https://github.com/DahSidiAbdallah/ConkerBFDReloaded/blob/b5b2d6d697766dfecc13f4169e3a1141af58ef7e/README.md"
+        },
+        "ownFiles": {
+          "url": "https://github.com/DahSidiAbdallah/ConkerBFDReloaded/blob/b5b2d6d697766dfecc13f4169e3a1141af58ef7e/README.md"
+        },
+        "playabilityClaim": {
+          "url": "https://github.com/DahSidiAbdallah/ConkerBFDReloaded/blob/b5b2d6d697766dfecc13f4169e3a1141af58ef7e/README.md"
+        }
+      },
+      "stars": 98,
+      "starsCollectedAt": "2026-10-18T14:38:24.374485+00:00",
+      "content": {
+        "pt": {
+          "summary": "Conker do Nintendo 64 no PC, com modo Classic fiel ao original e modo Modern com tela ampla, câmera livre e outras melhorias.",
+          "originalFiles": "Forneça sua própria cópia compatível; confira edição e arquivos exigidos no README.",
+          "requirements": [
+            "Confira os requisitos completos e as diferenças entre sistemas na fonte fixada."
+          ],
+          "installation": [
+            "Abra o README fixado e confira a seção de instalação.",
+            "Use a release oficial e forneça seus arquivos conforme o autor."
+          ],
+          "limitations": "Triagem por regras, sem execução do jogo. Alegações podem estar desatualizadas ou incorretas; não há garantia de campanha completa no seu PC."
+        },
+        "en": {
+          "summary": "Nintendo 64’s Conker on PC, with a faithful Classic mode and a Modern mode adding widescreen, a free camera and other improvements.",
+          "originalFiles": "Provide your own compatible copy; check the required edition and files in the README.",
+          "requirements": [
+            "Check full requirements and OS differences in the pinned source."
+          ],
+          "installation": [
+            "Open the pinned README and check the installation section.",
+            "Use the official release and supply your files as instructed by its author."
+          ],
+          "limitations": "Rule-based screening without running the game. Claims may be outdated or incorrect; a full playthrough on your PC is not guaranteed."
+        },
+        "es": {
+          "summary": "Conker de Nintendo 64 en PC, con modo Classic fiel al original y modo Modern con pantalla panorámica, cámara libre y otras mejoras.",
+          "originalFiles": "Proporciona tu copia compatible; consulta edición y archivos necesarios en el README.",
+          "requirements": [
+            "Consulta requisitos completos y diferencias entre sistemas en la fuente fijada."
+          ],
+          "installation": [
+            "Abre el README fijado y consulta la instalación.",
+            "Usa la versión oficial y aporta tus archivos según el autor."
+          ],
+          "limitations": "Filtro por reglas sin ejecutar el juego. Las afirmaciones pueden ser incorrectas o antiguas; no se garantiza una campaña completa en tu PC."
+        }
+      }
+    }
+  ],
+  "updatedAt": "2026-10-18T19:25:59.067064+00:00"
+}

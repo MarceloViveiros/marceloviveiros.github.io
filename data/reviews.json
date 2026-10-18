@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "reviews": [
+    {
+      "id": "silver-pines",
+      "game": "Silver Pines",
+      "platform": "Não informada",
+      "progress": "impressions",
+      "score": 7.5,
+      "reviewedAt": "2026-10-17",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/en/4/47/Silver_Pines_cover_art.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "kind": "reference",
+        "source": "https://en.wikipedia.org/wiki/Silver_Pines",
+        "subject": "Silver Pines",
+        "provider": "wikipedia-summary-v1",
+        "checkedAt": "2026-10-17T21:01:05.576958+00:00"
+      },
+      "videoId": "DIRLzo07Hwk",
+      "content": {
+        "pt": {
+          "summary": "Ainda estou jogando e achando incríveis a atmosfera e a gameplay. Uma mistura muito boa de Silent Hill com metroidvania. Nota provisória: 7,5/10.",
+          "opinion": "Silver Pines está me conquistando pela atmosfera e pela gameplay. Estou achando essa mistura de Silent Hill com metroidvania muito boa!\n\nAinda estou jogando, então estas são minhas primeiras impressões. Por enquanto, minha nota é 7,5/10. Vou poder avaliar a experiência completa quando avançar mais no jogo.",
+          "pros": [
+            "Atmosfera incrível.",
+            "Gameplay que está me agradando muito.",
+            "Mistura muito boa de Silent Hill com metroidvania."
+          ],
+          "cons": []
+        },
+        "en": {
+          "summary": "I’m still playing and finding the atmosphere and gameplay incredible. A great mix of Silent Hill and metroidvania. Provisional score: 7.5/10.",
+          "opinion": "Silver Pines is winning me over with its atmosphere and gameplay. I’m really enjoying this mix of Silent Hill and metroidvania!\n\nI’m still playing, so these are my first impressions. For now, my score is 7.5/10. I’ll be able to assess the full experience as I progress further.",
+          "pros": [
+            "Incredible atmosphere.",
+            "Gameplay I’m really enjoying.",
+            "A great mix of Silent Hill and metroidvania."
+          ],
+          "cons": []
+        },
+        "es": {
+          "summary": "Sigo jugando y me están pareciendo increíbles la atmósfera y la jugabilidad. Una mezcla muy buena de Silent Hill y metroidvania. Nota provisional: 7,5/10.",
+          "opinion": "Silver Pines me está conquistando con su atmósfera y su jugabilidad. ¡Me está gustando mucho esta mezcla de Silent Hill y metroidvania!\n\nTodavía estoy jugando, así que estas son mis primeras impresiones. Por ahora, mi nota es 7,5/10. Podré valorar la experiencia completa cuando avance más en el juego.",
+          "pros": [
+            "Atmósfera increíble.",
+            "Jugabilidad que me está gustando mucho.",
+            "Una mezcla muy buena de Silent Hill y metroidvania."
+          ],
+          "cons": []
+        }
+      }
+    }
+  ]
+}

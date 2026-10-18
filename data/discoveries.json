@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-10-18T14:37:21.974353+00:00",
+  "triage": {
+    "ruleVersion": "documentary-v2",
+    "reviewed": 20,
+    "added": 1,
+    "pending": 19,
+    "outOfScope": 0
+  },
+  "projects": [
+    {
+      "repository": "wivi514/Dead_Rising_2_Case_Zero_Xenon_Recomp",
+      "github": "https://github.com/wivi514/Dead_Rising_2_Case_Zero_Xenon_Recomp",
+      "stars": 93,
+      "checkedAt": "2026-10-18T14:38:35.308523+00:00",
+      "evidenceUrl": "https://github.com/wivi514/Dead_Rising_2_Case_Zero_Xenon_Recomp/blob/a1feb9dd7a61e23b4bcbb1afab8edf3439ee86ac/README.md"
+    },
+    {
+      "repository": "KaikoClanworth1/wwe-svr2011-pc",
+      "github": "https://github.com/KaikoClanworth1/wwe-svr2011-pc",
+      "stars": 98,
+      "checkedAt": "2026-10-18T14:38:25.620115+00:00",
+      "evidenceUrl": "https://github.com/KaikoClanworth1/wwe-svr2011-pc/blob/745aaf2d240b7804302a7f9453206fe31d8ed2f8/README.md"
+    },
+    {
+      "repository": "JackandBeans/Snap64Recomp",
+      "github": "https://github.com/JackandBeans/Snap64Recomp",
+      "stars": 115,
+      "checkedAt": "2026-10-18T14:38:14.970867+00:00",
+      "evidenceUrl": "https://github.com/JackandBeans/Snap64Recomp/blob/cf53b89272b9db19059dd97eed2690ea1dd94844/README.md"
+    },
+    {
+      "repository": "KIexster/god-of-war-recomp",
+      "github": "https://github.com/KIexster/god-of-war-recomp",
+      "stars": 117,
+      "checkedAt": "2026-10-18T14:38:12.299417+00:00",
+      "evidenceUrl": "https://github.com/KIexster/god-of-war-recomp/blob/0c40eb8a4f4e921b739c691aa411d7a34486be80/README.md"
+    },
+    {
+      "repository": "murkantor/Project-Midas",
+      "github": "https://github.com/murkantor/Project-Midas",
+      "stars": 128,
+      "checkedAt": "2026-10-18T11:56:11.809211+00:00",
+      "evidenceUrl": "https://github.com/murkantor/Project-Midas/blob/6be5920beed453b6a81fdf9935fb9851928b718d/readme.md"
+    },
+    {
+      "repository": "chasem-dev/sms-pc-port",
+      "github": "https://github.com/chasem-dev/sms-pc-port",
+      "stars": 147,
+      "checkedAt": "2026-10-18T11:56:03.953758+00:00",
+      "evidenceUrl": "https://github.com/chasem-dev/sms-pc-port/blob/a2ff4eef099b22b2af487d1b5e3ac09ffe667d31/README.md"
+    },
+    {
+      "repository": "LittleBitUA/DPRecomp",
+      "github": "https://github.com/LittleBitUA/DPRecomp",
+      "stars": 165,
+      "checkedAt": "2026-10-18T11:55:51.727392+00:00",
+      "evidenceUrl": "https://github.com/LittleBitUA/DPRecomp/blob/e0624129c06b9437aa0278b58f2f3eb954192aec/README.md"
+    }
+  ]
+}

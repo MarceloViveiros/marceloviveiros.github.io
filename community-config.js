@@ -1,0 +1,1 @@
+export const communityConfig = {"enabled":true,"firebase":{"apiKey":"AIzaSyCW1zL-0uO3jsCHE0hQhWhFYVKplSBiJDg","authDomain":"bora-de-play-comunidade.firebaseapp.com","projectId":"bora-de-play-comunidade","appId":"1:983922404756:web:38f6068ca3347fb0a27381","messagingSenderId":"983922404756"}};
