@@ -3346,8 +3346,12 @@
     },
     {
       "image": {
-        "url": "assets/platforms/generic.svg",
-        "kind": "console"
+        "url": "https://upload.wikimedia.org/wikipedia/en/2/24/EarthwormJimHD.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "kind": "reference",
+        "source": "https://en.wikipedia.org/wiki/Earthworm_Jim_HD",
+        "subject": "Earthworm Jim HD",
+        "provider": "wikipedia-summary-v1",
+        "checkedAt": "2026-10-19T22:38:14.484962+00:00"
       },
       "id": "auto-da524ec9282185",
       "editionId": "auto-da524ec9282185",
@@ -3450,8 +3454,12 @@
     },
     {
       "image": {
-        "url": "assets/platforms/switch.svg",
-        "kind": "console"
+        "url": "https://upload.wikimedia.org/wikipedia/en/4/47/Pok%C3%A9mon_Let%27s_Go%2C_Pikachu%21_and_Let%27s_Go%2C_Eevee%21.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "kind": "reference",
+        "source": "https://en.wikipedia.org/wiki/Pok%C3%A9mon%3A_Let%27s_Go%2C_Pikachu%21_and_Let%27s_Go%2C_Eevee%21",
+        "subject": "Pokémon: Let's Go, Pikachu! and Let's Go, Eevee!",
+        "provider": "wikipedia-summary-v1",
+        "checkedAt": "2026-10-19T22:38:14.725640+00:00"
       },
       "id": "auto-122a6a822d2e4c",
       "editionId": "auto-122a6a822d2e4c",
@@ -3553,8 +3561,12 @@
     },
     {
       "image": {
-        "url": "assets/platforms/generic.svg",
-        "kind": "console"
+        "url": "https://upload.wikimedia.org/wikipedia/en/2/2c/Twotowersbox1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "kind": "reference",
+        "source": "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings%3A_The_Two_Towers_(video_game)",
+        "subject": "The Lord of the Rings: The Two Towers (video game)",
+        "provider": "wikipedia-summary-v1",
+        "checkedAt": "2026-10-19T22:38:14.982928+00:00"
       },
       "id": "auto-4095e890b46122",
       "editionId": "auto-4095e890b46122",
