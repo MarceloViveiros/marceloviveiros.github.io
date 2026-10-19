@@ -1,14 +1,28 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-18T14:37:21.974353+00:00",
+  "updatedAt": "2026-10-19T01:19:34.012952+00:00",
   "triage": {
     "ruleVersion": "documentary-v2",
     "reviewed": 20,
-    "added": 1,
-    "pending": 19,
+    "added": 2,
+    "pending": 18,
     "outOfScope": 0
   },
   "projects": [
+    {
+      "repository": "kirklandsig/halo2-decompiled",
+      "github": "https://github.com/kirklandsig/halo2-decompiled",
+      "stars": 82,
+      "checkedAt": "2026-10-19T01:20:21.474544+00:00",
+      "evidenceUrl": "https://github.com/kirklandsig/halo2-decompiled/blob/bb9fc1aa41fd5893e9d5097f919a55d1b6fbb64f/README.md"
+    },
+    {
+      "repository": "wivi514/Dead_Rising_2_Case_West_Xenon_Recomp",
+      "github": "https://github.com/wivi514/Dead_Rising_2_Case_West_Xenon_Recomp",
+      "stars": 88,
+      "checkedAt": "2026-10-19T01:20:14.859528+00:00",
+      "evidenceUrl": "https://github.com/wivi514/Dead_Rising_2_Case_West_Xenon_Recomp/blob/cb7dc0f46cfc71961e37f8a20b07ad143a3e161a/README.md"
+    },
     {
       "repository": "wivi514/Dead_Rising_2_Case_Zero_Xenon_Recomp",
       "github": "https://github.com/wivi514/Dead_Rising_2_Case_Zero_Xenon_Recomp",
