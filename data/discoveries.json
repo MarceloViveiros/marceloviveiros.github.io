@@ -1,14 +1,49 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-19T01:19:34.012952+00:00",
+  "updatedAt": "2026-10-19T17:32:07.876742+00:00",
   "triage": {
     "ruleVersion": "documentary-v2",
     "reviewed": 20,
-    "added": 2,
-    "pending": 18,
+    "added": 1,
+    "pending": 19,
     "outOfScope": 0
   },
   "projects": [
+    {
+      "repository": "crazyriddler/FinestHourRemastered",
+      "github": "https://github.com/crazyriddler/FinestHourRemastered",
+      "stars": 65,
+      "checkedAt": "2026-10-19T17:33:09.872805+00:00",
+      "evidenceUrl": "https://github.com/crazyriddler/FinestHourRemastered/blob/976f8349119fee05a875a68ce0b5e5ef761b0164/README.md"
+    },
+    {
+      "repository": "novapowers0/BloodyRoar2Recomp",
+      "github": "https://github.com/novapowers0/BloodyRoar2Recomp",
+      "stars": 69,
+      "checkedAt": "2026-10-19T17:32:59.982986+00:00",
+      "evidenceUrl": "https://github.com/novapowers0/BloodyRoar2Recomp/blob/eed1e8d123d903d24ec0adf49ebee71a16c5892c/README.md"
+    },
+    {
+      "repository": "iExplosiveRage/DBZ-Burst-Limit-Recompiled",
+      "github": "https://github.com/iExplosiveRage/DBZ-Burst-Limit-Recompiled",
+      "stars": 74,
+      "checkedAt": "2026-10-19T17:32:55.745538+00:00",
+      "evidenceUrl": "https://github.com/iExplosiveRage/DBZ-Burst-Limit-Recompiled/blob/bc0419e13546498c23f1ee6bd5d3231e20682423/README.md"
+    },
+    {
+      "repository": "TGP482/XboxXBERecomp",
+      "github": "https://github.com/TGP482/XboxXBERecomp",
+      "stars": 75,
+      "checkedAt": "2026-10-19T17:32:54.704224+00:00",
+      "evidenceUrl": "https://github.com/TGP482/XboxXBERecomp/blob/99078b119b5d5e0d1d6afb1390e29437c0c984c0/README.md"
+    },
+    {
+      "repository": "BrazilianHobbyist/Project-RE-Visited-RE3",
+      "github": "https://github.com/BrazilianHobbyist/Project-RE-Visited-RE3",
+      "stars": 76,
+      "checkedAt": "2026-10-19T17:32:52.706446+00:00",
+      "evidenceUrl": "https://github.com/BrazilianHobbyist/Project-RE-Visited-RE3/blob/45f5628ee550c232803f4a041d9d8b759c6340b7/README.md"
+    },
     {
       "repository": "kirklandsig/halo2-decompiled",
       "github": "https://github.com/kirklandsig/halo2-decompiled",
