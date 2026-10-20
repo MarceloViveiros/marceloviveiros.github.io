@@ -1,14 +1,42 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-19T17:32:07.876742+00:00",
+  "updatedAt": "2026-10-20T23:29:48.086529+00:00",
   "triage": {
     "ruleVersion": "documentary-v2",
     "reviewed": 20,
-    "added": 1,
-    "pending": 19,
+    "added": 0,
+    "pending": 20,
     "outOfScope": 0
   },
   "projects": [
+    {
+      "repository": "sonsegajp/HWDER",
+      "github": "https://github.com/sonsegajp/HWDER",
+      "stars": 56,
+      "checkedAt": "2026-10-20T23:30:42.317436+00:00",
+      "evidenceUrl": "https://github.com/sonsegajp/HWDER/blob/2a85d50b21e1278c6f421b268f2591c16f974724/README.md"
+    },
+    {
+      "repository": "Unowa001/crackdown-recomp",
+      "github": "https://github.com/Unowa001/crackdown-recomp",
+      "stars": 63,
+      "checkedAt": "2026-10-20T23:30:33.202890+00:00",
+      "evidenceUrl": "https://github.com/Unowa001/crackdown-recomp/blob/7a152d06ce413c76ff613a39877182a73b833480/README.md"
+    },
+    {
+      "repository": "drakolordx7/KillzoneRecomp",
+      "github": "https://github.com/drakolordx7/KillzoneRecomp",
+      "stars": 77,
+      "checkedAt": "2026-10-20T23:30:29.309111+00:00",
+      "evidenceUrl": "https://github.com/drakolordx7/KillzoneRecomp/blob/5f0700079f9ac4e14799d66d01747dbcdcec55f6/README.md"
+    },
+    {
+      "repository": "hachi23/unicorn_overlord_pc",
+      "github": "https://github.com/hachi23/unicorn_overlord_pc",
+      "stars": 78,
+      "checkedAt": "2026-10-20T23:30:28.527442+00:00",
+      "evidenceUrl": "https://github.com/hachi23/unicorn_overlord_pc/blob/88404b6e8e7470dd78969902fd6ec10ac1db87f3/README.md"
+    },
     {
       "repository": "crazyriddler/FinestHourRemastered",
       "github": "https://github.com/crazyriddler/FinestHourRemastered",
