@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "updatedAt": "2026-10-19T17:44:38.556902+00:00",
+  "updatedAt": "2026-10-20T02:02:44.576257+00:00",
   "projects": [
     {
       "id": "web-openlara",
@@ -24,7 +24,7 @@
         "Web"
       ],
       "stars": 5130,
-      "starsCollectedAt": "2026-10-19T17:44:01.914826+00:00",
+      "starsCollectedAt": "2026-10-20T02:02:06.851436+00:00",
       "content": {
         "pt": {
           "summary": "Motor de Tomb Raider com uma fase demonstrativa em WebGL.",
@@ -69,7 +69,7 @@
         "pageCheck": "landing-page",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-10-19T17:44:05.096590+00:00",
+          "checkedAt": "2026-10-20T02:02:09.913967+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -102,7 +102,7 @@
         "Web"
       ],
       "stars": 2891,
-      "starsCollectedAt": "2026-10-19T17:44:01.914826+00:00",
+      "starsCollectedAt": "2026-10-20T02:02:06.851436+00:00",
       "content": {
         "pt": {
           "summary": "Diablo no navegador, com opção shareware e uso dos seus dados do jogo completo.",
@@ -147,7 +147,7 @@
         "pageCheck": "landing-page",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-10-19T17:44:05.368280+00:00",
+          "checkedAt": "2026-10-20T02:02:10.047936+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -180,7 +180,7 @@
         "Web"
       ],
       "stars": 173,
-      "starsCollectedAt": "2026-10-19T17:44:01.914826+00:00",
+      "starsCollectedAt": "2026-10-20T02:02:06.851436+00:00",
       "content": {
         "pt": {
           "summary": "Half-Life no navegador pelo motor Xash3D compilado para WebAssembly.",
@@ -225,7 +225,7 @@
         "pageCheck": "landing-page",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-10-19T17:44:05.522456+00:00",
+          "checkedAt": "2026-10-20T02:02:10.255800+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -258,7 +258,7 @@
         "Web"
       ],
       "stars": 173,
-      "starsCollectedAt": "2026-10-19T17:44:01.914826+00:00",
+      "starsCollectedAt": "2026-10-20T02:02:06.851436+00:00",
       "content": {
         "pt": {
           "summary": "Counter-Strike 1.6 no navegador usando WebXash e arquivos da sua instalação.",
@@ -303,7 +303,7 @@
         "pageCheck": "landing-page",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-10-19T17:44:05.662191+00:00",
+          "checkedAt": "2026-10-20T02:02:10.465926+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -336,7 +336,7 @@
         "Web"
       ],
       "stars": 59,
-      "starsCollectedAt": "2026-10-19T17:44:01.914826+00:00",
+      "starsCollectedAt": "2026-10-20T02:02:06.851436+00:00",
       "content": {
         "pt": {
           "summary": "Motor de Quake no navegador, com opção livre com bots e suporte aos seus arquivos PAK.",
@@ -381,7 +381,7 @@
         "pageCheck": "landing-page",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-10-19T17:44:05.694235+00:00",
+          "checkedAt": "2026-10-20T02:02:10.595873+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -413,8 +413,8 @@
       "targets": [
         "Web"
       ],
-      "stars": 2211,
-      "starsCollectedAt": "2026-10-19T17:44:01.914826+00:00",
+      "stars": 2212,
+      "starsCollectedAt": "2026-10-20T02:02:06.851436+00:00",
       "content": {
         "pt": {
           "summary": "Estratégia por turnos gratuita para navegador, com partidas individuais e multiplayer.",
@@ -459,7 +459,7 @@
         "pageCheck": "landing-page",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-10-19T17:44:06.210512+00:00",
+          "checkedAt": "2026-10-20T02:02:11.105849+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -492,7 +492,7 @@
         "Web"
       ],
       "stars": 62,
-      "starsCollectedAt": "2026-10-19T17:44:01.914826+00:00",
+      "starsCollectedAt": "2026-10-20T02:02:06.851436+00:00",
       "content": {
         "pt": {
           "summary": "Cliente moderno de Diablo com demo shareware, importação do seu MPQ e gerenciamento local de saves.",
@@ -537,7 +537,7 @@
         "pageCheck": "landing-page",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-10-19T17:44:07.138108+00:00",
+          "checkedAt": "2026-10-20T02:02:11.899845+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -569,8 +569,8 @@
       "targets": [
         "Web"
       ],
-      "stars": 1707,
-      "starsCollectedAt": "2026-10-19T17:44:01.914826+00:00",
+      "stars": 1716,
+      "starsCollectedAt": "2026-10-20T02:02:06.851436+00:00",
       "content": {
         "pt": {
           "summary": "Adaptação de Halo de Xbox para navegador, com tela de importação da sua imagem de disco. O site cita o motor OpenCE.",
@@ -624,7 +624,7 @@
         "pageCheck": "landing-page",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-10-19T17:44:07.280942+00:00",
+          "checkedAt": "2026-10-20T02:02:12.044443+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -673,7 +673,7 @@
         "pageCheckedAt": "2026-10-17T11:35:34.661329+00:00",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-10-19T17:44:07.570240+00:00",
+          "checkedAt": "2026-10-20T02:02:12.355148+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -765,7 +765,7 @@
         "pageCheckedAt": "2026-10-18T11:43:26.835069+00:00",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-10-19T17:44:08.113771+00:00",
+          "checkedAt": "2026-10-20T02:02:12.691566+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -855,7 +855,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-10-19T17:44:08.740536+00:00",
+          "checkedAt": "2026-10-20T02:02:13.307189+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -942,7 +942,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-10-19T17:44:09.024834+00:00",
+          "checkedAt": "2026-10-20T02:02:13.657788+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -1029,7 +1029,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-10-19T17:44:09.578738+00:00",
+          "checkedAt": "2026-10-20T02:02:14.061449+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -1116,7 +1116,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-10-19T17:44:10.264828+00:00",
+          "checkedAt": "2026-10-20T02:02:14.771360+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -1203,7 +1203,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-10-19T17:44:10.431336+00:00",
+          "checkedAt": "2026-10-20T02:02:14.958785+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -1290,7 +1290,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-10-19T17:44:10.807295+00:00",
+          "checkedAt": "2026-10-20T02:02:15.197050+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -1377,7 +1377,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-10-19T17:44:12.014441+00:00",
+          "checkedAt": "2026-10-20T02:02:16.516387+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -1464,7 +1464,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-10-19T17:44:12.737767+00:00",
+          "checkedAt": "2026-10-20T02:02:17.538628+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -1551,7 +1551,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-10-19T17:44:13.081576+00:00",
+          "checkedAt": "2026-10-20T02:02:17.926911+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -1638,7 +1638,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-10-19T17:44:13.365973+00:00",
+          "checkedAt": "2026-10-20T02:02:18.180494+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -1725,7 +1725,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-10-19T17:44:13.815413+00:00",
+          "checkedAt": "2026-10-20T02:02:18.618398+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -1812,7 +1812,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-10-19T17:44:14.111872+00:00",
+          "checkedAt": "2026-10-20T02:02:18.969097+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -1899,7 +1899,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-10-19T17:44:15.184619+00:00",
+          "checkedAt": "2026-10-20T02:02:19.946335+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -1986,7 +1986,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-10-19T17:44:15.385039+00:00",
+          "checkedAt": "2026-10-20T02:02:20.147778+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -2073,7 +2073,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-10-19T17:44:16.090757+00:00",
+          "checkedAt": "2026-10-20T02:02:20.735126+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -2160,7 +2160,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-10-19T17:44:33.531142+00:00",
+          "checkedAt": "2026-10-20T02:02:21.065581+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -2247,7 +2247,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-10-19T17:44:34.443631+00:00",
+          "checkedAt": "2026-10-20T02:02:21.388797+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -2334,7 +2334,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-10-19T17:44:35.271011+00:00",
+          "checkedAt": "2026-10-20T02:02:21.967485+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -2421,7 +2421,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-10-19T17:44:35.898382+00:00",
+          "checkedAt": "2026-10-20T02:02:22.132245+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -2467,20 +2467,455 @@
           "limitations": "Abrir una página no demuestra que una partida funcione. Bora de Play no ha probado campaña, controles, rendimiento ni tecnología. El hash identifica el HTML consultado. Se conservaron los avisos de desarrollo de la fuente."
         }
       }
+    },
+    {
+      "id": "web-inx-b45bce695319c8",
+      "editionId": "web-inx-b45bce695319c8",
+      "game": "Quake III Arena",
+      "name": "Quake III Arena · Web",
+      "type": "port",
+      "approach": "web-unconfirmed",
+      "playability": "nao-verificado",
+      "developmentStage": "desconhecido",
+      "sourceKind": "website",
+      "github": null,
+      "instructionsUrl": "https://q3.pieter.com/",
+      "evidenceUrl": "https://q3.pieter.com/",
+      "discoveredVia": "https://www.inxanitylabs.com/games/quake-3",
+      "reviewedAt": "2026-10-20",
+      "reviewedVersion": "13388d85a3747c75c0298af43546618cfcccf7fd16dbadf0aaba0612e3a0c990",
+      "reviewMethod": "documentation",
+      "origins": [
+        "Outro"
+      ],
+      "targets": [
+        "Web"
+      ],
+      "stars": null,
+      "starsCollectedAt": null,
+      "image": {
+        "url": "https://www.inxanitylabs.com/assets/games/quake-3.webp",
+        "kind": "reference",
+        "source": "https://www.inxanitylabs.com/games/quake-3",
+        "provider": "inxanity-declared-cover-v1",
+        "subject": "Quake III Arena"
+      },
+      "browser": {
+        "url": "https://q3.pieter.com/",
+        "access": "web",
+        "verification": "documentation",
+        "checkedAt": "2026-10-20T02:02:35.555437+00:00",
+        "pageCheck": "http-html",
+        "health": {
+          "status": "reachable",
+          "checkedAt": "2026-10-20T02:02:34.071807+00:00",
+          "method": "http-html",
+          "reason": null
+        }
+      },
+      "content": {
+        "pt": {
+          "summary": "Quake III Arena no navegador: um jogo de tiro.",
+          "originalFiles": "Não verificado. Confira na página do jogo se são necessários arquivos próprios.",
+          "requirements": [
+            "Navegador atualizado; confira tecnologias, controles e requisitos no destino."
+          ],
+          "installation": [
+            "Abra o link direto pelo botão Jogar no navegador.",
+            "Siga as instruções da página do jogo.",
+            "Compartilhe erros e sua experiência na comunidade desta ficha."
+          ],
+          "limitations": "Abertura de página não comprova funcionamento de uma partida. Campanha, controles, desempenho e tecnologia não testados pelo Bora de Play. O hash identifica o HTML consultado. Os avisos de desenvolvimento da fonte foram preservados."
+        },
+        "en": {
+          "summary": "Quake III Arena in your browser: a game focused on shooting.",
+          "originalFiles": "Not verified. Check the game page for any required files you must supply.",
+          "requirements": [
+            "An up-to-date browser; check technologies, controls and requirements at the destination."
+          ],
+          "installation": [
+            "Open the direct link using Play in browser.",
+            "Follow the instructions on the game page.",
+            "Share errors and your experience in this entry’s community section."
+          ],
+          "limitations": "Opening a page does not prove gameplay works. Campaign, controls, performance and technology have not been tested by Bora de Play. The hash identifies the consulted HTML. Development notices from the source were preserved."
+        },
+        "es": {
+          "summary": "Quake III Arena en navegador: un juego de disparos.",
+          "originalFiles": "No verificado. Consulta si la página del juego requiere tus propios archivos.",
+          "requirements": [
+            "Navegador actualizado; consulta tecnologías, controles y requisitos en el destino."
+          ],
+          "installation": [
+            "Abre el enlace directo con Jugar en el navegador.",
+            "Sigue las instrucciones de la página del juego.",
+            "Comparte errores y tu experiencia en la comunidad de esta ficha."
+          ],
+          "limitations": "Abrir una página no demuestra que una partida funcione. Bora de Play no ha probado campaña, controles, rendimiento ni tecnología. El hash identifica el HTML consultado. Se conservaron los avisos de desarrollo de la fuente."
+        }
+      }
+    },
+    {
+      "id": "web-inx-be367ee6a29250",
+      "editionId": "web-inx-be367ee6a29250",
+      "game": "Quake II",
+      "name": "Quake II · Web",
+      "type": "port",
+      "approach": "web-unconfirmed",
+      "playability": "nao-verificado",
+      "developmentStage": "desconhecido",
+      "sourceKind": "website",
+      "github": null,
+      "instructionsUrl": "https://q2.pieter.com/",
+      "evidenceUrl": "https://q2.pieter.com/",
+      "discoveredVia": "https://www.inxanitylabs.com/games/quake-2",
+      "reviewedAt": "2026-10-20",
+      "reviewedVersion": "8d49e2c17bb88335e06c984d974eff5894eaa975ef44dd29592d18cbb8a87df4",
+      "reviewMethod": "documentation",
+      "origins": [
+        "Outro"
+      ],
+      "targets": [
+        "Web"
+      ],
+      "stars": null,
+      "starsCollectedAt": null,
+      "image": {
+        "url": "https://www.inxanitylabs.com/assets/games/quake-2.webp",
+        "kind": "reference",
+        "source": "https://www.inxanitylabs.com/games/quake-2",
+        "provider": "inxanity-declared-cover-v1",
+        "subject": "Quake II"
+      },
+      "browser": {
+        "url": "https://q2.pieter.com/",
+        "access": "web",
+        "verification": "documentation",
+        "checkedAt": "2026-10-20T02:02:37.339223+00:00",
+        "pageCheck": "http-html",
+        "health": {
+          "status": "reachable",
+          "checkedAt": "2026-10-20T02:02:35.886895+00:00",
+          "method": "http-html",
+          "reason": null
+        }
+      },
+      "content": {
+        "pt": {
+          "summary": "Quake II no navegador: um jogo de tiro.",
+          "originalFiles": "Não verificado. Confira na página do jogo se são necessários arquivos próprios.",
+          "requirements": [
+            "Navegador atualizado; confira tecnologias, controles e requisitos no destino."
+          ],
+          "installation": [
+            "Abra o link direto pelo botão Jogar no navegador.",
+            "Siga as instruções da página do jogo.",
+            "Compartilhe erros e sua experiência na comunidade desta ficha."
+          ],
+          "limitations": "Abertura de página não comprova funcionamento de uma partida. Campanha, controles, desempenho e tecnologia não testados pelo Bora de Play. O hash identifica o HTML consultado. Os avisos de desenvolvimento da fonte foram preservados."
+        },
+        "en": {
+          "summary": "Quake II in your browser: a game focused on shooting.",
+          "originalFiles": "Not verified. Check the game page for any required files you must supply.",
+          "requirements": [
+            "An up-to-date browser; check technologies, controls and requirements at the destination."
+          ],
+          "installation": [
+            "Open the direct link using Play in browser.",
+            "Follow the instructions on the game page.",
+            "Share errors and your experience in this entry’s community section."
+          ],
+          "limitations": "Opening a page does not prove gameplay works. Campaign, controls, performance and technology have not been tested by Bora de Play. The hash identifies the consulted HTML. Development notices from the source were preserved."
+        },
+        "es": {
+          "summary": "Quake II en navegador: un juego de disparos.",
+          "originalFiles": "No verificado. Consulta si la página del juego requiere tus propios archivos.",
+          "requirements": [
+            "Navegador actualizado; consulta tecnologías, controles y requisitos en el destino."
+          ],
+          "installation": [
+            "Abre el enlace directo con Jugar en el navegador.",
+            "Sigue las instrucciones de la página del juego.",
+            "Comparte errores y tu experiencia en la comunidad de esta ficha."
+          ],
+          "limitations": "Abrir una página no demuestra que una partida funcione. Bora de Play no ha probado campaña, controles, rendimiento ni tecnología. El hash identifica el HTML consultado. Se conservaron los avisos de desarrollo de la fuente."
+        }
+      }
+    },
+    {
+      "id": "web-inx-21a325f3d2d97c",
+      "editionId": "web-inx-21a325f3d2d97c",
+      "game": "QuakeWorld",
+      "name": "QuakeWorld · Web",
+      "type": "port",
+      "approach": "web-unconfirmed",
+      "playability": "nao-verificado",
+      "developmentStage": "desconhecido",
+      "sourceKind": "website",
+      "github": null,
+      "instructionsUrl": "https://q1.pieter.com/",
+      "evidenceUrl": "https://q1.pieter.com/",
+      "discoveredVia": "https://www.inxanitylabs.com/games/quakeworld",
+      "reviewedAt": "2026-10-20",
+      "reviewedVersion": "44d797c91208cf0fcaabdbbb2690eedc1adab981cf1fa2d0aaf2f44e2e27042f",
+      "reviewMethod": "documentation",
+      "origins": [
+        "Outro"
+      ],
+      "targets": [
+        "Web"
+      ],
+      "stars": null,
+      "starsCollectedAt": null,
+      "image": {
+        "url": "https://www.inxanitylabs.com/assets/games/quakeworld.webp",
+        "kind": "reference",
+        "source": "https://www.inxanitylabs.com/games/quakeworld",
+        "provider": "inxanity-declared-cover-v1",
+        "subject": "QuakeWorld"
+      },
+      "browser": {
+        "url": "https://q1.pieter.com/",
+        "access": "web",
+        "verification": "documentation",
+        "checkedAt": "2026-10-20T02:02:39.793438+00:00",
+        "pageCheck": "http-html",
+        "health": {
+          "status": "reachable",
+          "checkedAt": "2026-10-20T02:02:38.379734+00:00",
+          "method": "http-html",
+          "reason": null
+        }
+      },
+      "content": {
+        "pt": {
+          "summary": "QuakeWorld no navegador: um jogo de tiro.",
+          "originalFiles": "Não verificado. Confira na página do jogo se são necessários arquivos próprios.",
+          "requirements": [
+            "Navegador atualizado; confira tecnologias, controles e requisitos no destino."
+          ],
+          "installation": [
+            "Abra o link direto pelo botão Jogar no navegador.",
+            "Siga as instruções da página do jogo.",
+            "Compartilhe erros e sua experiência na comunidade desta ficha."
+          ],
+          "limitations": "Abertura de página não comprova funcionamento de uma partida. Campanha, controles, desempenho e tecnologia não testados pelo Bora de Play. O hash identifica o HTML consultado. Os avisos de desenvolvimento da fonte foram preservados."
+        },
+        "en": {
+          "summary": "QuakeWorld in your browser: a game focused on shooting.",
+          "originalFiles": "Not verified. Check the game page for any required files you must supply.",
+          "requirements": [
+            "An up-to-date browser; check technologies, controls and requirements at the destination."
+          ],
+          "installation": [
+            "Open the direct link using Play in browser.",
+            "Follow the instructions on the game page.",
+            "Share errors and your experience in this entry’s community section."
+          ],
+          "limitations": "Opening a page does not prove gameplay works. Campaign, controls, performance and technology have not been tested by Bora de Play. The hash identifies the consulted HTML. Development notices from the source were preserved."
+        },
+        "es": {
+          "summary": "QuakeWorld en navegador: un juego de disparos.",
+          "originalFiles": "No verificado. Consulta si la página del juego requiere tus propios archivos.",
+          "requirements": [
+            "Navegador actualizado; consulta tecnologías, controles y requisitos en el destino."
+          ],
+          "installation": [
+            "Abre el enlace directo con Jugar en el navegador.",
+            "Sigue las instrucciones de la página del juego.",
+            "Comparte errores y tu experiencia en la comunidad de esta ficha."
+          ],
+          "limitations": "Abrir una página no demuestra que una partida funcione. Bora de Play no ha probado campaña, controles, rendimiento ni tecnología. El hash identifica el HTML consultado. Se conservaron los avisos de desarrollo de la fuente."
+        }
+      }
+    },
+    {
+      "id": "web-inx-ae28625ecba8c7",
+      "editionId": "web-inx-ae28625ecba8c7",
+      "game": "Return to Castle Wolfenstein",
+      "name": "Return to Castle Wolfenstein · Web",
+      "type": "port",
+      "approach": "web-unconfirmed",
+      "playability": "nao-verificado",
+      "developmentStage": "desconhecido",
+      "sourceKind": "website",
+      "github": null,
+      "instructionsUrl": "https://rtcw.pieter.com/",
+      "evidenceUrl": "https://rtcw.pieter.com/",
+      "discoveredVia": "https://www.inxanitylabs.com/games/rtcw",
+      "reviewedAt": "2026-10-20",
+      "reviewedVersion": "312d6779c24dfa53cb383a75d39daedbe3371cd31a3f059e1f5e7e3780264d84",
+      "reviewMethod": "documentation",
+      "origins": [
+        "Outro"
+      ],
+      "targets": [
+        "Web"
+      ],
+      "stars": null,
+      "starsCollectedAt": null,
+      "image": {
+        "url": "https://www.inxanitylabs.com/assets/games/rtcw.webp",
+        "kind": "reference",
+        "source": "https://www.inxanitylabs.com/games/rtcw",
+        "provider": "inxanity-declared-cover-v1",
+        "subject": "Return to Castle Wolfenstein"
+      },
+      "browser": {
+        "url": "https://rtcw.pieter.com/",
+        "access": "web",
+        "verification": "documentation",
+        "checkedAt": "2026-10-20T02:02:41.454538+00:00",
+        "pageCheck": "http-html",
+        "health": {
+          "status": "reachable",
+          "checkedAt": "2026-10-20T02:02:40.039021+00:00",
+          "method": "http-html",
+          "reason": null
+        }
+      },
+      "content": {
+        "pt": {
+          "summary": "Return to Castle Wolfenstein no navegador: um jogo de tiro.",
+          "originalFiles": "Não verificado. Confira na página do jogo se são necessários arquivos próprios.",
+          "requirements": [
+            "Navegador atualizado; confira tecnologias, controles e requisitos no destino."
+          ],
+          "installation": [
+            "Abra o link direto pelo botão Jogar no navegador.",
+            "Siga as instruções da página do jogo.",
+            "Compartilhe erros e sua experiência na comunidade desta ficha."
+          ],
+          "limitations": "Abertura de página não comprova funcionamento de uma partida. Campanha, controles, desempenho e tecnologia não testados pelo Bora de Play. O hash identifica o HTML consultado. Os avisos de desenvolvimento da fonte foram preservados."
+        },
+        "en": {
+          "summary": "Return to Castle Wolfenstein in your browser: a game focused on shooting.",
+          "originalFiles": "Not verified. Check the game page for any required files you must supply.",
+          "requirements": [
+            "An up-to-date browser; check technologies, controls and requirements at the destination."
+          ],
+          "installation": [
+            "Open the direct link using Play in browser.",
+            "Follow the instructions on the game page.",
+            "Share errors and your experience in this entry’s community section."
+          ],
+          "limitations": "Opening a page does not prove gameplay works. Campaign, controls, performance and technology have not been tested by Bora de Play. The hash identifies the consulted HTML. Development notices from the source were preserved."
+        },
+        "es": {
+          "summary": "Return to Castle Wolfenstein en navegador: un juego de disparos.",
+          "originalFiles": "No verificado. Consulta si la página del juego requiere tus propios archivos.",
+          "requirements": [
+            "Navegador actualizado; consulta tecnologías, controles y requisitos en el destino."
+          ],
+          "installation": [
+            "Abre el enlace directo con Jugar en el navegador.",
+            "Sigue las instrucciones de la página del juego.",
+            "Comparte errores y tu experiencia en la comunidad de esta ficha."
+          ],
+          "limitations": "Abrir una página no demuestra que una partida funcione. Bora de Play no ha probado campaña, controles, rendimiento ni tecnología. El hash identifica el HTML consultado. Se conservaron los avisos de desarrollo de la fuente."
+        }
+      }
+    },
+    {
+      "id": "web-inx-f03247e42128f4",
+      "editionId": "web-inx-f03247e42128f4",
+      "game": "Urban Terror",
+      "name": "Urban Terror · Web",
+      "type": "port",
+      "approach": "web-unconfirmed",
+      "playability": "nao-verificado",
+      "developmentStage": "desconhecido",
+      "sourceKind": "website",
+      "github": null,
+      "instructionsUrl": "https://ut.pieter.com/",
+      "evidenceUrl": "https://ut.pieter.com/",
+      "discoveredVia": "https://www.inxanitylabs.com/games/urban-terror",
+      "reviewedAt": "2026-10-20",
+      "reviewedVersion": "09ad8736ddd24d96adf3885e9abd97065aa4cce41d983d81e7dbcbd66ee93191",
+      "reviewMethod": "documentation",
+      "origins": [
+        "Outro"
+      ],
+      "targets": [
+        "Web"
+      ],
+      "stars": null,
+      "starsCollectedAt": null,
+      "image": {
+        "url": "https://www.inxanitylabs.com/assets/games/urban-terror.webp",
+        "kind": "reference",
+        "source": "https://www.inxanitylabs.com/games/urban-terror",
+        "provider": "inxanity-declared-cover-v1",
+        "subject": "Urban Terror"
+      },
+      "browser": {
+        "url": "https://ut.pieter.com/",
+        "access": "web",
+        "verification": "documentation",
+        "checkedAt": "2026-10-20T02:02:43.025917+00:00",
+        "pageCheck": "http-html",
+        "health": {
+          "status": "reachable",
+          "checkedAt": "2026-10-20T02:02:41.611406+00:00",
+          "method": "http-html",
+          "reason": null
+        }
+      },
+      "content": {
+        "pt": {
+          "summary": "Urban Terror no navegador: um jogo de tiro.",
+          "originalFiles": "Não verificado. Confira na página do jogo se são necessários arquivos próprios.",
+          "requirements": [
+            "Navegador atualizado; confira tecnologias, controles e requisitos no destino."
+          ],
+          "installation": [
+            "Abra o link direto pelo botão Jogar no navegador.",
+            "Siga as instruções da página do jogo.",
+            "Compartilhe erros e sua experiência na comunidade desta ficha."
+          ],
+          "limitations": "Abertura de página não comprova funcionamento de uma partida. Campanha, controles, desempenho e tecnologia não testados pelo Bora de Play. O hash identifica o HTML consultado. Os avisos de desenvolvimento da fonte foram preservados."
+        },
+        "en": {
+          "summary": "Urban Terror in your browser: a game focused on shooting.",
+          "originalFiles": "Not verified. Check the game page for any required files you must supply.",
+          "requirements": [
+            "An up-to-date browser; check technologies, controls and requirements at the destination."
+          ],
+          "installation": [
+            "Open the direct link using Play in browser.",
+            "Follow the instructions on the game page.",
+            "Share errors and your experience in this entry’s community section."
+          ],
+          "limitations": "Opening a page does not prove gameplay works. Campaign, controls, performance and technology have not been tested by Bora de Play. The hash identifies the consulted HTML. Development notices from the source were preserved."
+        },
+        "es": {
+          "summary": "Urban Terror en navegador: un juego de disparos.",
+          "originalFiles": "No verificado. Consulta si la página del juego requiere tus propios archivos.",
+          "requirements": [
+            "Navegador actualizado; consulta tecnologías, controles y requisitos en el destino."
+          ],
+          "installation": [
+            "Abre el enlace directo con Jugar en el navegador.",
+            "Sigue las instrucciones de la página del juego.",
+            "Comparte errores y tu experiencia en la comunidad de esta ficha."
+          ],
+          "limitations": "Abrir una página no demuestra que una partida funcione. Bora de Play no ha probado campaña, controles, rendimiento ni tecnología. El hash identifica el HTML consultado. Se conservaron los avisos de desarrollo de la fuente."
+        }
+      }
     }
   ],
   "automation": {
-    "lastRunAt": "2026-10-19T17:44:01.913891+00:00",
+    "lastRunAt": "2026-10-20T02:02:06.850345+00:00",
     "metadata": "updated",
     "discovery": "completed",
     "inxanity": {
       "status": "completed",
-      "checkedAt": "2026-10-19T17:44:32.516505+00:00",
+      "checkedAt": "2026-10-20T02:02:33.578863+00:00",
       "discovered": 81,
       "reviewed": 6,
-      "added": 4,
-      "duplicates": 1,
-      "pending": 61
+      "added": 5,
+      "duplicates": 0,
+      "pending": 56
     },
     "images": {
       "filled": 0,
@@ -2490,10 +2925,10 @@
       "unavailableCovers": 0,
       "missingGameCovers": 0
     },
-    "totalProjects": 29,
-    "pendingRepositories": 128,
+    "totalProjects": 34,
+    "pendingRepositories": 129,
     "reviewedRepositories": 6,
-    "lowRelevanceRepositories": 66,
+    "lowRelevanceRepositories": 70,
     "ruleVersion": "documentary-v2"
   }
 }
