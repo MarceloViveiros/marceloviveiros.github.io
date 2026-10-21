@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-20T23:29:48.086529+00:00",
+  "updatedAt": "2026-10-21T01:38:57.198110+00:00",
   "triage": {
     "ruleVersion": "documentary-v2",
     "reviewed": 20,
@@ -9,6 +9,27 @@
     "outOfScope": 0
   },
   "projects": [
+    {
+      "repository": "SulphurS16/ACFA-Port",
+      "github": "https://github.com/SulphurS16/ACFA-Port",
+      "stars": 47,
+      "checkedAt": "2026-10-21T01:40:13.898911+00:00",
+      "evidenceUrl": "https://github.com/SulphurS16/ACFA-Port/blob/09e5a3c1a147983ebfd2e7fcb0a899421f43ebb1/README.md"
+    },
+    {
+      "repository": "thiagordsfx/urban-reign-recomp",
+      "github": "https://github.com/thiagordsfx/urban-reign-recomp",
+      "stars": 50,
+      "checkedAt": "2026-10-21T01:40:08.735886+00:00",
+      "evidenceUrl": "https://github.com/thiagordsfx/urban-reign-recomp/blob/2fa53c4dcfade75205f0384fceb0e72db3b9c2a2/README.md"
+    },
+    {
+      "repository": "HalmyLyseas/VandalHearts-PcPort",
+      "github": "https://github.com/HalmyLyseas/VandalHearts-PcPort",
+      "stars": 50,
+      "checkedAt": "2026-10-21T01:40:05.936490+00:00",
+      "evidenceUrl": "https://github.com/HalmyLyseas/VandalHearts-PcPort/blob/14552fffa0e0b47e02b57592e274fc6e7a649923/README.md"
+    },
     {
       "repository": "sonsegajp/HWDER",
       "github": "https://github.com/sonsegajp/HWDER",
