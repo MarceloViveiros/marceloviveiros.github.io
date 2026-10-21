@@ -1,14 +1,56 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-21T01:38:57.198110+00:00",
+  "updatedAt": "2026-10-21T16:01:15.709481+00:00",
   "triage": {
     "ruleVersion": "documentary-v2",
     "reviewed": 20,
-    "added": 0,
-    "pending": 20,
+    "added": 3,
+    "pending": 17,
     "outOfScope": 0
   },
   "projects": [
+    {
+      "repository": "toowasmir/WebOfShadowsRecomp",
+      "github": "https://github.com/toowasmir/WebOfShadowsRecomp",
+      "stars": 42,
+      "checkedAt": "2026-10-21T16:02:44.842847+00:00",
+      "evidenceUrl": "https://github.com/toowasmir/WebOfShadowsRecomp/blob/36b36d5b851638461a1157129eab64c7f924ff8f/README.md"
+    },
+    {
+      "repository": "santiquiroz/gears-of-war-2-pc-port",
+      "github": "https://github.com/santiquiroz/gears-of-war-2-pc-port",
+      "stars": 42,
+      "checkedAt": "2026-10-21T16:02:42.655036+00:00",
+      "evidenceUrl": "https://github.com/santiquiroz/gears-of-war-2-pc-port/blob/19d9e79313c21b8d61de61d64d517f5c9e5220e6/README.md"
+    },
+    {
+      "repository": "nlwstein/skullburglar",
+      "github": "https://github.com/nlwstein/skullburglar",
+      "stars": 42,
+      "checkedAt": "2026-10-21T16:02:39.689506+00:00",
+      "evidenceUrl": "https://github.com/nlwstein/skullburglar/blob/bcf9414e8e9bacb14d900b2e29fc84b825e7815f/README.md"
+    },
+    {
+      "repository": "YYOzcan/Tobiichi-Port",
+      "github": "https://github.com/YYOzcan/Tobiichi-Port",
+      "stars": 43,
+      "checkedAt": "2026-10-21T16:02:35.335330+00:00",
+      "evidenceUrl": "https://github.com/YYOzcan/Tobiichi-Port/blob/471c83180a8df575cff4abd3fae6c043b5096925/README.md"
+    },
+    {
+      "repository": "theokyr/Project8Recomp",
+      "github": "https://github.com/theokyr/Project8Recomp",
+      "stars": 43,
+      "checkedAt": "2026-10-21T16:02:34.066947+00:00",
+      "evidenceUrl": "https://github.com/theokyr/Project8Recomp/blob/c8c21e2781acd134de6b2ccf12b666145e00ea6c/README.md"
+    },
+    {
+      "repository": "kazuyette/rr-decomp",
+      "github": "https://github.com/kazuyette/rr-decomp",
+      "stars": 43,
+      "checkedAt": "2026-10-21T16:02:29.204227+00:00",
+      "evidenceUrl": "https://github.com/kazuyette/rr-decomp/blob/3b42b36e222b2d9aa968666706e940bf49ee76f8/README.md"
+    },
     {
       "repository": "SulphurS16/ACFA-Port",
       "github": "https://github.com/SulphurS16/ACFA-Port",
