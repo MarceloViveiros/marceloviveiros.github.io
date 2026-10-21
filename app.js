@@ -73,7 +73,7 @@ async function init() {
   let language = pickLanguage(new URL(location.href).searchParams.get('lang'), stored);
   const languageSelect = document.querySelector('#language');
   const form = document.querySelector('#filters'), results = document.querySelector('#results'), total = document.querySelector('#total');
-  let projects = [], data = null, loadFailed = false, discoveries = null, channelVideo = null;
+  let projects = [], data = null, loadFailed = false, discoveries = null, channelVideo = null, visibleCount = 10;
   const t = (key, values = {}) => BORA_I18N[language][key].replace(/\{(\w+)\}/g, (_, name) => String(values[name] ?? ''));
   const date = value => new Intl.DateTimeFormat(language === 'pt' ? 'pt-BR' : language, {dateStyle:'medium', timeZone:'UTC'}).format(new Date(value.slice(0,10)+'T00:00:00Z'));
   const number = value => new Intl.NumberFormat(language === 'pt' ? 'pt-BR' : language).format(value);
@@ -139,16 +139,18 @@ async function init() {
     document.querySelector('#collection-note').textContent=(data?.collectedAt?t('collection',{date:date(data.collectedAt)}):'')+(data?.updatedAt?' '+t('syncDate',{date:new Intl.DateTimeFormat(language,{dateStyle:'medium',timeStyle:'short'}).format(new Date(data.updatedAt))}):'');
     if(!projects.length){const a=el('a',t('suggest'),'text-link');a.href='contribuir.html';empty(t('empty'),t('emptyBody'),a);return;}
     if(!shown.length){const b=el('button',t('clear'));b.type='button';b.onclick=()=>form.reset();empty(t('noResults'),t('tryAgain'),b);return;}
-    const grid=el('div',undefined,'cards');shown.forEach(p=>grid.append(card(p)));results.replaceChildren(grid);
+    const grid=el('div',undefined,'cards');shown.slice(0,visibleCount).forEach(p=>grid.append(card(p)));results.replaceChildren(grid);
+    const paging=el('div',undefined,'catalog-pagination');paging.append(el('p',t('shownCount',{shown:Math.min(visibleCount,shown.length),total:shown.length})));
+    if(visibleCount<shown.length){const more=el('button',t('loadMore'),'button');more.type='button';more.setAttribute('aria-controls','results');more.onclick=()=>{const firstNew=visibleCount;visibleCount+=10;render();const heading=results.querySelectorAll('.card h3')[firstNew];if(heading){heading.tabIndex=-1;heading.focus();}};paging.append(more);}results.append(paging);
   }
   translatePage();
   languageSelect.addEventListener('change',()=>{
     language=pickLanguage(languageSelect.value);
     try{localStorage.setItem('bora-language',language);}catch{/* Still works without storage. */}
     try{const url=new URL(location.href);url.searchParams.set('lang',language);history.replaceState(null,'',url);}catch{/* Language works without URL persistence. */}
-    translatePage();renderChannel();render();
+    visibleCount=10;translatePage();renderChannel();render();
   });
-  form.addEventListener('submit',e=>e.preventDefault());form.addEventListener('input',render);form.addEventListener('change',render);form.addEventListener('reset',()=>setTimeout(render,0));
+  form.addEventListener('submit',e=>e.preventDefault());form.addEventListener('input',()=>{visibleCount=10;render();});form.addEventListener('change',()=>{visibleCount=10;render();});form.addEventListener('reset',()=>setTimeout(()=>{visibleCount=10;render();},0));
   try {
     const response=await fetch('./data/projects.json',{cache:'no-store'});if(!response.ok)throw new Error('HTTP '+response.status);
     data=await response.json();if(data.schemaVersion!==3||!Array.isArray(data.projects))throw new Error('Invalid data version');

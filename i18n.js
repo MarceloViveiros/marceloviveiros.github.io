@@ -1,6 +1,8 @@
 'use strict';
 const BORA_I18N = {
   "pt": {
+    "loadMore": "Carregar mais",
+    "shownCount": "Exibindo {shown} de {total} fichas",
     "inxUnavailable": "INXANITY Labs: fonte indisponível nesta rodada; nova tentativa nas próximas atualizações.",
     "inxSummary": "INXANITY Labs: {count} novos jogos nesta rodada.",
     "reviewsNav": "Avaliações",
@@ -161,6 +163,8 @@ const BORA_I18N = {
     "web-unconfirmed": "Tecnologia web não confirmada"
   },
   "en": {
+    "loadMore": "Load more",
+    "shownCount": "Showing {shown} of {total} entries",
     "inxUnavailable": "INXANITY Labs: source unavailable this round; it will be retried in future updates.",
     "inxSummary": "INXANITY Labs: {count} new games this round.",
     "reviewsNav": "Reviews",
@@ -321,6 +325,8 @@ const BORA_I18N = {
     "web-unconfirmed": "Web technology not confirmed"
   },
   "es": {
+    "loadMore": "Cargar más",
+    "shownCount": "Mostrando {shown} de {total} fichas",
     "inxUnavailable": "INXANITY Labs: fuente no disponible en esta ronda; se volverá a intentar en próximas actualizaciones.",
     "inxSummary": "INXANITY Labs: {count} juegos nuevos en esta ronda.",
     "reviewsNav": "Reseñas",
