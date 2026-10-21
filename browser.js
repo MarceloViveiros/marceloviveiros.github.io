@@ -1,7 +1,7 @@
 'use strict';
 async function initBrowserCatalog(){
  let stored;try{stored=localStorage.getItem('bora-language');}catch{}
- let language=pickLanguage(new URL(location.href).searchParams.get('lang'),stored),projects=[],failed=false,automation=null,visibleCount=10;
+ let language=pickLanguage(new URL(location.href).searchParams.get('lang'),stored),projects=[],failed=false,visibleCount=10;
  const host=document.querySelector('#results'),form=document.querySelector('#browser-filters'),select=document.querySelector('#language');
  const paging=el('div',undefined,'catalog-pagination');host.after(paging);
  const accessKeys={demo:'browserDemo',shareware:'browserShareware','own-files':'browserOwn',free:'browserFree',web:'browserWeb'};
@@ -13,8 +13,6 @@ async function initBrowserCatalog(){
   document.querySelectorAll('a[href^="navegador.html"]').forEach(a=>a.href='navegador.html?lang='+language);
   document.querySelectorAll('a[href^="contribuir.html"]').forEach(a=>a.href='contribuir.html?lang='+language);
   document.querySelectorAll('a[href^="./#"]').forEach(a=>a.href='./?lang='+language+a.hash);
-  const auto=document.querySelector('#browser-automation');auto.textContent=automation?.lastRunAt?t('browserAuto')+new Intl.DateTimeFormat(language,{dateStyle:'medium',timeStyle:'short'}).format(new Date(automation.lastRunAt))+'. '+t('browserCheckNote'):'';
-  if(automation?.inxanity){const source=automation.inxanity;document.querySelector('#browser-automation').textContent+=' '+(source.status==='source-unavailable'?t('inxUnavailable'):t('inxSummary').replace('{count}',String(source.added)));}
   const q=normalize(document.querySelector('#browser-query').value),access=document.querySelector('#browser-access').value;
   const matches=sortProjects(projects.filter(p=>(!q||normalize(p.game+' '+p.name).includes(q))&&(!access||p.browser.access===access)),'name',language);
   const total=document.querySelector('#browser-total');total.textContent=failed?t('loadError'):matches.length+' / '+projects.length+' · '+t('browserNav');host.replaceChildren();paging.replaceChildren();
@@ -30,7 +28,7 @@ async function initBrowserCatalog(){
  }
  form.addEventListener('submit',e=>e.preventDefault());form.addEventListener('input',()=>{visibleCount=10;render();});form.addEventListener('change',()=>{visibleCount=10;render();});
  select.addEventListener('change',()=>{language=pickLanguage(select.value);try{localStorage.setItem('bora-language',language);}catch{}const u=new URL(location.href);u.searchParams.set('lang',language);history.replaceState(null,'',u);visibleCount=10;render();});
- try{const response=await fetch('data/browser-projects.json',{cache:'no-store'});if(!response.ok)throw Error();const data=await response.json();if(data.schemaVersion!==3||!Array.isArray(data.projects))throw Error();projects=data.projects.map(validateProject);automation=data.automation||null;if(projects.some(p=>!p.browser))throw Error();}catch{failed=true;}
+ try{const response=await fetch('data/browser-projects.json',{cache:'no-store'});if(!response.ok)throw Error();const data=await response.json();if(data.schemaVersion!==3||!Array.isArray(data.projects))throw Error();projects=data.projects.map(validateProject);if(projects.some(p=>!p.browser))throw Error();}catch{failed=true;}
  render();
 }
 initBrowserCatalog();

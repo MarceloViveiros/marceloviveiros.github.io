@@ -136,7 +136,6 @@ async function init() {
     const f={query:document.querySelector('#query').value}; ['origin','target','type','status','stage','minStars'].forEach(k=>f[k]=document.getElementById(k).value);
     const shown=sortProjects(filterProjects(projects,f),document.querySelector('#sort').value,language);
     total.textContent=t('count',{shown:shown.length,total:projects.length});
-    document.querySelector('#collection-note').textContent=(data?.collectedAt?t('collection',{date:date(data.collectedAt)}):'')+(data?.updatedAt?' '+t('syncDate',{date:new Intl.DateTimeFormat(language,{dateStyle:'medium',timeStyle:'short'}).format(new Date(data.updatedAt))}):'');
     if(!projects.length){const a=el('a',t('suggest'),'text-link');a.href='contribuir.html';empty(t('empty'),t('emptyBody'),a);return;}
     if(!shown.length){const b=el('button',t('clear'));b.type='button';b.onclick=()=>form.reset();empty(t('noResults'),t('tryAgain'),b);return;}
     const grid=el('div',undefined,'cards');shown.slice(0,visibleCount).forEach(p=>grid.append(card(p)));results.replaceChildren(grid);
