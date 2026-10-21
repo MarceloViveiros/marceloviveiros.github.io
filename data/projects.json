@@ -3667,7 +3667,94 @@
         },
         "documentationChanged": true
       }
+    },
+    {
+      "id": "def-jam-fight-for-ny",
+      "editionId": "def-jam-fight-for-ny",
+      "game": "Def Jam: Fight for NY",
+      "name": "Def Jam: Fight for NY Recompiled",
+      "origins": [
+        "Xbox"
+      ],
+      "targets": [
+        "Windows",
+        "macOS",
+        "Linux"
+      ],
+      "type": "recompilacao",
+      "approach": "static-recompilation",
+      "github": "https://github.com/vyanhursky/DefJamFFNY-recomp",
+      "instructionsUrl": "https://github.com/vyanhursky/DefJamFFNY-recomp/blob/fc960278d21418c6262dc802e215f1d1c54a3965/docs/setup-installer.md",
+      "evidenceUrl": "https://github.com/vyanhursky/DefJamFFNY-recomp/blob/fc960278d21418c6262dc802e215f1d1c54a3965/README.md",
+      "reviewedAt": "2026-10-21",
+      "reviewedVersion": "fc960278d21418c6262dc802e215f1d1c54a3965",
+      "reviewMethod": "documentation",
+      "stars": 110,
+      "starsCollectedAt": "2026-10-21T12:32:12.764253+00:00",
+      "content": {
+        "pt": {
+          "summary": "Lutas de rua no universo do hip-hop: Def Jam: Fight for NY chega ao PC por recompilação da versão de Xbox, com resolução ajustável, controles modernos e partidas locais para até quatro jogadores.",
+          "originalFiles": "Exige sua própria cópia americana de Xbox, em ISO/XISO ou pasta extraída compatível. Versões de PS2 e GameCube não servem; o projeto não inclui os dados do jogo.",
+          "requirements": [
+            "Windows x64 com Direct3D 11, macOS em Apple Silicon ou Linux x86-64/Steam Deck com Vulkan.",
+            "Reserve 12 GiB para a compilação, além do dump e das ferramentas; texturas HD opcionais exigem espaço adicional. Confira o guia da sua plataforma."
+          ],
+          "installation": [
+            "Baixe o instalador da sua plataforma na seção Releases do repositório.",
+            "Selecione seu dump americano de Xbox e pastas separadas para instalação e dados.",
+            "Aguarde a verificação e compilação local. A geração de texturas HD é opcional.",
+            "Abra o launcher, ajuste imagem e controles e selecione Play."
+          ],
+          "limitations": "Testado e aprovado pelo Bora de Play por confirmação do canal em 21/10/2026; hardware e versão do teste não informados. Multiplayer apenas local; widescreen em beta. O autor registra limitações de áudio e desempenho em algumas cenas. Consulte os problemas conhecidos antes de instalar."
+        },
+        "en": {
+          "summary": "Street fighting meets hip-hop: Def Jam: Fight for NY comes to PC through static recompilation of the Xbox version, with adjustable resolution, modern controllers and local matches for up to four players.",
+          "originalFiles": "Requires your own supported USA Xbox dump, as ISO/XISO or an extracted folder. PS2 and GameCube copies cannot be used; game data is not included.",
+          "requirements": [
+            "Windows x64 with Direct3D 11, Apple Silicon macOS, or x86-64 Linux/Steam Deck with Vulkan.",
+            "Allow 12 GiB build headroom plus dump and tool storage; optional HD textures require extra space. Check your platform guide."
+          ],
+          "installation": [
+            "Download the setup for your platform from the repository Releases.",
+            "Select your USA Xbox dump and separate installation and data folders.",
+            "Wait for local verification and compilation; HD texture generation is optional.",
+            "Open the launcher, adjust display and controls, and select Play."
+          ],
+          "limitations": "Tested and approved by Bora de Play, confirmed by the channel owner on 2026-10-21; test hardware and version were not specified. Local multiplayer only; widescreen is in beta. The author documents audio and performance limitations in some scenes. Check known issues before installing."
+        },
+        "es": {
+          "summary": "Lucha callejera y hip-hop: Def Jam: Fight for NY llega a PC mediante recompilación estática de la versión de Xbox, con resolución ajustable, mandos modernos y partidas locales para hasta cuatro jugadores.",
+          "originalFiles": "Necesitas tu copia americana compatible de Xbox en ISO/XISO o carpeta extraída. No sirven las versiones de PS2 o GameCube; no se incluyen los datos del juego.",
+          "requirements": [
+            "Windows x64 con Direct3D 11, macOS en Apple Silicon o Linux x86-64/Steam Deck con Vulkan.",
+            "Reserva 12 GiB para compilar, además del dump y las herramientas; las texturas HD opcionales requieren espacio adicional. Consulta la guía de tu plataforma."
+          ],
+          "installation": [
+            "Descarga el instalador de tu plataforma en Releases del repositorio.",
+            "Selecciona tu dump americano de Xbox y carpetas separadas para instalación y datos.",
+            "Espera la verificación y compilación local; generar texturas HD es opcional.",
+            "Abre el launcher, configura imagen y controles y selecciona Play."
+          ],
+          "limitations": "Probado y aprobado por Bora de Play, confirmado por el responsable del canal el 21/10/2026; no se especificaron hardware ni versión de la prueba. Multijugador solo local; pantalla panorámica en beta. El autor documenta limitaciones de audio y rendimiento en algunas escenas. Consulta los problemas conocidos antes de instalar."
+        }
+      },
+      "playability": "jogavel",
+      "developmentStage": "maduro",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/en/3/3a/Def_Jam_Fight_for_NY.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "kind": "reference",
+        "source": "https://en.wikipedia.org/wiki/Def_Jam%3A_Fight_for_NY",
+        "subject": "Def Jam: Fight for NY",
+        "provider": "wikipedia-summary-v1",
+        "checkedAt": "2026-10-21T12:32:13.080092+00:00"
+      },
+      "channelReview": {
+        "status": "approved",
+        "reviewedAt": "2026-10-21",
+        "reviewer": "Bora de Play",
+        "basis": "owner-confirmation"
+      }
     }
   ],
-  "updatedAt": "2026-10-21T01:38:57.198110+00:00"
+  "updatedAt": "2026-10-21T12:32:12.764253+00:00"
 }
