@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-22T01:35:03.018620+00:00",
+  "updatedAt": "2026-10-22T15:56:14.654651+00:00",
   "triage": {
     "ruleVersion": "documentary-v2",
     "reviewed": 20,
@@ -9,6 +9,27 @@
     "outOfScope": 0
   },
   "projects": [
+    {
+      "repository": "nefariousjosiah/WWE-SVR2008-RECOMP",
+      "github": "https://github.com/nefariousjosiah/WWE-SVR2008-RECOMP",
+      "stars": 30,
+      "checkedAt": "2026-10-22T15:57:38.253684+00:00",
+      "evidenceUrl": "https://github.com/nefariousjosiah/WWE-SVR2008-RECOMP/blob/f8690387848c8a8cdf6dc780bb0455c8ea2b1078/README.md"
+    },
+    {
+      "repository": "n0madic/Soulcalibur2HD-recomp",
+      "github": "https://github.com/n0madic/Soulcalibur2HD-recomp",
+      "stars": 30,
+      "checkedAt": "2026-10-22T15:57:37.223954+00:00",
+      "evidenceUrl": "https://github.com/n0madic/Soulcalibur2HD-recomp/blob/87133fbca15c2d3ad973f9f6fd7c8c63fd674a26/README.md"
+    },
+    {
+      "repository": "nefariousjosiah/WWE-SVR2010-RECOMP",
+      "github": "https://github.com/nefariousjosiah/WWE-SVR2010-RECOMP",
+      "stars": 31,
+      "checkedAt": "2026-10-22T15:57:34.496620+00:00",
+      "evidenceUrl": "https://github.com/nefariousjosiah/WWE-SVR2010-RECOMP/blob/a013772239ee02d3ec587de26515075ec8ebc8f0/README.md"
+    },
     {
       "repository": "KaikoClanworth1/buffy-chaos-bleeds-pc",
       "github": "https://github.com/KaikoClanworth1/buffy-chaos-bleeds-pc",
