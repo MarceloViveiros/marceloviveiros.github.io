@@ -1,14 +1,70 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-22T15:56:14.654651+00:00",
+  "updatedAt": "2026-10-23T01:34:19.501762+00:00",
   "triage": {
     "ruleVersion": "documentary-v2",
     "reviewed": 20,
-    "added": 0,
-    "pending": 20,
+    "added": 2,
+    "pending": 18,
     "outOfScope": 0
   },
   "projects": [
+    {
+      "repository": "nefariousjosiah/WWE-SVR2009-RECOMP",
+      "github": "https://github.com/nefariousjosiah/WWE-SVR2009-RECOMP",
+      "stars": 27,
+      "checkedAt": "2026-10-23T01:36:02.540580+00:00",
+      "evidenceUrl": "https://github.com/nefariousjosiah/WWE-SVR2009-RECOMP/blob/b56344ad5b8a8be8b3ccd290dea669e7c8c569be/README.md"
+    },
+    {
+      "repository": "GTTeancum/OpenJam",
+      "github": "https://github.com/GTTeancum/OpenJam",
+      "stars": 28,
+      "checkedAt": "2026-10-23T01:35:59.402087+00:00",
+      "evidenceUrl": "https://github.com/GTTeancum/OpenJam/blob/711f515ebc86a610f3237b48f3939858fe5002d0/README.md"
+    },
+    {
+      "repository": "florinp93/xmd-recompiled",
+      "github": "https://github.com/florinp93/xmd-recompiled",
+      "stars": 28,
+      "checkedAt": "2026-10-23T01:35:57.935280+00:00",
+      "evidenceUrl": "https://github.com/florinp93/xmd-recompiled/blob/a312ecd77bddcd138384211a52976638f601b3af/README.md"
+    },
+    {
+      "repository": "Mango77x/MHForever",
+      "github": "https://github.com/Mango77x/MHForever",
+      "stars": 29,
+      "checkedAt": "2026-10-23T01:35:55.124927+00:00",
+      "evidenceUrl": "https://github.com/Mango77x/MHForever/blob/ff17a1805101d3804a2a8605aaf5b103195b3601/README.md"
+    },
+    {
+      "repository": "Dyotson/RecompiledHaloReach",
+      "github": "https://github.com/Dyotson/RecompiledHaloReach",
+      "stars": 29,
+      "checkedAt": "2026-10-23T01:35:50.582184+00:00",
+      "evidenceUrl": "https://github.com/Dyotson/RecompiledHaloReach/blob/329148bb156e0710bcf7f89ced1044461ea7f18f/README.md"
+    },
+    {
+      "repository": "hk21x/pgr2-recomp",
+      "github": "https://github.com/hk21x/pgr2-recomp",
+      "stars": 31,
+      "checkedAt": "2026-10-23T01:35:45.768707+00:00",
+      "evidenceUrl": "https://github.com/hk21x/pgr2-recomp/blob/8768c910d043770378ceacc6e8a39b7dc1ce36cf/README.md"
+    },
+    {
+      "repository": "DrummingBird1/gow-psp-recomp",
+      "github": "https://github.com/DrummingBird1/gow-psp-recomp",
+      "stars": 31,
+      "checkedAt": "2026-10-23T01:35:44.475564+00:00",
+      "evidenceUrl": "https://github.com/DrummingBird1/gow-psp-recomp/blob/ef886b037bf936921835f563e03008dea87dfa3e/README.md"
+    },
+    {
+      "repository": "Waffle565/God-Of-War-Native-Port",
+      "github": "https://github.com/Waffle565/God-Of-War-Native-Port",
+      "stars": 33,
+      "checkedAt": "2026-10-23T01:35:37.673249+00:00",
+      "evidenceUrl": "https://github.com/Waffle565/God-Of-War-Native-Port/blob/514f89186f1926edaf4807696a59557679c7d517/README.md"
+    },
     {
       "repository": "nefariousjosiah/WWE-SVR2008-RECOMP",
       "github": "https://github.com/nefariousjosiah/WWE-SVR2008-RECOMP",
