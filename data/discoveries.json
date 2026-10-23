@@ -1,14 +1,35 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-23T01:34:19.501762+00:00",
+  "updatedAt": "2026-10-23T15:48:47.332330+00:00",
   "triage": {
     "ruleVersion": "documentary-v2",
     "reviewed": 20,
-    "added": 2,
-    "pending": 18,
+    "added": 0,
+    "pending": 20,
     "outOfScope": 0
   },
   "projects": [
+    {
+      "repository": "josiahg2502-glitch/OogiesRevengeRecompiled",
+      "github": "https://github.com/josiahg2502-glitch/OogiesRevengeRecompiled",
+      "stars": 24,
+      "checkedAt": "2026-10-23T15:50:55.924903+00:00",
+      "evidenceUrl": "https://github.com/josiahg2502-glitch/OogiesRevengeRecompiled/blob/3e74015d75dafe7d0dbb7f0a99b8e0ea08674745/README.md"
+    },
+    {
+      "repository": "zenit2893-cmyk/project-1944",
+      "github": "https://github.com/zenit2893-cmyk/project-1944",
+      "stars": 26,
+      "checkedAt": "2026-10-23T15:50:38.417649+00:00",
+      "evidenceUrl": "https://github.com/zenit2893-cmyk/project-1944/blob/62ab3b08e4db1a5f21fb0c13b49d4a3ebd004812/README.md"
+    },
+    {
+      "repository": "jessetbh/WCWnWoRevengeRecomp",
+      "github": "https://github.com/jessetbh/WCWnWoRevengeRecomp",
+      "stars": 26,
+      "checkedAt": "2026-10-23T15:50:33.652135+00:00",
+      "evidenceUrl": "https://github.com/jessetbh/WCWnWoRevengeRecomp/blob/c1c43a694f120c5567fec4ce5d35e2f008041319/README.md"
+    },
     {
       "repository": "nefariousjosiah/WWE-SVR2009-RECOMP",
       "github": "https://github.com/nefariousjosiah/WWE-SVR2009-RECOMP",
