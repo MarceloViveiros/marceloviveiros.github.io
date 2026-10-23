@@ -10,6 +10,17 @@ function validateReview(p){
  return p;
 }
 function selectReviews(rows,{query='',platform='',progress='',minimum=0,sort='recent'}={}){return rows.filter(p=>(!query||normalize(p.game).includes(normalize(query)))&&(!platform||p.platform===platform)&&(!progress||p.progress===progress)&&p.score>=Number(minimum)).sort((a,b)=>sort==='highest'?b.score-a.score||b.reviewedAt.localeCompare(a.reviewedAt):b.reviewedAt.localeCompare(a.reviewedAt)||a.game.localeCompare(b.game));}
+function reviewOpinion(value){
+ const container=el('div',undefined,'review-topics');
+ for(const block of value.trim().split(/\r?\n\s*\r?\n/)){
+  const lines=block.split(/\r?\n/),heading=lines.shift();
+  if(lines.length&&heading.length<70){
+   const section=el('section',undefined,'review-topic');
+   section.append(el('h3',heading),el('p',lines.join('\n')));container.append(section);
+  }else container.append(el('p',block,'review-opinion'));
+ }
+ return container;
+}
 async function initReviews(){
  let stored;try{stored=localStorage.getItem('bora-language');}catch{}
  let language=pickLanguage(new URL(location.href).searchParams.get('lang'),stored),rows=[],failed=false;
@@ -25,9 +36,9 @@ async function initReviews(){
  document.querySelectorAll('a[href^="avaliacoes.html"],a[href^="navegador.html"]').forEach(a=>a.href=a.getAttribute('href').split('?')[0]+'?lang='+language);
  options('review-platform',[['',text('all')],...[...new Set(rows.map(p=>p.platform))].sort().map(v=>[v,v])]);options('review-progress',[['',text('all')],...['impressions','played','completed'].map(v=>[v,text(v)])]);options('review-minimum',[['0',text('any')],...['5','6','7','8','9'].map(v=>[v,v+'+'])]);options('review-sort',[['recent',text('recent')],['highest',text('highest')]]);
  const id=new URL(location.href).searchParams.get('id'),p=rows.find(v=>v.id===id);detail.hidden=!p;form.closest('.review-catalog').hidden=!!p;detail.replaceChildren();
- if(p){const c=p.content[language],back=el('a',text('back'),'text-link');back.href='avaliacoes.html?lang='+language;const art=el('article');art.append(back,cover(p),el('span',text(p.progress)+' · '+p.platform,'eyebrow'),el('h1',p.game),score(p),el('p',text('date')+' '+date(p.reviewedAt)),el('p',c.summary,'project-summary'),el('h2',text('opinion')),el('p',c.opinion,'review-opinion'));
+ if(p){const c=p.content[language],back=el('a',text('back'),'text-link');back.href='avaliacoes.html?lang='+language;const art=el('article');art.append(back,cover(p),el('span',text(p.progress)+' · '+p.platform,'eyebrow'),el('h1',p.game),score(p),el('p',text('date')+' '+date(p.reviewedAt)),el('p',c.summary,'project-summary'),el('h2',text('opinion')),reviewOpinion(c.opinion));
  for(const [key,list]of[['pros',c.pros],['cons',c.cons]]){if(list.length){art.append(el('h2',text(key)));const ul=el('ul');list.forEach(v=>ul.append(el('li',v)));art.append(ul);}}
- art.append(imageCredit(p,language));if(p.videoId){art.append(el('h2',text('video')));const button=el('button',text('watch'),'button review-watch');button.onclick=()=>{const frame=el('iframe');frame.src='https://www.youtube-nocookie.com/embed/'+p.videoId+'?autoplay=1&rel=0';frame.title=p.game+' — Bora de Play';frame.allow='autoplay; encrypted-media; picture-in-picture; fullscreen';frame.setAttribute('allowfullscreen','');frame.referrerPolicy='strict-origin-when-cross-origin';frame.className='review-player';button.replaceWith(frame);};art.append(button,link(text('watch'),'https://www.youtube.com/watch?v='+p.videoId));}if(p.playlistId)art.append(link(text('playlist'),'https://www.youtube.com/playlist?list='+p.playlistId));detail.append(art);return;}
+ art.append(imageCredit(p,language));if(p.videoId){art.append(el('h2',text('video')));const button=el('button',text('watch'),'button review-watch');button.onclick=()=>{const frame=el('iframe');frame.src='https://www.youtube-nocookie.com/embed/'+p.videoId+'?autoplay=1&rel=0';frame.title=p.game+' — Bora de Play';frame.allow='autoplay; encrypted-media; picture-in-picture; fullscreen';frame.setAttribute('allowfullscreen','');frame.referrerPolicy='strict-origin-when-cross-origin';frame.className='review-player';button.replaceWith(frame);};art.append(button);}if(p.playlistId)art.append(link(text('playlist'),'https://www.youtube.com/playlist?list='+p.playlistId));detail.append(art);return;}
  const filtered=selectReviews(rows,{query:$('review-query').value,platform:$('review-platform').value,progress:$('review-progress').value,minimum:$('review-minimum').value,sort:$('review-sort').value});$('review-count').textContent=filtered.length+' '+text('count');results.replaceChildren();results.className=filtered.length?'cards review-cards':'';
  if(!filtered.length){const box=el('div',undefined,'review-empty');box.append(el('span','▶','review-empty-icon'),el('h2',text(failed?'error':rows.length?'none':'empty')));if(!rows.length&&!failed)box.append(el('p',text('emptyBody')));const a=link(text('channel'),'https://www.youtube.com/@Bora_de_Play');a.className='button';box.append(a);results.append(box);return;}
  filtered.forEach(p=>{const c=p.content[language],card=el('article',undefined,'card');card.append(cover(p));const body=el('div',undefined,'card-body');body.append(el('span',text(p.progress)+' · '+p.platform,'eyebrow'),el('h2',p.game),score(p),el('p',c.summary),el('p',date(p.reviewedAt),'collection-note'));const a=el('a',text('read'),'button');a.href='avaliacoes.html?id='+encodeURIComponent(p.id)+'&lang='+language;body.append(a);card.append(body);results.append(card);});
