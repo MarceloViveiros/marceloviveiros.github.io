@@ -1,14 +1,49 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-23T15:48:47.332330+00:00",
+  "updatedAt": "2026-10-24T01:38:14.001745+00:00",
   "triage": {
     "ruleVersion": "documentary-v2",
     "reviewed": 20,
-    "added": 0,
-    "pending": 20,
+    "added": 1,
+    "pending": 19,
     "outOfScope": 0
   },
   "projects": [
+    {
+      "repository": "Clergyman0013/arizona-vamp-recomp",
+      "github": "https://github.com/Clergyman0013/arizona-vamp-recomp",
+      "stars": 21,
+      "checkedAt": "2026-10-24T01:39:36.173778+00:00",
+      "evidenceUrl": "https://github.com/Clergyman0013/arizona-vamp-recomp/blob/3114f1bf9c20ed9a8de98b4a86d4104f35618c2d/README.md"
+    },
+    {
+      "repository": "Nycolazs/EoWRecomp",
+      "github": "https://github.com/Nycolazs/EoWRecomp",
+      "stars": 22,
+      "checkedAt": "2026-10-24T01:39:27.686160+00:00",
+      "evidenceUrl": "https://github.com/Nycolazs/EoWRecomp/blob/dd9c79d6c01d9eaddafc1fc5a07b6658bfc56505/README.md"
+    },
+    {
+      "repository": "hk21x/pgr1-recomp",
+      "github": "https://github.com/hk21x/pgr1-recomp",
+      "stars": 23,
+      "checkedAt": "2026-10-24T01:39:26.254520+00:00",
+      "evidenceUrl": "https://github.com/hk21x/pgr1-recomp/blob/06ea2d82c85d6be7d87b8d8188ee96d98ca9c4b7/README.md"
+    },
+    {
+      "repository": "danielgomesvieira2000/body-harvest-recomp",
+      "github": "https://github.com/danielgomesvieira2000/body-harvest-recomp",
+      "stars": 22,
+      "checkedAt": "2026-10-24T01:39:24.002351+00:00",
+      "evidenceUrl": "https://github.com/danielgomesvieira2000/body-harvest-recomp/blob/711a2b6fe2a3843ecbf31941d439be858948d7f4/README.md"
+    },
+    {
+      "repository": "noprompt/rood-boi",
+      "github": "https://github.com/noprompt/rood-boi",
+      "stars": 23,
+      "checkedAt": "2026-10-24T01:39:17.702042+00:00",
+      "evidenceUrl": "https://github.com/noprompt/rood-boi/blob/0221011d917e54870528be73ae4585839ebfb62e/README.md"
+    },
     {
       "repository": "josiahg2502-glitch/OogiesRevengeRecompiled",
       "github": "https://github.com/josiahg2502-glitch/OogiesRevengeRecompiled",
@@ -323,13 +358,6 @@
       "stars": 147,
       "checkedAt": "2026-10-18T11:56:03.953758+00:00",
       "evidenceUrl": "https://github.com/chasem-dev/sms-pc-port/blob/a2ff4eef099b22b2af487d1b5e3ac09ffe667d31/README.md"
-    },
-    {
-      "repository": "LittleBitUA/DPRecomp",
-      "github": "https://github.com/LittleBitUA/DPRecomp",
-      "stars": 165,
-      "checkedAt": "2026-10-18T11:55:51.727392+00:00",
-      "evidenceUrl": "https://github.com/LittleBitUA/DPRecomp/blob/e0624129c06b9437aa0278b58f2f3eb954192aec/README.md"
     }
   ]
 }
