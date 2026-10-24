@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-24T01:38:14.001745+00:00",
+  "updatedAt": "2026-10-24T14:35:48.943902+00:00",
   "triage": {
     "ruleVersion": "documentary-v2",
     "reviewed": 20,
@@ -9,6 +9,69 @@
     "outOfScope": 0
   },
   "projects": [
+    {
+      "repository": "jessetbh/WWFWrestleMania2000Recomp",
+      "github": "https://github.com/jessetbh/WWFWrestleMania2000Recomp",
+      "stars": 18,
+      "checkedAt": "2026-10-24T14:37:16.033030+00:00",
+      "evidenceUrl": "https://github.com/jessetbh/WWFWrestleMania2000Recomp/blob/f967ace4d2795c50ac490016a3b5925c4f17b83f/README.md"
+    },
+    {
+      "repository": "gustavocanepa/gt4-native",
+      "github": "https://github.com/gustavocanepa/gt4-native",
+      "stars": 18,
+      "checkedAt": "2026-10-24T14:37:14.980660+00:00",
+      "evidenceUrl": "https://github.com/gustavocanepa/gt4-native/blob/65e10e4b0edc054deb7b84afb046187be6bc76ec/README.md"
+    },
+    {
+      "repository": "BgbrhrWatchinOVO/dusklight-ps4",
+      "github": "https://github.com/BgbrhrWatchinOVO/dusklight-ps4",
+      "stars": 18,
+      "checkedAt": "2026-10-24T14:37:14.095663+00:00",
+      "evidenceUrl": "https://github.com/BgbrhrWatchinOVO/dusklight-ps4/blob/fd483cf5d4f04b0f4d887ff412d0e8691925de08/README.md"
+    },
+    {
+      "repository": "sp00nznet/xboxdashboard",
+      "github": "https://github.com/sp00nznet/xboxdashboard",
+      "stars": 19,
+      "checkedAt": "2026-10-24T14:37:12.299495+00:00",
+      "evidenceUrl": "https://github.com/sp00nznet/xboxdashboard/blob/1fd95ed0cccad6eb8ea655f9826d09964d71b392/README.md"
+    },
+    {
+      "repository": "Capridog/SpaceRanger",
+      "github": "https://github.com/Capridog/SpaceRanger",
+      "stars": 19,
+      "checkedAt": "2026-10-24T14:37:07.096878+00:00",
+      "evidenceUrl": "https://github.com/Capridog/SpaceRanger/blob/40461c5eb419db1a889d7bdfe9878d56c493f8cc/README.md"
+    },
+    {
+      "repository": "Ekspym/tekken6-native-online-source",
+      "github": "https://github.com/Ekspym/tekken6-native-online-source",
+      "stars": 20,
+      "checkedAt": "2026-10-24T14:37:04.045603+00:00",
+      "evidenceUrl": "https://github.com/Ekspym/tekken6-native-online-source/blob/24db272e03ab0e6c35f22abea519e76b22ecf450/README.md"
+    },
+    {
+      "repository": "TheRealestNwah/sotc-decomp",
+      "github": "https://github.com/TheRealestNwah/sotc-decomp",
+      "stars": 21,
+      "checkedAt": "2026-10-24T14:37:03.170805+00:00",
+      "evidenceUrl": "https://github.com/TheRealestNwah/sotc-decomp/blob/ad35104d90957bf038527e3384587689fd306738/README.md"
+    },
+    {
+      "repository": "Genesis5500/ArmyOfTwo-Recomp",
+      "github": "https://github.com/Genesis5500/ArmyOfTwo-Recomp",
+      "stars": 21,
+      "checkedAt": "2026-10-24T14:37:02.211611+00:00",
+      "evidenceUrl": "https://github.com/Genesis5500/ArmyOfTwo-Recomp/blob/bd7e07472acfe9d8563a318502f4d399b6d4d791/README.md"
+    },
+    {
+      "repository": "ryderclanky/BotW-Native",
+      "github": "https://github.com/ryderclanky/BotW-Native",
+      "stars": 34,
+      "checkedAt": "2026-10-24T14:36:56.303496+00:00",
+      "evidenceUrl": "https://github.com/ryderclanky/BotW-Native/blob/4223b9e2bcc75e60756584d722395629b67d9f03/README.md"
+    },
     {
       "repository": "Clergyman0013/arizona-vamp-recomp",
       "github": "https://github.com/Clergyman0013/arizona-vamp-recomp",
@@ -295,69 +358,6 @@
       "stars": 75,
       "checkedAt": "2026-10-19T17:32:54.704224+00:00",
       "evidenceUrl": "https://github.com/TGP482/XboxXBERecomp/blob/99078b119b5d5e0d1d6afb1390e29437c0c984c0/README.md"
-    },
-    {
-      "repository": "BrazilianHobbyist/Project-RE-Visited-RE3",
-      "github": "https://github.com/BrazilianHobbyist/Project-RE-Visited-RE3",
-      "stars": 76,
-      "checkedAt": "2026-10-19T17:32:52.706446+00:00",
-      "evidenceUrl": "https://github.com/BrazilianHobbyist/Project-RE-Visited-RE3/blob/45f5628ee550c232803f4a041d9d8b759c6340b7/README.md"
-    },
-    {
-      "repository": "kirklandsig/halo2-decompiled",
-      "github": "https://github.com/kirklandsig/halo2-decompiled",
-      "stars": 82,
-      "checkedAt": "2026-10-19T01:20:21.474544+00:00",
-      "evidenceUrl": "https://github.com/kirklandsig/halo2-decompiled/blob/bb9fc1aa41fd5893e9d5097f919a55d1b6fbb64f/README.md"
-    },
-    {
-      "repository": "wivi514/Dead_Rising_2_Case_West_Xenon_Recomp",
-      "github": "https://github.com/wivi514/Dead_Rising_2_Case_West_Xenon_Recomp",
-      "stars": 88,
-      "checkedAt": "2026-10-19T01:20:14.859528+00:00",
-      "evidenceUrl": "https://github.com/wivi514/Dead_Rising_2_Case_West_Xenon_Recomp/blob/cb7dc0f46cfc71961e37f8a20b07ad143a3e161a/README.md"
-    },
-    {
-      "repository": "wivi514/Dead_Rising_2_Case_Zero_Xenon_Recomp",
-      "github": "https://github.com/wivi514/Dead_Rising_2_Case_Zero_Xenon_Recomp",
-      "stars": 93,
-      "checkedAt": "2026-10-18T14:38:35.308523+00:00",
-      "evidenceUrl": "https://github.com/wivi514/Dead_Rising_2_Case_Zero_Xenon_Recomp/blob/a1feb9dd7a61e23b4bcbb1afab8edf3439ee86ac/README.md"
-    },
-    {
-      "repository": "KaikoClanworth1/wwe-svr2011-pc",
-      "github": "https://github.com/KaikoClanworth1/wwe-svr2011-pc",
-      "stars": 98,
-      "checkedAt": "2026-10-18T14:38:25.620115+00:00",
-      "evidenceUrl": "https://github.com/KaikoClanworth1/wwe-svr2011-pc/blob/745aaf2d240b7804302a7f9453206fe31d8ed2f8/README.md"
-    },
-    {
-      "repository": "JackandBeans/Snap64Recomp",
-      "github": "https://github.com/JackandBeans/Snap64Recomp",
-      "stars": 115,
-      "checkedAt": "2026-10-18T14:38:14.970867+00:00",
-      "evidenceUrl": "https://github.com/JackandBeans/Snap64Recomp/blob/cf53b89272b9db19059dd97eed2690ea1dd94844/README.md"
-    },
-    {
-      "repository": "KIexster/god-of-war-recomp",
-      "github": "https://github.com/KIexster/god-of-war-recomp",
-      "stars": 117,
-      "checkedAt": "2026-10-18T14:38:12.299417+00:00",
-      "evidenceUrl": "https://github.com/KIexster/god-of-war-recomp/blob/0c40eb8a4f4e921b739c691aa411d7a34486be80/README.md"
-    },
-    {
-      "repository": "murkantor/Project-Midas",
-      "github": "https://github.com/murkantor/Project-Midas",
-      "stars": 128,
-      "checkedAt": "2026-10-18T11:56:11.809211+00:00",
-      "evidenceUrl": "https://github.com/murkantor/Project-Midas/blob/6be5920beed453b6a81fdf9935fb9851928b718d/readme.md"
-    },
-    {
-      "repository": "chasem-dev/sms-pc-port",
-      "github": "https://github.com/chasem-dev/sms-pc-port",
-      "stars": 147,
-      "checkedAt": "2026-10-18T11:56:03.953758+00:00",
-      "evidenceUrl": "https://github.com/chasem-dev/sms-pc-port/blob/a2ff4eef099b22b2af487d1b5e3ac09ffe667d31/README.md"
     }
   ]
 }
