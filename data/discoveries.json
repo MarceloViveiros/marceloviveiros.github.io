@@ -1,14 +1,63 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-25T01:13:24.724376+00:00",
+  "updatedAt": "2026-10-25T15:00:33.346674+00:00",
   "triage": {
     "ruleVersion": "documentary-v2",
     "reviewed": 20,
-    "added": 0,
-    "pending": 20,
+    "added": 3,
+    "pending": 17,
     "outOfScope": 0
   },
   "projects": [
+    {
+      "repository": "nefariousjosiah/WWE-SVR2007-RECOMP",
+      "github": "https://github.com/nefariousjosiah/WWE-SVR2007-RECOMP",
+      "stars": 16,
+      "checkedAt": "2026-10-25T15:01:41.298092+00:00",
+      "evidenceUrl": "https://github.com/nefariousjosiah/WWE-SVR2007-RECOMP/blob/ec3e37b86c04240892d03f30737cc382b9044ac4/README.md"
+    },
+    {
+      "repository": "yanm1103/War_of_the_Monsters_recomp",
+      "github": "https://github.com/yanm1103/War_of_the_Monsters_recomp",
+      "stars": 17,
+      "checkedAt": "2026-10-25T15:01:37.238526+00:00",
+      "evidenceUrl": "https://github.com/yanm1103/War_of_the_Monsters_recomp/blob/c9028089e6056557a0442094e5edee8d57778fd2/README.md"
+    },
+    {
+      "repository": "ThiagoFraga761/infamous2-pc",
+      "github": "https://github.com/ThiagoFraga761/infamous2-pc",
+      "stars": 17,
+      "checkedAt": "2026-10-25T15:01:36.331269+00:00",
+      "evidenceUrl": "https://github.com/ThiagoFraga761/infamous2-pc/blob/f3bf5ac4f0e5b86639c035956883fe199a711877/README.md"
+    },
+    {
+      "repository": "LasVola/godhand-recomp",
+      "github": "https://github.com/LasVola/godhand-recomp",
+      "stars": 17,
+      "checkedAt": "2026-10-25T15:01:35.485081+00:00",
+      "evidenceUrl": "https://github.com/LasVola/godhand-recomp/blob/14e956a1274332440273845fbab2c1f1e30c4a5a/README.md"
+    },
+    {
+      "repository": "Pedroj-64/DownHill-Port-PC",
+      "github": "https://github.com/Pedroj-64/DownHill-Port-PC",
+      "stars": 18,
+      "checkedAt": "2026-10-25T15:01:34.637149+00:00",
+      "evidenceUrl": "https://github.com/Pedroj-64/DownHill-Port-PC/blob/1c07759c8fc1e4c0b64feb9f647c80663557e786/README.md"
+    },
+    {
+      "repository": "khasinski/parasite-eve-pc",
+      "github": "https://github.com/khasinski/parasite-eve-pc",
+      "stars": 22,
+      "checkedAt": "2026-10-25T15:01:33.814368+00:00",
+      "evidenceUrl": "https://github.com/khasinski/parasite-eve-pc/blob/dfd4c90bf216dc66667fafb075f84eb7d01cfd06/README.md"
+    },
+    {
+      "repository": "Juansolo457/fear360-recomp",
+      "github": "https://github.com/Juansolo457/fear360-recomp",
+      "stars": 27,
+      "checkedAt": "2026-10-25T15:01:32.930746+00:00",
+      "evidenceUrl": "https://github.com/Juansolo457/fear360-recomp/blob/8046ce20db70f54071a5e064b66cbf6a46b5f7e8/README.md"
+    },
     {
       "repository": "sp00nznet/flow",
       "github": "https://github.com/sp00nznet/flow",
@@ -309,55 +358,6 @@
       "stars": 47,
       "checkedAt": "2026-10-21T01:40:13.898911+00:00",
       "evidenceUrl": "https://github.com/SulphurS16/ACFA-Port/blob/09e5a3c1a147983ebfd2e7fcb0a899421f43ebb1/README.md"
-    },
-    {
-      "repository": "thiagordsfx/urban-reign-recomp",
-      "github": "https://github.com/thiagordsfx/urban-reign-recomp",
-      "stars": 50,
-      "checkedAt": "2026-10-21T01:40:08.735886+00:00",
-      "evidenceUrl": "https://github.com/thiagordsfx/urban-reign-recomp/blob/2fa53c4dcfade75205f0384fceb0e72db3b9c2a2/README.md"
-    },
-    {
-      "repository": "HalmyLyseas/VandalHearts-PcPort",
-      "github": "https://github.com/HalmyLyseas/VandalHearts-PcPort",
-      "stars": 50,
-      "checkedAt": "2026-10-21T01:40:05.936490+00:00",
-      "evidenceUrl": "https://github.com/HalmyLyseas/VandalHearts-PcPort/blob/14552fffa0e0b47e02b57592e274fc6e7a649923/README.md"
-    },
-    {
-      "repository": "sonsegajp/HWDER",
-      "github": "https://github.com/sonsegajp/HWDER",
-      "stars": 56,
-      "checkedAt": "2026-10-20T23:30:42.317436+00:00",
-      "evidenceUrl": "https://github.com/sonsegajp/HWDER/blob/2a85d50b21e1278c6f421b268f2591c16f974724/README.md"
-    },
-    {
-      "repository": "Unowa001/crackdown-recomp",
-      "github": "https://github.com/Unowa001/crackdown-recomp",
-      "stars": 63,
-      "checkedAt": "2026-10-20T23:30:33.202890+00:00",
-      "evidenceUrl": "https://github.com/Unowa001/crackdown-recomp/blob/7a152d06ce413c76ff613a39877182a73b833480/README.md"
-    },
-    {
-      "repository": "drakolordx7/KillzoneRecomp",
-      "github": "https://github.com/drakolordx7/KillzoneRecomp",
-      "stars": 77,
-      "checkedAt": "2026-10-20T23:30:29.309111+00:00",
-      "evidenceUrl": "https://github.com/drakolordx7/KillzoneRecomp/blob/5f0700079f9ac4e14799d66d01747dbcdcec55f6/README.md"
-    },
-    {
-      "repository": "hachi23/unicorn_overlord_pc",
-      "github": "https://github.com/hachi23/unicorn_overlord_pc",
-      "stars": 78,
-      "checkedAt": "2026-10-20T23:30:28.527442+00:00",
-      "evidenceUrl": "https://github.com/hachi23/unicorn_overlord_pc/blob/88404b6e8e7470dd78969902fd6ec10ac1db87f3/README.md"
-    },
-    {
-      "repository": "crazyriddler/FinestHourRemastered",
-      "github": "https://github.com/crazyriddler/FinestHourRemastered",
-      "stars": 65,
-      "checkedAt": "2026-10-19T17:33:09.872805+00:00",
-      "evidenceUrl": "https://github.com/crazyriddler/FinestHourRemastered/blob/976f8349119fee05a875a68ce0b5e5ef761b0164/README.md"
     }
   ]
 }
