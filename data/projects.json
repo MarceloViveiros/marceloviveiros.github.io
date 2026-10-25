@@ -3771,8 +3771,12 @@
     },
     {
       "image": {
-        "url": "assets/platforms/xbox360.svg",
-        "kind": "console"
+        "url": "https://upload.wikimedia.org/wikipedia/en/b/b7/Perfect_Dark_Zero_Coverart.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "kind": "reference",
+        "source": "https://en.wikipedia.org/wiki/Perfect_Dark_Zero",
+        "subject": "Perfect Dark Zero",
+        "provider": "wikipedia-summary-v1",
+        "checkedAt": "2026-10-25T21:27:33.885033+00:00"
       },
       "id": "auto-ba2197deb6f373",
       "editionId": "auto-ba2197deb6f373",
@@ -4092,8 +4096,12 @@
     },
     {
       "image": {
-        "url": "assets/platforms/xbox360.svg",
-        "kind": "console"
+        "url": "https://upload.wikimedia.org/wikipedia/en/c/c9/Forzamotorsport2cover.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "kind": "reference",
+        "source": "https://en.wikipedia.org/wiki/Forza_Motorsport_2",
+        "subject": "Forza Motorsport 2",
+        "provider": "wikipedia-summary-v1",
+        "checkedAt": "2026-10-25T21:27:34.005660+00:00"
       },
       "id": "auto-9aee78ee2e480e",
       "editionId": "auto-9aee78ee2e480e",
@@ -4195,8 +4203,12 @@
     },
     {
       "image": {
-        "url": "assets/platforms/xbox360.svg",
-        "kind": "console"
+        "url": "https://upload.wikimedia.org/wikipedia/en/b/b2/Crash_-_Mind_over_Mutant_Coverart.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "kind": "reference",
+        "source": "https://en.wikipedia.org/wiki/Crash%3A_Mind_over_Mutant",
+        "subject": "Crash: Mind over Mutant",
+        "provider": "wikipedia-summary-v1",
+        "checkedAt": "2026-10-25T21:27:34.214810+00:00"
       },
       "id": "auto-eb0f43dd218020",
       "editionId": "auto-eb0f43dd218020",
@@ -4299,8 +4311,12 @@
     },
     {
       "image": {
-        "url": "assets/platforms/generic.svg",
-        "kind": "console"
+        "url": "https://upload.wikimedia.org/wikipedia/en/4/47/Midtown_Madness_3_Coverart.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "kind": "reference",
+        "source": "https://en.wikipedia.org/wiki/Midtown_Madness_3",
+        "subject": "Midtown Madness 3",
+        "provider": "wikipedia-summary-v1",
+        "checkedAt": "2026-10-25T21:27:34.337145+00:00"
       },
       "id": "auto-49941eb72220a0",
       "editionId": "auto-49941eb72220a0",
@@ -4402,8 +4418,12 @@
     },
     {
       "image": {
-        "url": "assets/platforms/generic.svg",
-        "kind": "console"
+        "url": "https://upload.wikimedia.org/wikipedia/en/3/30/From_Russia_with_Love_game_cover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "kind": "reference",
+        "source": "https://en.wikipedia.org/wiki/From_Russia_with_Love_(video_game)",
+        "subject": "From Russia with Love (video game)",
+        "provider": "wikipedia-summary-v1",
+        "checkedAt": "2026-10-25T21:27:34.435392+00:00"
       },
       "id": "auto-0663e6be1d2234",
       "editionId": "auto-0663e6be1d2234",
@@ -4505,8 +4525,12 @@
     },
     {
       "image": {
-        "url": "assets/platforms/switch.svg",
-        "kind": "console"
+        "url": "https://upload.wikimedia.org/wikipedia/en/2/23/Monster_hunter_generations_cover_art.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "kind": "reference",
+        "source": "https://en.wikipedia.org/wiki/Monster_Hunter_Generations",
+        "subject": "Monster Hunter Generations",
+        "provider": "wikipedia-summary-v1",
+        "checkedAt": "2026-10-25T21:27:34.535175+00:00"
       },
       "id": "auto-178bf2df1eb1ff",
       "editionId": "auto-178bf2df1eb1ff",
@@ -4595,8 +4619,12 @@
     },
     {
       "image": {
-        "url": "assets/platforms/generic.svg",
-        "kind": "console"
+        "url": "https://upload.wikimedia.org/wikipedia/en/2/26/Dead_or_Alive_3_cover_art.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "kind": "reference",
+        "source": "https://en.wikipedia.org/wiki/Dead_or_Alive_3",
+        "subject": "Dead or Alive 3",
+        "provider": "wikipedia-summary-v1",
+        "checkedAt": "2026-10-25T21:27:34.635519+00:00"
       },
       "id": "auto-a08dd37e96e730",
       "editionId": "auto-a08dd37e96e730",
@@ -4779,5 +4807,5 @@
       }
     }
   ],
-  "updatedAt": "2026-10-25T15:01:47.851289+00:00"
+  "updatedAt": "2026-10-25T21:27:32.973320+00:00"
 }
