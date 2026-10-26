@@ -1,14 +1,63 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-25T15:00:33.346674+00:00",
+  "updatedAt": "2026-10-26T01:13:05.503240+00:00",
   "triage": {
     "ruleVersion": "documentary-v2",
     "reviewed": 20,
-    "added": 3,
-    "pending": 17,
+    "added": 0,
+    "pending": 20,
     "outOfScope": 0
   },
   "projects": [
+    {
+      "repository": "danielgomesvieira2000/hybrid-heaven-recomp",
+      "github": "https://github.com/danielgomesvieira2000/hybrid-heaven-recomp",
+      "stars": 13,
+      "checkedAt": "2026-10-26T01:14:31.635138+00:00",
+      "evidenceUrl": "https://github.com/danielgomesvieira2000/hybrid-heaven-recomp/blob/467bd1be98c8759730faf3f96edeca4674c4f2dc/README.md"
+    },
+    {
+      "repository": "bucketcomps/infamous",
+      "github": "https://github.com/bucketcomps/infamous",
+      "stars": 13,
+      "checkedAt": "2026-10-26T01:14:30.426451+00:00",
+      "evidenceUrl": "https://github.com/bucketcomps/infamous/blob/f824d279808b0364bbcd8feaf5e33a3e6e536b75/README.md"
+    },
+    {
+      "repository": "BasedYuki/the-3rd-birthday-recomp",
+      "github": "https://github.com/BasedYuki/the-3rd-birthday-recomp",
+      "stars": 13,
+      "checkedAt": "2026-10-26T01:14:29.328732+00:00",
+      "evidenceUrl": "https://github.com/BasedYuki/the-3rd-birthday-recomp/blob/feb52d31f4f668003d80d0523c4e6de708a1b4d9/.github/README.md"
+    },
+    {
+      "repository": "abilliontokens/sims2-recomp",
+      "github": "https://github.com/abilliontokens/sims2-recomp",
+      "stars": 14,
+      "checkedAt": "2026-10-26T01:14:18.733246+00:00",
+      "evidenceUrl": "https://github.com/abilliontokens/sims2-recomp/blob/8ce155df78ba5f5a2078acfeb2a5bbc8c2fc3689/README.md"
+    },
+    {
+      "repository": "monscriser/HydroThunderPORT",
+      "github": "https://github.com/monscriser/HydroThunderPORT",
+      "stars": 16,
+      "checkedAt": "2026-10-26T01:14:16.279632+00:00",
+      "evidenceUrl": "https://github.com/monscriser/HydroThunderPORT/blob/a89722963685423cd3406eadf548027cc3cee546/README.md"
+    },
+    {
+      "repository": "sozud/mmx4",
+      "github": "https://github.com/sozud/mmx4",
+      "stars": 37,
+      "checkedAt": "2026-10-26T01:14:12.258321+00:00",
+      "evidenceUrl": "https://github.com/sozud/mmx4/blob/807a01b1b8928811908a33367b964cf22f5ce799/README.md"
+    },
+    {
+      "repository": "kuraeow/ultratears",
+      "github": "https://github.com/kuraeow/ultratears",
+      "stars": 99,
+      "checkedAt": "2026-10-26T01:14:10.970777+00:00",
+      "evidenceUrl": "https://github.com/kuraeow/ultratears/blob/1970c7ad35b3f239aa6e99ab8b4d6663c55860f3/README.md"
+    },
     {
       "repository": "nefariousjosiah/WWE-SVR2007-RECOMP",
       "github": "https://github.com/nefariousjosiah/WWE-SVR2007-RECOMP",
@@ -309,55 +358,6 @@
       "stars": 38,
       "checkedAt": "2026-10-22T01:35:49.358130+00:00",
       "evidenceUrl": "https://github.com/saulob/hard-corps-uprising-recompiled/blob/a7b9d093334db68daaa6265d7f090a877078f6bd/README.md"
-    },
-    {
-      "repository": "toowasmir/WebOfShadowsRecomp",
-      "github": "https://github.com/toowasmir/WebOfShadowsRecomp",
-      "stars": 42,
-      "checkedAt": "2026-10-21T16:02:44.842847+00:00",
-      "evidenceUrl": "https://github.com/toowasmir/WebOfShadowsRecomp/blob/36b36d5b851638461a1157129eab64c7f924ff8f/README.md"
-    },
-    {
-      "repository": "santiquiroz/gears-of-war-2-pc-port",
-      "github": "https://github.com/santiquiroz/gears-of-war-2-pc-port",
-      "stars": 42,
-      "checkedAt": "2026-10-21T16:02:42.655036+00:00",
-      "evidenceUrl": "https://github.com/santiquiroz/gears-of-war-2-pc-port/blob/19d9e79313c21b8d61de61d64d517f5c9e5220e6/README.md"
-    },
-    {
-      "repository": "nlwstein/skullburglar",
-      "github": "https://github.com/nlwstein/skullburglar",
-      "stars": 42,
-      "checkedAt": "2026-10-21T16:02:39.689506+00:00",
-      "evidenceUrl": "https://github.com/nlwstein/skullburglar/blob/bcf9414e8e9bacb14d900b2e29fc84b825e7815f/README.md"
-    },
-    {
-      "repository": "YYOzcan/Tobiichi-Port",
-      "github": "https://github.com/YYOzcan/Tobiichi-Port",
-      "stars": 43,
-      "checkedAt": "2026-10-21T16:02:35.335330+00:00",
-      "evidenceUrl": "https://github.com/YYOzcan/Tobiichi-Port/blob/471c83180a8df575cff4abd3fae6c043b5096925/README.md"
-    },
-    {
-      "repository": "theokyr/Project8Recomp",
-      "github": "https://github.com/theokyr/Project8Recomp",
-      "stars": 43,
-      "checkedAt": "2026-10-21T16:02:34.066947+00:00",
-      "evidenceUrl": "https://github.com/theokyr/Project8Recomp/blob/c8c21e2781acd134de6b2ccf12b666145e00ea6c/README.md"
-    },
-    {
-      "repository": "kazuyette/rr-decomp",
-      "github": "https://github.com/kazuyette/rr-decomp",
-      "stars": 43,
-      "checkedAt": "2026-10-21T16:02:29.204227+00:00",
-      "evidenceUrl": "https://github.com/kazuyette/rr-decomp/blob/3b42b36e222b2d9aa968666706e940bf49ee76f8/README.md"
-    },
-    {
-      "repository": "SulphurS16/ACFA-Port",
-      "github": "https://github.com/SulphurS16/ACFA-Port",
-      "stars": 47,
-      "checkedAt": "2026-10-21T01:40:13.898911+00:00",
-      "evidenceUrl": "https://github.com/SulphurS16/ACFA-Port/blob/09e5a3c1a147983ebfd2e7fcb0a899421f43ebb1/README.md"
     }
   ]
 }
