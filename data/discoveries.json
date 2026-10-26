@@ -1,14 +1,63 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-26T01:13:05.503240+00:00",
+  "updatedAt": "2026-10-26T17:26:31.625916+00:00",
   "triage": {
     "ruleVersion": "documentary-v2",
     "reviewed": 20,
     "added": 0,
-    "pending": 20,
+    "pending": 19,
     "outOfScope": 0
   },
   "projects": [
+    {
+      "repository": "15Cyber/marvel-nemesis-recomp",
+      "github": "https://github.com/15Cyber/marvel-nemesis-recomp",
+      "stars": 12,
+      "checkedAt": "2026-10-26T17:28:19.150809+00:00",
+      "evidenceUrl": "https://github.com/15Cyber/marvel-nemesis-recomp/blob/6a5f74de59c72dbe4a68003878b9dc04087d1175/README.md"
+    },
+    {
+      "repository": "cxldsakeb/GoW2-nativo-PS2",
+      "github": "https://github.com/cxldsakeb/GoW2-nativo-PS2",
+      "stars": 13,
+      "checkedAt": "2026-10-26T17:28:08.217153+00:00",
+      "evidenceUrl": "https://github.com/cxldsakeb/GoW2-nativo-PS2/blob/406e8cf4abe5eaaf0c7237f2bf4961a89c72b77b/README.md"
+    },
+    {
+      "repository": "BigDaddyJRich/hctp-recomp",
+      "github": "https://github.com/BigDaddyJRich/hctp-recomp",
+      "stars": 14,
+      "checkedAt": "2026-10-26T17:28:01.960315+00:00",
+      "evidenceUrl": "https://github.com/BigDaddyJRich/hctp-recomp/blob/43164685ae1ce1cb640f6e332557a16dead01bbe/README.md"
+    },
+    {
+      "repository": "Flippage/gears-of-war-3-recomp",
+      "github": "https://github.com/Flippage/gears-of-war-3-recomp",
+      "stars": 16,
+      "checkedAt": "2026-10-26T17:28:00.549023+00:00",
+      "evidenceUrl": "https://github.com/Flippage/gears-of-war-3-recomp/blob/03ccb8b186b7b6d05778fd498ef31dccd544dce6/README.md"
+    },
+    {
+      "repository": "saulob/marvel-ultimate-alliance-bundle-recompiled",
+      "github": "https://github.com/saulob/marvel-ultimate-alliance-bundle-recompiled",
+      "stars": 38,
+      "checkedAt": "2026-10-26T17:27:59.034793+00:00",
+      "evidenceUrl": "https://github.com/saulob/marvel-ultimate-alliance-bundle-recompiled/blob/05871209afaf370fc43a77b318fa6cea0b039951/README.md"
+    },
+    {
+      "repository": "NoRain211/doa2u-re",
+      "github": "https://github.com/NoRain211/doa2u-re",
+      "stars": 38,
+      "checkedAt": "2026-10-26T17:27:57.510800+00:00",
+      "evidenceUrl": "https://github.com/NoRain211/doa2u-re/blob/546a1ff72742f3f73a9662ad1c7216bbc89a737e/README.md"
+    },
+    {
+      "repository": "MysteriousAeon/rayman3-hd-recompiled",
+      "github": "https://github.com/MysteriousAeon/rayman3-hd-recompiled",
+      "stars": 40,
+      "checkedAt": "2026-10-26T17:27:56.037372+00:00",
+      "evidenceUrl": "https://github.com/MysteriousAeon/rayman3-hd-recompiled/blob/72cd6ba941983bb07a566c3de25edb307492be6a/README.md"
+    },
     {
       "repository": "danielgomesvieira2000/hybrid-heaven-recomp",
       "github": "https://github.com/danielgomesvieira2000/hybrid-heaven-recomp",
@@ -309,55 +358,6 @@
       "stars": 30,
       "checkedAt": "2026-10-22T15:57:38.253684+00:00",
       "evidenceUrl": "https://github.com/nefariousjosiah/WWE-SVR2008-RECOMP/blob/f8690387848c8a8cdf6dc780bb0455c8ea2b1078/README.md"
-    },
-    {
-      "repository": "n0madic/Soulcalibur2HD-recomp",
-      "github": "https://github.com/n0madic/Soulcalibur2HD-recomp",
-      "stars": 30,
-      "checkedAt": "2026-10-22T15:57:37.223954+00:00",
-      "evidenceUrl": "https://github.com/n0madic/Soulcalibur2HD-recomp/blob/87133fbca15c2d3ad973f9f6fd7c8c63fd674a26/README.md"
-    },
-    {
-      "repository": "nefariousjosiah/WWE-SVR2010-RECOMP",
-      "github": "https://github.com/nefariousjosiah/WWE-SVR2010-RECOMP",
-      "stars": 31,
-      "checkedAt": "2026-10-22T15:57:34.496620+00:00",
-      "evidenceUrl": "https://github.com/nefariousjosiah/WWE-SVR2010-RECOMP/blob/a013772239ee02d3ec587de26515075ec8ebc8f0/README.md"
-    },
-    {
-      "repository": "KaikoClanworth1/buffy-chaos-bleeds-pc",
-      "github": "https://github.com/KaikoClanworth1/buffy-chaos-bleeds-pc",
-      "stars": 34,
-      "checkedAt": "2026-10-22T01:36:04.513221+00:00",
-      "evidenceUrl": "https://github.com/KaikoClanworth1/buffy-chaos-bleeds-pc/blob/34166525b72447515339edad3e46cd62ff7e1a86/README.md"
-    },
-    {
-      "repository": "Conker64Recomp/conker64-recompiled",
-      "github": "https://github.com/Conker64Recomp/conker64-recompiled",
-      "stars": 34,
-      "checkedAt": "2026-10-22T01:36:02.679449+00:00",
-      "evidenceUrl": "https://github.com/Conker64Recomp/conker64-recompiled/blob/0a9dbbf409accdcc0bebd676455de4f5a192f7e5/README.md"
-    },
-    {
-      "repository": "SulphurS16/AC4-Port",
-      "github": "https://github.com/SulphurS16/AC4-Port",
-      "stars": 36,
-      "checkedAt": "2026-10-22T01:35:58.100754+00:00",
-      "evidenceUrl": "https://github.com/SulphurS16/AC4-Port/blob/db47b2456f2214a9b94c718d6b6746539faa4fa8/README.md"
-    },
-    {
-      "repository": "jessetbh/WWFNoMercyRecomp",
-      "github": "https://github.com/jessetbh/WWFNoMercyRecomp",
-      "stars": 37,
-      "checkedAt": "2026-10-22T01:35:50.283817+00:00",
-      "evidenceUrl": "https://github.com/jessetbh/WWFNoMercyRecomp/blob/abb5641a37eeaa40bc0e199d256e5ac52878f7b2/README.md"
-    },
-    {
-      "repository": "saulob/hard-corps-uprising-recompiled",
-      "github": "https://github.com/saulob/hard-corps-uprising-recompiled",
-      "stars": 38,
-      "checkedAt": "2026-10-22T01:35:49.358130+00:00",
-      "evidenceUrl": "https://github.com/saulob/hard-corps-uprising-recompiled/blob/a7b9d093334db68daaa6265d7f090a877078f6bd/README.md"
     }
   ]
 }
