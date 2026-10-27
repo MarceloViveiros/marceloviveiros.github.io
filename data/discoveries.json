@@ -1,14 +1,49 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-27T02:08:08.909887+00:00",
+  "updatedAt": "2026-10-27T16:42:17.207680+00:00",
   "triage": {
     "ruleVersion": "documentary-v2",
     "reviewed": 20,
-    "added": 1,
-    "pending": 18,
+    "added": 0,
+    "pending": 20,
     "outOfScope": 0
   },
   "projects": [
+    {
+      "repository": "bertibertig/SSX3-Recomp",
+      "github": "https://github.com/bertibertig/SSX3-Recomp",
+      "stars": 8,
+      "checkedAt": "2026-10-27T16:43:45.761580+00:00",
+      "evidenceUrl": "https://github.com/bertibertig/SSX3-Recomp/blob/a4fb6ebd80776f18c86d4b221b419bedb4f8d2c1/README.md"
+    },
+    {
+      "repository": "AH64-dll/DeepSea",
+      "github": "https://github.com/AH64-dll/DeepSea",
+      "stars": 8,
+      "checkedAt": "2026-10-27T16:43:43.566766+00:00",
+      "evidenceUrl": "https://github.com/AH64-dll/DeepSea/blob/a343c138a3bb990667a70bf1b91cae34ee7b0892/README.md"
+    },
+    {
+      "repository": "anishchandra24/MaddenNFL08-Recompiled",
+      "github": "https://github.com/anishchandra24/MaddenNFL08-Recompiled",
+      "stars": 9,
+      "checkedAt": "2026-10-27T16:43:31.011916+00:00",
+      "evidenceUrl": "https://github.com/anishchandra24/MaddenNFL08-Recompiled/blob/be27a45ee6d3b5cc2c6c60ae0dc23db132f8ee8b/README.md"
+    },
+    {
+      "repository": "Pallypots/ProjectOogie",
+      "github": "https://github.com/Pallypots/ProjectOogie",
+      "stars": 10,
+      "checkedAt": "2026-10-27T16:43:27.180546+00:00",
+      "evidenceUrl": "https://github.com/Pallypots/ProjectOogie/blob/fc466f0095db52d9758d97c179787a76dd098b29/README.md"
+    },
+    {
+      "repository": "skuza-oss/downhill-revived",
+      "github": "https://github.com/skuza-oss/downhill-revived",
+      "stars": 68,
+      "checkedAt": "2026-10-27T16:43:22.046611+00:00",
+      "evidenceUrl": "https://github.com/skuza-oss/downhill-revived/blob/385fb74a6d6dfbbaf7ef44a342a1fa383203934b/README.md"
+    },
     {
       "repository": "mikeflare007/wwe2k14-recomp",
       "github": "https://github.com/mikeflare007/wwe2k14-recomp",
@@ -323,41 +358,6 @@
       "stars": 23,
       "checkedAt": "2026-10-24T01:39:17.702042+00:00",
       "evidenceUrl": "https://github.com/noprompt/rood-boi/blob/0221011d917e54870528be73ae4585839ebfb62e/README.md"
-    },
-    {
-      "repository": "josiahg2502-glitch/OogiesRevengeRecompiled",
-      "github": "https://github.com/josiahg2502-glitch/OogiesRevengeRecompiled",
-      "stars": 24,
-      "checkedAt": "2026-10-23T15:50:55.924903+00:00",
-      "evidenceUrl": "https://github.com/josiahg2502-glitch/OogiesRevengeRecompiled/blob/3e74015d75dafe7d0dbb7f0a99b8e0ea08674745/README.md"
-    },
-    {
-      "repository": "zenit2893-cmyk/project-1944",
-      "github": "https://github.com/zenit2893-cmyk/project-1944",
-      "stars": 26,
-      "checkedAt": "2026-10-23T15:50:38.417649+00:00",
-      "evidenceUrl": "https://github.com/zenit2893-cmyk/project-1944/blob/62ab3b08e4db1a5f21fb0c13b49d4a3ebd004812/README.md"
-    },
-    {
-      "repository": "jessetbh/WCWnWoRevengeRecomp",
-      "github": "https://github.com/jessetbh/WCWnWoRevengeRecomp",
-      "stars": 26,
-      "checkedAt": "2026-10-23T15:50:33.652135+00:00",
-      "evidenceUrl": "https://github.com/jessetbh/WCWnWoRevengeRecomp/blob/c1c43a694f120c5567fec4ce5d35e2f008041319/README.md"
-    },
-    {
-      "repository": "nefariousjosiah/WWE-SVR2009-RECOMP",
-      "github": "https://github.com/nefariousjosiah/WWE-SVR2009-RECOMP",
-      "stars": 27,
-      "checkedAt": "2026-10-23T01:36:02.540580+00:00",
-      "evidenceUrl": "https://github.com/nefariousjosiah/WWE-SVR2009-RECOMP/blob/b56344ad5b8a8be8b3ccd290dea669e7c8c569be/README.md"
-    },
-    {
-      "repository": "GTTeancum/OpenJam",
-      "github": "https://github.com/GTTeancum/OpenJam",
-      "stars": 28,
-      "checkedAt": "2026-10-23T01:35:59.402087+00:00",
-      "evidenceUrl": "https://github.com/GTTeancum/OpenJam/blob/711f515ebc86a610f3237b48f3939858fe5002d0/README.md"
     }
   ]
 }
