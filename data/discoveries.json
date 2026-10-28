@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-27T16:42:17.207680+00:00",
+  "updatedAt": "2026-10-28T02:18:07.940909+00:00",
   "triage": {
     "ruleVersion": "documentary-v2",
     "reviewed": 20,
@@ -9,6 +9,34 @@
     "outOfScope": 0
   },
   "projects": [
+    {
+      "repository": "drakolordx7/MetroidPrimeRemasteredRecomp",
+      "github": "https://github.com/drakolordx7/MetroidPrimeRemasteredRecomp",
+      "stars": 7,
+      "checkedAt": "2026-10-28T02:20:04.499420+00:00",
+      "evidenceUrl": "https://github.com/drakolordx7/MetroidPrimeRemasteredRecomp/blob/6af14be18583503f038dbad1fa26b0454d6074d2/README.md"
+    },
+    {
+      "repository": "anishchandra24/NHL2K8-Recompiled",
+      "github": "https://github.com/anishchandra24/NHL2K8-Recompiled",
+      "stars": 8,
+      "checkedAt": "2026-10-28T02:19:50.335017+00:00",
+      "evidenceUrl": "https://github.com/anishchandra24/NHL2K8-Recompiled/blob/bcc3f5807505df2095e09798f391970157cff589/README.md"
+    },
+    {
+      "repository": "victor-takai/rogue-galaxy-recomp",
+      "github": "https://github.com/victor-takai/rogue-galaxy-recomp",
+      "stars": 9,
+      "checkedAt": "2026-10-28T02:19:48.778501+00:00",
+      "evidenceUrl": "https://github.com/victor-takai/rogue-galaxy-recomp/blob/5ed25508bf47d4dd4bdc088aa54c833a29277e5b/README.md"
+    },
+    {
+      "repository": "PC-PORTERS/SplatPC-Splatoon-Native-PC-Port",
+      "github": "https://github.com/PC-PORTERS/SplatPC-Splatoon-Native-PC-Port",
+      "stars": 36,
+      "checkedAt": "2026-10-28T02:19:37.865471+00:00",
+      "evidenceUrl": "https://github.com/PC-PORTERS/SplatPC-Splatoon-Native-PC-Port/blob/7172e68c0f9c473793e4ba4e4628358632282a17/README.md"
+    },
     {
       "repository": "bertibertig/SSX3-Recomp",
       "github": "https://github.com/bertibertig/SSX3-Recomp",
@@ -330,34 +358,6 @@
       "stars": 21,
       "checkedAt": "2026-10-24T01:39:36.173778+00:00",
       "evidenceUrl": "https://github.com/Clergyman0013/arizona-vamp-recomp/blob/3114f1bf9c20ed9a8de98b4a86d4104f35618c2d/README.md"
-    },
-    {
-      "repository": "Nycolazs/EoWRecomp",
-      "github": "https://github.com/Nycolazs/EoWRecomp",
-      "stars": 22,
-      "checkedAt": "2026-10-24T01:39:27.686160+00:00",
-      "evidenceUrl": "https://github.com/Nycolazs/EoWRecomp/blob/dd9c79d6c01d9eaddafc1fc5a07b6658bfc56505/README.md"
-    },
-    {
-      "repository": "hk21x/pgr1-recomp",
-      "github": "https://github.com/hk21x/pgr1-recomp",
-      "stars": 23,
-      "checkedAt": "2026-10-24T01:39:26.254520+00:00",
-      "evidenceUrl": "https://github.com/hk21x/pgr1-recomp/blob/06ea2d82c85d6be7d87b8d8188ee96d98ca9c4b7/README.md"
-    },
-    {
-      "repository": "danielgomesvieira2000/body-harvest-recomp",
-      "github": "https://github.com/danielgomesvieira2000/body-harvest-recomp",
-      "stars": 22,
-      "checkedAt": "2026-10-24T01:39:24.002351+00:00",
-      "evidenceUrl": "https://github.com/danielgomesvieira2000/body-harvest-recomp/blob/711a2b6fe2a3843ecbf31941d439be858948d7f4/README.md"
-    },
-    {
-      "repository": "noprompt/rood-boi",
-      "github": "https://github.com/noprompt/rood-boi",
-      "stars": 23,
-      "checkedAt": "2026-10-24T01:39:17.702042+00:00",
-      "evidenceUrl": "https://github.com/noprompt/rood-boi/blob/0221011d917e54870528be73ae4585839ebfb62e/README.md"
     }
   ]
 }
