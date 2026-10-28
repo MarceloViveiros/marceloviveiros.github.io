@@ -1,14 +1,49 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-28T02:18:07.940909+00:00",
+  "updatedAt": "2026-10-28T17:13:56.864342+00:00",
   "triage": {
     "ruleVersion": "documentary-v2",
     "reviewed": 20,
-    "added": 0,
-    "pending": 20,
+    "added": 1,
+    "pending": 19,
     "outOfScope": 0
   },
   "projects": [
+    {
+      "repository": "MatiasRiveraC/SSX-Tricky-PC",
+      "github": "https://github.com/MatiasRiveraC/SSX-Tricky-PC",
+      "stars": 6,
+      "checkedAt": "2026-10-28T17:16:12.052974+00:00",
+      "evidenceUrl": "https://github.com/MatiasRiveraC/SSX-Tricky-PC/blob/569353b50db976fcd4b7c5046978a6cac46da257/README.md"
+    },
+    {
+      "repository": "kirklandsig/halo-mega-bloks-decompiled",
+      "github": "https://github.com/kirklandsig/halo-mega-bloks-decompiled",
+      "stars": 6,
+      "checkedAt": "2026-10-28T17:16:07.797686+00:00",
+      "evidenceUrl": "https://github.com/kirklandsig/halo-mega-bloks-decompiled/blob/329d6b3795f43bc94312d1d2546d9a7c65083f6e/README.md"
+    },
+    {
+      "repository": "k1gs/Drakengard1Recompile",
+      "github": "https://github.com/k1gs/Drakengard1Recompile",
+      "stars": 6,
+      "checkedAt": "2026-10-28T17:16:04.032204+00:00",
+      "evidenceUrl": "https://github.com/k1gs/Drakengard1Recompile/blob/5e2f64e735dcdb57b251deceb49039f81bd82ff7/README.md"
+    },
+    {
+      "repository": "Claudio5702/Cristalis",
+      "github": "https://github.com/Claudio5702/Cristalis",
+      "stars": 6,
+      "checkedAt": "2026-10-28T17:15:56.882081+00:00",
+      "evidenceUrl": "https://github.com/Claudio5702/Cristalis/blob/f2c682edd9a08668350b993c919c5e4551e63e13/README.md"
+    },
+    {
+      "repository": "RealAmethyst/BakuganBB-recomp",
+      "github": "https://github.com/RealAmethyst/BakuganBB-recomp",
+      "stars": 7,
+      "checkedAt": "2026-10-28T17:15:53.005641+00:00",
+      "evidenceUrl": "https://github.com/RealAmethyst/BakuganBB-recomp/blob/55e5ce3c3aa3645568f559ac4e15aa3b887b77f2/README.md"
+    },
     {
       "repository": "drakolordx7/MetroidPrimeRemasteredRecomp",
       "github": "https://github.com/drakolordx7/MetroidPrimeRemasteredRecomp",
@@ -323,41 +358,6 @@
       "stars": 19,
       "checkedAt": "2026-10-24T14:37:07.096878+00:00",
       "evidenceUrl": "https://github.com/Capridog/SpaceRanger/blob/40461c5eb419db1a889d7bdfe9878d56c493f8cc/README.md"
-    },
-    {
-      "repository": "Ekspym/tekken6-native-online-source",
-      "github": "https://github.com/Ekspym/tekken6-native-online-source",
-      "stars": 20,
-      "checkedAt": "2026-10-24T14:37:04.045603+00:00",
-      "evidenceUrl": "https://github.com/Ekspym/tekken6-native-online-source/blob/24db272e03ab0e6c35f22abea519e76b22ecf450/README.md"
-    },
-    {
-      "repository": "TheRealestNwah/sotc-decomp",
-      "github": "https://github.com/TheRealestNwah/sotc-decomp",
-      "stars": 21,
-      "checkedAt": "2026-10-24T14:37:03.170805+00:00",
-      "evidenceUrl": "https://github.com/TheRealestNwah/sotc-decomp/blob/ad35104d90957bf038527e3384587689fd306738/README.md"
-    },
-    {
-      "repository": "Genesis5500/ArmyOfTwo-Recomp",
-      "github": "https://github.com/Genesis5500/ArmyOfTwo-Recomp",
-      "stars": 21,
-      "checkedAt": "2026-10-24T14:37:02.211611+00:00",
-      "evidenceUrl": "https://github.com/Genesis5500/ArmyOfTwo-Recomp/blob/bd7e07472acfe9d8563a318502f4d399b6d4d791/README.md"
-    },
-    {
-      "repository": "ryderclanky/BotW-Native",
-      "github": "https://github.com/ryderclanky/BotW-Native",
-      "stars": 34,
-      "checkedAt": "2026-10-24T14:36:56.303496+00:00",
-      "evidenceUrl": "https://github.com/ryderclanky/BotW-Native/blob/4223b9e2bcc75e60756584d722395629b67d9f03/README.md"
-    },
-    {
-      "repository": "Clergyman0013/arizona-vamp-recomp",
-      "github": "https://github.com/Clergyman0013/arizona-vamp-recomp",
-      "stars": 21,
-      "checkedAt": "2026-10-24T01:39:36.173778+00:00",
-      "evidenceUrl": "https://github.com/Clergyman0013/arizona-vamp-recomp/blob/3114f1bf9c20ed9a8de98b4a86d4104f35618c2d/README.md"
     }
   ]
 }
