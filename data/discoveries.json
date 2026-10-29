@@ -1,14 +1,56 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-28T17:13:56.864342+00:00",
+  "updatedAt": "2026-10-29T02:30:22.518693+00:00",
   "triage": {
     "ruleVersion": "documentary-v2",
     "reviewed": 20,
-    "added": 1,
-    "pending": 19,
+    "added": 0,
+    "pending": 20,
     "outOfScope": 0
   },
   "projects": [
+    {
+      "repository": "YodaMMM/NightfirePort",
+      "github": "https://github.com/YodaMMM/NightfirePort",
+      "stars": 6,
+      "checkedAt": "2026-10-29T02:31:51.048672+00:00",
+      "evidenceUrl": "https://github.com/YodaMMM/NightfirePort/blob/c0d3e92ef6c5efc5d3d6556320bb29a3caf69205/README.md"
+    },
+    {
+      "repository": "Toyz/rugrats",
+      "github": "https://github.com/Toyz/rugrats",
+      "stars": 6,
+      "checkedAt": "2026-10-29T02:31:47.149134+00:00",
+      "evidenceUrl": "https://github.com/Toyz/rugrats/blob/ba9a7253401963d2edffd8cb80a08eaf9082c563/README.md"
+    },
+    {
+      "repository": "koaque/Metropolismania-PC",
+      "github": "https://github.com/koaque/Metropolismania-PC",
+      "stars": 6,
+      "checkedAt": "2026-10-29T02:31:45.630492+00:00",
+      "evidenceUrl": "https://github.com/koaque/Metropolismania-PC/blob/75bc5a3ac3311406184d436150a845954538170b/README.md"
+    },
+    {
+      "repository": "Guuzzeji/sneaky-whopper-recomp",
+      "github": "https://github.com/Guuzzeji/sneaky-whopper-recomp",
+      "stars": 6,
+      "checkedAt": "2026-10-29T02:31:44.003634+00:00",
+      "evidenceUrl": "https://github.com/Guuzzeji/sneaky-whopper-recomp/blob/13fdc35839c3c4943009cd69847367f835cf1098/README.md"
+    },
+    {
+      "repository": "bertibertig/Amped2-Recomp",
+      "github": "https://github.com/bertibertig/Amped2-Recomp",
+      "stars": 6,
+      "checkedAt": "2026-10-29T02:31:42.852110+00:00",
+      "evidenceUrl": "https://github.com/bertibertig/Amped2-Recomp/blob/24a222b3b6962eccab9238a9cf1912e73fc25ea5/README.md"
+    },
+    {
+      "repository": "anishchandra24/Juiced2-Recompiled",
+      "github": "https://github.com/anishchandra24/Juiced2-Recompiled",
+      "stars": 8,
+      "checkedAt": "2026-10-29T02:31:41.427269+00:00",
+      "evidenceUrl": "https://github.com/anishchandra24/Juiced2-Recompiled/blob/cd5cb875673fa13b0654bed26869341ae30aab19/README.md"
+    },
     {
       "repository": "MatiasRiveraC/SSX-Tricky-PC",
       "github": "https://github.com/MatiasRiveraC/SSX-Tricky-PC",
@@ -316,48 +358,6 @@
       "stars": 17,
       "checkedAt": "2026-10-25T01:15:00.568463+00:00",
       "evidenceUrl": "https://github.com/kiesxoxo/burnout-crash-recomp/blob/ac11bd1043e13db61bd0a8171043ac053a1ac88f/README.md"
-    },
-    {
-      "repository": "Antriksh1984/TheWarriors-XBERecomp",
-      "github": "https://github.com/Antriksh1984/TheWarriors-XBERecomp",
-      "stars": 23,
-      "checkedAt": "2026-10-25T01:14:46.596415+00:00",
-      "evidenceUrl": "https://github.com/Antriksh1984/TheWarriors-XBERecomp/blob/1d0c8c70951e102181a13a818702759ab3941843/README.md"
-    },
-    {
-      "repository": "jessetbh/WWFWrestleMania2000Recomp",
-      "github": "https://github.com/jessetbh/WWFWrestleMania2000Recomp",
-      "stars": 18,
-      "checkedAt": "2026-10-24T14:37:16.033030+00:00",
-      "evidenceUrl": "https://github.com/jessetbh/WWFWrestleMania2000Recomp/blob/f967ace4d2795c50ac490016a3b5925c4f17b83f/README.md"
-    },
-    {
-      "repository": "gustavocanepa/gt4-native",
-      "github": "https://github.com/gustavocanepa/gt4-native",
-      "stars": 18,
-      "checkedAt": "2026-10-24T14:37:14.980660+00:00",
-      "evidenceUrl": "https://github.com/gustavocanepa/gt4-native/blob/65e10e4b0edc054deb7b84afb046187be6bc76ec/README.md"
-    },
-    {
-      "repository": "BgbrhrWatchinOVO/dusklight-ps4",
-      "github": "https://github.com/BgbrhrWatchinOVO/dusklight-ps4",
-      "stars": 18,
-      "checkedAt": "2026-10-24T14:37:14.095663+00:00",
-      "evidenceUrl": "https://github.com/BgbrhrWatchinOVO/dusklight-ps4/blob/fd483cf5d4f04b0f4d887ff412d0e8691925de08/README.md"
-    },
-    {
-      "repository": "sp00nznet/xboxdashboard",
-      "github": "https://github.com/sp00nznet/xboxdashboard",
-      "stars": 19,
-      "checkedAt": "2026-10-24T14:37:12.299495+00:00",
-      "evidenceUrl": "https://github.com/sp00nznet/xboxdashboard/blob/1fd95ed0cccad6eb8ea655f9826d09964d71b392/README.md"
-    },
-    {
-      "repository": "Capridog/SpaceRanger",
-      "github": "https://github.com/Capridog/SpaceRanger",
-      "stars": 19,
-      "checkedAt": "2026-10-24T14:37:07.096878+00:00",
-      "evidenceUrl": "https://github.com/Capridog/SpaceRanger/blob/40461c5eb419db1a889d7bdfe9878d56c493f8cc/README.md"
     }
   ]
 }
