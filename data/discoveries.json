@@ -1,14 +1,63 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-29T02:30:22.518693+00:00",
+  "updatedAt": "2026-10-29T17:29:22.647022+00:00",
   "triage": {
     "ruleVersion": "documentary-v2",
     "reviewed": 20,
     "added": 0,
-    "pending": 20,
-    "outOfScope": 0
+    "pending": 19,
+    "outOfScope": 1
   },
   "projects": [
+    {
+      "repository": "TekRantGaming/whopping-recompilation-collection",
+      "github": "https://github.com/TekRantGaming/whopping-recompilation-collection",
+      "stars": 5,
+      "checkedAt": "2026-10-29T17:30:50.253142+00:00",
+      "evidenceUrl": "https://github.com/TekRantGaming/whopping-recompilation-collection/blob/fe305354670c5ab0545c25d8e79e22584ed48de3/README.md"
+    },
+    {
+      "repository": "samuelMadureira23/allstars-port",
+      "github": "https://github.com/samuelMadureira23/allstars-port",
+      "stars": 5,
+      "checkedAt": "2026-10-29T17:30:48.925660+00:00",
+      "evidenceUrl": "https://github.com/samuelMadureira23/allstars-port/blob/44b1997092abac10d006cc49c2eb891b65aa9825/README.md"
+    },
+    {
+      "repository": "mattfj10/splatterhouse-PC",
+      "github": "https://github.com/mattfj10/splatterhouse-PC",
+      "stars": 5,
+      "checkedAt": "2026-10-29T17:30:44.902132+00:00",
+      "evidenceUrl": "https://github.com/mattfj10/splatterhouse-PC/blob/ed1d19a69863b8a484b366816c5806e8a25b1244/README.md"
+    },
+    {
+      "repository": "raulzrrs/swsh-recomp",
+      "github": "https://github.com/raulzrrs/swsh-recomp",
+      "stars": 6,
+      "checkedAt": "2026-10-29T17:30:39.882979+00:00",
+      "evidenceUrl": "https://github.com/raulzrrs/swsh-recomp/blob/d8bc2ec05189907840aa1de026bc633700d47e00/README.md"
+    },
+    {
+      "repository": "N900x4/HauntingGround-Recomp-Project",
+      "github": "https://github.com/N900x4/HauntingGround-Recomp-Project",
+      "stars": 6,
+      "checkedAt": "2026-10-29T17:30:38.703921+00:00",
+      "evidenceUrl": "https://github.com/N900x4/HauntingGround-Recomp-Project/blob/e1203cb6e4b3b2f510cfc293b37e857e1535375c/README.md"
+    },
+    {
+      "repository": "minimalice92/bloodwake-recomp",
+      "github": "https://github.com/minimalice92/bloodwake-recomp",
+      "stars": 8,
+      "checkedAt": "2026-10-29T17:30:33.710223+00:00",
+      "evidenceUrl": "https://github.com/minimalice92/bloodwake-recomp/blob/e631edddfe56d22344e9f696923aeb6d78a9e7ba/README.md"
+    },
+    {
+      "repository": "zenit2893-cmyk/Call-of-Duty-3-PC-Editon",
+      "github": "https://github.com/zenit2893-cmyk/Call-of-Duty-3-PC-Editon",
+      "stars": 38,
+      "checkedAt": "2026-10-29T17:30:30.037162+00:00",
+      "evidenceUrl": "https://github.com/zenit2893-cmyk/Call-of-Duty-3-PC-Editon/blob/62ab3b08e4db1a5f21fb0c13b49d4a3ebd004812/README.md"
+    },
     {
       "repository": "YodaMMM/NightfirePort",
       "github": "https://github.com/YodaMMM/NightfirePort",
@@ -309,55 +358,6 @@
       "stars": 17,
       "checkedAt": "2026-10-25T15:01:37.238526+00:00",
       "evidenceUrl": "https://github.com/yanm1103/War_of_the_Monsters_recomp/blob/c9028089e6056557a0442094e5edee8d57778fd2/README.md"
-    },
-    {
-      "repository": "ThiagoFraga761/infamous2-pc",
-      "github": "https://github.com/ThiagoFraga761/infamous2-pc",
-      "stars": 17,
-      "checkedAt": "2026-10-25T15:01:36.331269+00:00",
-      "evidenceUrl": "https://github.com/ThiagoFraga761/infamous2-pc/blob/f3bf5ac4f0e5b86639c035956883fe199a711877/README.md"
-    },
-    {
-      "repository": "LasVola/godhand-recomp",
-      "github": "https://github.com/LasVola/godhand-recomp",
-      "stars": 17,
-      "checkedAt": "2026-10-25T15:01:35.485081+00:00",
-      "evidenceUrl": "https://github.com/LasVola/godhand-recomp/blob/14e956a1274332440273845fbab2c1f1e30c4a5a/README.md"
-    },
-    {
-      "repository": "Pedroj-64/DownHill-Port-PC",
-      "github": "https://github.com/Pedroj-64/DownHill-Port-PC",
-      "stars": 18,
-      "checkedAt": "2026-10-25T15:01:34.637149+00:00",
-      "evidenceUrl": "https://github.com/Pedroj-64/DownHill-Port-PC/blob/1c07759c8fc1e4c0b64feb9f647c80663557e786/README.md"
-    },
-    {
-      "repository": "khasinski/parasite-eve-pc",
-      "github": "https://github.com/khasinski/parasite-eve-pc",
-      "stars": 22,
-      "checkedAt": "2026-10-25T15:01:33.814368+00:00",
-      "evidenceUrl": "https://github.com/khasinski/parasite-eve-pc/blob/dfd4c90bf216dc66667fafb075f84eb7d01cfd06/README.md"
-    },
-    {
-      "repository": "Juansolo457/fear360-recomp",
-      "github": "https://github.com/Juansolo457/fear360-recomp",
-      "stars": 27,
-      "checkedAt": "2026-10-25T15:01:32.930746+00:00",
-      "evidenceUrl": "https://github.com/Juansolo457/fear360-recomp/blob/8046ce20db70f54071a5e064b66cbf6a46b5f7e8/README.md"
-    },
-    {
-      "repository": "sp00nznet/flow",
-      "github": "https://github.com/sp00nznet/flow",
-      "stars": 17,
-      "checkedAt": "2026-10-25T01:15:03.467876+00:00",
-      "evidenceUrl": "https://github.com/sp00nznet/flow/blob/3163de5ae40c0515c329cc40f2236c5873d6de44/README.md"
-    },
-    {
-      "repository": "kiesxoxo/burnout-crash-recomp",
-      "github": "https://github.com/kiesxoxo/burnout-crash-recomp",
-      "stars": 17,
-      "checkedAt": "2026-10-25T01:15:00.568463+00:00",
-      "evidenceUrl": "https://github.com/kiesxoxo/burnout-crash-recomp/blob/ac11bd1043e13db61bd0a8171043ac053a1ac88f/README.md"
     }
   ]
 }
