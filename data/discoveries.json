@@ -1,14 +1,35 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-30T02:40:13.272286+00:00",
+  "updatedAt": "2026-10-30T17:04:17.331824+00:00",
   "triage": {
     "ruleVersion": "documentary-v2",
     "reviewed": 20,
-    "added": 1,
-    "pending": 19,
+    "added": 0,
+    "pending": 20,
     "outOfScope": 0
   },
   "projects": [
+    {
+      "repository": "k1gs/Drakengard3Recompile",
+      "github": "https://github.com/k1gs/Drakengard3Recompile",
+      "stars": 4,
+      "checkedAt": "2026-10-30T17:06:25.895552+00:00",
+      "evidenceUrl": "https://github.com/k1gs/Drakengard3Recompile/blob/2c4eb514c1b3ef7b4c59c45958411885ac3d9f50/README.md"
+    },
+    {
+      "repository": "hk21x/nightfire-recomp",
+      "github": "https://github.com/hk21x/nightfire-recomp",
+      "stars": 23,
+      "checkedAt": "2026-10-30T17:06:05.760807+00:00",
+      "evidenceUrl": "https://github.com/hk21x/nightfire-recomp/blob/6148327124be2b46ed83771904d9113bd7dc67cf/README.md"
+    },
+    {
+      "repository": "badcompany94-rcmp/project-tandem",
+      "github": "https://github.com/badcompany94-rcmp/project-tandem",
+      "stars": 40,
+      "checkedAt": "2026-10-30T17:06:02.017603+00:00",
+      "evidenceUrl": "https://github.com/badcompany94-rcmp/project-tandem/blob/cde2783a34742c6725a47295f2ada77c684dbf3c/README.md"
+    },
     {
       "repository": "Comfubar/PS1-Recomp-Ports",
       "github": "https://github.com/Comfubar/PS1-Recomp-Ports",
@@ -337,27 +358,6 @@
       "stars": 13,
       "checkedAt": "2026-10-26T01:14:29.328732+00:00",
       "evidenceUrl": "https://github.com/BasedYuki/the-3rd-birthday-recomp/blob/feb52d31f4f668003d80d0523c4e6de708a1b4d9/.github/README.md"
-    },
-    {
-      "repository": "abilliontokens/sims2-recomp",
-      "github": "https://github.com/abilliontokens/sims2-recomp",
-      "stars": 14,
-      "checkedAt": "2026-10-26T01:14:18.733246+00:00",
-      "evidenceUrl": "https://github.com/abilliontokens/sims2-recomp/blob/8ce155df78ba5f5a2078acfeb2a5bbc8c2fc3689/README.md"
-    },
-    {
-      "repository": "monscriser/HydroThunderPORT",
-      "github": "https://github.com/monscriser/HydroThunderPORT",
-      "stars": 16,
-      "checkedAt": "2026-10-26T01:14:16.279632+00:00",
-      "evidenceUrl": "https://github.com/monscriser/HydroThunderPORT/blob/a89722963685423cd3406eadf548027cc3cee546/README.md"
-    },
-    {
-      "repository": "sozud/mmx4",
-      "github": "https://github.com/sozud/mmx4",
-      "stars": 37,
-      "checkedAt": "2026-10-26T01:14:12.258321+00:00",
-      "evidenceUrl": "https://github.com/sozud/mmx4/blob/807a01b1b8928811908a33367b964cf22f5ce799/README.md"
     }
   ]
 }
