@@ -1,14 +1,35 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-29T17:29:22.647022+00:00",
+  "updatedAt": "2026-10-30T02:40:13.272286+00:00",
   "triage": {
     "ruleVersion": "documentary-v2",
     "reviewed": 20,
-    "added": 0,
+    "added": 1,
     "pending": 19,
-    "outOfScope": 1
+    "outOfScope": 0
   },
   "projects": [
+    {
+      "repository": "Comfubar/PS1-Recomp-Ports",
+      "github": "https://github.com/Comfubar/PS1-Recomp-Ports",
+      "stars": 4,
+      "checkedAt": "2026-10-30T02:41:48.558963+00:00",
+      "evidenceUrl": "https://github.com/Comfubar/PS1-Recomp-Ports/blob/7c3133e8f7ba81fe30c6c6b41fefa79c4684226c/README.md"
+    },
+    {
+      "repository": "yacineolivier-maker/ConkerLR-Recomp",
+      "github": "https://github.com/yacineolivier-maker/ConkerLR-Recomp",
+      "stars": 5,
+      "checkedAt": "2026-10-30T02:41:42.971351+00:00",
+      "evidenceUrl": "https://github.com/yacineolivier-maker/ConkerLR-Recomp/blob/4327951a65affc4af9794a0ac242e149594cdcab/README.md"
+    },
+    {
+      "repository": "Petexy/Tekken-Tag-2-Ultimate-Edition",
+      "github": "https://github.com/Petexy/Tekken-Tag-2-Ultimate-Edition",
+      "stars": 76,
+      "checkedAt": "2026-10-30T02:41:30.227739+00:00",
+      "evidenceUrl": "https://github.com/Petexy/Tekken-Tag-2-Ultimate-Edition/blob/6594a1955178b1c6434564df3d075b948cfca4c3/README.md"
+    },
     {
       "repository": "TekRantGaming/whopping-recompilation-collection",
       "github": "https://github.com/TekRantGaming/whopping-recompilation-collection",
@@ -337,27 +358,6 @@
       "stars": 37,
       "checkedAt": "2026-10-26T01:14:12.258321+00:00",
       "evidenceUrl": "https://github.com/sozud/mmx4/blob/807a01b1b8928811908a33367b964cf22f5ce799/README.md"
-    },
-    {
-      "repository": "kuraeow/ultratears",
-      "github": "https://github.com/kuraeow/ultratears",
-      "stars": 99,
-      "checkedAt": "2026-10-26T01:14:10.970777+00:00",
-      "evidenceUrl": "https://github.com/kuraeow/ultratears/blob/1970c7ad35b3f239aa6e99ab8b4d6663c55860f3/README.md"
-    },
-    {
-      "repository": "nefariousjosiah/WWE-SVR2007-RECOMP",
-      "github": "https://github.com/nefariousjosiah/WWE-SVR2007-RECOMP",
-      "stars": 16,
-      "checkedAt": "2026-10-25T15:01:41.298092+00:00",
-      "evidenceUrl": "https://github.com/nefariousjosiah/WWE-SVR2007-RECOMP/blob/ec3e37b86c04240892d03f30737cc382b9044ac4/README.md"
-    },
-    {
-      "repository": "yanm1103/War_of_the_Monsters_recomp",
-      "github": "https://github.com/yanm1103/War_of_the_Monsters_recomp",
-      "stars": 17,
-      "checkedAt": "2026-10-25T15:01:37.238526+00:00",
-      "evidenceUrl": "https://github.com/yanm1103/War_of_the_Monsters_recomp/blob/c9028089e6056557a0442094e5edee8d57778fd2/README.md"
     }
   ]
 }
