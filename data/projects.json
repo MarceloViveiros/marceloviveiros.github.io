@@ -4850,8 +4850,12 @@
     },
     {
       "image": {
-        "url": "assets/platforms/generic.svg",
-        "kind": "console"
+        "url": "https://raw.githubusercontent.com/TekRantGaming/point-blank-recompiled/main/docs/images/banner.jpg",
+        "kind": "reference",
+        "source": "https://github.com/TekRantGaming/point-blank-recompiled",
+        "subject": "Point Blank",
+        "provider": "editorial-repository-image",
+        "checkedAt": "2026-10-30T23:56:03.076751+00:00"
       },
       "id": "auto-01db32c452a009",
       "editionId": "auto-01db32c452a009",
@@ -4860,7 +4864,7 @@
       "type": "recompilacao",
       "approach": "static-recompilation",
       "origins": [
-        "Xbox"
+        "PS1"
       ],
       "targets": [
         "Windows"
@@ -4900,7 +4904,7 @@
       "starsCollectedAt": "2026-10-30T17:05:56.427991+00:00",
       "content": {
         "pt": {
-          "summary": "Recompilação de Namco's Point Blank para Windows, baseada na versão de Xbox.",
+          "summary": "Recompilação de Namco's Point Blank para Windows, baseada na versão de PlayStation.",
           "originalFiles": "Forneça sua própria cópia compatível; confira edição e arquivos exigidos no README.",
           "requirements": [
             "Confira os requisitos completos e as diferenças entre sistemas na fonte fixada."
@@ -4912,7 +4916,7 @@
           "limitations": "Triagem por regras, sem execução do jogo. Alegações podem estar desatualizadas ou incorretas; não há garantia de campanha completa no seu PC."
         },
         "en": {
-          "summary": "Recompilation of Namco's Point Blank for Windows, based on the Xbox version.",
+          "summary": "Recompilation of Namco's Point Blank for Windows, based on the PlayStation version.",
           "originalFiles": "Provide your own compatible copy; check the required edition and files in the README.",
           "requirements": [
             "Check full requirements and OS differences in the pinned source."
@@ -4924,7 +4928,7 @@
           "limitations": "Rule-based screening without running the game. Claims may be outdated or incorrect; a full playthrough on your PC is not guaranteed."
         },
         "es": {
-          "summary": "Recompilación de Namco's Point Blank para Windows, basada en la versión de Xbox.",
+          "summary": "Recompilación de Namco's Point Blank para Windows, basada en la versión de PlayStation.",
           "originalFiles": "Proporciona tu copia compatible; consulta edición y archivos necesarios en el README.",
           "requirements": [
             "Consulta requisitos completos y diferencias entre sistemas en la fuente fijada."
@@ -4953,8 +4957,12 @@
     },
     {
       "image": {
-        "url": "assets/platforms/xbox360.svg",
-        "kind": "console"
+        "url": "https://upload.wikimedia.org/wikipedia/en/e/e0/Gears_of_War_2_Game_Cover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "kind": "reference",
+        "source": "https://en.wikipedia.org/wiki/Gears_of_War_2",
+        "subject": "Gears of War 2",
+        "provider": "wikipedia-summary-v1",
+        "checkedAt": "2026-10-30T23:56:03.353714+00:00"
       },
       "id": "auto-1e9fe7f799067f",
       "editionId": "auto-1e9fe7f799067f",
@@ -5057,8 +5065,12 @@
     },
     {
       "image": {
-        "url": "assets/platforms/ps1.svg",
-        "kind": "console"
+        "url": "https://upload.wikimedia.org/wikipedia/en/4/43/Digimonworld3boxart.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "kind": "reference",
+        "source": "https://en.wikipedia.org/wiki/Digimon_World_3",
+        "subject": "Digimon World 3",
+        "provider": "wikipedia-summary-v1",
+        "checkedAt": "2026-10-30T23:56:03.463444+00:00"
       },
       "id": "auto-4fb3a09baf2313",
       "editionId": "auto-4fb3a09baf2313",
@@ -5159,5 +5171,5 @@
       }
     }
   ],
-  "updatedAt": "2026-10-30T17:04:17.331824+00:00"
+  "updatedAt": "2026-10-30T23:56:03.147510+00:00"
 }
