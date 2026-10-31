@@ -1,14 +1,84 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-30T17:04:17.331824+00:00",
+  "updatedAt": "2026-10-31T02:25:54.715772+00:00",
   "triage": {
     "ruleVersion": "documentary-v2",
     "reviewed": 20,
     "added": 0,
-    "pending": 20,
+    "pending": 19,
     "outOfScope": 0
   },
   "projects": [
+    {
+      "repository": "DIMASIK1502/broken-bond-recomp",
+      "github": "https://github.com/DIMASIK1502/broken-bond-recomp",
+      "stars": 3,
+      "checkedAt": "2026-10-31T02:27:05.560642+00:00",
+      "evidenceUrl": "https://github.com/DIMASIK1502/broken-bond-recomp/blob/90ad48a36ec40fea05aba431f65af9077d3968f0/README.md"
+    },
+    {
+      "repository": "batatinhafcbatatinha-pixel/bf2-modern-combat-pc",
+      "github": "https://github.com/batatinhafcbatatinha-pixel/bf2-modern-combat-pc",
+      "stars": 3,
+      "checkedAt": "2026-10-31T02:26:59.261888+00:00",
+      "evidenceUrl": "https://github.com/batatinhafcbatatinha-pixel/bf2-modern-combat-pc/blob/eaab3f28edf23c3980d8625ffaa19e54332d39bd/README.md"
+    },
+    {
+      "repository": "Astrr00/BloodbornePC",
+      "github": "https://github.com/Astrr00/BloodbornePC",
+      "stars": 3,
+      "checkedAt": "2026-10-31T02:26:58.148532+00:00",
+      "evidenceUrl": "https://github.com/Astrr00/BloodbornePC/blob/802e3f2bf2e38e71da0a46362ae4510a429f7213/README.md"
+    },
+    {
+      "repository": "abilliontokens/fuzionfrenzy-recomp",
+      "github": "https://github.com/abilliontokens/fuzionfrenzy-recomp",
+      "stars": 3,
+      "checkedAt": "2026-10-31T02:26:55.708359+00:00",
+      "evidenceUrl": "https://github.com/abilliontokens/fuzionfrenzy-recomp/blob/071dbd97bdc098c4647cc24c99f9eae693fde1eb/README.md"
+    },
+    {
+      "repository": "8bitninja64/TenchuZ-PC",
+      "github": "https://github.com/8bitninja64/TenchuZ-PC",
+      "stars": 3,
+      "checkedAt": "2026-10-31T02:26:54.559071+00:00",
+      "evidenceUrl": "https://github.com/8bitninja64/TenchuZ-PC/blob/617eeda08a48b20a90a04fa724fcfde4102368a5/README.md"
+    },
+    {
+      "repository": "VaGNaroK/dantes-inferno-linux",
+      "github": "https://github.com/VaGNaroK/dantes-inferno-linux",
+      "stars": 4,
+      "checkedAt": "2026-10-31T02:26:52.635229+00:00",
+      "evidenceUrl": "https://github.com/VaGNaroK/dantes-inferno-linux/blob/1fe929d8c16eccf0a6af78d05834140dac298a76/README.md"
+    },
+    {
+      "repository": "tsapZ/SSARecomp",
+      "github": "https://github.com/tsapZ/SSARecomp",
+      "stars": 4,
+      "checkedAt": "2026-10-31T02:26:51.584455+00:00",
+      "evidenceUrl": "https://github.com/tsapZ/SSARecomp/blob/cd3aa74df480074234c670b788076b71486a4d01/README.md"
+    },
+    {
+      "repository": "giacomozama/live-and-recompiled",
+      "github": "https://github.com/giacomozama/live-and-recompiled",
+      "stars": 4,
+      "checkedAt": "2026-10-31T02:26:50.705818+00:00",
+      "evidenceUrl": "https://github.com/giacomozama/live-and-recompiled/blob/913641cc59f1a6a46a15330d46e10a3f294cee48/README.md"
+    },
+    {
+      "repository": "TekRantGaming/angry-birds-re-hatched-collection",
+      "github": "https://github.com/TekRantGaming/angry-birds-re-hatched-collection",
+      "stars": 16,
+      "checkedAt": "2026-10-31T02:26:47.986593+00:00",
+      "evidenceUrl": "https://github.com/TekRantGaming/angry-birds-re-hatched-collection/blob/5738c41ca9c6b930efe2383b93cf47103e8d121f/README.md"
+    },
+    {
+      "repository": "Vnnc1/gow-native-pc",
+      "github": "https://github.com/Vnnc1/gow-native-pc",
+      "stars": 101,
+      "checkedAt": "2026-10-31T02:26:47.034765+00:00",
+      "evidenceUrl": "https://github.com/Vnnc1/gow-native-pc/blob/ae9c3dba15656b777d1df038d22c7aa6b4b56cd1/README.md"
+    },
     {
       "repository": "k1gs/Drakengard3Recompile",
       "github": "https://github.com/k1gs/Drakengard3Recompile",
@@ -288,76 +358,6 @@
       "stars": 16,
       "checkedAt": "2026-10-27T02:09:15.253926+00:00",
       "evidenceUrl": "https://github.com/GranasSabre/Grandia3-PC/blob/90c5f7892f492bc7a8f4f9b0722e9afc0bfee92a/README.md"
-    },
-    {
-      "repository": "15Cyber/marvel-nemesis-recomp",
-      "github": "https://github.com/15Cyber/marvel-nemesis-recomp",
-      "stars": 12,
-      "checkedAt": "2026-10-26T17:28:19.150809+00:00",
-      "evidenceUrl": "https://github.com/15Cyber/marvel-nemesis-recomp/blob/6a5f74de59c72dbe4a68003878b9dc04087d1175/README.md"
-    },
-    {
-      "repository": "cxldsakeb/GoW2-nativo-PS2",
-      "github": "https://github.com/cxldsakeb/GoW2-nativo-PS2",
-      "stars": 13,
-      "checkedAt": "2026-10-26T17:28:08.217153+00:00",
-      "evidenceUrl": "https://github.com/cxldsakeb/GoW2-nativo-PS2/blob/406e8cf4abe5eaaf0c7237f2bf4961a89c72b77b/README.md"
-    },
-    {
-      "repository": "BigDaddyJRich/hctp-recomp",
-      "github": "https://github.com/BigDaddyJRich/hctp-recomp",
-      "stars": 14,
-      "checkedAt": "2026-10-26T17:28:01.960315+00:00",
-      "evidenceUrl": "https://github.com/BigDaddyJRich/hctp-recomp/blob/43164685ae1ce1cb640f6e332557a16dead01bbe/README.md"
-    },
-    {
-      "repository": "Flippage/gears-of-war-3-recomp",
-      "github": "https://github.com/Flippage/gears-of-war-3-recomp",
-      "stars": 16,
-      "checkedAt": "2026-10-26T17:28:00.549023+00:00",
-      "evidenceUrl": "https://github.com/Flippage/gears-of-war-3-recomp/blob/03ccb8b186b7b6d05778fd498ef31dccd544dce6/README.md"
-    },
-    {
-      "repository": "saulob/marvel-ultimate-alliance-bundle-recompiled",
-      "github": "https://github.com/saulob/marvel-ultimate-alliance-bundle-recompiled",
-      "stars": 38,
-      "checkedAt": "2026-10-26T17:27:59.034793+00:00",
-      "evidenceUrl": "https://github.com/saulob/marvel-ultimate-alliance-bundle-recompiled/blob/05871209afaf370fc43a77b318fa6cea0b039951/README.md"
-    },
-    {
-      "repository": "NoRain211/doa2u-re",
-      "github": "https://github.com/NoRain211/doa2u-re",
-      "stars": 38,
-      "checkedAt": "2026-10-26T17:27:57.510800+00:00",
-      "evidenceUrl": "https://github.com/NoRain211/doa2u-re/blob/546a1ff72742f3f73a9662ad1c7216bbc89a737e/README.md"
-    },
-    {
-      "repository": "MysteriousAeon/rayman3-hd-recompiled",
-      "github": "https://github.com/MysteriousAeon/rayman3-hd-recompiled",
-      "stars": 40,
-      "checkedAt": "2026-10-26T17:27:56.037372+00:00",
-      "evidenceUrl": "https://github.com/MysteriousAeon/rayman3-hd-recompiled/blob/72cd6ba941983bb07a566c3de25edb307492be6a/README.md"
-    },
-    {
-      "repository": "danielgomesvieira2000/hybrid-heaven-recomp",
-      "github": "https://github.com/danielgomesvieira2000/hybrid-heaven-recomp",
-      "stars": 13,
-      "checkedAt": "2026-10-26T01:14:31.635138+00:00",
-      "evidenceUrl": "https://github.com/danielgomesvieira2000/hybrid-heaven-recomp/blob/467bd1be98c8759730faf3f96edeca4674c4f2dc/README.md"
-    },
-    {
-      "repository": "bucketcomps/infamous",
-      "github": "https://github.com/bucketcomps/infamous",
-      "stars": 13,
-      "checkedAt": "2026-10-26T01:14:30.426451+00:00",
-      "evidenceUrl": "https://github.com/bucketcomps/infamous/blob/f824d279808b0364bbcd8feaf5e33a3e6e536b75/README.md"
-    },
-    {
-      "repository": "BasedYuki/the-3rd-birthday-recomp",
-      "github": "https://github.com/BasedYuki/the-3rd-birthday-recomp",
-      "stars": 13,
-      "checkedAt": "2026-10-26T01:14:29.328732+00:00",
-      "evidenceUrl": "https://github.com/BasedYuki/the-3rd-birthday-recomp/blob/feb52d31f4f668003d80d0523c4e6de708a1b4d9/.github/README.md"
     }
   ]
 }
