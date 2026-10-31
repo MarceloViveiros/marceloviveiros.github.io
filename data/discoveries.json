@@ -1,14 +1,35 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-31T02:25:54.715772+00:00",
+  "updatedAt": "2026-10-31T16:09:38.443290+00:00",
   "triage": {
     "ruleVersion": "documentary-v2",
     "reviewed": 20,
-    "added": 0,
-    "pending": 19,
+    "added": 2,
+    "pending": 18,
     "outOfScope": 0
   },
   "projects": [
+    {
+      "repository": "GabrielBigardi/HarvestMoonBTN-Recomp",
+      "github": "https://github.com/GabrielBigardi/HarvestMoonBTN-Recomp",
+      "stars": 3,
+      "checkedAt": "2026-10-31T16:11:03.738376+00:00",
+      "evidenceUrl": "https://github.com/GabrielBigardi/HarvestMoonBTN-Recomp/blob/d321e4531cd23279d19e66179aafe2848f2f09ed/README.md"
+    },
+    {
+      "repository": "LucioXerus/bo1-recomp",
+      "github": "https://github.com/LucioXerus/bo1-recomp",
+      "stars": 4,
+      "checkedAt": "2026-10-31T16:10:54.703684+00:00",
+      "evidenceUrl": "https://github.com/LucioXerus/bo1-recomp/blob/0be5687d07d411644c7e878e841a54daa201328f/README.md"
+    },
+    {
+      "repository": "danielalves96/gow-pc-port",
+      "github": "https://github.com/danielalves96/gow-pc-port",
+      "stars": 42,
+      "checkedAt": "2026-10-31T16:10:47.143480+00:00",
+      "evidenceUrl": "https://github.com/danielalves96/gow-pc-port/blob/d579d91c63c87a73f48b74b65066db4db9908702/README.md"
+    },
     {
       "repository": "DIMASIK1502/broken-bond-recomp",
       "github": "https://github.com/DIMASIK1502/broken-bond-recomp",
@@ -337,27 +358,6 @@
       "stars": 12,
       "checkedAt": "2026-10-27T02:09:21.211751+00:00",
       "evidenceUrl": "https://github.com/abilliontokens/bustinout-recomp/blob/e37436806c5107ee0ed4cb4d5c7a62b4c72eb613/README.md"
-    },
-    {
-      "repository": "otavix010/gow-ascension-pc",
-      "github": "https://github.com/otavix010/gow-ascension-pc",
-      "stars": 14,
-      "checkedAt": "2026-10-27T02:09:17.484642+00:00",
-      "evidenceUrl": "https://github.com/otavix010/gow-ascension-pc/blob/44383bd1002041a8195c3a8d91607c4a00380138/README.md"
-    },
-    {
-      "repository": "hk21x/007eon-recomp",
-      "github": "https://github.com/hk21x/007eon-recomp",
-      "stars": 16,
-      "checkedAt": "2026-10-27T02:09:16.401164+00:00",
-      "evidenceUrl": "https://github.com/hk21x/007eon-recomp/blob/2651b0d88760ef32b91a0414c75120a4a78420f3/README.md"
-    },
-    {
-      "repository": "GranasSabre/Grandia3-PC",
-      "github": "https://github.com/GranasSabre/Grandia3-PC",
-      "stars": 16,
-      "checkedAt": "2026-10-27T02:09:15.253926+00:00",
-      "evidenceUrl": "https://github.com/GranasSabre/Grandia3-PC/blob/90c5f7892f492bc7a8f4f9b0722e9afc0bfee92a/README.md"
     }
   ]
 }
