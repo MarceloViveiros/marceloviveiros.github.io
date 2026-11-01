@@ -1,14 +1,49 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-01T02:17:25.217880+00:00",
+  "updatedAt": "2026-11-01T17:10:59.965005+00:00",
   "triage": {
     "ruleVersion": "documentary-v2",
     "reviewed": 20,
     "added": 0,
-    "pending": 17,
-    "outOfScope": 1
+    "pending": 20,
+    "outOfScope": 0
   },
   "projects": [
+    {
+      "repository": "Vynx-Velvet/Fable2RE",
+      "github": "https://github.com/Vynx-Velvet/Fable2RE",
+      "stars": 3,
+      "checkedAt": "2026-11-01T17:12:14.018975+00:00",
+      "evidenceUrl": "https://github.com/Vynx-Velvet/Fable2RE/blob/4a5de7dbef32df7384c9713a2d7fe42a470e02c6/README.md"
+    },
+    {
+      "repository": "Tzeentchnet/KillzoneRecomp-Extended",
+      "github": "https://github.com/Tzeentchnet/KillzoneRecomp-Extended",
+      "stars": 3,
+      "checkedAt": "2026-11-01T17:12:11.826874+00:00",
+      "evidenceUrl": "https://github.com/Tzeentchnet/KillzoneRecomp-Extended/blob/1374d612f11a6e5fd032af9a6b8bb052af706e3a/README.md"
+    },
+    {
+      "repository": "tsapZ/SwapForceRecomp",
+      "github": "https://github.com/tsapZ/SwapForceRecomp",
+      "stars": 3,
+      "checkedAt": "2026-11-01T17:12:10.894686+00:00",
+      "evidenceUrl": "https://github.com/tsapZ/SwapForceRecomp/blob/5dd0dec9b0e18f835df2ff8bcf1980da13c443e3/README.md"
+    },
+    {
+      "repository": "Leonardorobertomotalvao/demons-souls-pc",
+      "github": "https://github.com/Leonardorobertomotalvao/demons-souls-pc",
+      "stars": 3,
+      "checkedAt": "2026-11-01T17:12:08.629538+00:00",
+      "evidenceUrl": "https://github.com/Leonardorobertomotalvao/demons-souls-pc/blob/be7790102b86d28911306acc22b82cfc9566376f/README.md"
+    },
+    {
+      "repository": "neonoxd/MOHRS-XBERecomp",
+      "github": "https://github.com/neonoxd/MOHRS-XBERecomp",
+      "stars": 4,
+      "checkedAt": "2026-11-01T17:12:03.642134+00:00",
+      "evidenceUrl": "https://github.com/neonoxd/MOHRS-XBERecomp/blob/3bf4efee42b6205fa7336bf45dda6c19a55b321c/README.md"
+    },
     {
       "repository": "tsapZ/ImaginatorsRecomp",
       "github": "https://github.com/tsapZ/ImaginatorsRecomp",
@@ -323,41 +358,6 @@
       "stars": 9,
       "checkedAt": "2026-10-28T02:19:48.778501+00:00",
       "evidenceUrl": "https://github.com/victor-takai/rogue-galaxy-recomp/blob/5ed25508bf47d4dd4bdc088aa54c833a29277e5b/README.md"
-    },
-    {
-      "repository": "PC-PORTERS/SplatPC-Splatoon-Native-PC-Port",
-      "github": "https://github.com/PC-PORTERS/SplatPC-Splatoon-Native-PC-Port",
-      "stars": 36,
-      "checkedAt": "2026-10-28T02:19:37.865471+00:00",
-      "evidenceUrl": "https://github.com/PC-PORTERS/SplatPC-Splatoon-Native-PC-Port/blob/7172e68c0f9c473793e4ba4e4628358632282a17/README.md"
-    },
-    {
-      "repository": "bertibertig/SSX3-Recomp",
-      "github": "https://github.com/bertibertig/SSX3-Recomp",
-      "stars": 8,
-      "checkedAt": "2026-10-27T16:43:45.761580+00:00",
-      "evidenceUrl": "https://github.com/bertibertig/SSX3-Recomp/blob/a4fb6ebd80776f18c86d4b221b419bedb4f8d2c1/README.md"
-    },
-    {
-      "repository": "AH64-dll/DeepSea",
-      "github": "https://github.com/AH64-dll/DeepSea",
-      "stars": 8,
-      "checkedAt": "2026-10-27T16:43:43.566766+00:00",
-      "evidenceUrl": "https://github.com/AH64-dll/DeepSea/blob/a343c138a3bb990667a70bf1b91cae34ee7b0892/README.md"
-    },
-    {
-      "repository": "anishchandra24/MaddenNFL08-Recompiled",
-      "github": "https://github.com/anishchandra24/MaddenNFL08-Recompiled",
-      "stars": 9,
-      "checkedAt": "2026-10-27T16:43:31.011916+00:00",
-      "evidenceUrl": "https://github.com/anishchandra24/MaddenNFL08-Recompiled/blob/be27a45ee6d3b5cc2c6c60ae0dc23db132f8ee8b/README.md"
-    },
-    {
-      "repository": "Pallypots/ProjectOogie",
-      "github": "https://github.com/Pallypots/ProjectOogie",
-      "stars": 10,
-      "checkedAt": "2026-10-27T16:43:27.180546+00:00",
-      "evidenceUrl": "https://github.com/Pallypots/ProjectOogie/blob/fc466f0095db52d9758d97c179787a76dd098b29/README.md"
     }
   ]
 }
