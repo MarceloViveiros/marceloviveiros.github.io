@@ -5172,8 +5172,12 @@
     },
     {
       "image": {
-        "url": "assets/platforms/generic.svg",
-        "kind": "console"
+        "url": "https://upload.wikimedia.org/wikipedia/en/8/82/007_-_Nightfire_Coverart.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "kind": "reference",
+        "source": "https://en.wikipedia.org/wiki/James_Bond_007%3A_Nightfire",
+        "subject": "James Bond 007: Nightfire",
+        "provider": "wikipedia-summary-v1",
+        "checkedAt": "2026-11-01T21:56:49.751674+00:00"
       },
       "id": "auto-9518a68c3b4ef7",
       "editionId": "auto-9518a68c3b4ef7",
@@ -5381,5 +5385,5 @@
       }
     }
   ],
-  "updatedAt": "2026-11-01T17:10:59.965005+00:00"
+  "updatedAt": "2026-11-01T21:56:48.683168+00:00"
 }
