@@ -1,14 +1,49 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-31T16:09:38.443290+00:00",
+  "updatedAt": "2026-11-01T02:17:25.217880+00:00",
   "triage": {
     "ruleVersion": "documentary-v2",
     "reviewed": 20,
-    "added": 2,
-    "pending": 18,
-    "outOfScope": 0
+    "added": 0,
+    "pending": 17,
+    "outOfScope": 1
   },
   "projects": [
+    {
+      "repository": "tsapZ/ImaginatorsRecomp",
+      "github": "https://github.com/tsapZ/ImaginatorsRecomp",
+      "stars": 3,
+      "checkedAt": "2026-11-01T02:19:16.067776+00:00",
+      "evidenceUrl": "https://github.com/tsapZ/ImaginatorsRecomp/blob/a0e65b4135dcd8448e0fb2df645a7627a7a814d1/README.md"
+    },
+    {
+      "repository": "timboat/demons-souls-recomp",
+      "github": "https://github.com/timboat/demons-souls-recomp",
+      "stars": 3,
+      "checkedAt": "2026-11-01T02:19:14.262463+00:00",
+      "evidenceUrl": "https://github.com/timboat/demons-souls-recomp/blob/a056903d7e1770709ec07cc6701577ddeab44a36/README.md"
+    },
+    {
+      "repository": "SloppyWyn/SRWZ-native",
+      "github": "https://github.com/SloppyWyn/SRWZ-native",
+      "stars": 3,
+      "checkedAt": "2026-11-01T02:19:11.577229+00:00",
+      "evidenceUrl": "https://github.com/SloppyWyn/SRWZ-native/blob/d45c45ed91b3fc1beec685cda0ec2b25ed015869/README.md"
+    },
+    {
+      "repository": "paulobiduss/DownpourRecomp",
+      "github": "https://github.com/paulobiduss/DownpourRecomp",
+      "stars": 3,
+      "checkedAt": "2026-11-01T02:19:03.409769+00:00",
+      "evidenceUrl": "https://github.com/paulobiduss/DownpourRecomp/blob/a183ff0b21f5e504526102754a04f2a9534a97b7/README.md"
+    },
+    {
+      "repository": "woodys-workshop/SpaceRanger",
+      "github": "https://github.com/woodys-workshop/SpaceRanger",
+      "stars": 20,
+      "checkedAt": "2026-11-01T02:18:50.648017+00:00",
+      "evidenceUrl": "https://github.com/woodys-workshop/SpaceRanger/blob/40461c5eb419db1a889d7bdfe9878d56c493f8cc/README.md"
+    },
     {
       "repository": "GabrielBigardi/HarvestMoonBTN-Recomp",
       "github": "https://github.com/GabrielBigardi/HarvestMoonBTN-Recomp",
@@ -323,41 +358,6 @@
       "stars": 10,
       "checkedAt": "2026-10-27T16:43:27.180546+00:00",
       "evidenceUrl": "https://github.com/Pallypots/ProjectOogie/blob/fc466f0095db52d9758d97c179787a76dd098b29/README.md"
-    },
-    {
-      "repository": "skuza-oss/downhill-revived",
-      "github": "https://github.com/skuza-oss/downhill-revived",
-      "stars": 68,
-      "checkedAt": "2026-10-27T16:43:22.046611+00:00",
-      "evidenceUrl": "https://github.com/skuza-oss/downhill-revived/blob/385fb74a6d6dfbbaf7ef44a342a1fa383203934b/README.md"
-    },
-    {
-      "repository": "mikeflare007/wwe2k14-recomp",
-      "github": "https://github.com/mikeflare007/wwe2k14-recomp",
-      "stars": 10,
-      "checkedAt": "2026-10-27T02:09:39.283251+00:00",
-      "evidenceUrl": "https://github.com/mikeflare007/wwe2k14-recomp/blob/271f1f60317dfa7ceaeed301fd371ebe89811b8f/README.md"
-    },
-    {
-      "repository": "Wndwsqrrl/3on3NHL-recomp",
-      "github": "https://github.com/Wndwsqrrl/3on3NHL-recomp",
-      "stars": 11,
-      "checkedAt": "2026-10-27T02:09:33.520383+00:00",
-      "evidenceUrl": "https://github.com/Wndwsqrrl/3on3NHL-recomp/blob/069e57aba3c17b4afcea7644f2533e07a3f759f4/README.md"
-    },
-    {
-      "repository": "Nero2611/FrontschweineRecomp",
-      "github": "https://github.com/Nero2611/FrontschweineRecomp",
-      "stars": 11,
-      "checkedAt": "2026-10-27T02:09:28.854060+00:00",
-      "evidenceUrl": "https://github.com/Nero2611/FrontschweineRecomp/blob/b8041f3be0db2bd4799b30ae83f27b1f1c1a6a9e/README.md"
-    },
-    {
-      "repository": "abilliontokens/bustinout-recomp",
-      "github": "https://github.com/abilliontokens/bustinout-recomp",
-      "stars": 12,
-      "checkedAt": "2026-10-27T02:09:21.211751+00:00",
-      "evidenceUrl": "https://github.com/abilliontokens/bustinout-recomp/blob/e37436806c5107ee0ed4cb4d5c7a62b4c72eb613/README.md"
     }
   ]
 }
