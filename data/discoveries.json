@@ -1,14 +1,63 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-02T02:33:50.534431+00:00",
+  "updatedAt": "2026-11-03T03:59:39.063978+00:00",
   "triage": {
     "ruleVersion": "documentary-v2",
     "reviewed": 20,
-    "added": 0,
+    "added": 1,
     "pending": 19,
     "outOfScope": 0
   },
   "projects": [
+    {
+      "repository": "TheBozos/VP2S_Recomp",
+      "github": "https://github.com/TheBozos/VP2S_Recomp",
+      "stars": 4,
+      "checkedAt": "2026-11-03T04:01:02.429462+00:00",
+      "evidenceUrl": "https://github.com/TheBozos/VP2S_Recomp/blob/3d78ba8459700e073250d193f051bf5e725e378e/README.md"
+    },
+    {
+      "repository": "CoastRedWood/splashdown",
+      "github": "https://github.com/CoastRedWood/splashdown",
+      "stars": 5,
+      "checkedAt": "2026-11-03T04:00:57.577875+00:00",
+      "evidenceUrl": "https://github.com/CoastRedWood/splashdown/blob/ea2a067bcc0be67587f6f523c03ce2ab51280e9a/README.md"
+    },
+    {
+      "repository": "KamiTK2/openNG2",
+      "github": "https://github.com/KamiTK2/openNG2",
+      "stars": 17,
+      "checkedAt": "2026-11-03T04:00:53.241925+00:00",
+      "evidenceUrl": "https://github.com/KamiTK2/openNG2/blob/18e6029be7039bf0639d0d4a69a16da83614eef8/README.md"
+    },
+    {
+      "repository": "hk21x/007-agentunderfire-recomp",
+      "github": "https://github.com/hk21x/007-agentunderfire-recomp",
+      "stars": 24,
+      "checkedAt": "2026-11-03T04:00:52.064610+00:00",
+      "evidenceUrl": "https://github.com/hk21x/007-agentunderfire-recomp/blob/e82500459b3ee67a504f35fe918dcd0909d7f85d/README.md"
+    },
+    {
+      "repository": "Adolini1715/Concrete-Jungle-PC",
+      "github": "https://github.com/Adolini1715/Concrete-Jungle-PC",
+      "stars": 29,
+      "checkedAt": "2026-11-03T04:00:51.178233+00:00",
+      "evidenceUrl": "https://github.com/Adolini1715/Concrete-Jungle-PC/blob/7ea73d273813404411bdb8050cdc6c3e08494e2d/README.md"
+    },
+    {
+      "repository": "Re-TeRo17/ratchet-tod-recomp",
+      "github": "https://github.com/Re-TeRo17/ratchet-tod-recomp",
+      "stars": 39,
+      "checkedAt": "2026-11-03T04:00:50.143820+00:00",
+      "evidenceUrl": "https://github.com/Re-TeRo17/ratchet-tod-recomp/blob/c945a3c54795cee65e17f67bb7ca5b45af42fd49/README.md"
+    },
+    {
+      "repository": "valentderah/totk-pc-recomp",
+      "github": "https://github.com/valentderah/totk-pc-recomp",
+      "stars": 4093,
+      "checkedAt": "2026-11-03T04:00:43.524676+00:00",
+      "evidenceUrl": "https://github.com/valentderah/totk-pc-recomp/blob/c38e0ca13d2bceb0590b195f69a010315913850d/README.md"
+    },
     {
       "repository": "batatinhafcbatatinha-pixel/cod-world-at-war-final-fronts-pc",
       "github": "https://github.com/batatinhafcbatatinha-pixel/cod-world-at-war-final-fronts-pc",
@@ -309,55 +358,6 @@
       "stars": 6,
       "checkedAt": "2026-10-29T02:31:42.852110+00:00",
       "evidenceUrl": "https://github.com/bertibertig/Amped2-Recomp/blob/24a222b3b6962eccab9238a9cf1912e73fc25ea5/README.md"
-    },
-    {
-      "repository": "anishchandra24/Juiced2-Recompiled",
-      "github": "https://github.com/anishchandra24/Juiced2-Recompiled",
-      "stars": 8,
-      "checkedAt": "2026-10-29T02:31:41.427269+00:00",
-      "evidenceUrl": "https://github.com/anishchandra24/Juiced2-Recompiled/blob/cd5cb875673fa13b0654bed26869341ae30aab19/README.md"
-    },
-    {
-      "repository": "MatiasRiveraC/SSX-Tricky-PC",
-      "github": "https://github.com/MatiasRiveraC/SSX-Tricky-PC",
-      "stars": 6,
-      "checkedAt": "2026-10-28T17:16:12.052974+00:00",
-      "evidenceUrl": "https://github.com/MatiasRiveraC/SSX-Tricky-PC/blob/569353b50db976fcd4b7c5046978a6cac46da257/README.md"
-    },
-    {
-      "repository": "kirklandsig/halo-mega-bloks-decompiled",
-      "github": "https://github.com/kirklandsig/halo-mega-bloks-decompiled",
-      "stars": 6,
-      "checkedAt": "2026-10-28T17:16:07.797686+00:00",
-      "evidenceUrl": "https://github.com/kirklandsig/halo-mega-bloks-decompiled/blob/329d6b3795f43bc94312d1d2546d9a7c65083f6e/README.md"
-    },
-    {
-      "repository": "k1gs/Drakengard1Recompile",
-      "github": "https://github.com/k1gs/Drakengard1Recompile",
-      "stars": 6,
-      "checkedAt": "2026-10-28T17:16:04.032204+00:00",
-      "evidenceUrl": "https://github.com/k1gs/Drakengard1Recompile/blob/5e2f64e735dcdb57b251deceb49039f81bd82ff7/README.md"
-    },
-    {
-      "repository": "Claudio5702/Cristalis",
-      "github": "https://github.com/Claudio5702/Cristalis",
-      "stars": 6,
-      "checkedAt": "2026-10-28T17:15:56.882081+00:00",
-      "evidenceUrl": "https://github.com/Claudio5702/Cristalis/blob/f2c682edd9a08668350b993c919c5e4551e63e13/README.md"
-    },
-    {
-      "repository": "RealAmethyst/BakuganBB-recomp",
-      "github": "https://github.com/RealAmethyst/BakuganBB-recomp",
-      "stars": 7,
-      "checkedAt": "2026-10-28T17:15:53.005641+00:00",
-      "evidenceUrl": "https://github.com/RealAmethyst/BakuganBB-recomp/blob/55e5ce3c3aa3645568f559ac4e15aa3b887b77f2/README.md"
-    },
-    {
-      "repository": "drakolordx7/MetroidPrimeRemasteredRecomp",
-      "github": "https://github.com/drakolordx7/MetroidPrimeRemasteredRecomp",
-      "stars": 7,
-      "checkedAt": "2026-10-28T02:20:04.499420+00:00",
-      "evidenceUrl": "https://github.com/drakolordx7/MetroidPrimeRemasteredRecomp/blob/6af14be18583503f038dbad1fa26b0454d6074d2/README.md"
     }
   ]
 }

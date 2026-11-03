@@ -22,8 +22,8 @@
       "reviewedAt": "2026-10-16",
       "reviewedVersion": "dd702b0679f2240209763d00277e7343ee1424b9",
       "reviewMethod": "documentation",
-      "stars": 5820,
-      "starsCollectedAt": "2026-11-02T02:33:51.798935+00:00",
+      "stars": 5829,
+      "starsCollectedAt": "2026-11-03T03:59:40.331469+00:00",
       "content": {
         "pt": {
           "summary": "Port nativo baseado na descompilação de Ocarina of Time.",
@@ -67,7 +67,7 @@
       "approach": "source-port",
       "editionId": "ship-of-harkinian",
       "upstream": {
-        "checkedAt": "2026-11-02T02:33:51.798935+00:00",
+        "checkedAt": "2026-11-03T03:59:40.331469+00:00",
         "head": "d4bf6528a3bb242bc5d862e4f1ab2b6d385c157b",
         "pushedAt": "2026-11-01T20:58:28Z",
         "archived": false,
@@ -108,8 +108,8 @@
       "reviewedAt": "2026-10-16",
       "reviewedVersion": "b65c482ed672258eb684ab94a4e8c8aa662615ee",
       "reviewMethod": "documentation",
-      "stars": 7575,
-      "starsCollectedAt": "2026-11-02T02:33:53.003775+00:00",
+      "stars": 7582,
+      "starsCollectedAt": "2026-11-03T03:59:41.597428+00:00",
       "content": {
         "pt": {
           "summary": "Recompilação nativa de Majora’s Mask, com melhorias visuais e mods.",
@@ -154,7 +154,7 @@
       "editionId": "zelda64-recompiled",
       "relatedProject": "https://github.com/2ship2harkinian/2ship2harkinian",
       "upstream": {
-        "checkedAt": "2026-11-02T02:33:53.003775+00:00",
+        "checkedAt": "2026-11-03T03:59:41.597428+00:00",
         "head": "b65c482ed672258eb684ab94a4e8c8aa662615ee",
         "pushedAt": "2026-09-25T18:57:57Z",
         "archived": false,
@@ -192,8 +192,8 @@
       "reviewedAt": "2026-10-16",
       "reviewedVersion": "32c3cf73970f885c0a588623208232db72a74a58",
       "reviewMethod": "documentation",
-      "stars": 3625,
-      "starsCollectedAt": "2026-11-02T02:33:54.317642+00:00",
+      "stars": 3628,
+      "starsCollectedAt": "2026-11-03T03:59:43.146593+00:00",
       "content": {
         "pt": {
           "summary": "Port nativo de Jak 1 pelo projeto OpenGOAL.",
@@ -237,9 +237,9 @@
       "approach": "source-port",
       "editionId": "opengoal-jak1",
       "upstream": {
-        "checkedAt": "2026-11-02T02:33:54.317642+00:00",
+        "checkedAt": "2026-11-03T03:59:43.146593+00:00",
         "head": "c7db3c9adb1664b9150c7508eac666a5395735b3",
-        "pushedAt": "2026-10-31T22:19:33Z",
+        "pushedAt": "2026-11-02T23:18:37Z",
         "archived": false,
         "latestRelease": {
           "tag": "v0.3.9",
@@ -274,8 +274,8 @@
       "reviewedAt": "2026-10-16",
       "reviewedVersion": "cf829a9eca8fb680fba4b0409ddeb6ca92f22e3c",
       "reviewMethod": "documentation",
-      "stars": 5324,
-      "starsCollectedAt": "2026-11-02T02:33:55.381605+00:00",
+      "stars": 5330,
+      "starsCollectedAt": "2026-11-03T03:59:44.250681+00:00",
       "content": {
         "pt": {
           "summary": "Recompilação da edição Xbox 360, com melhorias gráficas.",
@@ -319,7 +319,7 @@
       "approach": "static-recompilation",
       "editionId": "unleashed-recompiled",
       "upstream": {
-        "checkedAt": "2026-11-02T02:33:55.381605+00:00",
+        "checkedAt": "2026-11-03T03:59:44.250681+00:00",
         "head": "cf829a9eca8fb680fba4b0409ddeb6ca92f22e3c",
         "pushedAt": "2026-06-29T11:05:43Z",
         "archived": false,
@@ -358,8 +358,8 @@
       "reviewedAt": "2026-10-16",
       "reviewedVersion": "f94e9f8647aeae07ea064dbafe407a41a922f485",
       "reviewMethod": "documentation",
-      "stars": 20297,
-      "starsCollectedAt": "2026-11-02T02:33:56.495384+00:00",
+      "stars": 20307,
+      "starsCollectedAt": "2026-11-03T03:59:45.209380+00:00",
       "content": {
         "pt": {
           "summary": "Emulador e depurador de PS3 para vários sistemas.",
@@ -403,9 +403,9 @@
       "approach": "emulation",
       "editionId": "rpcs3",
       "upstream": {
-        "checkedAt": "2026-11-02T02:33:56.495384+00:00",
-        "head": "ad468a13f6374f364467a9e4988e95938c37bb42",
-        "pushedAt": "2026-11-01T11:48:01Z",
+        "checkedAt": "2026-11-03T03:59:45.209380+00:00",
+        "head": "a2c2ca2fac39e4e2c45f99073848fc48696db7e3",
+        "pushedAt": "2026-11-02T20:34:12Z",
         "archived": false,
         "latestRelease": {
           "tag": "v0.0.43",
@@ -440,8 +440,8 @@
       "reviewedAt": "2026-10-16",
       "reviewedVersion": "5aa7ffa3f4f21bba827d7865ed8f69f98f993542",
       "reviewMethod": "documentation",
-      "stars": 34015,
-      "starsCollectedAt": "2026-11-02T02:33:57.564025+00:00",
+      "stars": 34034,
+      "starsCollectedAt": "2026-11-03T03:59:46.169350+00:00",
       "content": {
         "pt": {
           "summary": "Emulador de PS4 em estágio inicial; utiliza launcher separado.",
@@ -485,14 +485,14 @@
       "approach": "emulation",
       "editionId": "shadps4",
       "upstream": {
-        "checkedAt": "2026-11-02T02:33:57.564025+00:00",
-        "head": "ed8a479e20deceddd591777c32e7f1a7fec4841d",
-        "pushedAt": "2026-11-01T23:38:47Z",
+        "checkedAt": "2026-11-03T03:59:46.169350+00:00",
+        "head": "8729018155e54f305b6bc7576f850e756ffdd13c",
+        "pushedAt": "2026-11-02T21:21:46Z",
         "archived": false,
         "latestRelease": {
-          "tag": "Pre-release-shadPS4-2026-11-01-ed8a479e20deceddd591777c32e7f1a7fec4841d",
-          "url": "https://github.com/shadps4-emu/shadPS4/releases/tag/Pre-release-shadPS4-2026-11-01-ed8a479e20deceddd591777c32e7f1a7fec4841d",
-          "publishedAt": "2026-11-01T23:38:25Z",
+          "tag": "Pre-release-shadPS4-2026-11-02-8729018155e54f305b6bc7576f850e756ffdd13c",
+          "url": "https://github.com/shadps4-emu/shadPS4/releases/tag/Pre-release-shadPS4-2026-11-02-8729018155e54f305b6bc7576f850e756ffdd13c",
+          "publishedAt": "2026-11-02T21:21:22Z",
           "prerelease": true,
           "hasDownload": true
         },
@@ -525,8 +525,8 @@
       "reviewedAt": "2026-10-16",
       "reviewedVersion": "7180a7bafa51afbe991523f6392f69ea1cf03e1e",
       "reviewMethod": "documentation",
-      "stars": 4484,
-      "starsCollectedAt": "2026-11-02T02:33:59.020088+00:00",
+      "stars": 4542,
+      "starsCollectedAt": "2026-11-03T03:59:47.466396+00:00",
       "fork": true,
       "parentRepository": "Supermedo/bloodborne_pc",
       "reviewedRelease": {
@@ -573,15 +573,15 @@
         }
       },
       "upstream": {
-        "checkedAt": "2026-11-02T02:33:59.020088+00:00",
-        "head": "e88be4eedc0564d003834ade5afa1252b33d241e",
-        "pushedAt": "2026-11-02T00:35:51Z",
+        "checkedAt": "2026-11-03T03:59:47.466396+00:00",
+        "head": "265d74d05a7c1ffcc796c0e0cb6caf8263efdd56",
+        "pushedAt": "2026-11-03T03:50:59Z",
         "archived": false,
         "latestRelease": {
-          "tag": "windows-v3.0.0",
-          "url": "https://github.com/FelipePrado0/SpartanPort/releases/tag/windows-v3.0.0",
-          "publishedAt": "2026-11-01T02:26:44Z",
-          "prerelease": false,
+          "tag": "windows-v3.0.0-issue1165-test2",
+          "url": "https://github.com/FelipePrado0/SpartanPort/releases/tag/windows-v3.0.0-issue1165-test2",
+          "publishedAt": "2026-11-02T15:08:51Z",
+          "prerelease": true,
           "hasDownload": true
         },
         "documentationChanged": true
@@ -621,8 +621,8 @@
       "reviewedAt": "2026-10-16",
       "reviewedVersion": "d0a9b8f8969588a9ab2b1db03a35854d3af63f2e",
       "reviewMethod": "documentation",
-      "stars": 2348,
-      "starsCollectedAt": "2026-11-02T02:34:00.204600+00:00",
+      "stars": 2367,
+      "starsCollectedAt": "2026-11-03T03:59:48.422811+00:00",
       "fork": false,
       "parentRepository": null,
       "reviewedRelease": {
@@ -669,7 +669,7 @@
         }
       },
       "upstream": {
-        "checkedAt": "2026-11-02T02:34:00.204600+00:00",
+        "checkedAt": "2026-11-03T03:59:48.422811+00:00",
         "head": "8966e89b7cb917df33764d8b70a98b120ab53364",
         "pushedAt": "2026-10-24T13:56:17Z",
         "archived": false,
@@ -711,8 +711,8 @@
       "reviewedAt": "2026-10-16",
       "reviewedVersion": "6244eb9d4d3497094e21cac7dabe998ded1f2800",
       "reviewMethod": "documentation",
-      "stars": 2059,
-      "starsCollectedAt": "2026-11-02T02:34:01.394823+00:00",
+      "stars": 2095,
+      "starsCollectedAt": "2026-11-03T03:59:49.399650+00:00",
       "fork": false,
       "parentRepository": null,
       "reviewedRelease": {
@@ -759,9 +759,9 @@
         }
       },
       "upstream": {
-        "checkedAt": "2026-11-02T02:34:01.394823+00:00",
+        "checkedAt": "2026-11-03T03:59:49.399650+00:00",
         "head": "a6b4f03844ecfb4012f18deff96da8b410aeafcd",
-        "pushedAt": "2026-11-01T21:29:39Z",
+        "pushedAt": "2026-11-03T02:04:45Z",
         "archived": false,
         "latestRelease": {
           "tag": "test-462-arc-5",
@@ -799,8 +799,8 @@
       "reviewedAt": "2026-10-16",
       "reviewedVersion": "70bb43859cd7ff181a6d409540b757866184d60d",
       "reviewMethod": "documentation",
-      "stars": 1668,
-      "starsCollectedAt": "2026-11-02T02:34:02.462073+00:00",
+      "stars": 1697,
+      "starsCollectedAt": "2026-11-03T03:59:50.392810+00:00",
       "fork": false,
       "parentRepository": null,
       "reviewedRelease": {
@@ -847,14 +847,14 @@
         }
       },
       "upstream": {
-        "checkedAt": "2026-11-02T02:34:02.462073+00:00",
-        "head": "cfbbfab9c94cf18f6b1ee34d64f005a305282931",
-        "pushedAt": "2026-11-01T12:51:01Z",
+        "checkedAt": "2026-11-03T03:59:50.392810+00:00",
+        "head": "ceda3942c166e85c225dfb5427fbbfb95487cb15",
+        "pushedAt": "2026-11-02T23:00:17Z",
         "archived": false,
         "latestRelease": {
-          "tag": "v0.70",
-          "url": "https://github.com/AjncSystem/ShadowOfTheColossus-PC/releases/tag/v0.70",
-          "publishedAt": "2026-10-29T16:42:41Z",
+          "tag": "v0.71",
+          "url": "https://github.com/AjncSystem/ShadowOfTheColossus-PC/releases/tag/v0.71",
+          "publishedAt": "2026-11-02T19:50:45Z",
           "prerelease": false,
           "hasDownload": true
         },
@@ -887,8 +887,8 @@
       "reviewedAt": "2026-10-16",
       "reviewedVersion": "3c57da4198ad62039f63f33bfd205b9916518acf",
       "reviewMethod": "documentation",
-      "stars": 3834,
-      "starsCollectedAt": "2026-11-02T02:34:03.852936+00:00",
+      "stars": 3871,
+      "starsCollectedAt": "2026-11-03T03:59:51.631978+00:00",
       "fork": false,
       "parentRepository": null,
       "reviewedRelease": {
@@ -936,7 +936,7 @@
       },
       "relatedProject": "https://github.com/Supermedo/bloodborne_pc",
       "upstream": {
-        "checkedAt": "2026-11-02T02:34:03.852936+00:00",
+        "checkedAt": "2026-11-03T03:59:51.631978+00:00",
         "head": "0fc2921c45f8ff3900f6bfa43a299e9a4f532af4",
         "pushedAt": "2026-10-28T23:56:07Z",
         "archived": false,
@@ -976,8 +976,8 @@
       "reviewedAt": "2026-10-16",
       "reviewedVersion": "fce08780508a72f50d34a3d3a2926e746d12284c",
       "reviewMethod": "documentation",
-      "stars": 5033,
-      "starsCollectedAt": "2026-11-02T02:34:05.376436+00:00",
+      "stars": 5066,
+      "starsCollectedAt": "2026-11-03T03:59:52.781987+00:00",
       "fork": true,
       "parentRepository": "deadinside28/bloodborne_pc",
       "reviewedRelease": {
@@ -1025,9 +1025,9 @@
       },
       "relatedProject": "https://github.com/deadinside28/bloodborne_pc",
       "upstream": {
-        "checkedAt": "2026-11-02T02:34:05.376436+00:00",
+        "checkedAt": "2026-11-03T03:59:52.781987+00:00",
         "head": "b48052617a919fc4d6b10ae3395e209c9e94e17a",
-        "pushedAt": "2026-11-01T23:01:43Z",
+        "pushedAt": "2026-11-02T19:33:26Z",
         "archived": false,
         "latestRelease": {
           "tag": "windows-v1.9.7",
@@ -1066,8 +1066,8 @@
       "reviewedAt": "2026-10-16",
       "reviewedVersion": "9c24de1bc3bf768968683a11095f8d916173fa7e",
       "reviewMethod": "documentation",
-      "stars": 1036,
-      "starsCollectedAt": "2026-11-02T02:34:06.554775+00:00",
+      "stars": 1045,
+      "starsCollectedAt": "2026-11-03T03:59:53.736291+00:00",
       "fork": false,
       "parentRepository": null,
       "reviewedRelease": {
@@ -1114,7 +1114,7 @@
         }
       },
       "upstream": {
-        "checkedAt": "2026-11-02T02:34:06.554775+00:00",
+        "checkedAt": "2026-11-03T03:59:53.736291+00:00",
         "head": "37c05ba21bb328f5962edfbc42bb5360f7db42ed",
         "pushedAt": "2026-10-28T02:39:34Z",
         "archived": false,
@@ -1155,8 +1155,8 @@
       "reviewedAt": "2026-10-16",
       "reviewedVersion": "8a0b6f7cafba22d2dc995ca1d126d74c22b65589",
       "reviewMethod": "documentation",
-      "stars": 524,
-      "starsCollectedAt": "2026-11-02T02:34:08.027489+00:00",
+      "stars": 533,
+      "starsCollectedAt": "2026-11-03T03:59:55.302030+00:00",
       "fork": false,
       "parentRepository": null,
       "reviewedRelease": {
@@ -1203,7 +1203,7 @@
         }
       },
       "upstream": {
-        "checkedAt": "2026-11-02T02:34:08.027489+00:00",
+        "checkedAt": "2026-11-03T03:59:55.302030+00:00",
         "head": "4825a991c2ac8fd8865b3c340a18b2f54628c0f0",
         "pushedAt": "2026-10-27T15:04:33Z",
         "archived": false,
@@ -1246,8 +1246,8 @@
       "reviewedAt": "2026-10-16",
       "reviewedVersion": "d6ee4c0a10b7e6138ded4517c203e2724bf0613f",
       "reviewMethod": "documentation",
-      "stars": 617,
-      "starsCollectedAt": "2026-11-02T02:34:09.153116+00:00",
+      "stars": 631,
+      "starsCollectedAt": "2026-11-03T03:59:56.434311+00:00",
       "fork": false,
       "parentRepository": null,
       "reviewedRelease": {
@@ -1294,14 +1294,14 @@
         }
       },
       "upstream": {
-        "checkedAt": "2026-11-02T02:34:09.153116+00:00",
-        "head": "2553a5e646a2111c8bd9f0ef83ef754d6a6f52c2",
-        "pushedAt": "2026-11-02T01:54:47Z",
+        "checkedAt": "2026-11-03T03:59:56.434311+00:00",
+        "head": "8ec4437295739f9b2171b820e942869e5c0e2b90",
+        "pushedAt": "2026-11-03T03:57:03Z",
         "archived": false,
         "latestRelease": {
-          "tag": "v0.38.0",
-          "url": "https://github.com/Odrannnn/MetroidPrimePort/releases/tag/v0.38.0",
-          "publishedAt": "2026-11-01T22:55:51Z",
+          "tag": "v0.39.0",
+          "url": "https://github.com/Odrannnn/MetroidPrimePort/releases/tag/v0.39.0",
+          "publishedAt": "2026-11-02T22:08:00Z",
           "prerelease": false,
           "hasDownload": true
         },
@@ -1334,8 +1334,8 @@
       "reviewedAt": "2026-10-16",
       "reviewedVersion": "4099d246c927e75b4fd342ca13f4ac4395c55af5",
       "reviewMethod": "documentation",
-      "stars": 1528,
-      "starsCollectedAt": "2026-11-02T02:34:10.234705+00:00",
+      "stars": 1533,
+      "starsCollectedAt": "2026-11-03T03:59:57.689464+00:00",
       "fork": false,
       "parentRepository": null,
       "content": {
@@ -1377,18 +1377,18 @@
         }
       },
       "upstream": {
-        "checkedAt": "2026-11-02T02:34:10.234705+00:00",
-        "head": "4099d246c927e75b4fd342ca13f4ac4395c55af5",
-        "pushedAt": "2026-11-02T00:52:11Z",
+        "checkedAt": "2026-11-03T03:59:57.689464+00:00",
+        "head": "79f870a30b2f0743994d2ba2ead22e8f1c1e55f7",
+        "pushedAt": "2026-11-02T17:39:24Z",
         "archived": false,
         "latestRelease": {
-          "tag": "v0.9.3-playtest",
-          "url": "https://github.com/flyngmt/ACGC-PC-Port/releases/tag/v0.9.3-playtest",
-          "publishedAt": "2026-08-02T00:56:51Z",
-          "prerelease": true,
+          "tag": "v1.0.0",
+          "url": "https://github.com/flyngmt/Nookery/releases/tag/v1.0.0",
+          "publishedAt": "2026-11-02T19:31:17Z",
+          "prerelease": false,
           "hasDownload": true
         },
-        "documentationChanged": false
+        "documentationChanged": true
       },
       "image": {
         "url": "https://upload.wikimedia.org/wikipedia/en/8/82/Animal_Crossing_Coverart.png",
@@ -1417,8 +1417,8 @@
       "reviewedAt": "2026-10-16",
       "reviewedVersion": "2a4f8937f129de42d94b210090114bf798773121",
       "reviewMethod": "documentation",
-      "stars": 988,
-      "starsCollectedAt": "2026-11-02T02:34:11.401578+00:00",
+      "stars": 989,
+      "starsCollectedAt": "2026-11-03T03:59:58.702862+00:00",
       "fork": false,
       "parentRepository": null,
       "content": {
@@ -1460,7 +1460,7 @@
         }
       },
       "upstream": {
-        "checkedAt": "2026-11-02T02:34:11.401578+00:00",
+        "checkedAt": "2026-11-03T03:59:58.702862+00:00",
         "head": "2a4f8937f129de42d94b210090114bf798773121",
         "pushedAt": "2024-08-21T02:53:02Z",
         "archived": false,
@@ -1502,8 +1502,8 @@
       "reviewedAt": "2026-10-16",
       "reviewedVersion": "f1dda4c28cb9ed7cc80d8c78337ee31a8d2c7d0e",
       "reviewMethod": "documentation",
-      "stars": 2414,
-      "starsCollectedAt": "2026-11-02T02:34:12.559793+00:00",
+      "stars": 2421,
+      "starsCollectedAt": "2026-11-03T03:59:59.783870+00:00",
       "fork": false,
       "parentRepository": null,
       "content": {
@@ -1546,9 +1546,9 @@
       },
       "relatedProject": "https://github.com/Zelda64Recomp/Zelda64Recomp",
       "upstream": {
-        "checkedAt": "2026-11-02T02:34:12.559793+00:00",
-        "head": "222acd182a79db990cec32b0d55c93d41d21fe75",
-        "pushedAt": "2026-10-29T00:06:20Z",
+        "checkedAt": "2026-11-03T03:59:59.783870+00:00",
+        "head": "fd9fb03bdeb1f89541d1d3bf99cdb0677f21edc6",
+        "pushedAt": "2026-11-03T00:30:25Z",
         "archived": false,
         "latestRelease": {
           "tag": "5.0.1",
@@ -1588,8 +1588,8 @@
       "reviewedAt": "2026-10-16",
       "reviewedVersion": "3322643f0bbf80d2f8f7e1c0d2c4c578515f6c90",
       "reviewMethod": "documentation",
-      "stars": 2128,
-      "starsCollectedAt": "2026-11-02T02:34:13.723767+00:00",
+      "stars": 2130,
+      "starsCollectedAt": "2026-11-03T04:00:00.973636+00:00",
       "fork": false,
       "parentRepository": null,
       "content": {
@@ -1631,7 +1631,7 @@
         }
       },
       "upstream": {
-        "checkedAt": "2026-11-02T02:34:13.723767+00:00",
+        "checkedAt": "2026-11-03T04:00:00.973636+00:00",
         "head": "3322643f0bbf80d2f8f7e1c0d2c4c578515f6c90",
         "pushedAt": "2026-09-15T21:17:12Z",
         "archived": false,
@@ -1673,8 +1673,8 @@
       "reviewedAt": "2026-10-16",
       "reviewedVersion": "32a1cb9f268dd3ac73016801025c6bbbfa20130f",
       "reviewMethod": "documentation",
-      "stars": 2099,
-      "starsCollectedAt": "2026-11-02T02:34:14.853954+00:00",
+      "stars": 2100,
+      "starsCollectedAt": "2026-11-03T04:00:02.258436+00:00",
       "fork": true,
       "parentRepository": "n64decomp/perfect_dark",
       "content": {
@@ -1716,7 +1716,7 @@
         }
       },
       "upstream": {
-        "checkedAt": "2026-11-02T02:34:14.853954+00:00",
+        "checkedAt": "2026-11-03T04:00:02.258436+00:00",
         "head": "a4b58e6dd14d5842d588e9841efa8bceb8b86fc3",
         "pushedAt": "2026-10-27T20:20:09Z",
         "archived": false,
@@ -1757,8 +1757,8 @@
       "reviewedAt": "2026-10-16",
       "reviewedVersion": "d8e34caf5edd2a0e2d4ec292b69145425ec6201c",
       "reviewMethod": "documentation",
-      "stars": 351,
-      "starsCollectedAt": "2026-11-02T02:34:15.971763+00:00",
+      "stars": 354,
+      "starsCollectedAt": "2026-11-03T04:00:03.383425+00:00",
       "fork": false,
       "parentRepository": null,
       "content": {
@@ -1803,7 +1803,7 @@
         }
       },
       "upstream": {
-        "checkedAt": "2026-11-02T02:34:15.971763+00:00",
+        "checkedAt": "2026-11-03T04:00:03.383425+00:00",
         "head": "f77825d6bc9be3f795ead9d140b410fb9c9c22c1",
         "pushedAt": "2026-10-22T08:06:07Z",
         "archived": false,
@@ -1844,8 +1844,8 @@
       "reviewedAt": "2026-10-16",
       "reviewedVersion": "535abe9559934fda7a3493c038fd238a0ef3394a",
       "reviewMethod": "documentation",
-      "stars": 309,
-      "starsCollectedAt": "2026-11-02T02:34:17.261830+00:00",
+      "stars": 310,
+      "starsCollectedAt": "2026-11-03T04:00:04.464838+00:00",
       "fork": false,
       "parentRepository": null,
       "content": {
@@ -1887,15 +1887,15 @@
         }
       },
       "upstream": {
-        "checkedAt": "2026-11-02T02:34:17.261830+00:00",
-        "head": "182ee77d21cf6b75ebf5c41d2fea7a029ea87b21",
-        "pushedAt": "2026-11-02T01:31:58Z",
+        "checkedAt": "2026-11-03T04:00:04.464838+00:00",
+        "head": "6530b2dee7d77ebc5f19cfbf671d94f0cbbca0c8",
+        "pushedAt": "2026-11-03T01:07:49Z",
         "archived": false,
         "latestRelease": {
-          "tag": "v1.2.0",
-          "url": "https://github.com/Zorkats/G-Diffuser/releases/tag/v1.2.0",
-          "publishedAt": "2026-11-01T00:21:59Z",
-          "prerelease": false,
+          "tag": "nightly",
+          "url": "https://github.com/Zorkats/G-Diffuser/releases/tag/nightly",
+          "publishedAt": "2026-10-13T00:14:19Z",
+          "prerelease": true,
           "hasDownload": true
         },
         "documentationChanged": true
@@ -1928,8 +1928,8 @@
       "reviewedAt": "2026-10-16",
       "reviewedVersion": "3159679aa6ce1c56eaafb5978d838bc0422367e4",
       "reviewMethod": "documentation",
-      "stars": 164,
-      "starsCollectedAt": "2026-11-02T02:34:18.538085+00:00",
+      "stars": 166,
+      "starsCollectedAt": "2026-11-03T04:00:05.604972+00:00",
       "fork": false,
       "parentRepository": null,
       "content": {
@@ -1971,7 +1971,7 @@
         }
       },
       "upstream": {
-        "checkedAt": "2026-11-02T02:34:18.538085+00:00",
+        "checkedAt": "2026-11-03T04:00:05.604972+00:00",
         "head": "a2e69a1bc506865716cb4e16f2c50f047bf65e57",
         "pushedAt": "2026-10-24T03:01:09Z",
         "archived": false,
@@ -2013,8 +2013,8 @@
       "reviewedAt": "2026-10-16",
       "reviewedVersion": "ed1b8bb7f3f036334124ec27eb28efa64e400178",
       "reviewMethod": "documentation",
-      "stars": 326,
-      "starsCollectedAt": "2026-11-02T02:34:19.721954+00:00",
+      "stars": 328,
+      "starsCollectedAt": "2026-11-03T04:00:06.696901+00:00",
       "fork": false,
       "parentRepository": null,
       "content": {
@@ -2056,9 +2056,9 @@
         }
       },
       "upstream": {
-        "checkedAt": "2026-11-02T02:34:19.721954+00:00",
+        "checkedAt": "2026-11-03T04:00:06.696901+00:00",
         "head": "ed1b8bb7f3f036334124ec27eb28efa64e400178",
-        "pushedAt": "2026-10-29T21:05:12Z",
+        "pushedAt": "2026-11-02T15:26:02Z",
         "archived": false,
         "latestRelease": {
           "tag": "V0.1.6",
@@ -2096,8 +2096,8 @@
       "reviewedAt": "2026-10-16",
       "reviewedVersion": "09144bb092ad871584808aeead69c395edbd5200",
       "reviewMethod": "documentation",
-      "stars": 581,
-      "starsCollectedAt": "2026-11-02T02:34:20.727310+00:00",
+      "stars": 584,
+      "starsCollectedAt": "2026-11-03T04:00:07.858234+00:00",
       "fork": false,
       "parentRepository": null,
       "content": {
@@ -2139,7 +2139,7 @@
         }
       },
       "upstream": {
-        "checkedAt": "2026-11-02T02:34:20.727310+00:00",
+        "checkedAt": "2026-11-03T04:00:07.858234+00:00",
         "head": "09144bb092ad871584808aeead69c395edbd5200",
         "pushedAt": "2026-08-22T15:52:26Z",
         "archived": false,
@@ -2210,8 +2210,8 @@
           "url": "https://github.com/portingpete/The-Darkness-Recomp/blob/98f0bcd49dfee90dfee968a3b75fd40e892c91e7/README.md"
         }
       },
-      "stars": 373,
-      "starsCollectedAt": "2026-11-02T02:34:21.852502+00:00",
+      "stars": 379,
+      "starsCollectedAt": "2026-11-03T04:00:08.771587+00:00",
       "content": {
         "pt": {
           "summary": "Recompilação de The Darkness para PC, trazendo a campanha de tiro e os poderes sobrenaturais da versão de Xbox 360.",
@@ -2251,7 +2251,7 @@
         }
       },
       "upstream": {
-        "checkedAt": "2026-11-02T02:34:21.852502+00:00",
+        "checkedAt": "2026-11-03T04:00:08.771587+00:00",
         "head": "eda604756517c567c6a581e440a959c7c2c0bf2c",
         "pushedAt": "2026-10-30T12:21:53Z",
         "archived": false,
@@ -2317,8 +2317,8 @@
           "url": "https://github.com/TGP482/BLACK-XBERecomp/blob/39ad6973d3eed447acda81f99722ac27e6ee0b71/README.md"
         }
       },
-      "stars": 852,
-      "starsCollectedAt": "2026-11-02T02:34:22.953484+00:00",
+      "stars": 865,
+      "starsCollectedAt": "2026-11-03T04:00:09.776287+00:00",
       "content": {
         "pt": {
           "summary": "Adaptação de Black para Windows por recompilação da versão de Xbox, com foco no combate em primeira pessoa do jogo original.",
@@ -2358,7 +2358,7 @@
         }
       },
       "upstream": {
-        "checkedAt": "2026-11-02T02:34:22.953484+00:00",
+        "checkedAt": "2026-11-03T04:00:09.776287+00:00",
         "head": "10b8464fa06ebd6e54e814b250e9e3554a48ef1c",
         "pushedAt": "2026-10-29T15:04:00Z",
         "archived": false,
@@ -2425,8 +2425,8 @@
           "url": "https://github.com/Matteo842/CrashBandicoot-Launcher/blob/5c7b2ff989eb84bfa2b9143787108f5d2cea50c6/README.md"
         }
       },
-      "stars": 315,
-      "starsCollectedAt": "2026-11-02T02:34:24.443484+00:00",
+      "stars": 318,
+      "starsCollectedAt": "2026-11-03T04:00:11.094375+00:00",
       "content": {
         "pt": {
           "summary": "Projeto para jogar Crash Bandicoot no PC, levando as fases de plataforma do clássico de PlayStation a Windows e Linux.",
@@ -2466,7 +2466,7 @@
         }
       },
       "upstream": {
-        "checkedAt": "2026-11-02T02:34:24.443484+00:00",
+        "checkedAt": "2026-11-03T04:00:11.094375+00:00",
         "head": "7dc083222d1f1d24145ae250c1926b1c5f6a1afb",
         "pushedAt": "2026-11-01T02:44:37Z",
         "archived": false,
@@ -2533,8 +2533,8 @@
           "url": "https://github.com/jkdansereau/goldeneye-pc-port/blob/fda76b69837e6c5aae436e0d3e798989e49b06d2/README.md"
         }
       },
-      "stars": 300,
-      "starsCollectedAt": "2026-11-02T02:34:25.991122+00:00",
+      "stars": 301,
+      "starsCollectedAt": "2026-11-03T04:00:12.425796+00:00",
       "content": {
         "pt": {
           "summary": "Adaptação de GoldenEye 007 para Windows e Linux, baseada no jogo de espionagem e tiro em primeira pessoa do Nintendo 64.",
@@ -2574,7 +2574,7 @@
         }
       },
       "upstream": {
-        "checkedAt": "2026-11-02T02:34:25.991122+00:00",
+        "checkedAt": "2026-11-03T04:00:12.425796+00:00",
         "head": "fda76b69837e6c5aae436e0d3e798989e49b06d2",
         "pushedAt": "2026-11-01T22:37:26Z",
         "archived": false,
@@ -2642,8 +2642,8 @@
           "url": "https://github.com/SSunnKing/Open-Nectar---Pikmin-Native-PC-Mobile-Port/blob/7496d7da1562d9d2a82d19c9eacf6f4ea2ebc366/README.md"
         }
       },
-      "stars": 301,
-      "starsCollectedAt": "2026-11-02T02:34:27.173253+00:00",
+      "stars": 304,
+      "starsCollectedAt": "2026-11-03T04:00:13.577184+00:00",
       "content": {
         "pt": {
           "summary": "Open Nectar leva Pikmin do GameCube ao PC: exploração e estratégia com pequenas criaturas para superar obstáculos e recolher recursos.",
@@ -2683,9 +2683,9 @@
         }
       },
       "upstream": {
-        "checkedAt": "2026-11-02T02:34:27.173253+00:00",
-        "head": "a0985ba968d9e6078ccb50dd79e8865d289d1c8c",
-        "pushedAt": "2026-10-31T11:40:31Z",
+        "checkedAt": "2026-11-03T04:00:13.577184+00:00",
+        "head": "643dcdf10ba5aba241d4e30d0f7d63a60bf7c744",
+        "pushedAt": "2026-11-02T22:50:40Z",
         "archived": false,
         "latestRelease": {
           "tag": "1.1.1",
@@ -2749,8 +2749,8 @@
           "url": "https://github.com/TGP482/SCDA-XBERecomp/blob/e8f8b443e97cc89c8b1f009df5b6b66e50a771ee/README.md"
         }
       },
-      "stars": 421,
-      "starsCollectedAt": "2026-11-02T02:34:28.287584+00:00",
+      "stars": 430,
+      "starsCollectedAt": "2026-11-03T04:00:14.578145+00:00",
       "content": {
         "pt": {
           "summary": "Recompilação da versão de Xbox de Splinter Cell: Double Agent para Windows, centrada nas missões de infiltração de Sam Fisher.",
@@ -2790,7 +2790,7 @@
         }
       },
       "upstream": {
-        "checkedAt": "2026-11-02T02:34:28.287584+00:00",
+        "checkedAt": "2026-11-03T04:00:14.578145+00:00",
         "head": "86686d585292ffd56d436d29734ca1da4570275a",
         "pushedAt": "2026-11-01T09:48:18Z",
         "archived": false,
@@ -2857,8 +2857,8 @@
           "url": "https://github.com/Dyotson/ForzaHorizon1-ReImagined/blob/af8dd5b7a9d918215e147daa1520420faa20e5d6/README.md"
         }
       },
-      "stars": 383,
-      "starsCollectedAt": "2026-11-02T02:34:29.950730+00:00",
+      "stars": 389,
+      "starsCollectedAt": "2026-11-03T04:00:16.074288+00:00",
       "content": {
         "pt": {
           "summary": "ReImagined adapta o primeiro Forza Horizon de Xbox 360 para PC, com a proposta de corrida em mundo aberto do festival Horizon.",
@@ -2898,9 +2898,9 @@
         }
       },
       "upstream": {
-        "checkedAt": "2026-11-02T02:34:29.950730+00:00",
-        "head": "1e0a934bbbf19f3d47a1265fec921107c52fc239",
-        "pushedAt": "2026-11-02T02:32:48Z",
+        "checkedAt": "2026-11-03T04:00:16.074288+00:00",
+        "head": "287804efe13637a266439203b9eb232a3b769809",
+        "pushedAt": "2026-11-03T03:55:01Z",
         "archived": false,
         "latestRelease": {
           "tag": "v0.2.4",
@@ -2964,8 +2964,8 @@
           "url": "https://github.com/TekRantGaming/king-kong-recompiled/blob/c852d9f467201e9a02c1aaf099b65522535b3473/README.md"
         }
       },
-      "stars": 254,
-      "starsCollectedAt": "2026-11-02T02:34:31.320742+00:00",
+      "stars": 261,
+      "starsCollectedAt": "2026-11-03T04:00:17.023605+00:00",
       "content": {
         "pt": {
           "summary": "Recompilação de Peter Jackson’s King Kong para Windows, baseada na versão de Xbox 360 da aventura de ação ambientada na Ilha da Caveira.",
@@ -3005,14 +3005,14 @@
         }
       },
       "upstream": {
-        "checkedAt": "2026-11-02T02:34:31.320742+00:00",
-        "head": "2a367f7326a21c3e0ff8b9070a18c7d9457682c2",
-        "pushedAt": "2026-11-02T01:52:27Z",
+        "checkedAt": "2026-11-03T04:00:17.023605+00:00",
+        "head": "b9ebbe93983524378857924f13b4a9236906b2e7",
+        "pushedAt": "2026-11-02T04:45:54Z",
         "archived": false,
         "latestRelease": {
-          "tag": "v2.0.10",
-          "url": "https://github.com/TekRantGaming/king-kong-recompiled/releases/tag/v2.0.10",
-          "publishedAt": "2026-11-02T01:52:29Z",
+          "tag": "v2.0.11",
+          "url": "https://github.com/TekRantGaming/king-kong-recompiled/releases/tag/v2.0.11",
+          "publishedAt": "2026-11-02T04:45:55Z",
           "prerelease": false,
           "hasDownload": true
         },
@@ -3073,8 +3073,8 @@
           "url": "https://github.com/NoRain211/doaxvb-re/blob/e282a3fc15c793e621098fc0a5d9e70aa6a6e9c2/README.md"
         }
       },
-      "stars": 237,
-      "starsCollectedAt": "2026-11-02T02:34:32.638723+00:00",
+      "stars": 239,
+      "starsCollectedAt": "2026-11-03T04:00:18.043553+00:00",
       "content": {
         "pt": {
           "summary": "Port de Dead or Alive Xtreme Beach Volleyball do Xbox para PC, com partidas de vôlei e atividades de férias na ilha de Zack.",
@@ -3114,14 +3114,14 @@
         }
       },
       "upstream": {
-        "checkedAt": "2026-11-02T02:34:32.638723+00:00",
-        "head": "3b2f18d382bca3b79f70a1e74245d16a5e54512e",
-        "pushedAt": "2026-11-02T02:15:28Z",
+        "checkedAt": "2026-11-03T04:00:18.043553+00:00",
+        "head": "e6fdccbc99e7b1b4a8e806041f3fe5a9dd25ab85",
+        "pushedAt": "2026-11-03T03:11:21Z",
         "archived": false,
         "latestRelease": {
-          "tag": "v0.6.0",
-          "url": "https://github.com/NoRain211/doaxvb-re/releases/tag/v0.6.0",
-          "publishedAt": "2026-10-28T00:20:54Z",
+          "tag": "v0.6.2",
+          "url": "https://github.com/NoRain211/doaxvb-re/releases/tag/v0.6.2",
+          "publishedAt": "2026-11-02T22:37:18Z",
           "prerelease": false,
           "hasDownload": true
         },
@@ -3181,8 +3181,8 @@
           "url": "https://github.com/jackpoison-prog/RingOut/blob/6aa0179f8efbb8e0040e6383b3a486e94fbbb58c/README.md"
         }
       },
-      "stars": 188,
-      "starsCollectedAt": "2026-11-02T02:34:33.884331+00:00",
+      "stars": 189,
+      "starsCollectedAt": "2026-11-03T04:00:19.176423+00:00",
       "content": {
         "pt": {
           "summary": "Ring Out recompila a edição GameCube de Soulcalibur II para PC, levando os duelos com armas do jogo a um runtime derivado do Dolphin.",
@@ -3222,7 +3222,7 @@
         }
       },
       "upstream": {
-        "checkedAt": "2026-11-02T02:34:33.884331+00:00",
+        "checkedAt": "2026-11-03T04:00:19.176423+00:00",
         "head": "dda9ad8b303174a463260471766465187762a219",
         "pushedAt": "2026-11-01T18:04:56Z",
         "archived": false,
@@ -3289,8 +3289,8 @@
           "url": "https://github.com/DahSidiAbdallah/ConkerBFDReloaded/blob/b5b2d6d697766dfecc13f4169e3a1141af58ef7e/README.md"
         }
       },
-      "stars": 162,
-      "starsCollectedAt": "2026-11-02T02:34:34.979138+00:00",
+      "stars": 168,
+      "starsCollectedAt": "2026-11-03T04:00:20.147766+00:00",
       "content": {
         "pt": {
           "summary": "Conker do Nintendo 64 no PC, com modo Classic fiel ao original e modo Modern com tela ampla, câmera livre e outras melhorias.",
@@ -3330,7 +3330,7 @@
         }
       },
       "upstream": {
-        "checkedAt": "2026-11-02T02:34:34.979138+00:00",
+        "checkedAt": "2026-11-03T04:00:20.147766+00:00",
         "head": "9cfebde3b65bb2b79b97c1b80aacb2285b072098",
         "pushedAt": "2026-10-28T11:27:47Z",
         "archived": false,
@@ -3397,8 +3397,8 @@
           "url": "https://github.com/TekRantGaming/earthworm-jim-hd-recompiled/blob/a0203ce6287e305cf0eef4e97f3c598cc6d953ab/README.md"
         }
       },
-      "stars": 104,
-      "starsCollectedAt": "2026-11-02T02:34:36.144633+00:00",
+      "stars": 105,
+      "starsCollectedAt": "2026-11-03T04:00:21.260952+00:00",
       "content": {
         "pt": {
           "summary": "Recompilação de Earthworm Jim HD: para Windows / Linux, baseada na versão de Xbox.",
@@ -3438,7 +3438,7 @@
         }
       },
       "upstream": {
-        "checkedAt": "2026-11-02T02:34:36.144633+00:00",
+        "checkedAt": "2026-11-03T04:00:21.260952+00:00",
         "head": "a0203ce6287e305cf0eef4e97f3c598cc6d953ab",
         "pushedAt": "2026-10-18T00:30:53Z",
         "archived": false,
@@ -3504,8 +3504,8 @@
           "url": "https://github.com/raulzrrs/letsgo-recomp/blob/884f6d78035e537653c36579178cb0bb0c0b4f1d/README.md"
         }
       },
-      "stars": 251,
-      "starsCollectedAt": "2026-11-02T02:34:37.219590+00:00",
+      "stars": 257,
+      "starsCollectedAt": "2026-11-03T04:00:22.205601+00:00",
       "content": {
         "pt": {
           "summary": "Recompilação de Let's Go para Windows, baseada na versão de Switch.",
@@ -3545,7 +3545,7 @@
         }
       },
       "upstream": {
-        "checkedAt": "2026-11-02T02:34:37.219590+00:00",
+        "checkedAt": "2026-11-03T04:00:22.205601+00:00",
         "head": "1a70f777c7abac6834ca54bd69b1235471193e1e",
         "pushedAt": "2026-11-01T14:22:14Z",
         "archived": false,
@@ -3613,8 +3613,8 @@
           "url": "https://github.com/Gumpolas/TooTawersRecomp/blob/f66cb9e32db05e8a41b9242ba81de0baaf5f112b/README.md"
         }
       },
-      "stars": 90,
-      "starsCollectedAt": "2026-11-02T02:34:39.688187+00:00",
+      "stars": 91,
+      "starsCollectedAt": "2026-11-03T04:00:23.509595+00:00",
       "content": {
         "pt": {
           "summary": "Recompilação de The Two Towers para Windows / Linux / macOS, baseada na versão de Xbox.",
@@ -3654,9 +3654,9 @@
         }
       },
       "upstream": {
-        "checkedAt": "2026-11-02T02:34:39.688187+00:00",
-        "head": "b53023f7e1db0868662ce38004060321dc2726ef",
-        "pushedAt": "2026-10-31T15:06:34Z",
+        "checkedAt": "2026-11-03T04:00:23.509595+00:00",
+        "head": "81d11adbf049304b358c934c331d23eb73d7d9e2",
+        "pushedAt": "2026-11-02T15:17:56Z",
         "archived": false,
         "latestRelease": {
           "tag": "1.9.9",
@@ -3689,8 +3689,8 @@
       "reviewedAt": "2026-10-21",
       "reviewedVersion": "fc960278d21418c6262dc802e215f1d1c54a3965",
       "reviewMethod": "documentation",
-      "stars": 209,
-      "starsCollectedAt": "2026-11-02T02:34:41.678931+00:00",
+      "stars": 211,
+      "starsCollectedAt": "2026-11-03T04:00:25.767526+00:00",
       "content": {
         "pt": {
           "summary": "Lutas de rua no universo do hip-hop: Def Jam: Fight for NY chega ao PC por recompilação da versão de Xbox, com resolução ajustável, controles modernos e partidas locais para até quatro jogadores.",
@@ -3755,9 +3755,9 @@
         "basis": "owner-confirmation"
       },
       "upstream": {
-        "checkedAt": "2026-11-02T02:34:41.678931+00:00",
-        "head": "e7d35e1637b1eb63ee1d8bb3b3153f3b0d083e62",
-        "pushedAt": "2026-11-01T18:00:33Z",
+        "checkedAt": "2026-11-03T04:00:25.767526+00:00",
+        "head": "2e6648cf29073db24147cf8188ce99efdf315d64",
+        "pushedAt": "2026-11-03T03:56:12Z",
         "archived": false,
         "latestRelease": {
           "tag": "v0.13.0",
@@ -3823,8 +3823,8 @@
           "url": "https://github.com/nikolaygorb/PerfectDarkZeroRecomp/blob/4fa51e894c709dcff0d23d4732bfa760da3609b4/README.md"
         }
       },
-      "stars": 72,
-      "starsCollectedAt": "2026-11-02T02:34:42.914935+00:00",
+      "stars": 76,
+      "starsCollectedAt": "2026-11-03T04:00:27.250214+00:00",
       "content": {
         "pt": {
           "summary": "Recompilação de PerfectDarkZeroRecomp para Windows / Linux / macOS, baseada na versão de Xbox 360.",
@@ -3864,7 +3864,7 @@
         }
       },
       "upstream": {
-        "checkedAt": "2026-11-02T02:34:42.914935+00:00",
+        "checkedAt": "2026-11-03T04:00:27.250214+00:00",
         "head": "5bcd8d85cb32a7fbf065131a8d718332cf5c498a",
         "pushedAt": "2026-10-31T12:08:59Z",
         "archived": false,
@@ -3932,7 +3932,7 @@
         }
       },
       "stars": 43,
-      "starsCollectedAt": "2026-11-02T02:34:44.270172+00:00",
+      "starsCollectedAt": "2026-11-03T04:00:28.494184+00:00",
       "content": {
         "pt": {
           "summary": "Recompilação de WCW vs. nWo World Tour: para Windows / Linux, baseada na versão de Nintendo 64.",
@@ -3972,7 +3972,7 @@
         }
       },
       "upstream": {
-        "checkedAt": "2026-11-02T02:34:44.270172+00:00",
+        "checkedAt": "2026-11-03T04:00:28.494184+00:00",
         "head": "89739f7a49c154f8e3bcec297063bb017300c075",
         "pushedAt": "2026-10-28T05:14:40Z",
         "archived": false,
@@ -4039,8 +4039,8 @@
           "url": "https://github.com/saulob/crackdown-xbox360-recompiled/blob/34f46c68af2e8d134235cdb86b530424ed885c1b/README.md"
         }
       },
-      "stars": 103,
-      "starsCollectedAt": "2026-11-02T02:34:45.383650+00:00",
+      "stars": 108,
+      "starsCollectedAt": "2026-11-03T04:00:29.733005+00:00",
       "content": {
         "pt": {
           "summary": "Recompilação de Crackdown para Windows / Linux, baseada na versão de Xbox 360.",
@@ -4080,7 +4080,7 @@
         }
       },
       "upstream": {
-        "checkedAt": "2026-11-02T02:34:45.383650+00:00",
+        "checkedAt": "2026-11-03T04:00:29.733005+00:00",
         "head": "33ab1b632e38cb5c1c39a3d56c479537b9e0d185",
         "pushedAt": "2026-10-27T00:22:25Z",
         "archived": false,
@@ -4146,8 +4146,8 @@
           "url": "https://github.com/zer0ducksgiven/Forza-Motorsport-2-ReGPU/blob/ff5a22979cb2f375da1706f1df5d6e5dc45f6f95/README.md"
         }
       },
-      "stars": 61,
-      "starsCollectedAt": "2026-11-02T02:34:46.633787+00:00",
+      "stars": 65,
+      "starsCollectedAt": "2026-11-03T04:00:30.681471+00:00",
       "content": {
         "pt": {
           "summary": "Recompilação de Forza Motorsport 2 ReGPU para Windows, baseada na versão de Xbox 360.",
@@ -4187,14 +4187,14 @@
         }
       },
       "upstream": {
-        "checkedAt": "2026-11-02T02:34:46.633787+00:00",
-        "head": "0623b1fc407ff1aa41ed46c9b16bffc39d6ae960",
-        "pushedAt": "2026-10-31T22:21:20Z",
+        "checkedAt": "2026-11-03T04:00:30.681471+00:00",
+        "head": "554944228a3b0edcddb3d6db700edc2412146869",
+        "pushedAt": "2026-11-02T20:12:55Z",
         "archived": false,
         "latestRelease": {
-          "tag": "v0.10.5",
-          "url": "https://github.com/zer0ducksgiven/Forza-Motorsport-2-ReGPU/releases/tag/v0.10.5",
-          "publishedAt": "2026-10-31T19:27:14Z",
+          "tag": "v0.10.6",
+          "url": "https://github.com/zer0ducksgiven/Forza-Motorsport-2-ReGPU/releases/tag/v0.10.6",
+          "publishedAt": "2026-11-02T14:55:40Z",
           "prerelease": false,
           "hasDownload": true
         },
@@ -4255,7 +4255,7 @@
         }
       },
       "stars": 39,
-      "starsCollectedAt": "2026-11-02T02:34:47.870992+00:00",
+      "starsCollectedAt": "2026-11-03T04:00:31.809981+00:00",
       "content": {
         "pt": {
           "summary": "Recompilação de Mind over para Windows / Linux, baseada na versão de Xbox 360.",
@@ -4295,7 +4295,7 @@
         }
       },
       "upstream": {
-        "checkedAt": "2026-11-02T02:34:47.870992+00:00",
+        "checkedAt": "2026-11-03T04:00:31.809981+00:00",
         "head": "f503f4e5aec551c73691cef7cdf8d3b02829fde9",
         "pushedAt": "2026-10-31T14:22:35Z",
         "archived": false,
@@ -4361,8 +4361,8 @@
           "url": "https://github.com/lakshya16157/midtown-madness-3-PC-Native/blob/d8ab85f4cd1b74ee6d24bcb7dd64a356a48098e7/README.md"
         }
       },
-      "stars": 44,
-      "starsCollectedAt": "2026-11-02T02:34:49.056754+00:00",
+      "stars": 45,
+      "starsCollectedAt": "2026-11-03T04:00:32.654429+00:00",
       "content": {
         "pt": {
           "summary": "Recompilação de Midtown Madness 3 PC Native para Windows, baseada na versão de Xbox.",
@@ -4402,14 +4402,14 @@
         }
       },
       "upstream": {
-        "checkedAt": "2026-11-02T02:34:49.056754+00:00",
-        "head": "17fe3ba769216f8acfb08f13b354934eb2b3ced5",
-        "pushedAt": "2026-10-31T05:39:42Z",
+        "checkedAt": "2026-11-03T04:00:32.654429+00:00",
+        "head": "a97d9028ed9e8d6f72eb23ed75b8ba713bd29330",
+        "pushedAt": "2026-11-03T00:27:28Z",
         "archived": false,
         "latestRelease": {
-          "tag": "v2.2",
-          "url": "https://github.com/lakshya16157/midtown-madness-3-PC-Native/releases/tag/v2.2",
-          "publishedAt": "2026-10-31T05:08:04Z",
+          "tag": "v2.3",
+          "url": "https://github.com/lakshya16157/midtown-madness-3-PC-Native/releases/tag/v2.3",
+          "publishedAt": "2026-11-02T18:24:17Z",
           "prerelease": false,
           "hasDownload": true
         },
@@ -4468,8 +4468,8 @@
           "url": "https://github.com/TGP482/007FRWL-XBERecomp/blob/4f32161741ecde02c338c858e764dad7aac3380e/README.md"
         }
       },
-      "stars": 146,
-      "starsCollectedAt": "2026-11-02T02:34:50.216283+00:00",
+      "stars": 149,
+      "starsCollectedAt": "2026-11-03T04:00:33.784416+00:00",
       "content": {
         "pt": {
           "summary": "Recompilação de 007: From Russia with Love para Windows, baseada na versão de Xbox.",
@@ -4509,7 +4509,7 @@
         }
       },
       "upstream": {
-        "checkedAt": "2026-11-02T02:34:50.216283+00:00",
+        "checkedAt": "2026-11-03T04:00:33.784416+00:00",
         "head": "1ff350a4902caa2cc733277087a788ed731cb9fb",
         "pushedAt": "2026-10-29T15:39:54Z",
         "archived": false,
@@ -4576,8 +4576,8 @@
           "url": "https://github.com/morerokk/MHGURecomp/blob/21e5941c00d3d5644470ea0ad7f00ef21b29c341/README.md"
         }
       },
-      "stars": 346,
-      "starsCollectedAt": "2026-11-02T02:34:51.444515+00:00",
+      "stars": 383,
+      "starsCollectedAt": "2026-11-03T04:00:34.714321+00:00",
       "content": {
         "pt": {
           "summary": "Adaptação de MHGU para Windows / Linux, baseada na versão de Switch.",
@@ -4617,14 +4617,14 @@
         }
       },
       "upstream": {
-        "checkedAt": "2026-11-02T02:34:51.444515+00:00",
-        "head": "41e143d823cfd2ddb4e0c1b6c8aad1e344782858",
-        "pushedAt": "2026-11-02T01:06:20Z",
+        "checkedAt": "2026-11-03T04:00:34.714321+00:00",
+        "head": "34f3d2d6f0fdbd1e2f7807f4dfa5523336de3691",
+        "pushedAt": "2026-11-02T21:00:38Z",
         "archived": false,
         "latestRelease": {
-          "tag": "0.13.2",
-          "url": "https://github.com/morerokk/MHGURecomp/releases/tag/0.13.2",
-          "publishedAt": "2026-11-02T01:06:20Z",
+          "tag": "0.13.3",
+          "url": "https://github.com/morerokk/MHGURecomp/releases/tag/0.13.3",
+          "publishedAt": "2026-11-02T21:00:38Z",
           "prerelease": true,
           "hasDownload": true
         },
@@ -4685,8 +4685,8 @@
           "url": "https://github.com/NoRain211/doa3-re/blob/8e071f0fea45c5117437aa47c878f280ff4bd4ce/README.md"
         }
       },
-      "stars": 38,
-      "starsCollectedAt": "2026-11-02T02:34:53.015514+00:00",
+      "stars": 39,
+      "starsCollectedAt": "2026-11-03T04:00:36.034579+00:00",
       "content": {
         "pt": {
           "summary": "Recompilação de DOA3 para Windows / Linux / macOS, baseada na versão de Xbox.",
@@ -4726,14 +4726,14 @@
         }
       },
       "upstream": {
-        "checkedAt": "2026-11-02T02:34:53.015514+00:00",
-        "head": "bba93de1b09d17d85b3f66ef8dbd4aefad11e3e5",
-        "pushedAt": "2026-10-31T20:33:04Z",
+        "checkedAt": "2026-11-03T04:00:36.034579+00:00",
+        "head": "28ebdf86d4ca06f1cf7bafc2fcd286d13463d9c7",
+        "pushedAt": "2026-11-03T02:53:06Z",
         "archived": false,
         "latestRelease": {
-          "tag": "v0.4",
-          "url": "https://github.com/NoRain211/doa3-re/releases/tag/v0.4",
-          "publishedAt": "2026-10-27T19:06:22Z",
+          "tag": "v0.6.1",
+          "url": "https://github.com/NoRain211/doa3-re/releases/tag/v0.6.1",
+          "publishedAt": "2026-11-03T02:53:11Z",
           "prerelease": false,
           "hasDownload": true
         },
@@ -4794,7 +4794,7 @@
         }
       },
       "stars": 17,
-      "starsCollectedAt": "2026-11-02T02:34:54.261763+00:00",
+      "starsCollectedAt": "2026-11-03T04:00:37.071779+00:00",
       "content": {
         "pt": {
           "summary": "Adaptação de BattleTanx: Global Assault para Windows / Linux, baseada na versão de Nintendo 64.",
@@ -4834,7 +4834,7 @@
         }
       },
       "upstream": {
-        "checkedAt": "2026-11-02T02:34:54.261763+00:00",
+        "checkedAt": "2026-11-03T04:00:37.071779+00:00",
         "head": "3c074c3bd9e20e81c32a37b588a70ecd2073e128",
         "pushedAt": "2026-10-15T18:53:20Z",
         "archived": false,
@@ -4901,7 +4901,7 @@
         }
       },
       "stars": 14,
-      "starsCollectedAt": "2026-11-02T02:34:55.370537+00:00",
+      "starsCollectedAt": "2026-11-03T04:00:38.235037+00:00",
       "content": {
         "pt": {
           "summary": "Recompilação de Namco's Point Blank para Windows, baseada na versão de PlayStation.",
@@ -4941,7 +4941,7 @@
         }
       },
       "upstream": {
-        "checkedAt": "2026-11-02T02:34:55.370537+00:00",
+        "checkedAt": "2026-11-03T04:00:38.235037+00:00",
         "head": "15c48788c5d02b0075343f007e282193426cd27b",
         "pushedAt": "2026-10-13T22:17:54Z",
         "archived": false,
@@ -5008,8 +5008,8 @@
           "url": "https://github.com/Shagg88/COGBox/blob/5c8b55a163f985e9d3e7c61266b11ee958f61d47/README.md"
         }
       },
-      "stars": 328,
-      "starsCollectedAt": "2026-11-02T02:34:56.604600+00:00",
+      "stars": 350,
+      "starsCollectedAt": "2026-11-03T04:00:39.183855+00:00",
       "content": {
         "pt": {
           "summary": "Recompilação de Gears of War Native para Windows / Linux, baseada na versão de Xbox 360.",
@@ -5049,14 +5049,14 @@
         }
       },
       "upstream": {
-        "checkedAt": "2026-11-02T02:34:56.604600+00:00",
-        "head": "a1c990aa27f3f6585ea27ebcce20a2b154ea9fc6",
-        "pushedAt": "2026-11-02T00:27:39Z",
+        "checkedAt": "2026-11-03T04:00:39.183855+00:00",
+        "head": "ac70efa66bb5f1aefdf35fd803c066165d4f9d50",
+        "pushedAt": "2026-11-03T03:41:49Z",
         "archived": false,
         "latestRelease": {
-          "tag": "0.3.7",
-          "url": "https://github.com/Shagg88/COGBox/releases/tag/0.3.7",
-          "publishedAt": "2026-11-01T23:01:43Z",
+          "tag": "0.4.3",
+          "url": "https://github.com/Shagg88/COGBox/releases/tag/0.4.3",
+          "publishedAt": "2026-11-03T02:24:40Z",
           "prerelease": false,
           "hasDownload": true
         },
@@ -5116,7 +5116,7 @@
         }
       },
       "stars": 4,
-      "starsCollectedAt": "2026-11-02T02:34:57.772008+00:00",
+      "starsCollectedAt": "2026-11-03T04:00:40.327958+00:00",
       "content": {
         "pt": {
           "summary": "Adaptação de Digimon World 2003: para Windows, baseada na versão de PS1.",
@@ -5156,7 +5156,7 @@
         }
       },
       "upstream": {
-        "checkedAt": "2026-11-02T02:34:57.772008+00:00",
+        "checkedAt": "2026-11-03T04:00:40.327958+00:00",
         "head": "0defb70e642c7f355a801db84469d4edb87a2f9f",
         "pushedAt": "2026-10-29T01:03:09Z",
         "archived": false,
@@ -5222,8 +5222,8 @@
           "url": "https://github.com/TGP482/007Nightfire-XBERecomp/blob/b1822872cacf8514db209fa1ee03f3d3ee622b01/README.md"
         }
       },
-      "stars": 99,
-      "starsCollectedAt": "2026-11-02T02:34:58.800302+00:00",
+      "stars": 111,
+      "starsCollectedAt": "2026-11-03T04:00:41.397067+00:00",
       "content": {
         "pt": {
           "summary": "Recompilação de 007: Nightfire para Windows, baseada na versão de Xbox.",
@@ -5263,9 +5263,9 @@
         }
       },
       "upstream": {
-        "checkedAt": "2026-11-02T02:34:58.800302+00:00",
-        "head": "572c5433a66de607cc430ae92b55e0a1706c1a3c",
-        "pushedAt": "2026-11-01T14:48:13Z",
+        "checkedAt": "2026-11-03T04:00:41.397067+00:00",
+        "head": "91267668efdf0e3ed706c8cea62cb749ec4cb160",
+        "pushedAt": "2026-11-02T20:55:14Z",
         "archived": false,
         "latestRelease": {
           "tag": "V1",
@@ -5329,8 +5329,8 @@
           "url": "https://github.com/TekRantGaming/cartoon-network-racing-recompiled/blob/96e178373469bfb4f5ffac51f762910546972825/README.md"
         }
       },
-      "stars": 15,
-      "starsCollectedAt": "2026-11-02T02:35:00.022633+00:00",
+      "stars": 16,
+      "starsCollectedAt": "2026-11-03T04:00:42.468414+00:00",
       "content": {
         "pt": {
           "summary": "Recompilação de Cartoon Network Racing para Windows, baseada na versão de PS2.",
@@ -5370,7 +5370,7 @@
         }
       },
       "upstream": {
-        "checkedAt": "2026-11-02T02:35:00.022633+00:00",
+        "checkedAt": "2026-11-03T04:00:42.468414+00:00",
         "head": "96e178373469bfb4f5ffac51f762910546972825",
         "pushedAt": "2026-10-30T17:40:59Z",
         "archived": false,
@@ -5383,7 +5383,97 @@
         },
         "documentationChanged": false
       }
+    },
+    {
+      "image": {
+        "url": "assets/platforms/ps2.svg",
+        "kind": "console"
+      },
+      "id": "auto-84e586440d1ce2",
+      "editionId": "auto-84e586440d1ce2",
+      "game": "TMBRecomp",
+      "name": "TheBozos/TMB_Recomp",
+      "type": "recompilacao",
+      "approach": "static-recompilation",
+      "origins": [
+        "PS2"
+      ],
+      "targets": [
+        "Windows",
+        "Linux"
+      ],
+      "playability": "nao-verificado",
+      "developmentStage": "desconhecido",
+      "github": "https://github.com/TheBozos/TMB_Recomp",
+      "instructionsUrl": "https://github.com/TheBozos/TMB_Recomp/blob/a7869c0af8e9e0f65e45c617b1ce0972f2259e5b/README.md",
+      "evidenceUrl": "https://github.com/TheBozos/TMB_Recomp/blob/a7869c0af8e9e0f65e45c617b1ce0972f2259e5b/README.md",
+      "reviewedAt": "2026-11-03",
+      "reviewedVersion": "a7869c0af8e9e0f65e45c617b1ce0972f2259e5b",
+      "reviewMethod": "documentation",
+      "reviewAgent": "documentary-rules-v2",
+      "authorClaim": "fully playable",
+      "screeningVersion": "documentary-v2",
+      "documentaryEvidence": {
+        "technique": {
+          "url": "https://github.com/TheBozos/TMB_Recomp/blob/a7869c0af8e9e0f65e45c617b1ce0972f2259e5b/README.md"
+        },
+        "pc": {
+          "url": "https://github.com/TheBozos/TMB_Recomp/blob/a7869c0af8e9e0f65e45c617b1ce0972f2259e5b/README.md"
+        },
+        "instructions": {
+          "url": "https://github.com/TheBozos/TMB_Recomp/blob/a7869c0af8e9e0f65e45c617b1ce0972f2259e5b/README.md"
+        },
+        "requirements": {
+          "url": "https://github.com/TheBozos/TMB_Recomp/blob/a7869c0af8e9e0f65e45c617b1ce0972f2259e5b/README.md"
+        },
+        "ownFiles": {
+          "url": "https://github.com/TheBozos/TMB_Recomp/blob/a7869c0af8e9e0f65e45c617b1ce0972f2259e5b/README.md"
+        },
+        "playabilityClaim": {
+          "url": "https://github.com/TheBozos/TMB_Recomp/blob/a7869c0af8e9e0f65e45c617b1ce0972f2259e5b/README.md"
+        }
+      },
+      "stars": 15,
+      "starsCollectedAt": "2026-11-03T04:00:54.437518+00:00",
+      "content": {
+        "pt": {
+          "summary": "Recompilação de TMBRecomp para Windows / Linux, baseada na versão de PS2.",
+          "originalFiles": "Forneça sua própria cópia compatível; confira edição e arquivos exigidos no README.",
+          "requirements": [
+            "Confira os requisitos completos e as diferenças entre sistemas na fonte fixada."
+          ],
+          "installation": [
+            "Abra o README fixado e confira a seção de instalação.",
+            "Use a release oficial e forneça seus arquivos conforme o autor."
+          ],
+          "limitations": "Triagem por regras, sem execução do jogo. Alegações podem estar desatualizadas ou incorretas; não há garantia de campanha completa no seu PC."
+        },
+        "en": {
+          "summary": "Recompilation of TMBRecomp for Windows / Linux, based on the PS2 version.",
+          "originalFiles": "Provide your own compatible copy; check the required edition and files in the README.",
+          "requirements": [
+            "Check full requirements and OS differences in the pinned source."
+          ],
+          "installation": [
+            "Open the pinned README and check the installation section.",
+            "Use the official release and supply your files as instructed by its author."
+          ],
+          "limitations": "Rule-based screening without running the game. Claims may be outdated or incorrect; a full playthrough on your PC is not guaranteed."
+        },
+        "es": {
+          "summary": "Recompilación de TMBRecomp para Windows / Linux, basada en la versión de PS2.",
+          "originalFiles": "Proporciona tu copia compatible; consulta edición y archivos necesarios en el README.",
+          "requirements": [
+            "Consulta requisitos completos y diferencias entre sistemas en la fuente fijada."
+          ],
+          "installation": [
+            "Abre el README fijado y consulta la instalación.",
+            "Usa la versión oficial y aporta tus archivos según el autor."
+          ],
+          "limitations": "Filtro por reglas sin ejecutar el juego. Las afirmaciones pueden ser incorrectas o antiguas; no se garantiza una campaña completa en tu PC."
+        }
+      }
     }
   ],
-  "updatedAt": "2026-11-02T02:33:50.534431+00:00"
+  "updatedAt": "2026-11-03T03:59:39.063978+00:00"
 }
