@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "updatedAt": "2026-11-03T04:03:16.286848+00:00",
+  "updatedAt": "2026-11-03T18:40:13.620144+00:00",
   "projects": [
     {
       "id": "web-openlara",
@@ -23,8 +23,8 @@
       "targets": [
         "Web"
       ],
-      "stars": 5145,
-      "starsCollectedAt": "2026-11-03T04:01:30.366044+00:00",
+      "stars": 5147,
+      "starsCollectedAt": "2026-11-03T18:38:25.499869+00:00",
       "content": {
         "pt": {
           "summary": "Motor de Tomb Raider com uma fase demonstrativa em WebGL.",
@@ -69,7 +69,7 @@
         "pageCheck": "landing-page",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-03T04:01:32.925100+00:00",
+          "checkedAt": "2026-11-03T18:38:28.707222+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -102,7 +102,7 @@
         "Web"
       ],
       "stars": 2894,
-      "starsCollectedAt": "2026-11-03T04:01:30.366044+00:00",
+      "starsCollectedAt": "2026-11-03T18:38:25.499869+00:00",
       "content": {
         "pt": {
           "summary": "Diablo no navegador, com opção shareware e uso dos seus dados do jogo completo.",
@@ -147,7 +147,7 @@
         "pageCheck": "landing-page",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-03T04:01:33.066400+00:00",
+          "checkedAt": "2026-11-03T18:38:28.862552+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -180,7 +180,7 @@
         "Web"
       ],
       "stars": 180,
-      "starsCollectedAt": "2026-11-03T04:01:30.366044+00:00",
+      "starsCollectedAt": "2026-11-03T18:38:25.499869+00:00",
       "content": {
         "pt": {
           "summary": "Half-Life no navegador pelo motor Xash3D compilado para WebAssembly.",
@@ -225,7 +225,7 @@
         "pageCheck": "landing-page",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-03T04:01:33.225666+00:00",
+          "checkedAt": "2026-11-03T18:38:28.982618+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -258,7 +258,7 @@
         "Web"
       ],
       "stars": 180,
-      "starsCollectedAt": "2026-11-03T04:01:30.366044+00:00",
+      "starsCollectedAt": "2026-11-03T18:38:25.499869+00:00",
       "content": {
         "pt": {
           "summary": "Counter-Strike 1.6 no navegador usando WebXash e arquivos da sua instalação.",
@@ -303,7 +303,7 @@
         "pageCheck": "landing-page",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-03T04:01:33.392875+00:00",
+          "checkedAt": "2026-11-03T18:38:29.119369+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -335,8 +335,8 @@
       "targets": [
         "Web"
       ],
-      "stars": 60,
-      "starsCollectedAt": "2026-11-03T04:01:30.366044+00:00",
+      "stars": 61,
+      "starsCollectedAt": "2026-11-03T18:38:25.499869+00:00",
       "content": {
         "pt": {
           "summary": "Motor de Quake no navegador, com opção livre com bots e suporte aos seus arquivos PAK.",
@@ -381,7 +381,7 @@
         "pageCheck": "landing-page",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-03T04:01:33.492104+00:00",
+          "checkedAt": "2026-11-03T18:38:29.210236+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -413,8 +413,8 @@
       "targets": [
         "Web"
       ],
-      "stars": 2215,
-      "starsCollectedAt": "2026-11-03T04:01:30.366044+00:00",
+      "stars": 2216,
+      "starsCollectedAt": "2026-11-03T18:38:25.499869+00:00",
       "content": {
         "pt": {
           "summary": "Estratégia por turnos gratuita para navegador, com partidas individuais e multiplayer.",
@@ -459,7 +459,7 @@
         "pageCheck": "landing-page",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-03T04:01:33.957528+00:00",
+          "checkedAt": "2026-11-03T18:38:29.685838+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -492,7 +492,7 @@
         "Web"
       ],
       "stars": 68,
-      "starsCollectedAt": "2026-11-03T04:01:30.366044+00:00",
+      "starsCollectedAt": "2026-11-03T18:38:25.499869+00:00",
       "content": {
         "pt": {
           "summary": "Cliente moderno de Diablo com demo shareware, importação do seu MPQ e gerenciamento local de saves.",
@@ -537,7 +537,7 @@
         "pageCheck": "landing-page",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-03T04:01:38.131572+00:00",
+          "checkedAt": "2026-11-03T18:38:30.538971+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -569,8 +569,8 @@
       "targets": [
         "Web"
       ],
-      "stars": 1916,
-      "starsCollectedAt": "2026-11-03T04:01:30.366044+00:00",
+      "stars": 1924,
+      "starsCollectedAt": "2026-11-03T18:38:25.499869+00:00",
       "content": {
         "pt": {
           "summary": "Adaptação de Halo de Xbox para navegador, com tela de importação da sua imagem de disco. O site cita o motor OpenCE.",
@@ -624,7 +624,7 @@
         "pageCheck": "landing-page",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-03T04:01:38.301226+00:00",
+          "checkedAt": "2026-11-03T18:38:30.676492+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -673,7 +673,7 @@
         "pageCheckedAt": "2026-10-17T11:35:34.661329+00:00",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-03T04:01:38.602533+00:00",
+          "checkedAt": "2026-11-03T18:38:31.219063+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -765,7 +765,7 @@
         "pageCheckedAt": "2026-10-18T11:43:26.835069+00:00",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-03T04:01:39.106872+00:00",
+          "checkedAt": "2026-11-03T18:38:31.668341+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -855,7 +855,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-03T04:01:39.625981+00:00",
+          "checkedAt": "2026-11-03T18:38:32.310990+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -942,7 +942,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-03T04:01:40.126371+00:00",
+          "checkedAt": "2026-11-03T18:38:32.792280+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -1029,7 +1029,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-03T04:01:40.527528+00:00",
+          "checkedAt": "2026-11-03T18:38:33.386422+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -1116,7 +1116,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-03T04:01:41.228402+00:00",
+          "checkedAt": "2026-11-03T18:38:34.459766+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -1203,7 +1203,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-03T04:01:41.362077+00:00",
+          "checkedAt": "2026-11-03T18:38:34.683286+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -1290,7 +1290,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-03T04:01:41.604865+00:00",
+          "checkedAt": "2026-11-03T18:38:34.976745+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -1377,7 +1377,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-03T04:01:42.473221+00:00",
+          "checkedAt": "2026-11-03T18:38:36.017359+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -1464,7 +1464,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-03T04:01:43.309658+00:00",
+          "checkedAt": "2026-11-03T18:38:36.611561+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -1551,7 +1551,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-03T04:01:43.608622+00:00",
+          "checkedAt": "2026-11-03T18:38:36.941797+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -1638,7 +1638,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-03T04:01:44.413731+00:00",
+          "checkedAt": "2026-11-03T18:38:37.696056+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -1725,7 +1725,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-03T04:01:44.770347+00:00",
+          "checkedAt": "2026-11-03T18:38:38.120388+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -1812,7 +1812,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-03T04:01:45.104460+00:00",
+          "checkedAt": "2026-11-03T18:38:38.417592+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -1899,7 +1899,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-03T04:01:45.814669+00:00",
+          "checkedAt": "2026-11-03T18:38:39.197426+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -1986,7 +1986,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-03T04:01:46.049261+00:00",
+          "checkedAt": "2026-11-03T18:38:39.480403+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -2073,7 +2073,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-03T04:01:46.813846+00:00",
+          "checkedAt": "2026-11-03T18:38:40.334832+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -2160,7 +2160,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-03T04:01:47.000175+00:00",
+          "checkedAt": "2026-11-03T18:38:40.472790+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -2247,7 +2247,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-03T04:01:47.373207+00:00",
+          "checkedAt": "2026-11-03T18:38:40.847411+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -2334,7 +2334,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-03T04:01:47.811249+00:00",
+          "checkedAt": "2026-11-03T18:38:41.282741+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -2421,7 +2421,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-03T04:01:48.000858+00:00",
+          "checkedAt": "2026-11-03T18:38:41.518451+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -2508,7 +2508,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-03T04:01:48.703649+00:00",
+          "checkedAt": "2026-11-03T18:38:42.425250+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -2595,7 +2595,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-03T04:01:49.388104+00:00",
+          "checkedAt": "2026-11-03T18:38:43.346231+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -2682,7 +2682,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-03T04:01:50.052986+00:00",
+          "checkedAt": "2026-11-03T18:38:44.081862+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -2769,7 +2769,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-03T04:01:50.722159+00:00",
+          "checkedAt": "2026-11-03T18:38:44.783557+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -2856,7 +2856,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-03T04:01:51.410451+00:00",
+          "checkedAt": "2026-11-03T18:38:45.589007+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -2943,7 +2943,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-03T04:01:52.031844+00:00",
+          "checkedAt": "2026-11-03T18:38:46.295956+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -3030,7 +3030,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-03T04:01:52.197696+00:00",
+          "checkedAt": "2026-11-03T18:38:46.627663+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -3117,7 +3117,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-03T04:01:52.449525+00:00",
+          "checkedAt": "2026-11-03T18:38:46.970267+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -3204,7 +3204,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-03T04:01:52.736711+00:00",
+          "checkedAt": "2026-11-03T18:38:47.672342+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -3291,7 +3291,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-03T04:01:53.332717+00:00",
+          "checkedAt": "2026-11-03T18:38:47.939588+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -3378,7 +3378,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-03T04:01:53.615952+00:00",
+          "checkedAt": "2026-11-03T18:38:48.111589+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -3465,7 +3465,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-03T04:01:53.838181+00:00",
+          "checkedAt": "2026-11-03T18:38:48.404026+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -3552,7 +3552,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-03T04:01:54.504140+00:00",
+          "checkedAt": "2026-11-03T18:38:49.853618+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -3639,7 +3639,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-03T04:01:54.701092+00:00",
+          "checkedAt": "2026-11-03T18:38:50.231004+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -3726,7 +3726,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-03T04:01:55.791724+00:00",
+          "checkedAt": "2026-11-03T18:38:51.366326+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -3813,7 +3813,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-03T04:01:56.341336+00:00",
+          "checkedAt": "2026-11-03T18:38:52.010144+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -3900,7 +3900,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-03T04:01:57.114263+00:00",
+          "checkedAt": "2026-11-03T18:38:53.112853+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -3987,7 +3987,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-03T04:01:57.887779+00:00",
+          "checkedAt": "2026-11-03T18:38:53.401956+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -4074,7 +4074,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-03T04:01:58.340111+00:00",
+          "checkedAt": "2026-11-03T18:38:53.752087+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -4161,7 +4161,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-03T04:01:58.491428+00:00",
+          "checkedAt": "2026-11-03T18:38:54.425763+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -4248,7 +4248,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-03T04:01:59.001109+00:00",
+          "checkedAt": "2026-11-03T18:38:54.540192+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -4335,7 +4335,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-03T04:01:59.309086+00:00",
+          "checkedAt": "2026-11-03T18:38:54.727397+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -4422,7 +4422,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-03T04:01:59.738823+00:00",
+          "checkedAt": "2026-11-03T18:38:55.024357+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -4509,7 +4509,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-03T04:02:00.063512+00:00",
+          "checkedAt": "2026-11-03T18:38:55.288039+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -4596,7 +4596,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-03T04:02:00.193479+00:00",
+          "checkedAt": "2026-11-03T18:38:55.476781+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -4683,7 +4683,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-03T04:02:00.337653+00:00",
+          "checkedAt": "2026-11-03T18:38:55.746330+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -4770,7 +4770,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-03T04:02:00.690725+00:00",
+          "checkedAt": "2026-11-03T18:38:55.930172+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -4857,7 +4857,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-03T04:02:00.831810+00:00",
+          "checkedAt": "2026-11-03T18:38:56.044944+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -4944,7 +4944,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-03T04:02:00.974501+00:00",
+          "checkedAt": "2026-11-03T18:38:56.152824+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -5031,7 +5031,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-03T04:02:01.133625+00:00",
+          "checkedAt": "2026-11-03T18:38:56.255487+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -5118,7 +5118,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-03T04:02:01.257958+00:00",
+          "checkedAt": "2026-11-03T18:38:57.041741+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -5205,7 +5205,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-03T04:02:01.388102+00:00",
+          "checkedAt": "2026-11-03T18:38:57.340348+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -5292,7 +5292,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-03T04:02:01.539295+00:00",
+          "checkedAt": "2026-11-03T18:38:57.616732+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -5379,7 +5379,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-03T04:02:01.972404+00:00",
+          "checkedAt": "2026-11-03T18:38:57.719360+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -5466,7 +5466,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-03T04:02:02.077464+00:00",
+          "checkedAt": "2026-11-03T18:38:57.822679+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -5553,7 +5553,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-03T04:02:02.476298+00:00",
+          "checkedAt": "2026-11-03T18:38:58.088813+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -5640,7 +5640,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-03T04:02:02.626532+00:00",
+          "checkedAt": "2026-11-03T18:38:58.259166+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -5727,7 +5727,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-03T04:02:02.726740+00:00",
+          "checkedAt": "2026-11-03T18:38:58.371856+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -5814,7 +5814,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-03T04:02:02.823491+00:00",
+          "checkedAt": "2026-11-03T18:38:58.587656+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -5901,7 +5901,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-03T04:02:02.957468+00:00",
+          "checkedAt": "2026-11-03T18:38:58.903903+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -5988,7 +5988,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-03T04:02:03.131044+00:00",
+          "checkedAt": "2026-11-03T18:38:59.195610+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -6075,7 +6075,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-03T04:02:03.231894+00:00",
+          "checkedAt": "2026-11-03T18:38:59.365221+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -6162,7 +6162,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-03T04:02:03.356444+00:00",
+          "checkedAt": "2026-11-03T18:38:59.463461+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -6249,7 +6249,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-03T04:02:03.472653+00:00",
+          "checkedAt": "2026-11-03T18:38:59.736910+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -6336,7 +6336,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-03T04:02:03.630254+00:00",
+          "checkedAt": "2026-11-03T18:39:00.004341+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -6423,7 +6423,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-03T04:02:03.792066+00:00",
+          "checkedAt": "2026-11-03T18:39:00.173943+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -6510,7 +6510,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-03T04:02:03.920420+00:00",
+          "checkedAt": "2026-11-03T18:39:00.343472+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -6597,7 +6597,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-03T04:02:04.027241+00:00",
+          "checkedAt": "2026-11-03T18:39:00.446324+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -6684,7 +6684,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-03T04:02:04.283835+00:00",
+          "checkedAt": "2026-11-03T18:39:00.755133+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -6771,7 +6771,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-03T04:02:04.951353+00:00",
+          "checkedAt": "2026-11-03T18:39:01.834268+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -6858,7 +6858,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-03T04:02:05.534045+00:00",
+          "checkedAt": "2026-11-03T18:39:02.715536+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -6945,7 +6945,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-03T04:02:06.069048+00:00",
+          "checkedAt": "2026-11-03T18:39:03.415670+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -7032,7 +7032,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "review",
-          "checkedAt": "2026-11-03T04:02:06.602821+00:00",
+          "checkedAt": "2026-11-03T18:39:04.222458+00:00",
           "method": "http-html",
           "reason": "connection-failed"
         }
@@ -7119,7 +7119,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-03T04:02:22.373007+00:00",
+          "checkedAt": "2026-11-03T18:39:19.813638+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -7206,7 +7206,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-03T04:02:22.603556+00:00",
+          "checkedAt": "2026-11-03T18:39:20.203191+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -7293,7 +7293,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-03T04:02:22.978322+00:00",
+          "checkedAt": "2026-11-03T18:39:20.547420+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -7380,7 +7380,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-03T04:02:23.459243+00:00",
+          "checkedAt": "2026-11-03T18:39:21.152644+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -7467,7 +7467,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-03T04:02:23.969158+00:00",
+          "checkedAt": "2026-11-03T18:39:22.204623+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -7554,7 +7554,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-03T04:02:24.403572+00:00",
+          "checkedAt": "2026-11-03T18:39:22.620154+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -7641,7 +7641,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-03T04:02:24.600330+00:00",
+          "checkedAt": "2026-11-03T18:39:22.807444+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -7728,7 +7728,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-03T04:02:24.866050+00:00",
+          "checkedAt": "2026-11-03T18:39:23.074436+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -7815,7 +7815,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-03T04:02:25.233252+00:00",
+          "checkedAt": "2026-11-03T18:39:23.401169+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -7902,7 +7902,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-03T04:02:25.511900+00:00",
+          "checkedAt": "2026-11-03T18:39:23.621530+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -7989,7 +7989,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-03T04:02:25.799953+00:00",
+          "checkedAt": "2026-11-03T18:39:23.837102+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -8076,7 +8076,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-03T04:02:26.357320+00:00",
+          "checkedAt": "2026-11-03T18:39:24.362795+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -8163,7 +8163,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-03T04:02:26.742292+00:00",
+          "checkedAt": "2026-11-03T18:39:24.578286+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -8250,7 +8250,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-03T04:02:27.092997+00:00",
+          "checkedAt": "2026-11-03T18:39:24.818796+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -8336,10 +8336,10 @@
         "checkedAt": "2026-10-26T17:38:03.936487+00:00",
         "pageCheck": "http-html",
         "health": {
-          "status": "reachable",
-          "checkedAt": "2026-11-03T04:02:27.450552+00:00",
+          "status": "review",
+          "checkedAt": "2026-11-03T18:39:25.056970+00:00",
           "method": "http-html",
-          "reason": null
+          "reason": "connection-failed"
         }
       },
       "content": {
@@ -8423,10 +8423,10 @@
         "checkedAt": "2026-10-26T17:38:04.502297+00:00",
         "pageCheck": "http-html",
         "health": {
-          "status": "reachable",
-          "checkedAt": "2026-11-03T04:02:28.242106+00:00",
+          "status": "review",
+          "checkedAt": "2026-11-03T18:39:26.037036+00:00",
           "method": "http-html",
-          "reason": null
+          "reason": "connection-failed"
         }
       },
       "content": {
@@ -8511,7 +8511,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-03T04:02:28.634547+00:00",
+          "checkedAt": "2026-11-03T18:39:26.938340+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -8598,7 +8598,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-03T04:02:28.950411+00:00",
+          "checkedAt": "2026-11-03T18:39:27.365665+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -8684,10 +8684,10 @@
         "checkedAt": "2026-10-27T02:24:21.806911+00:00",
         "pageCheck": "http-html",
         "health": {
-          "status": "review",
-          "checkedAt": "2026-11-03T04:02:29.394451+00:00",
+          "status": "reachable",
+          "checkedAt": "2026-11-03T18:39:27.685299+00:00",
           "method": "http-html",
-          "reason": "connection-failed"
+          "reason": null
         }
       },
       "content": {
@@ -8772,7 +8772,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-03T04:02:41.613144+00:00",
+          "checkedAt": "2026-11-03T18:39:27.848119+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -8859,7 +8859,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "review",
-          "checkedAt": "2026-11-03T04:02:41.884017+00:00",
+          "checkedAt": "2026-11-03T18:39:28.041713+00:00",
           "method": "http-html",
           "reason": "connection-failed"
         }
@@ -8945,10 +8945,10 @@
         "checkedAt": "2026-10-27T16:51:22.744506+00:00",
         "pageCheck": "http-html",
         "health": {
-          "status": "reachable",
-          "checkedAt": "2026-11-03T04:02:43.478639+00:00",
+          "status": "review",
+          "checkedAt": "2026-11-03T18:39:28.971160+00:00",
           "method": "http-html",
-          "reason": null
+          "reason": "connection-failed"
         }
       },
       "content": {
@@ -9033,7 +9033,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-03T04:02:43.941418+00:00",
+          "checkedAt": "2026-11-03T18:39:29.109085+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -9120,7 +9120,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-03T04:02:44.088978+00:00",
+          "checkedAt": "2026-11-03T18:39:29.233397+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -9207,7 +9207,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-03T04:02:44.416486+00:00",
+          "checkedAt": "2026-11-03T18:39:29.480654+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -9294,7 +9294,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-03T04:02:44.805881+00:00",
+          "checkedAt": "2026-11-03T18:39:29.702892+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -9381,7 +9381,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-03T04:02:45.161678+00:00",
+          "checkedAt": "2026-11-03T18:39:29.932652+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -9468,7 +9468,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-03T04:02:45.528023+00:00",
+          "checkedAt": "2026-11-03T18:39:30.172640+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -9555,7 +9555,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-03T04:02:45.886110+00:00",
+          "checkedAt": "2026-11-03T18:39:30.373166+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -9642,7 +9642,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-03T04:02:46.266385+00:00",
+          "checkedAt": "2026-11-03T18:39:30.595204+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -9729,7 +9729,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-03T04:02:46.651343+00:00",
+          "checkedAt": "2026-11-03T18:39:30.849100+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -9816,7 +9816,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-03T04:02:47.023465+00:00",
+          "checkedAt": "2026-11-03T18:39:31.068190+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -9903,7 +9903,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-03T04:02:47.378740+00:00",
+          "checkedAt": "2026-11-03T18:39:31.346242+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -9990,7 +9990,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-03T04:02:47.720624+00:00",
+          "checkedAt": "2026-11-03T18:39:31.582479+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -10077,7 +10077,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-03T04:02:48.095808+00:00",
+          "checkedAt": "2026-11-03T18:39:31.795269+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -10164,7 +10164,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-03T04:02:48.426569+00:00",
+          "checkedAt": "2026-11-03T18:39:32.036046+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -10251,7 +10251,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-03T04:02:48.714375+00:00",
+          "checkedAt": "2026-11-03T18:39:32.236976+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -10338,7 +10338,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-03T04:02:49.037467+00:00",
+          "checkedAt": "2026-11-03T18:39:32.466929+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -10425,7 +10425,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-03T04:02:49.374028+00:00",
+          "checkedAt": "2026-11-03T18:39:32.707934+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -10512,7 +10512,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-03T04:02:49.760765+00:00",
+          "checkedAt": "2026-11-03T18:39:32.916198+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -10599,7 +10599,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-03T04:02:50.140318+00:00",
+          "checkedAt": "2026-11-03T18:39:33.145813+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -10686,7 +10686,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-03T04:02:50.480273+00:00",
+          "checkedAt": "2026-11-03T18:39:33.359452+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -10773,7 +10773,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-03T04:02:50.798357+00:00",
+          "checkedAt": "2026-11-03T18:39:33.610097+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -10860,7 +10860,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-03T04:02:51.181968+00:00",
+          "checkedAt": "2026-11-03T18:39:33.828545+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -10947,7 +10947,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-03T04:02:51.565616+00:00",
+          "checkedAt": "2026-11-03T18:39:34.036504+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -11034,7 +11034,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-03T04:02:51.961693+00:00",
+          "checkedAt": "2026-11-03T18:39:34.254440+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -11121,7 +11121,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-03T04:02:52.319159+00:00",
+          "checkedAt": "2026-11-03T18:39:34.481346+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -11208,7 +11208,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "review",
-          "checkedAt": "2026-11-03T04:02:52.649434+00:00",
+          "checkedAt": "2026-11-03T18:39:34.712824+00:00",
           "method": "http-html",
           "reason": "url-review"
         }
@@ -11295,7 +11295,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-03T04:02:52.700540+00:00",
+          "checkedAt": "2026-11-03T18:39:34.751539+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -11382,7 +11382,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-03T04:02:53.042530+00:00",
+          "checkedAt": "2026-11-03T18:39:34.988820+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -11469,7 +11469,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-03T04:02:53.404045+00:00",
+          "checkedAt": "2026-11-03T18:39:36.228055+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -11556,7 +11556,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-03T04:02:53.760807+00:00",
+          "checkedAt": "2026-11-03T18:39:36.458314+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -11643,7 +11643,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-03T04:02:54.315381+00:00",
+          "checkedAt": "2026-11-03T18:39:37.173771+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -11730,7 +11730,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-03T04:02:54.666475+00:00",
+          "checkedAt": "2026-11-03T18:39:37.408047+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -11817,7 +11817,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-03T04:02:55.013751+00:00",
+          "checkedAt": "2026-11-03T18:39:37.609619+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -11904,7 +11904,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-03T04:02:55.491076+00:00",
+          "checkedAt": "2026-11-03T18:39:38.143452+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -11991,7 +11991,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-03T04:02:55.811566+00:00",
+          "checkedAt": "2026-11-03T18:39:38.989337+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -12078,7 +12078,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "review",
-          "checkedAt": "2026-11-03T04:02:56.006308+00:00",
+          "checkedAt": "2026-11-03T18:39:39.226199+00:00",
           "method": "http-html",
           "reason": "redirect-review"
         }
@@ -12165,7 +12165,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-03T04:02:56.305092+00:00",
+          "checkedAt": "2026-11-03T18:39:39.518013+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -12252,7 +12252,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-03T04:02:56.600040+00:00",
+          "checkedAt": "2026-11-03T18:39:40.012888+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -12339,7 +12339,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-03T04:02:58.341814+00:00",
+          "checkedAt": "2026-11-03T18:39:42.101047+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -12426,7 +12426,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-03T04:02:58.918359+00:00",
+          "checkedAt": "2026-11-03T18:39:42.292286+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -12513,7 +12513,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-03T04:02:59.118722+00:00",
+          "checkedAt": "2026-11-03T18:39:42.460680+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -12600,7 +12600,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-03T04:02:59.272505+00:00",
+          "checkedAt": "2026-11-03T18:39:42.581926+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -12687,7 +12687,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-03T04:02:59.494726+00:00",
+          "checkedAt": "2026-11-03T18:39:42.724991+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -12774,7 +12774,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-03T04:02:59.664273+00:00",
+          "checkedAt": "2026-11-03T18:39:42.904689+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -12861,7 +12861,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-03T04:03:09.872719+00:00",
+          "checkedAt": "2026-11-03T18:39:43.355075+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -12948,7 +12948,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-03T04:03:10.419593+00:00",
+          "checkedAt": "2026-11-03T18:39:43.495106+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -13035,7 +13035,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-03T04:03:11.252539+00:00",
+          "checkedAt": "2026-11-03T18:39:43.700492+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -13122,7 +13122,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-03T04:03:11.780539+00:00",
+          "checkedAt": "2026-11-03T18:39:43.840883+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -13209,7 +13209,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-03T04:03:12.651496+00:00",
+          "checkedAt": "2026-11-03T18:39:44.416634+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -13296,7 +13296,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-03T04:03:14.571391+00:00",
+          "checkedAt": "2026-11-03T18:39:45.380980+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -13342,20 +13342,542 @@
           "limitations": "Abrir una página no demuestra que una partida funcione. Bora de Play no ha probado campaña, controles, rendimiento ni tecnología. El hash identifica el HTML consultado. Se conservaron los avisos de desarrollo de la fuente."
         }
       }
+    },
+    {
+      "id": "web-inx-bb74c854a1a494",
+      "editionId": "web-inx-bb74c854a1a494",
+      "game": "Sonic Mania Plus",
+      "name": "Sonic Mania Plus · Web",
+      "type": "port",
+      "approach": "web-unconfirmed",
+      "playability": "nao-verificado",
+      "developmentStage": "desconhecido",
+      "sourceKind": "website",
+      "github": null,
+      "instructionsUrl": "https://ugbontop.github.io/Sonic-Mania-InYourBrowser/",
+      "evidenceUrl": "https://ugbontop.github.io/Sonic-Mania-InYourBrowser/",
+      "discoveredVia": "https://www.inxanitylabs.com/games/sonic-mania-plus",
+      "reviewedAt": "2026-11-03",
+      "reviewedVersion": "8e625bffd52198402ebcd6169073d0a5e0cb120947125fb33ffee8f2f93c6fde",
+      "reviewMethod": "documentation",
+      "origins": [
+        "Outro"
+      ],
+      "targets": [
+        "Web"
+      ],
+      "stars": null,
+      "starsCollectedAt": null,
+      "image": {
+        "url": "https://www.inxanitylabs.com/assets/games/sonic-mania-plus.webp",
+        "kind": "reference",
+        "source": "https://www.inxanitylabs.com/games/sonic-mania-plus",
+        "provider": "inxanity-declared-cover-v1",
+        "subject": "Sonic Mania Plus"
+      },
+      "browser": {
+        "url": "https://ugbontop.github.io/Sonic-Mania-InYourBrowser/",
+        "access": "web",
+        "verification": "documentation",
+        "checkedAt": "2026-11-03T18:39:58.459453+00:00",
+        "pageCheck": "http-html",
+        "health": {
+          "status": "reachable",
+          "checkedAt": "2026-11-03T18:39:57.986005+00:00",
+          "method": "http-html",
+          "reason": null
+        }
+      },
+      "content": {
+        "pt": {
+          "summary": "Sonic Mania Plus no navegador: um jogo de plataforma.",
+          "originalFiles": "Não verificado. Confira na página do jogo se são necessários arquivos próprios.",
+          "requirements": [
+            "Navegador atualizado; confira tecnologias, controles e requisitos no destino."
+          ],
+          "installation": [
+            "Abra o link direto pelo botão Jogar no navegador.",
+            "Siga as instruções da página do jogo.",
+            "Compartilhe erros e sua experiência na comunidade desta ficha."
+          ],
+          "limitations": "Abertura de página não comprova funcionamento de uma partida. Campanha, controles, desempenho e tecnologia não testados pelo Bora de Play. O hash identifica o HTML consultado. Os avisos de desenvolvimento da fonte foram preservados."
+        },
+        "en": {
+          "summary": "Sonic Mania Plus in your browser: a game focused on platforming.",
+          "originalFiles": "Not verified. Check the game page for any required files you must supply.",
+          "requirements": [
+            "An up-to-date browser; check technologies, controls and requirements at the destination."
+          ],
+          "installation": [
+            "Open the direct link using Play in browser.",
+            "Follow the instructions on the game page.",
+            "Share errors and your experience in this entry’s community section."
+          ],
+          "limitations": "Opening a page does not prove gameplay works. Campaign, controls, performance and technology have not been tested by Bora de Play. The hash identifies the consulted HTML. Development notices from the source were preserved."
+        },
+        "es": {
+          "summary": "Sonic Mania Plus en navegador: un juego de plataformas.",
+          "originalFiles": "No verificado. Consulta si la página del juego requiere tus propios archivos.",
+          "requirements": [
+            "Navegador actualizado; consulta tecnologías, controles y requisitos en el destino."
+          ],
+          "installation": [
+            "Abre el enlace directo con Jugar en el navegador.",
+            "Sigue las instrucciones de la página del juego.",
+            "Comparte errores y tu experiencia en la comunidad de esta ficha."
+          ],
+          "limitations": "Abrir una página no demuestra que una partida funcione. Bora de Play no ha probado campaña, controles, rendimiento ni tecnología. El hash identifica el HTML consultado. Se conservaron los avisos de desarrollo de la fuente."
+        }
+      }
+    },
+    {
+      "id": "web-inx-9104107d9fa421",
+      "editionId": "web-inx-9104107d9fa421",
+      "game": "Spore Origins (fan remake)",
+      "name": "Spore Origins (fan remake) · Web",
+      "type": "jogo-fa",
+      "approach": "web-unconfirmed",
+      "playability": "nao-verificado",
+      "developmentStage": "desconhecido",
+      "sourceKind": "website",
+      "github": null,
+      "instructionsUrl": "https://nomadic-ua.itch.io/spore-origins",
+      "evidenceUrl": "https://nomadic-ua.itch.io/spore-origins",
+      "discoveredVia": "https://www.inxanitylabs.com/games/spore-origins",
+      "reviewedAt": "2026-11-03",
+      "reviewedVersion": "dedf10525d3032c396c03ae33765e9fe7851e383b49f83f85db024771449f4e3",
+      "reviewMethod": "documentation",
+      "origins": [
+        "Outro"
+      ],
+      "targets": [
+        "Web"
+      ],
+      "stars": null,
+      "starsCollectedAt": null,
+      "image": {
+        "url": "https://www.inxanitylabs.com/assets/games/spore-origins.webp",
+        "kind": "reference",
+        "source": "https://www.inxanitylabs.com/games/spore-origins",
+        "provider": "inxanity-declared-cover-v1",
+        "subject": "Spore Origins (fan remake)"
+      },
+      "browser": {
+        "url": "https://nomadic-ua.itch.io/spore-origins",
+        "access": "web",
+        "verification": "documentation",
+        "checkedAt": "2026-11-03T18:39:59.909482+00:00",
+        "pageCheck": "http-html",
+        "health": {
+          "status": "reachable",
+          "checkedAt": "2026-11-03T18:39:58.848053+00:00",
+          "method": "http-html",
+          "reason": null
+        }
+      },
+      "content": {
+        "pt": {
+          "summary": "Spore Origins (fan remake) no navegador: um jogo de construção e administração.",
+          "originalFiles": "Não verificado. Confira na página do jogo se são necessários arquivos próprios.",
+          "requirements": [
+            "Navegador atualizado; confira tecnologias, controles e requisitos no destino."
+          ],
+          "installation": [
+            "Abra o link direto pelo botão Jogar no navegador.",
+            "Siga as instruções da página do jogo.",
+            "Compartilhe erros e sua experiência na comunidade desta ficha."
+          ],
+          "limitations": "Abertura de página não comprova funcionamento de uma partida. Campanha, controles, desempenho e tecnologia não testados pelo Bora de Play. O hash identifica o HTML consultado. Os avisos de desenvolvimento da fonte foram preservados."
+        },
+        "en": {
+          "summary": "Spore Origins (fan remake) in your browser: a game focused on building and management.",
+          "originalFiles": "Not verified. Check the game page for any required files you must supply.",
+          "requirements": [
+            "An up-to-date browser; check technologies, controls and requirements at the destination."
+          ],
+          "installation": [
+            "Open the direct link using Play in browser.",
+            "Follow the instructions on the game page.",
+            "Share errors and your experience in this entry’s community section."
+          ],
+          "limitations": "Opening a page does not prove gameplay works. Campaign, controls, performance and technology have not been tested by Bora de Play. The hash identifies the consulted HTML. Development notices from the source were preserved."
+        },
+        "es": {
+          "summary": "Spore Origins (fan remake) en navegador: un juego de construcción y gestión.",
+          "originalFiles": "No verificado. Consulta si la página del juego requiere tus propios archivos.",
+          "requirements": [
+            "Navegador actualizado; consulta tecnologías, controles y requisitos en el destino."
+          ],
+          "installation": [
+            "Abre el enlace directo con Jugar en el navegador.",
+            "Sigue las instrucciones de la página del juego.",
+            "Comparte errores y tu experiencia en la comunidad de esta ficha."
+          ],
+          "limitations": "Abrir una página no demuestra que una partida funcione. Bora de Play no ha probado campaña, controles, rendimiento ni tecnología. El hash identifica el HTML consultado. Se conservaron los avisos de desarrollo de la fuente."
+        }
+      }
+    },
+    {
+      "id": "web-inx-84a60055ee2b3a",
+      "editionId": "web-inx-84a60055ee2b3a",
+      "game": "Super Mario Bros.",
+      "name": "Super Mario Bros. · Web",
+      "type": "port",
+      "approach": "web-unconfirmed",
+      "playability": "nao-verificado",
+      "developmentStage": "desconhecido",
+      "sourceKind": "website",
+      "github": null,
+      "instructionsUrl": "https://supermarioplay.com/",
+      "evidenceUrl": "https://supermarioplay.com/",
+      "discoveredVia": "https://www.inxanitylabs.com/games/super-mario-bros",
+      "reviewedAt": "2026-11-03",
+      "reviewedVersion": "6e8597bdc0f2cccffebd519d290e60d892fc40b4b199bd0256d89223eeccbe81",
+      "reviewMethod": "documentation",
+      "origins": [
+        "Outro"
+      ],
+      "targets": [
+        "Web"
+      ],
+      "stars": null,
+      "starsCollectedAt": null,
+      "image": {
+        "url": "https://www.inxanitylabs.com/assets/games/super-mario-bros.webp",
+        "kind": "reference",
+        "source": "https://www.inxanitylabs.com/games/super-mario-bros",
+        "provider": "inxanity-declared-cover-v1",
+        "subject": "Super Mario Bros."
+      },
+      "browser": {
+        "url": "https://supermarioplay.com/",
+        "access": "web",
+        "verification": "documentation",
+        "checkedAt": "2026-11-03T18:40:07.971015+00:00",
+        "pageCheck": "http-html",
+        "health": {
+          "status": "reachable",
+          "checkedAt": "2026-11-03T18:40:00.239905+00:00",
+          "method": "http-html",
+          "reason": null
+        }
+      },
+      "content": {
+        "pt": {
+          "summary": "Super Mario Bros. no navegador: um jogo de plataforma.",
+          "originalFiles": "Não verificado. Confira na página do jogo se são necessários arquivos próprios.",
+          "requirements": [
+            "Navegador atualizado; confira tecnologias, controles e requisitos no destino."
+          ],
+          "installation": [
+            "Abra o link direto pelo botão Jogar no navegador.",
+            "Siga as instruções da página do jogo.",
+            "Compartilhe erros e sua experiência na comunidade desta ficha."
+          ],
+          "limitations": "Abertura de página não comprova funcionamento de uma partida. Campanha, controles, desempenho e tecnologia não testados pelo Bora de Play. O hash identifica o HTML consultado. Os avisos de desenvolvimento da fonte foram preservados."
+        },
+        "en": {
+          "summary": "Super Mario Bros. in your browser: a game focused on platforming.",
+          "originalFiles": "Not verified. Check the game page for any required files you must supply.",
+          "requirements": [
+            "An up-to-date browser; check technologies, controls and requirements at the destination."
+          ],
+          "installation": [
+            "Open the direct link using Play in browser.",
+            "Follow the instructions on the game page.",
+            "Share errors and your experience in this entry’s community section."
+          ],
+          "limitations": "Opening a page does not prove gameplay works. Campaign, controls, performance and technology have not been tested by Bora de Play. The hash identifies the consulted HTML. Development notices from the source were preserved."
+        },
+        "es": {
+          "summary": "Super Mario Bros. en navegador: un juego de plataformas.",
+          "originalFiles": "No verificado. Consulta si la página del juego requiere tus propios archivos.",
+          "requirements": [
+            "Navegador actualizado; consulta tecnologías, controles y requisitos en el destino."
+          ],
+          "installation": [
+            "Abre el enlace directo con Jugar en el navegador.",
+            "Sigue las instrucciones de la página del juego.",
+            "Comparte errores y tu experiencia en la comunidad de esta ficha."
+          ],
+          "limitations": "Abrir una página no demuestra que una partida funcione. Bora de Play no ha probado campaña, controles, rendimiento ni tecnología. El hash identifica el HTML consultado. Se conservaron los avisos de desarrollo de la fuente."
+        }
+      }
+    },
+    {
+      "id": "web-inx-d2fae863f74ecb",
+      "editionId": "web-inx-d2fae863f74ecb",
+      "game": "Unreal",
+      "name": "Unreal · Web",
+      "type": "port",
+      "approach": "web-unconfirmed",
+      "playability": "nao-verificado",
+      "developmentStage": "desconhecido",
+      "sourceKind": "website",
+      "github": null,
+      "instructionsUrl": "https://unrealcollection.games/u1/",
+      "evidenceUrl": "https://unrealcollection.games/u1/",
+      "discoveredVia": "https://www.inxanitylabs.com/games/unreal",
+      "reviewedAt": "2026-11-03",
+      "reviewedVersion": "5fa43e5b9a4b68e516558023cb3be84ce0a7bf2496740202b8b45e76fddcb5d4",
+      "reviewMethod": "documentation",
+      "origins": [
+        "Outro"
+      ],
+      "targets": [
+        "Web"
+      ],
+      "stars": null,
+      "starsCollectedAt": null,
+      "image": {
+        "url": "https://www.inxanitylabs.com/assets/games/unreal.webp",
+        "kind": "reference",
+        "source": "https://www.inxanitylabs.com/games/unreal",
+        "provider": "inxanity-declared-cover-v1",
+        "subject": "Unreal"
+      },
+      "browser": {
+        "url": "https://unrealcollection.games/u1/",
+        "access": "web",
+        "verification": "documentation",
+        "checkedAt": "2026-11-03T18:40:09.448814+00:00",
+        "pageCheck": "http-html",
+        "health": {
+          "status": "reachable",
+          "checkedAt": "2026-11-03T18:40:08.313460+00:00",
+          "method": "http-html",
+          "reason": null
+        }
+      },
+      "content": {
+        "pt": {
+          "summary": "Unreal no navegador: um jogo de tiro.",
+          "originalFiles": "Não verificado. Confira na página do jogo se são necessários arquivos próprios.",
+          "requirements": [
+            "Navegador atualizado; confira tecnologias, controles e requisitos no destino."
+          ],
+          "installation": [
+            "Abra o link direto pelo botão Jogar no navegador.",
+            "Siga as instruções da página do jogo.",
+            "Compartilhe erros e sua experiência na comunidade desta ficha."
+          ],
+          "limitations": "Abertura de página não comprova funcionamento de uma partida. Campanha, controles, desempenho e tecnologia não testados pelo Bora de Play. O hash identifica o HTML consultado. Os avisos de desenvolvimento da fonte foram preservados."
+        },
+        "en": {
+          "summary": "Unreal in your browser: a game focused on shooting.",
+          "originalFiles": "Not verified. Check the game page for any required files you must supply.",
+          "requirements": [
+            "An up-to-date browser; check technologies, controls and requirements at the destination."
+          ],
+          "installation": [
+            "Open the direct link using Play in browser.",
+            "Follow the instructions on the game page.",
+            "Share errors and your experience in this entry’s community section."
+          ],
+          "limitations": "Opening a page does not prove gameplay works. Campaign, controls, performance and technology have not been tested by Bora de Play. The hash identifies the consulted HTML. Development notices from the source were preserved."
+        },
+        "es": {
+          "summary": "Unreal en navegador: un juego de disparos.",
+          "originalFiles": "No verificado. Consulta si la página del juego requiere tus propios archivos.",
+          "requirements": [
+            "Navegador actualizado; consulta tecnologías, controles y requisitos en el destino."
+          ],
+          "installation": [
+            "Abre el enlace directo con Jugar en el navegador.",
+            "Sigue las instrucciones de la página del juego.",
+            "Comparte errores y tu experiencia en la comunidad de esta ficha."
+          ],
+          "limitations": "Abrir una página no demuestra que una partida funcione. Bora de Play no ha probado campaña, controles, rendimiento ni tecnología. El hash identifica el HTML consultado. Se conservaron los avisos de desarrollo de la fuente."
+        }
+      }
+    },
+    {
+      "id": "web-inx-95d823db03fd50",
+      "editionId": "web-inx-95d823db03fd50",
+      "game": "Unreal Tournament",
+      "name": "Unreal Tournament · Web",
+      "type": "port",
+      "approach": "web-unconfirmed",
+      "playability": "nao-verificado",
+      "developmentStage": "desconhecido",
+      "sourceKind": "website",
+      "github": null,
+      "instructionsUrl": "https://unrealcollection.games/ut99/",
+      "evidenceUrl": "https://unrealcollection.games/ut99/",
+      "discoveredVia": "https://www.inxanitylabs.com/games/unreal-tournament",
+      "reviewedAt": "2026-11-03",
+      "reviewedVersion": "42a1c7c4427a89b491f42fe7bbbbe26b8b5543fab0d8375154ea012c954580db",
+      "reviewMethod": "documentation",
+      "origins": [
+        "Outro"
+      ],
+      "targets": [
+        "Web"
+      ],
+      "stars": null,
+      "starsCollectedAt": null,
+      "image": {
+        "url": "https://www.inxanitylabs.com/assets/games/unreal-tournament.webp",
+        "kind": "reference",
+        "source": "https://www.inxanitylabs.com/games/unreal-tournament",
+        "provider": "inxanity-declared-cover-v1",
+        "subject": "Unreal Tournament"
+      },
+      "browser": {
+        "url": "https://unrealcollection.games/ut99/",
+        "access": "web",
+        "verification": "documentation",
+        "checkedAt": "2026-11-03T18:40:10.954660+00:00",
+        "pageCheck": "http-html",
+        "health": {
+          "status": "reachable",
+          "checkedAt": "2026-11-03T18:40:09.863253+00:00",
+          "method": "http-html",
+          "reason": null
+        }
+      },
+      "content": {
+        "pt": {
+          "summary": "Unreal Tournament no navegador: um jogo de tiro.",
+          "originalFiles": "Não verificado. Confira na página do jogo se são necessários arquivos próprios.",
+          "requirements": [
+            "Navegador atualizado; confira tecnologias, controles e requisitos no destino."
+          ],
+          "installation": [
+            "Abra o link direto pelo botão Jogar no navegador.",
+            "Siga as instruções da página do jogo.",
+            "Compartilhe erros e sua experiência na comunidade desta ficha."
+          ],
+          "limitations": "Abertura de página não comprova funcionamento de uma partida. Campanha, controles, desempenho e tecnologia não testados pelo Bora de Play. O hash identifica o HTML consultado. Os avisos de desenvolvimento da fonte foram preservados."
+        },
+        "en": {
+          "summary": "Unreal Tournament in your browser: a game focused on shooting.",
+          "originalFiles": "Not verified. Check the game page for any required files you must supply.",
+          "requirements": [
+            "An up-to-date browser; check technologies, controls and requirements at the destination."
+          ],
+          "installation": [
+            "Open the direct link using Play in browser.",
+            "Follow the instructions on the game page.",
+            "Share errors and your experience in this entry’s community section."
+          ],
+          "limitations": "Opening a page does not prove gameplay works. Campaign, controls, performance and technology have not been tested by Bora de Play. The hash identifies the consulted HTML. Development notices from the source were preserved."
+        },
+        "es": {
+          "summary": "Unreal Tournament en navegador: un juego de disparos.",
+          "originalFiles": "No verificado. Consulta si la página del juego requiere tus propios archivos.",
+          "requirements": [
+            "Navegador actualizado; consulta tecnologías, controles y requisitos en el destino."
+          ],
+          "installation": [
+            "Abre el enlace directo con Jugar en el navegador.",
+            "Sigue las instrucciones de la página del juego.",
+            "Comparte errores y tu experiencia en la comunidad de esta ficha."
+          ],
+          "limitations": "Abrir una página no demuestra que una partida funcione. Bora de Play no ha probado campaña, controles, rendimiento ni tecnología. El hash identifica el HTML consultado. Se conservaron los avisos de desarrollo de la fuente."
+        }
+      }
+    },
+    {
+      "id": "web-inx-1b48141f72eec5",
+      "editionId": "web-inx-1b48141f72eec5",
+      "game": "Unreal Tournament 2004",
+      "name": "Unreal Tournament 2004 · Web",
+      "type": "port",
+      "approach": "web-unconfirmed",
+      "playability": "nao-verificado",
+      "developmentStage": "desconhecido",
+      "sourceKind": "website",
+      "github": null,
+      "instructionsUrl": "https://unrealcollection.games/ut2004/",
+      "evidenceUrl": "https://unrealcollection.games/ut2004/",
+      "discoveredVia": "https://www.inxanitylabs.com/games/unreal-tournament-2004",
+      "reviewedAt": "2026-11-03",
+      "reviewedVersion": "113a9067d609408f7c0c613e36b7ecdc4b53fa2f61e839d18e2b57743cd36986",
+      "reviewMethod": "documentation",
+      "origins": [
+        "Outro"
+      ],
+      "targets": [
+        "Web"
+      ],
+      "stars": null,
+      "starsCollectedAt": null,
+      "image": {
+        "url": "https://www.inxanitylabs.com/assets/games/unreal-tournament-2004.webp",
+        "kind": "reference",
+        "source": "https://www.inxanitylabs.com/games/unreal-tournament-2004",
+        "provider": "inxanity-declared-cover-v1",
+        "subject": "Unreal Tournament 2004"
+      },
+      "browser": {
+        "url": "https://unrealcollection.games/ut2004/",
+        "access": "web",
+        "verification": "documentation",
+        "checkedAt": "2026-11-03T18:40:12.444165+00:00",
+        "pageCheck": "http-html",
+        "health": {
+          "status": "reachable",
+          "checkedAt": "2026-11-03T18:40:11.394608+00:00",
+          "method": "http-html",
+          "reason": null
+        }
+      },
+      "content": {
+        "pt": {
+          "summary": "Unreal Tournament 2004 no navegador: um jogo de tiro.",
+          "originalFiles": "Não verificado. Confira na página do jogo se são necessários arquivos próprios.",
+          "requirements": [
+            "Navegador atualizado; confira tecnologias, controles e requisitos no destino."
+          ],
+          "installation": [
+            "Abra o link direto pelo botão Jogar no navegador.",
+            "Siga as instruções da página do jogo.",
+            "Compartilhe erros e sua experiência na comunidade desta ficha."
+          ],
+          "limitations": "Abertura de página não comprova funcionamento de uma partida. Campanha, controles, desempenho e tecnologia não testados pelo Bora de Play. O hash identifica o HTML consultado. Os avisos de desenvolvimento da fonte foram preservados."
+        },
+        "en": {
+          "summary": "Unreal Tournament 2004 in your browser: a game focused on shooting.",
+          "originalFiles": "Not verified. Check the game page for any required files you must supply.",
+          "requirements": [
+            "An up-to-date browser; check technologies, controls and requirements at the destination."
+          ],
+          "installation": [
+            "Open the direct link using Play in browser.",
+            "Follow the instructions on the game page.",
+            "Share errors and your experience in this entry’s community section."
+          ],
+          "limitations": "Opening a page does not prove gameplay works. Campaign, controls, performance and technology have not been tested by Bora de Play. The hash identifies the consulted HTML. Development notices from the source were preserved."
+        },
+        "es": {
+          "summary": "Unreal Tournament 2004 en navegador: un juego de disparos.",
+          "originalFiles": "No verificado. Consulta si la página del juego requiere tus propios archivos.",
+          "requirements": [
+            "Navegador actualizado; consulta tecnologías, controles y requisitos en el destino."
+          ],
+          "installation": [
+            "Abre el enlace directo con Jugar en el navegador.",
+            "Sigue las instrucciones de la página del juego.",
+            "Comparte errores y tu experiencia en la comunidad de esta ficha."
+          ],
+          "limitations": "Abrir una página no demuestra que una partida funcione. Bora de Play no ha probado campaña, controles, rendimiento ni tecnología. El hash identifica el HTML consultado. Se conservaron los avisos de desarrollo de la fuente."
+        }
+      }
     }
   ],
   "automation": {
-    "lastRunAt": "2026-11-03T04:01:30.361598+00:00",
+    "lastRunAt": "2026-11-03T18:38:25.493973+00:00",
     "metadata": "updated",
     "discovery": "completed",
     "inxanity": {
       "status": "completed",
-      "checkedAt": "2026-11-03T04:03:09.132275+00:00",
+      "checkedAt": "2026-11-03T18:39:56.983480+00:00",
       "discovered": 175,
       "reviewed": 6,
       "added": 6,
       "duplicates": 0,
-      "pending": 24
+      "pending": 18
     },
     "images": {
       "filled": 0,
@@ -13365,8 +13887,8 @@
       "unavailableCovers": 0,
       "missingGameCovers": 0
     },
-    "totalProjects": 154,
-    "pendingRepositories": 184,
+    "totalProjects": 160,
+    "pendingRepositories": 188,
     "reviewedRepositories": 6,
     "lowRelevanceRepositories": 114,
     "ruleVersion": "documentary-v2"
