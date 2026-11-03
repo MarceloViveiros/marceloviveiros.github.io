@@ -1,14 +1,56 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-03T03:59:39.063978+00:00",
+  "updatedAt": "2026-11-03T18:30:26.209469+00:00",
   "triage": {
     "ruleVersion": "documentary-v2",
     "reviewed": 20,
-    "added": 1,
+    "added": 0,
     "pending": 19,
     "outOfScope": 0
   },
   "projects": [
+    {
+      "repository": "PDEYVID/HWDER---mod-pt-br",
+      "github": "https://github.com/PDEYVID/HWDER---mod-pt-br",
+      "stars": 2,
+      "checkedAt": "2026-11-03T18:32:54.405268+00:00",
+      "evidenceUrl": "https://github.com/PDEYVID/HWDER---mod-pt-br/blob/e904adf812c4921f27c3a34360a47f16aead768a/README.md"
+    },
+    {
+      "repository": "MateoEscobar/TW-Recomp",
+      "github": "https://github.com/MateoEscobar/TW-Recomp",
+      "stars": 2,
+      "checkedAt": "2026-11-03T18:32:35.969092+00:00",
+      "evidenceUrl": "https://github.com/MateoEscobar/TW-Recomp/blob/45a4baa1cad7a315cf09e7825d05ced7c9ac690f/README.md"
+    },
+    {
+      "repository": "LasVola/hauntingground-recomp",
+      "github": "https://github.com/LasVola/hauntingground-recomp",
+      "stars": 2,
+      "checkedAt": "2026-11-03T18:32:34.145456+00:00",
+      "evidenceUrl": "https://github.com/LasVola/hauntingground-recomp/blob/85e49ffaa0f580ff86379d044a0bcf16cc4a2445/README.md"
+    },
+    {
+      "repository": "vs-sr-dev/pc-dynastywarriors2",
+      "github": "https://github.com/vs-sr-dev/pc-dynastywarriors2",
+      "stars": 3,
+      "checkedAt": "2026-11-03T18:32:28.211804+00:00",
+      "evidenceUrl": "https://github.com/vs-sr-dev/pc-dynastywarriors2/blob/c99c207f837839b271b552b4896febf817a12a53/README.md"
+    },
+    {
+      "repository": "Meluxz/iceage2-sw",
+      "github": "https://github.com/Meluxz/iceage2-sw",
+      "stars": 3,
+      "checkedAt": "2026-11-03T18:32:20.340596+00:00",
+      "evidenceUrl": "https://github.com/Meluxz/iceage2-sw/blob/1b3ebc35032e6dc097fa8d1072de9fb47d8eac2b/README.md"
+    },
+    {
+      "repository": "LeandroSSB/moh-vanguard-recomp",
+      "github": "https://github.com/LeandroSSB/moh-vanguard-recomp",
+      "stars": 3,
+      "checkedAt": "2026-11-03T18:32:16.785613+00:00",
+      "evidenceUrl": "https://github.com/LeandroSSB/moh-vanguard-recomp/blob/0c2f6dba8731c497fbe615b24ae878bad1cc417c/README.md"
+    },
     {
       "repository": "TheBozos/VP2S_Recomp",
       "github": "https://github.com/TheBozos/VP2S_Recomp",
@@ -316,48 +358,6 @@
       "stars": 8,
       "checkedAt": "2026-10-29T17:30:33.710223+00:00",
       "evidenceUrl": "https://github.com/minimalice92/bloodwake-recomp/blob/e631edddfe56d22344e9f696923aeb6d78a9e7ba/README.md"
-    },
-    {
-      "repository": "zenit2893-cmyk/Call-of-Duty-3-PC-Editon",
-      "github": "https://github.com/zenit2893-cmyk/Call-of-Duty-3-PC-Editon",
-      "stars": 38,
-      "checkedAt": "2026-10-29T17:30:30.037162+00:00",
-      "evidenceUrl": "https://github.com/zenit2893-cmyk/Call-of-Duty-3-PC-Editon/blob/62ab3b08e4db1a5f21fb0c13b49d4a3ebd004812/README.md"
-    },
-    {
-      "repository": "YodaMMM/NightfirePort",
-      "github": "https://github.com/YodaMMM/NightfirePort",
-      "stars": 6,
-      "checkedAt": "2026-10-29T02:31:51.048672+00:00",
-      "evidenceUrl": "https://github.com/YodaMMM/NightfirePort/blob/c0d3e92ef6c5efc5d3d6556320bb29a3caf69205/README.md"
-    },
-    {
-      "repository": "Toyz/rugrats",
-      "github": "https://github.com/Toyz/rugrats",
-      "stars": 6,
-      "checkedAt": "2026-10-29T02:31:47.149134+00:00",
-      "evidenceUrl": "https://github.com/Toyz/rugrats/blob/ba9a7253401963d2edffd8cb80a08eaf9082c563/README.md"
-    },
-    {
-      "repository": "koaque/Metropolismania-PC",
-      "github": "https://github.com/koaque/Metropolismania-PC",
-      "stars": 6,
-      "checkedAt": "2026-10-29T02:31:45.630492+00:00",
-      "evidenceUrl": "https://github.com/koaque/Metropolismania-PC/blob/75bc5a3ac3311406184d436150a845954538170b/README.md"
-    },
-    {
-      "repository": "Guuzzeji/sneaky-whopper-recomp",
-      "github": "https://github.com/Guuzzeji/sneaky-whopper-recomp",
-      "stars": 6,
-      "checkedAt": "2026-10-29T02:31:44.003634+00:00",
-      "evidenceUrl": "https://github.com/Guuzzeji/sneaky-whopper-recomp/blob/13fdc35839c3c4943009cd69847367f835cf1098/README.md"
-    },
-    {
-      "repository": "bertibertig/Amped2-Recomp",
-      "github": "https://github.com/bertibertig/Amped2-Recomp",
-      "stars": 6,
-      "checkedAt": "2026-10-29T02:31:42.852110+00:00",
-      "evidenceUrl": "https://github.com/bertibertig/Amped2-Recomp/blob/24a222b3b6962eccab9238a9cf1912e73fc25ea5/README.md"
     }
   ]
 }
