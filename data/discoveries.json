@@ -1,14 +1,28 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-04T03:03:56.213838+00:00",
+  "updatedAt": "2026-11-04T18:41:53.609200+00:00",
   "triage": {
     "ruleVersion": "documentary-v2",
     "reviewed": 20,
     "added": 0,
-    "pending": 20,
+    "pending": 18,
     "outOfScope": 0
   },
   "projects": [
+    {
+      "repository": "denzi-gh/crashwoc-nuworld",
+      "github": "https://github.com/denzi-gh/crashwoc-nuworld",
+      "stars": 1,
+      "checkedAt": "2026-11-04T18:43:58.232949+00:00",
+      "evidenceUrl": "https://github.com/denzi-gh/crashwoc-nuworld/blob/83e1ae7272c4d6ab569a71b135c084d5869a41df/README.md"
+    },
+    {
+      "repository": "LunarLaurus/adams-ant-farm-recomp",
+      "github": "https://github.com/LunarLaurus/adams-ant-farm-recomp",
+      "stars": 2,
+      "checkedAt": "2026-11-04T18:43:48.815003+00:00",
+      "evidenceUrl": "https://github.com/LunarLaurus/adams-ant-farm-recomp/blob/e21894159461074d7eb1806f6d6dae2128845ec0/README.md"
+    },
     {
       "repository": "batatinhafcbatatinha-pixel/ben10-alien-force-pc",
       "github": "https://github.com/batatinhafcbatatinha-pixel/ben10-alien-force-pc",
@@ -344,20 +358,6 @@
       "stars": 5,
       "checkedAt": "2026-10-30T02:41:42.971351+00:00",
       "evidenceUrl": "https://github.com/yacineolivier-maker/ConkerLR-Recomp/blob/4327951a65affc4af9794a0ac242e149594cdcab/README.md"
-    },
-    {
-      "repository": "Petexy/Tekken-Tag-2-Ultimate-Edition",
-      "github": "https://github.com/Petexy/Tekken-Tag-2-Ultimate-Edition",
-      "stars": 76,
-      "checkedAt": "2026-10-30T02:41:30.227739+00:00",
-      "evidenceUrl": "https://github.com/Petexy/Tekken-Tag-2-Ultimate-Edition/blob/6594a1955178b1c6434564df3d075b948cfca4c3/README.md"
-    },
-    {
-      "repository": "TekRantGaming/whopping-recompilation-collection",
-      "github": "https://github.com/TekRantGaming/whopping-recompilation-collection",
-      "stars": 5,
-      "checkedAt": "2026-10-29T17:30:50.253142+00:00",
-      "evidenceUrl": "https://github.com/TekRantGaming/whopping-recompilation-collection/blob/fe305354670c5ab0545c25d8e79e22584ed48de3/README.md"
     }
   ]
 }
