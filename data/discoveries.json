@@ -1,14 +1,49 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-03T18:30:26.209469+00:00",
+  "updatedAt": "2026-11-04T03:03:56.213838+00:00",
   "triage": {
     "ruleVersion": "documentary-v2",
     "reviewed": 20,
     "added": 0,
-    "pending": 19,
+    "pending": 20,
     "outOfScope": 0
   },
   "projects": [
+    {
+      "repository": "batatinhafcbatatinha-pixel/ben10-alien-force-pc",
+      "github": "https://github.com/batatinhafcbatatinha-pixel/ben10-alien-force-pc",
+      "stars": 1,
+      "checkedAt": "2026-11-04T03:06:16.502162+00:00",
+      "evidenceUrl": "https://github.com/batatinhafcbatatinha-pixel/ben10-alien-force-pc/blob/58ca6f5b9c8d1a46cb3acab93a388d85bc8bb817/README.md"
+    },
+    {
+      "repository": "tsapZ/SuperChargersRecomp",
+      "github": "https://github.com/tsapZ/SuperChargersRecomp",
+      "stars": 2,
+      "checkedAt": "2026-11-04T03:06:04.303645+00:00",
+      "evidenceUrl": "https://github.com/tsapZ/SuperChargersRecomp/blob/a71b3d46f52bb7b9d74e1b8f1e708af722932437/README.md"
+    },
+    {
+      "repository": "tsapZ/GiantsRecomp",
+      "github": "https://github.com/tsapZ/GiantsRecomp",
+      "stars": 2,
+      "checkedAt": "2026-11-04T03:06:02.307957+00:00",
+      "evidenceUrl": "https://github.com/tsapZ/GiantsRecomp/blob/17cc3055ee2e97299f1cdb1d7d5293ca2c6d34e1/README.md"
+    },
+    {
+      "repository": "PS2recomp-swiss-team/tekken4-recomp",
+      "github": "https://github.com/PS2recomp-swiss-team/tekken4-recomp",
+      "stars": 2,
+      "checkedAt": "2026-11-04T03:05:53.192006+00:00",
+      "evidenceUrl": "https://github.com/PS2recomp-swiss-team/tekken4-recomp/blob/eb256343d8c5c99569a034b251735a6ea9fb3028/README.md"
+    },
+    {
+      "repository": "tsapZ/TrapTeamRecomp",
+      "github": "https://github.com/tsapZ/TrapTeamRecomp",
+      "stars": 3,
+      "checkedAt": "2026-11-04T03:05:46.348555+00:00",
+      "evidenceUrl": "https://github.com/tsapZ/TrapTeamRecomp/blob/847719efd87562cc0e7813cb72c6f285a2519595/README.md"
+    },
     {
       "repository": "PDEYVID/HWDER---mod-pt-br",
       "github": "https://github.com/PDEYVID/HWDER---mod-pt-br",
@@ -323,41 +358,6 @@
       "stars": 5,
       "checkedAt": "2026-10-29T17:30:50.253142+00:00",
       "evidenceUrl": "https://github.com/TekRantGaming/whopping-recompilation-collection/blob/fe305354670c5ab0545c25d8e79e22584ed48de3/README.md"
-    },
-    {
-      "repository": "samuelMadureira23/allstars-port",
-      "github": "https://github.com/samuelMadureira23/allstars-port",
-      "stars": 5,
-      "checkedAt": "2026-10-29T17:30:48.925660+00:00",
-      "evidenceUrl": "https://github.com/samuelMadureira23/allstars-port/blob/44b1997092abac10d006cc49c2eb891b65aa9825/README.md"
-    },
-    {
-      "repository": "mattfj10/splatterhouse-PC",
-      "github": "https://github.com/mattfj10/splatterhouse-PC",
-      "stars": 5,
-      "checkedAt": "2026-10-29T17:30:44.902132+00:00",
-      "evidenceUrl": "https://github.com/mattfj10/splatterhouse-PC/blob/ed1d19a69863b8a484b366816c5806e8a25b1244/README.md"
-    },
-    {
-      "repository": "raulzrrs/swsh-recomp",
-      "github": "https://github.com/raulzrrs/swsh-recomp",
-      "stars": 6,
-      "checkedAt": "2026-10-29T17:30:39.882979+00:00",
-      "evidenceUrl": "https://github.com/raulzrrs/swsh-recomp/blob/d8bc2ec05189907840aa1de026bc633700d47e00/README.md"
-    },
-    {
-      "repository": "N900x4/HauntingGround-Recomp-Project",
-      "github": "https://github.com/N900x4/HauntingGround-Recomp-Project",
-      "stars": 6,
-      "checkedAt": "2026-10-29T17:30:38.703921+00:00",
-      "evidenceUrl": "https://github.com/N900x4/HauntingGround-Recomp-Project/blob/e1203cb6e4b3b2f510cfc293b37e857e1535375c/README.md"
-    },
-    {
-      "repository": "minimalice92/bloodwake-recomp",
-      "github": "https://github.com/minimalice92/bloodwake-recomp",
-      "stars": 8,
-      "checkedAt": "2026-10-29T17:30:33.710223+00:00",
-      "evidenceUrl": "https://github.com/minimalice92/bloodwake-recomp/blob/e631edddfe56d22344e9f696923aeb6d78a9e7ba/README.md"
     }
   ]
 }
