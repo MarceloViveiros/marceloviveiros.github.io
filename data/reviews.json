@@ -37,6 +37,39 @@
           "cons": []
         }
       }
+    },
+    {
+      "id": "the-sinking-city-2",
+      "game": "The Sinking City 2",
+      "platform": "PC",
+      "progress": "completed",
+      "score": 7,
+      "reviewedAt": "2026-11-04",
+      "image": {
+        "url": "assets/reviews/the-sinking-city-2.jpg",
+        "kind": "reference",
+        "source": "https://store.steampowered.com/app/2825860/The_Sinking_City_2/"
+      },
+      "content": {
+        "pt": {
+          "summary": "Zerei em cerca de 10h40. A história e a ambientação lovecraftiana me prenderam, mas a repetição dos inimigos pesou na nota.",
+          "opinion": "Gráficos\nSão bons, sem nada de extraordinário, e ajudam muito na ambientação.\n\nDesempenho\nNo meu PC, rodou liso, sem problemas.\n\nHistória\nA história e a ambientação são os pontos mais fortes. Gosto muito de literatura lovecraftiana e foi justamente isso que mais me prendeu. Queria que o jogo explorasse mais desse universo.\n\nJogabilidade\nÉ boa no geral. Em alguns pontos, o personagem ficou preso, e a câmera atrapalhou um pouco em raras ocasiões. Também senti falta de mais variedade de inimigos.\n\nComplexidade\nAs mecânicas são simples e intuitivas.\n\nDificuldade\nAcho que joguei no normal. Alguns monstros deram mais trabalho, mas no geral achei o jogo bem fácil.\n\nTempo de jogo\nLevei cerca de 10 horas e 40 minutos pra zerar. Achei a campanha um pouco curta.\n\nÁudio e trilha\nSão muito bons. Os sons deixam tudo mais imersivo, principalmente nas áreas escuras e fechadas e nos momentos de tensão.\n\nBugs\nFora as vezes em que o personagem ficou preso, não encontrei nada que valesse mencionar.\n\nPra quem eu recomendo\nPra quem curte terror, suspense, investigação e puzzles.\n\nCompensa comprar?\nSim. Pelo preço que vi, já vale a compra sem esperar promoção.\n\nNota final\n7/10. Gostei bastante. A repetição dos inimigos e a vontade de ver mais do universo de Lovecraft pesaram na nota, mas no geral achei um ótimo jogo.",
+          "pros": [],
+          "cons": []
+        },
+        "en": {
+          "summary": "I finished it in about 10 hours and 40 minutes. The story and Lovecraftian atmosphere drew me in, but the repetitive enemies affected my score.",
+          "opinion": "Graphics\nGood visuals that do a lot for the atmosphere, even if they do not stand out on their own.\n\nPerformance\nIt ran smoothly on my PC without any performance issues.\n\nStory\nThe story and atmosphere are the highlights. I love Lovecraftian literature, and that was what drew me in most. I wish the game had explored more of that world.\n\nGameplay\nGood overall. My character got stuck in a few spots, and the camera occasionally got in the way. I also wanted more enemy variety.\n\nComplexity\nThe mechanics are simple and intuitive.\n\nDifficulty\nI think I played on Normal. Some monsters took more effort, but overall I found the game quite easy.\n\nPlaytime\nIt took me about 10 hours and 40 minutes to finish. The campaign felt a little short.\n\nAudio and soundtrack\nBoth are very good. The sound makes the game more immersive, especially in dark, enclosed areas and tense moments.\n\nBugs\nApart from getting stuck in a few spots, I did not run into anything worth mentioning.\n\nWho I recommend it to\nAnyone who enjoys horror, suspense, investigation and puzzles.\n\nWorth buying?\nYes. At the price I saw, I think it is worth buying without waiting for a sale.\n\nFinal score\n7/10. I enjoyed it a lot. Repetitive enemies and wanting more of Lovecraft’s world affected my score, but overall I thought it was a great game.",
+          "pros": [],
+          "cons": []
+        },
+        "es": {
+          "summary": "Lo terminé en unas 10 horas y 40 minutos. La historia y la ambientación lovecraftiana me atraparon, pero la repetición de los enemigos pesó en la nota.",
+          "opinion": "Gráficos\nSon buenos y ayudan mucho a crear ambiente, aunque por sí solos no destacan.\n\nRendimiento\nEn mi PC funcionó con fluidez y sin problemas de rendimiento.\n\nHistoria\nLa historia y la ambientación son lo mejor. Me gusta mucho la literatura lovecraftiana y eso fue lo que más me atrapó. Me habría gustado que el juego explorara más ese universo.\n\nJugabilidad\nEs buena en general. En algunos puntos el personaje se quedó atascado y, en contadas ocasiones, la cámara estorbó un poco. También eché de menos más variedad de enemigos.\n\nComplejidad\nLas mecánicas son sencillas e intuitivas.\n\nDificultad\nCreo que jugué en normal. Algunos monstruos dieron más trabajo, pero en general me pareció bastante fácil.\n\nTiempo de juego\nTardé unas 10 horas y 40 minutos en terminarlo. La campaña me pareció un poco corta.\n\nAudio y banda sonora\nSon muy buenos. El sonido aumenta la inmersión, sobre todo en las zonas oscuras y cerradas y en los momentos de tensión.\n\nErrores\nAparte de las veces que el personaje se quedó atascado, no encontré nada que valiera la pena mencionar.\n\nA quién se lo recomiendo\nA quien disfrute del terror, el suspense, la investigación y los puzles.\n\n¿Vale la pena comprarlo?\nSí. Por el precio que vi, vale la pena comprarlo sin esperar una oferta.\n\nNota final\n7/10. Me gustó mucho. La repetición de los enemigos y las ganas de ver más del universo de Lovecraft pesaron en la nota, pero en general me pareció un gran juego.",
+          "pros": [],
+          "cons": []
+        }
+      }
     }
   ]
 }
