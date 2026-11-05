@@ -1,14 +1,35 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-04T18:41:53.609200+00:00",
+  "updatedAt": "2026-11-05T03:33:05.340422+00:00",
   "triage": {
     "ruleVersion": "documentary-v2",
     "reviewed": 20,
-    "added": 0,
-    "pending": 18,
+    "added": 2,
+    "pending": 13,
     "outOfScope": 0
   },
   "projects": [
+    {
+      "repository": "KaikoClanworth1/wwe-crush-hour-pc",
+      "github": "https://github.com/KaikoClanworth1/wwe-crush-hour-pc",
+      "stars": 1,
+      "checkedAt": "2026-11-05T03:35:23.799075+00:00",
+      "evidenceUrl": "https://github.com/KaikoClanworth1/wwe-crush-hour-pc/blob/68f874e5d3595b0d0d8dd845b07aa6a8bfee0d54/README.md"
+    },
+    {
+      "repository": "ioritree/kyoei_toshi_pc",
+      "github": "https://github.com/ioritree/kyoei_toshi_pc",
+      "stars": 1,
+      "checkedAt": "2026-11-05T03:35:17.097320+00:00",
+      "evidenceUrl": "https://github.com/ioritree/kyoei_toshi_pc/blob/b7bc8d06506fcb9e028398c24283ef2b759f5bef/README.md"
+    },
+    {
+      "repository": "Korvonordico/shadow-of-rome-recompiled",
+      "github": "https://github.com/Korvonordico/shadow-of-rome-recompiled",
+      "stars": 3,
+      "checkedAt": "2026-11-05T03:35:03.979022+00:00",
+      "evidenceUrl": "https://github.com/Korvonordico/shadow-of-rome-recompiled/blob/617258f36448b614ec4bac4ddae1436f98673f7e/README.md"
+    },
     {
       "repository": "denzi-gh/crashwoc-nuworld",
       "github": "https://github.com/denzi-gh/crashwoc-nuworld",
@@ -337,27 +358,6 @@
       "stars": 23,
       "checkedAt": "2026-10-30T17:06:05.760807+00:00",
       "evidenceUrl": "https://github.com/hk21x/nightfire-recomp/blob/6148327124be2b46ed83771904d9113bd7dc67cf/README.md"
-    },
-    {
-      "repository": "badcompany94-rcmp/project-tandem",
-      "github": "https://github.com/badcompany94-rcmp/project-tandem",
-      "stars": 40,
-      "checkedAt": "2026-10-30T17:06:02.017603+00:00",
-      "evidenceUrl": "https://github.com/badcompany94-rcmp/project-tandem/blob/cde2783a34742c6725a47295f2ada77c684dbf3c/README.md"
-    },
-    {
-      "repository": "Comfubar/PS1-Recomp-Ports",
-      "github": "https://github.com/Comfubar/PS1-Recomp-Ports",
-      "stars": 4,
-      "checkedAt": "2026-10-30T02:41:48.558963+00:00",
-      "evidenceUrl": "https://github.com/Comfubar/PS1-Recomp-Ports/blob/7c3133e8f7ba81fe30c6c6b41fefa79c4684226c/README.md"
-    },
-    {
-      "repository": "yacineolivier-maker/ConkerLR-Recomp",
-      "github": "https://github.com/yacineolivier-maker/ConkerLR-Recomp",
-      "stars": 5,
-      "checkedAt": "2026-10-30T02:41:42.971351+00:00",
-      "evidenceUrl": "https://github.com/yacineolivier-maker/ConkerLR-Recomp/blob/4327951a65affc4af9794a0ac242e149594cdcab/README.md"
     }
   ]
 }
