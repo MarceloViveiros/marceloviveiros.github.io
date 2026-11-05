@@ -1,14 +1,28 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-05T03:33:05.340422+00:00",
+  "updatedAt": "2026-11-05T18:49:06.649422+00:00",
   "triage": {
     "ruleVersion": "documentary-v2",
     "reviewed": 20,
-    "added": 2,
-    "pending": 13,
+    "added": 1,
+    "pending": 19,
     "outOfScope": 0
   },
   "projects": [
+    {
+      "repository": "Aulcreen/TenchuZ-Xbox-Recomp",
+      "github": "https://github.com/Aulcreen/TenchuZ-Xbox-Recomp",
+      "stars": 1,
+      "checkedAt": "2026-11-05T18:51:21.754473+00:00",
+      "evidenceUrl": "https://github.com/Aulcreen/TenchuZ-Xbox-Recomp/blob/e2d2a08d7ea8cf4dc39f0c990f395f7f34e4e3d0/README.md"
+    },
+    {
+      "repository": "CalinGraphics/fifa-world-cup-2010-recompiled",
+      "github": "https://github.com/CalinGraphics/fifa-world-cup-2010-recompiled",
+      "stars": 4,
+      "checkedAt": "2026-11-05T18:51:12.930688+00:00",
+      "evidenceUrl": "https://github.com/CalinGraphics/fifa-world-cup-2010-recompiled/blob/498d18ae09175d4991b24b633a9a5f2e0e1cc73e/README.md"
+    },
     {
       "repository": "KaikoClanworth1/wwe-crush-hour-pc",
       "github": "https://github.com/KaikoClanworth1/wwe-crush-hour-pc",
@@ -344,20 +358,6 @@
       "stars": 101,
       "checkedAt": "2026-10-31T02:26:47.034765+00:00",
       "evidenceUrl": "https://github.com/Vnnc1/gow-native-pc/blob/ae9c3dba15656b777d1df038d22c7aa6b4b56cd1/README.md"
-    },
-    {
-      "repository": "k1gs/Drakengard3Recompile",
-      "github": "https://github.com/k1gs/Drakengard3Recompile",
-      "stars": 4,
-      "checkedAt": "2026-10-30T17:06:25.895552+00:00",
-      "evidenceUrl": "https://github.com/k1gs/Drakengard3Recompile/blob/2c4eb514c1b3ef7b4c59c45958411885ac3d9f50/README.md"
-    },
-    {
-      "repository": "hk21x/nightfire-recomp",
-      "github": "https://github.com/hk21x/nightfire-recomp",
-      "stars": 23,
-      "checkedAt": "2026-10-30T17:06:05.760807+00:00",
-      "evidenceUrl": "https://github.com/hk21x/nightfire-recomp/blob/6148327124be2b46ed83771904d9113bd7dc67cf/README.md"
     }
   ]
 }
