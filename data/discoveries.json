@@ -1,14 +1,28 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-06T15:15:01.217302+00:00",
+  "updatedAt": "2026-11-06T18:01:05.647342+00:00",
   "triage": {
     "ruleVersion": "documentary-v2",
     "reviewed": 20,
-    "added": 0,
-    "pending": 19,
+    "added": 2,
+    "pending": 17,
     "outOfScope": 0
   },
   "projects": [
+    {
+      "repository": "KelvinC54/nascar-rumble-pc",
+      "github": "https://github.com/KelvinC54/nascar-rumble-pc",
+      "stars": 0,
+      "checkedAt": "2026-11-06T18:03:08.638915+00:00",
+      "evidenceUrl": "https://github.com/KelvinC54/nascar-rumble-pc/blob/ef87e29c4795811ba66eca237f68a84d708a7f4a/README.md"
+    },
+    {
+      "repository": "bassobr/Far-Cry-Instincts-Recomp",
+      "github": "https://github.com/bassobr/Far-Cry-Instincts-Recomp",
+      "stars": 2,
+      "checkedAt": "2026-11-06T18:02:50.937153+00:00",
+      "evidenceUrl": "https://github.com/bassobr/Far-Cry-Instincts-Recomp/blob/224e25570ad790b2887984f2e82ecbb2728f5aed/README.md"
+    },
     {
       "repository": "TheBozos/ChampionsOfNorrath_Recomp",
       "github": "https://github.com/TheBozos/ChampionsOfNorrath_Recomp",
@@ -344,20 +358,6 @@
       "stars": 3,
       "checkedAt": "2026-10-31T02:26:58.148532+00:00",
       "evidenceUrl": "https://github.com/Astrr00/BloodbornePC/blob/802e3f2bf2e38e71da0a46362ae4510a429f7213/README.md"
-    },
-    {
-      "repository": "abilliontokens/fuzionfrenzy-recomp",
-      "github": "https://github.com/abilliontokens/fuzionfrenzy-recomp",
-      "stars": 3,
-      "checkedAt": "2026-10-31T02:26:55.708359+00:00",
-      "evidenceUrl": "https://github.com/abilliontokens/fuzionfrenzy-recomp/blob/071dbd97bdc098c4647cc24c99f9eae693fde1eb/README.md"
-    },
-    {
-      "repository": "8bitninja64/TenchuZ-PC",
-      "github": "https://github.com/8bitninja64/TenchuZ-PC",
-      "stars": 3,
-      "checkedAt": "2026-10-31T02:26:54.559071+00:00",
-      "evidenceUrl": "https://github.com/8bitninja64/TenchuZ-PC/blob/617eeda08a48b20a90a04fa724fcfde4102368a5/README.md"
     }
   ]
 }
