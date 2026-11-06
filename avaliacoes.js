@@ -36,7 +36,7 @@ async function initReviews(){
  document.querySelectorAll('a[href^="avaliacoes.html"],a[href^="navegador.html"]').forEach(a=>a.href=a.getAttribute('href').split('?')[0]+'?lang='+language);
  options('review-platform',[['',text('all')],...[...new Set(rows.map(p=>p.platform))].sort().map(v=>[v,v])]);options('review-progress',[['',text('all')],...['impressions','played','completed'].map(v=>[v,text(v)])]);options('review-minimum',[['0',text('any')],...['5','6','7','8','9'].map(v=>[v,v+'+'])]);options('review-sort',[['recent',text('recent')],['highest',text('highest')]]);
  const id=new URL(location.href).searchParams.get('id'),p=rows.find(v=>v.id===id);detail.hidden=!p;form.closest('.review-catalog').hidden=!!p;detail.replaceChildren();
- if(p){const c=p.content[language],back=el('a',text('back'),'text-link');back.href='avaliacoes.html?lang='+language;const art=el('article');art.append(back,cover(p),el('span',text(p.progress)+' · '+p.platform,'eyebrow'),el('h1',p.game),score(p),el('p',text('date')+' '+date(p.reviewedAt)),el('p',c.summary,'project-summary'));
+ if(p){document.title=p.game+' | '+text('nav')+' | Bora de Play';document.querySelector('meta[name="description"]').content=p.content[language].summary;const c=p.content[language],back=el('a',text('back'),'text-link');back.href='avaliacoes.html?lang='+language;const art=el('article');art.append(back,cover(p),el('span',text(p.progress)+' · '+p.platform,'eyebrow'),el('h1',p.game),score(p),el('p',text('date')+' '+date(p.reviewedAt)),el('p',c.summary,'project-summary'));
  if(p.playlistId||p.videoId){
   const actions=el('div',undefined,'review-channel-actions');
   art.append(el('h2',text('video')),actions);

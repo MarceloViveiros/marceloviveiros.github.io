@@ -2,7 +2,7 @@
 (()=>{
  const ID='G-HSPRZZMVC1'; // Public GA4 measurement ID, configured after creating the web stream.
  const KEY='bora-analytics-consent-v1', MAX_AGE=180*24*60*60*1000;
- if(!/^G-[A-Z0-9]+$/.test(ID)||!['marceloviveiros.github.io','localhost','127.0.0.1'].includes(location.hostname))return;
+ if(!/^G-[A-Z0-9]+$/.test(ID)||!['boradeplay.blog.br','www.boradeplay.blog.br','marceloviveiros.github.io','localhost','127.0.0.1'].includes(location.hostname))return;
  const copy={
   pt:{title:'Podemos contar sua visita?',body:'Usamos o Google Analytics para entender as visitas e melhorar o Bora de Play. Com sua permissão, ele usa cookies para medir páginas acessadas e a origem das visitas. Você pode recusar e continuar navegando normalmente.',yes:'Permitir estatísticas',no:'Recusar estatísticas',privacy:'Saiba mais',settings:'Preferências de visitas'},
   en:{title:'May we count your visit?',body:'We use Google Analytics to understand visits and improve Bora de Play. With your permission, it uses cookies to measure page views and where visits come from. You can decline and keep browsing normally.',yes:'Allow statistics',no:'Decline statistics',privacy:'Learn more',settings:'Visit preferences'},
