@@ -1,14 +1,42 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-06T18:01:05.647342+00:00",
+  "updatedAt": "2026-11-07T02:50:35.418675+00:00",
   "triage": {
     "ruleVersion": "documentary-v2",
     "reviewed": 20,
-    "added": 2,
-    "pending": 17,
+    "added": 0,
+    "pending": 19,
     "outOfScope": 0
   },
   "projects": [
+    {
+      "repository": "TheBozos/BozoEngine",
+      "github": "https://github.com/TheBozos/BozoEngine",
+      "stars": 0,
+      "checkedAt": "2026-11-07T02:51:59.947391+00:00",
+      "evidenceUrl": "https://github.com/TheBozos/BozoEngine/blob/42db3fd524bc69d5f6ae8294a5409d22ddeaef5e/README.md"
+    },
+    {
+      "repository": "ReSands/ReSands",
+      "github": "https://github.com/ReSands/ReSands",
+      "stars": 0,
+      "checkedAt": "2026-11-07T02:51:52.144714+00:00",
+      "evidenceUrl": "https://github.com/ReSands/ReSands/blob/06d08f061e7c3d8e24889b7c1f9ac21449544307/README.md"
+    },
+    {
+      "repository": "Berry-Wilson/Drakengard-PC",
+      "github": "https://github.com/Berry-Wilson/Drakengard-PC",
+      "stars": 0,
+      "checkedAt": "2026-11-07T02:51:47.451614+00:00",
+      "evidenceUrl": "https://github.com/Berry-Wilson/Drakengard-PC/blob/8532c6f10a6268a9bb2dfd34d6a08433e8b07003/README.md"
+    },
+    {
+      "repository": "SeveerJ/Ghoulies_PC_Recomp",
+      "github": "https://github.com/SeveerJ/Ghoulies_PC_Recomp",
+      "stars": 9,
+      "checkedAt": "2026-11-07T02:51:46.261880+00:00",
+      "evidenceUrl": "https://github.com/SeveerJ/Ghoulies_PC_Recomp/blob/3054b683d94dc904c6f37044e739851374cde7e4/README.md"
+    },
     {
       "repository": "KelvinC54/nascar-rumble-pc",
       "github": "https://github.com/KelvinC54/nascar-rumble-pc",
@@ -330,34 +358,6 @@
       "stars": 4,
       "checkedAt": "2026-10-31T16:10:54.703684+00:00",
       "evidenceUrl": "https://github.com/LucioXerus/bo1-recomp/blob/0be5687d07d411644c7e878e841a54daa201328f/README.md"
-    },
-    {
-      "repository": "danielalves96/gow-pc-port",
-      "github": "https://github.com/danielalves96/gow-pc-port",
-      "stars": 42,
-      "checkedAt": "2026-10-31T16:10:47.143480+00:00",
-      "evidenceUrl": "https://github.com/danielalves96/gow-pc-port/blob/d579d91c63c87a73f48b74b65066db4db9908702/README.md"
-    },
-    {
-      "repository": "DIMASIK1502/broken-bond-recomp",
-      "github": "https://github.com/DIMASIK1502/broken-bond-recomp",
-      "stars": 3,
-      "checkedAt": "2026-10-31T02:27:05.560642+00:00",
-      "evidenceUrl": "https://github.com/DIMASIK1502/broken-bond-recomp/blob/90ad48a36ec40fea05aba431f65af9077d3968f0/README.md"
-    },
-    {
-      "repository": "batatinhafcbatatinha-pixel/bf2-modern-combat-pc",
-      "github": "https://github.com/batatinhafcbatatinha-pixel/bf2-modern-combat-pc",
-      "stars": 3,
-      "checkedAt": "2026-10-31T02:26:59.261888+00:00",
-      "evidenceUrl": "https://github.com/batatinhafcbatatinha-pixel/bf2-modern-combat-pc/blob/eaab3f28edf23c3980d8625ffaa19e54332d39bd/README.md"
-    },
-    {
-      "repository": "Astrr00/BloodbornePC",
-      "github": "https://github.com/Astrr00/BloodbornePC",
-      "stars": 3,
-      "checkedAt": "2026-10-31T02:26:58.148532+00:00",
-      "evidenceUrl": "https://github.com/Astrr00/BloodbornePC/blob/802e3f2bf2e38e71da0a46362ae4510a429f7213/README.md"
     }
   ]
 }
