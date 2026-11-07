@@ -1,14 +1,35 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-07T02:50:35.418675+00:00",
+  "updatedAt": "2026-11-07T16:53:58.254585+00:00",
   "triage": {
     "ruleVersion": "documentary-v2",
     "reviewed": 20,
     "added": 0,
-    "pending": 19,
+    "pending": 20,
     "outOfScope": 0
   },
   "projects": [
+    {
+      "repository": "TheRealestNwah/skate-recomp",
+      "github": "https://github.com/TheRealestNwah/skate-recomp",
+      "stars": 0,
+      "checkedAt": "2026-11-07T16:55:40.890378+00:00",
+      "evidenceUrl": "https://github.com/TheRealestNwah/skate-recomp/blob/9ceb0143092e9a81527d4ae8d9194df865d737b8/README.md"
+    },
+    {
+      "repository": "aoxzh/bayo3-recomp",
+      "github": "https://github.com/aoxzh/bayo3-recomp",
+      "stars": 0,
+      "checkedAt": "2026-11-07T16:55:38.321155+00:00",
+      "evidenceUrl": "https://github.com/aoxzh/bayo3-recomp/blob/8cba8da57e61b9926dd622ba3c84a61937ef613a/README.md"
+    },
+    {
+      "repository": "GrayRats/ArmoredcoreV-Port",
+      "github": "https://github.com/GrayRats/ArmoredcoreV-Port",
+      "stars": 2,
+      "checkedAt": "2026-11-07T16:55:34.538374+00:00",
+      "evidenceUrl": "https://github.com/GrayRats/ArmoredcoreV-Port/blob/3503dd14e55b122bd92351a1084796fce5efa7ff/README.md"
+    },
     {
       "repository": "TheBozos/BozoEngine",
       "github": "https://github.com/TheBozos/BozoEngine",
@@ -337,27 +358,6 @@
       "stars": 3,
       "checkedAt": "2026-11-01T02:19:03.409769+00:00",
       "evidenceUrl": "https://github.com/paulobiduss/DownpourRecomp/blob/a183ff0b21f5e504526102754a04f2a9534a97b7/README.md"
-    },
-    {
-      "repository": "woodys-workshop/SpaceRanger",
-      "github": "https://github.com/woodys-workshop/SpaceRanger",
-      "stars": 20,
-      "checkedAt": "2026-11-01T02:18:50.648017+00:00",
-      "evidenceUrl": "https://github.com/woodys-workshop/SpaceRanger/blob/40461c5eb419db1a889d7bdfe9878d56c493f8cc/README.md"
-    },
-    {
-      "repository": "GabrielBigardi/HarvestMoonBTN-Recomp",
-      "github": "https://github.com/GabrielBigardi/HarvestMoonBTN-Recomp",
-      "stars": 3,
-      "checkedAt": "2026-10-31T16:11:03.738376+00:00",
-      "evidenceUrl": "https://github.com/GabrielBigardi/HarvestMoonBTN-Recomp/blob/d321e4531cd23279d19e66179aafe2848f2f09ed/README.md"
-    },
-    {
-      "repository": "LucioXerus/bo1-recomp",
-      "github": "https://github.com/LucioXerus/bo1-recomp",
-      "stars": 4,
-      "checkedAt": "2026-10-31T16:10:54.703684+00:00",
-      "evidenceUrl": "https://github.com/LucioXerus/bo1-recomp/blob/0be5687d07d411644c7e878e841a54daa201328f/README.md"
     }
   ]
 }
