@@ -1,14 +1,35 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-09T21:17:02.462995+00:00",
+  "updatedAt": "2026-11-09T21:29:58.491768+00:00",
   "triage": {
     "ruleVersion": "documentary-v2",
     "reviewed": 20,
-    "added": 1,
+    "added": 2,
     "pending": 18,
     "outOfScope": 0
   },
   "projects": [
+    {
+      "repository": "ABadGame/nascar-inside-line-recomp",
+      "github": "https://github.com/ABadGame/nascar-inside-line-recomp",
+      "stars": 1,
+      "checkedAt": "2026-11-09T21:31:44.508317+00:00",
+      "evidenceUrl": "https://github.com/ABadGame/nascar-inside-line-recomp/blob/5834503eecb96a09b7d8b082c208c0b2d5def040/README.md"
+    },
+    {
+      "repository": "kelvynzucco/majistic-recomp",
+      "github": "https://github.com/kelvynzucco/majistic-recomp",
+      "stars": 5,
+      "checkedAt": "2026-11-09T21:31:30.073857+00:00",
+      "evidenceUrl": "https://github.com/kelvynzucco/majistic-recomp/blob/b802304dfff8811d339f8262effae56a46733196/README.md"
+    },
+    {
+      "repository": "bc160201983/Captain-America-Super-Soldier-PC",
+      "github": "https://github.com/bc160201983/Captain-America-Super-Soldier-PC",
+      "stars": 5,
+      "checkedAt": "2026-11-09T21:31:28.960121+00:00",
+      "evidenceUrl": "https://github.com/bc160201983/Captain-America-Super-Soldier-PC/blob/c71dee501424a61ba49384724464b37c25367c75/README.md"
+    },
     {
       "repository": "fasipe/Castlevania-COD-QOL",
       "github": "https://github.com/fasipe/Castlevania-COD-QOL",
@@ -337,27 +358,6 @@
       "stars": 4,
       "checkedAt": "2026-11-02T02:35:06.179017+00:00",
       "evidenceUrl": "https://github.com/navasemanuel-lab/TSFP-XBE/blob/54585a908ff9b834fe7a30375e3217f777c213dd/README.md"
-    },
-    {
-      "repository": "Vynx-Velvet/Fable2RE",
-      "github": "https://github.com/Vynx-Velvet/Fable2RE",
-      "stars": 3,
-      "checkedAt": "2026-11-01T17:12:14.018975+00:00",
-      "evidenceUrl": "https://github.com/Vynx-Velvet/Fable2RE/blob/4a5de7dbef32df7384c9713a2d7fe42a470e02c6/README.md"
-    },
-    {
-      "repository": "Tzeentchnet/KillzoneRecomp-Extended",
-      "github": "https://github.com/Tzeentchnet/KillzoneRecomp-Extended",
-      "stars": 3,
-      "checkedAt": "2026-11-01T17:12:11.826874+00:00",
-      "evidenceUrl": "https://github.com/Tzeentchnet/KillzoneRecomp-Extended/blob/1374d612f11a6e5fd032af9a6b8bb052af706e3a/README.md"
-    },
-    {
-      "repository": "tsapZ/SwapForceRecomp",
-      "github": "https://github.com/tsapZ/SwapForceRecomp",
-      "stars": 3,
-      "checkedAt": "2026-11-01T17:12:10.894686+00:00",
-      "evidenceUrl": "https://github.com/tsapZ/SwapForceRecomp/blob/5dd0dec9b0e18f835df2ff8bcf1980da13c443e3/README.md"
     }
   ]
 }
