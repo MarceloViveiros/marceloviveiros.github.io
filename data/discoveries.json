@@ -1,14 +1,56 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-07T16:53:58.254585+00:00",
+  "updatedAt": "2026-11-09T21:17:02.462995+00:00",
   "triage": {
     "ruleVersion": "documentary-v2",
     "reviewed": 20,
-    "added": 0,
-    "pending": 20,
+    "added": 1,
+    "pending": 18,
     "outOfScope": 0
   },
   "projects": [
+    {
+      "repository": "fasipe/Castlevania-COD-QOL",
+      "github": "https://github.com/fasipe/Castlevania-COD-QOL",
+      "stars": 17,
+      "checkedAt": "2026-11-09T21:19:25.588360+00:00",
+      "evidenceUrl": "https://github.com/fasipe/Castlevania-COD-QOL/blob/db8643a02db3377978b8c882e0eccdfd69b5ab39/README.md"
+    },
+    {
+      "repository": "MnkyArts/ProjectAvalanche",
+      "github": "https://github.com/MnkyArts/ProjectAvalanche",
+      "stars": 25,
+      "checkedAt": "2026-11-09T21:19:19.834987+00:00",
+      "evidenceUrl": "https://github.com/MnkyArts/ProjectAvalanche/blob/208af62913ea8b8f3f32a9530123783516aa83cc/README.md"
+    },
+    {
+      "repository": "kayliox/transformers-armada-recomp",
+      "github": "https://github.com/kayliox/transformers-armada-recomp",
+      "stars": 33,
+      "checkedAt": "2026-11-09T21:19:16.611755+00:00",
+      "evidenceUrl": "https://github.com/kayliox/transformers-armada-recomp/blob/20735858050ff9084e423ab25163b136f39e67f8/README.md"
+    },
+    {
+      "repository": "saulob/el-chavo-kart-recompiled",
+      "github": "https://github.com/saulob/el-chavo-kart-recompiled",
+      "stars": 37,
+      "checkedAt": "2026-11-09T21:19:14.882203+00:00",
+      "evidenceUrl": "https://github.com/saulob/el-chavo-kart-recompiled/blob/66f3b5aad5f67924efff448832afd744bc790ea9/README.md"
+    },
+    {
+      "repository": "adriadam10/mkw-recomp",
+      "github": "https://github.com/adriadam10/mkw-recomp",
+      "stars": 92,
+      "checkedAt": "2026-11-09T21:19:05.080697+00:00",
+      "evidenceUrl": "https://github.com/adriadam10/mkw-recomp/blob/3b12662e68e20fbc0d67b7afd5d95cfb380a28c7/README.md"
+    },
+    {
+      "repository": "Goldoire/fefw-recomp",
+      "github": "https://github.com/Goldoire/fefw-recomp",
+      "stars": 334,
+      "checkedAt": "2026-11-09T21:18:59.982960+00:00",
+      "evidenceUrl": "https://github.com/Goldoire/fefw-recomp/blob/501f7c0e6fc7adf662cf8a66cf88cf2519df3883/README.md"
+    },
     {
       "repository": "TheRealestNwah/skate-recomp",
       "github": "https://github.com/TheRealestNwah/skate-recomp",
@@ -316,48 +358,6 @@
       "stars": 3,
       "checkedAt": "2026-11-01T17:12:10.894686+00:00",
       "evidenceUrl": "https://github.com/tsapZ/SwapForceRecomp/blob/5dd0dec9b0e18f835df2ff8bcf1980da13c443e3/README.md"
-    },
-    {
-      "repository": "Leonardorobertomotalvao/demons-souls-pc",
-      "github": "https://github.com/Leonardorobertomotalvao/demons-souls-pc",
-      "stars": 3,
-      "checkedAt": "2026-11-01T17:12:08.629538+00:00",
-      "evidenceUrl": "https://github.com/Leonardorobertomotalvao/demons-souls-pc/blob/be7790102b86d28911306acc22b82cfc9566376f/README.md"
-    },
-    {
-      "repository": "neonoxd/MOHRS-XBERecomp",
-      "github": "https://github.com/neonoxd/MOHRS-XBERecomp",
-      "stars": 4,
-      "checkedAt": "2026-11-01T17:12:03.642134+00:00",
-      "evidenceUrl": "https://github.com/neonoxd/MOHRS-XBERecomp/blob/3bf4efee42b6205fa7336bf45dda6c19a55b321c/README.md"
-    },
-    {
-      "repository": "tsapZ/ImaginatorsRecomp",
-      "github": "https://github.com/tsapZ/ImaginatorsRecomp",
-      "stars": 3,
-      "checkedAt": "2026-11-01T02:19:16.067776+00:00",
-      "evidenceUrl": "https://github.com/tsapZ/ImaginatorsRecomp/blob/a0e65b4135dcd8448e0fb2df645a7627a7a814d1/README.md"
-    },
-    {
-      "repository": "timboat/demons-souls-recomp",
-      "github": "https://github.com/timboat/demons-souls-recomp",
-      "stars": 3,
-      "checkedAt": "2026-11-01T02:19:14.262463+00:00",
-      "evidenceUrl": "https://github.com/timboat/demons-souls-recomp/blob/a056903d7e1770709ec07cc6701577ddeab44a36/README.md"
-    },
-    {
-      "repository": "SloppyWyn/SRWZ-native",
-      "github": "https://github.com/SloppyWyn/SRWZ-native",
-      "stars": 3,
-      "checkedAt": "2026-11-01T02:19:11.577229+00:00",
-      "evidenceUrl": "https://github.com/SloppyWyn/SRWZ-native/blob/d45c45ed91b3fc1beec685cda0ec2b25ed015869/README.md"
-    },
-    {
-      "repository": "paulobiduss/DownpourRecomp",
-      "github": "https://github.com/paulobiduss/DownpourRecomp",
-      "stars": 3,
-      "checkedAt": "2026-11-01T02:19:03.409769+00:00",
-      "evidenceUrl": "https://github.com/paulobiduss/DownpourRecomp/blob/a183ff0b21f5e504526102754a04f2a9534a97b7/README.md"
     }
   ]
 }
