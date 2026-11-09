@@ -5386,8 +5386,12 @@
     },
     {
       "image": {
-        "url": "assets/platforms/ps2.svg",
-        "kind": "console"
+        "url": "https://upload.wikimedia.org/wikipedia/en/9/9e/Twisted_Metal_Black.jpg",
+        "kind": "reference",
+        "source": "https://en.wikipedia.org/wiki/Twisted_Metal%3A_Black",
+        "subject": "Twisted Metal: Black",
+        "provider": "wikipedia-summary-v1",
+        "checkedAt": "2026-11-09T21:05:18.998930+00:00"
       },
       "id": "auto-84e586440d1ce2",
       "editionId": "auto-84e586440d1ce2",
@@ -5597,8 +5601,12 @@
     },
     {
       "image": {
-        "url": "assets/platforms/xbox360.svg",
-        "kind": "console"
+        "url": "https://upload.wikimedia.org/wikipedia/en/b/b1/SSX2012VIDEOGAME.jpg",
+        "kind": "reference",
+        "source": "https://en.wikipedia.org/wiki/SSX_(2012_video_game)",
+        "subject": "SSX (2012 video game)",
+        "provider": "wikipedia-summary-v1",
+        "checkedAt": "2026-11-09T21:05:19.099273+00:00"
       },
       "id": "auto-4e735ce32c0ae6",
       "editionId": "auto-4e735ce32c0ae6",
@@ -5700,8 +5708,12 @@
     },
     {
       "image": {
-        "url": "assets/platforms/xbox360.svg",
-        "kind": "console"
+        "url": "https://upload.wikimedia.org/wikipedia/en/2/2b/Tony-hawk-ground.JPG",
+        "kind": "reference",
+        "source": "https://en.wikipedia.org/wiki/Tony_Hawk%27s_Proving_Ground",
+        "subject": "Tony Hawk's Proving Ground",
+        "provider": "wikipedia-summary-v1",
+        "checkedAt": "2026-11-09T21:05:19.200138+00:00"
       },
       "id": "auto-9b3d01437d9e7c",
       "editionId": "auto-9b3d01437d9e7c",
@@ -5912,8 +5924,12 @@
     },
     {
       "image": {
-        "url": "assets/platforms/ps2.svg",
-        "kind": "console"
+        "url": "https://upload.wikimedia.org/wikipedia/en/a/a3/RG_EU_Cover_300.jpg",
+        "kind": "reference",
+        "source": "https://en.wikipedia.org/wiki/Rogue_Galaxy",
+        "subject": "Rogue Galaxy",
+        "provider": "wikipedia-summary-v1",
+        "checkedAt": "2026-11-09T21:05:19.289905+00:00"
       },
       "id": "auto-2f2a4f7d3697fb",
       "editionId": "auto-2f2a4f7d3697fb",
