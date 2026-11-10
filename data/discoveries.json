@@ -1,14 +1,35 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-09T21:29:58.491768+00:00",
+  "updatedAt": "2026-11-10T04:41:05.957507+00:00",
   "triage": {
     "ruleVersion": "documentary-v2",
     "reviewed": 20,
-    "added": 2,
-    "pending": 18,
+    "added": 0,
+    "pending": 20,
     "outOfScope": 0
   },
   "projects": [
+    {
+      "repository": "DivxPlays/stilwater-recompiled",
+      "github": "https://github.com/DivxPlays/stilwater-recompiled",
+      "stars": 0,
+      "checkedAt": "2026-11-10T04:42:27.161326+00:00",
+      "evidenceUrl": "https://github.com/DivxPlays/stilwater-recompiled/blob/10dcb3abb6e790e3cf64637539c7b15907e6068a/README.md"
+    },
+    {
+      "repository": "otavix010/silent-hill-pc",
+      "github": "https://github.com/otavix010/silent-hill-pc",
+      "stars": 1,
+      "checkedAt": "2026-11-10T04:42:24.360641+00:00",
+      "evidenceUrl": "https://github.com/otavix010/silent-hill-pc/blob/50eddf69de83ab96091cd2e08656494dba76703b/README.md"
+    },
+    {
+      "repository": "Starkka15/spyro-anb-pc",
+      "github": "https://github.com/Starkka15/spyro-anb-pc",
+      "stars": 5,
+      "checkedAt": "2026-11-10T04:42:13.192100+00:00",
+      "evidenceUrl": "https://github.com/Starkka15/spyro-anb-pc/blob/1390342f223b15e34b3ca1329f3c1fdda8cb2f94/README.md"
+    },
     {
       "repository": "ABadGame/nascar-inside-line-recomp",
       "github": "https://github.com/ABadGame/nascar-inside-line-recomp",
@@ -337,27 +358,6 @@
       "stars": 39,
       "checkedAt": "2026-11-03T04:00:50.143820+00:00",
       "evidenceUrl": "https://github.com/Re-TeRo17/ratchet-tod-recomp/blob/c945a3c54795cee65e17f67bb7ca5b45af42fd49/README.md"
-    },
-    {
-      "repository": "valentderah/totk-pc-recomp",
-      "github": "https://github.com/valentderah/totk-pc-recomp",
-      "stars": 4093,
-      "checkedAt": "2026-11-03T04:00:43.524676+00:00",
-      "evidenceUrl": "https://github.com/valentderah/totk-pc-recomp/blob/c38e0ca13d2bceb0590b195f69a010315913850d/README.md"
-    },
-    {
-      "repository": "batatinhafcbatatinha-pixel/cod-world-at-war-final-fronts-pc",
-      "github": "https://github.com/batatinhafcbatatinha-pixel/cod-world-at-war-final-fronts-pc",
-      "stars": 2,
-      "checkedAt": "2026-11-02T02:35:15.428995+00:00",
-      "evidenceUrl": "https://github.com/batatinhafcbatatinha-pixel/cod-world-at-war-final-fronts-pc/blob/7809acc849177b251b83c2ec9d5650a8ec0d58c8/README.md"
-    },
-    {
-      "repository": "navasemanuel-lab/TSFP-XBE",
-      "github": "https://github.com/navasemanuel-lab/TSFP-XBE",
-      "stars": 4,
-      "checkedAt": "2026-11-02T02:35:06.179017+00:00",
-      "evidenceUrl": "https://github.com/navasemanuel-lab/TSFP-XBE/blob/54585a908ff9b834fe7a30375e3217f777c213dd/README.md"
     }
   ]
 }
