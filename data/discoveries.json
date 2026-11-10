@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-10T04:41:05.957507+00:00",
+  "updatedAt": "2026-11-10T18:44:02.796234+00:00",
   "triage": {
     "ruleVersion": "documentary-v2",
     "reviewed": 20,
@@ -9,6 +9,48 @@
     "outOfScope": 0
   },
   "projects": [
+    {
+      "repository": "ObeseCatLord/galaxy-angel-2-pc",
+      "github": "https://github.com/ObeseCatLord/galaxy-angel-2-pc",
+      "stars": 0,
+      "checkedAt": "2026-11-10T18:45:54.034058+00:00",
+      "evidenceUrl": "https://github.com/ObeseCatLord/galaxy-angel-2-pc/blob/0a01e5967fca04edfced7f10ae9693558a35382a/README.md"
+    },
+    {
+      "repository": "MertCNOZ/IndyPort",
+      "github": "https://github.com/MertCNOZ/IndyPort",
+      "stars": 2,
+      "checkedAt": "2026-11-10T18:45:46.715808+00:00",
+      "evidenceUrl": "https://github.com/MertCNOZ/IndyPort/blob/dfa611f0280c761b9083289de863c6ff5c2baedc/README.md"
+    },
+    {
+      "repository": "CaiusCodes/Aegis-Wing-XBLA-PC-Recomp",
+      "github": "https://github.com/CaiusCodes/Aegis-Wing-XBLA-PC-Recomp",
+      "stars": 7,
+      "checkedAt": "2026-11-10T18:45:43.177942+00:00",
+      "evidenceUrl": "https://github.com/CaiusCodes/Aegis-Wing-XBLA-PC-Recomp/blob/8b108ddfa7367d3caca699d3d0f466576ca45fa8/README.md"
+    },
+    {
+      "repository": "kayochiaradia/mtf-recomp",
+      "github": "https://github.com/kayochiaradia/mtf-recomp",
+      "stars": 9,
+      "checkedAt": "2026-11-10T18:45:41.733834+00:00",
+      "evidenceUrl": "https://github.com/kayochiaradia/mtf-recomp/blob/649cc6f0d3761d6b9126e6e52625026c068d25af/README.md"
+    },
+    {
+      "repository": "SerenityG4K/SpaceAnimalsRecomp",
+      "github": "https://github.com/SerenityG4K/SpaceAnimalsRecomp",
+      "stars": 12,
+      "checkedAt": "2026-11-10T18:45:40.327056+00:00",
+      "evidenceUrl": "https://github.com/SerenityG4K/SpaceAnimalsRecomp/blob/6e1506ad6bf5e1f866f3d720601b618386254ded/README.md"
+    },
+    {
+      "repository": "rigaz29/Ascension-R",
+      "github": "https://github.com/rigaz29/Ascension-R",
+      "stars": 26,
+      "checkedAt": "2026-11-10T18:45:38.939543+00:00",
+      "evidenceUrl": "https://github.com/rigaz29/Ascension-R/blob/1ae5290da9c412b5e5e336df2f9545cd582c384e/README.md"
+    },
     {
       "repository": "DivxPlays/stilwater-recompiled",
       "github": "https://github.com/DivxPlays/stilwater-recompiled",
@@ -316,48 +358,6 @@
       "stars": 3,
       "checkedAt": "2026-11-03T18:32:16.785613+00:00",
       "evidenceUrl": "https://github.com/LeandroSSB/moh-vanguard-recomp/blob/0c2f6dba8731c497fbe615b24ae878bad1cc417c/README.md"
-    },
-    {
-      "repository": "TheBozos/VP2S_Recomp",
-      "github": "https://github.com/TheBozos/VP2S_Recomp",
-      "stars": 4,
-      "checkedAt": "2026-11-03T04:01:02.429462+00:00",
-      "evidenceUrl": "https://github.com/TheBozos/VP2S_Recomp/blob/3d78ba8459700e073250d193f051bf5e725e378e/README.md"
-    },
-    {
-      "repository": "CoastRedWood/splashdown",
-      "github": "https://github.com/CoastRedWood/splashdown",
-      "stars": 5,
-      "checkedAt": "2026-11-03T04:00:57.577875+00:00",
-      "evidenceUrl": "https://github.com/CoastRedWood/splashdown/blob/ea2a067bcc0be67587f6f523c03ce2ab51280e9a/README.md"
-    },
-    {
-      "repository": "KamiTK2/openNG2",
-      "github": "https://github.com/KamiTK2/openNG2",
-      "stars": 17,
-      "checkedAt": "2026-11-03T04:00:53.241925+00:00",
-      "evidenceUrl": "https://github.com/KamiTK2/openNG2/blob/18e6029be7039bf0639d0d4a69a16da83614eef8/README.md"
-    },
-    {
-      "repository": "hk21x/007-agentunderfire-recomp",
-      "github": "https://github.com/hk21x/007-agentunderfire-recomp",
-      "stars": 24,
-      "checkedAt": "2026-11-03T04:00:52.064610+00:00",
-      "evidenceUrl": "https://github.com/hk21x/007-agentunderfire-recomp/blob/e82500459b3ee67a504f35fe918dcd0909d7f85d/README.md"
-    },
-    {
-      "repository": "Adolini1715/Concrete-Jungle-PC",
-      "github": "https://github.com/Adolini1715/Concrete-Jungle-PC",
-      "stars": 29,
-      "checkedAt": "2026-11-03T04:00:51.178233+00:00",
-      "evidenceUrl": "https://github.com/Adolini1715/Concrete-Jungle-PC/blob/7ea73d273813404411bdb8050cdc6c3e08494e2d/README.md"
-    },
-    {
-      "repository": "Re-TeRo17/ratchet-tod-recomp",
-      "github": "https://github.com/Re-TeRo17/ratchet-tod-recomp",
-      "stars": 39,
-      "checkedAt": "2026-11-03T04:00:50.143820+00:00",
-      "evidenceUrl": "https://github.com/Re-TeRo17/ratchet-tod-recomp/blob/c945a3c54795cee65e17f67bb7ca5b45af42fd49/README.md"
     }
   ]
 }
