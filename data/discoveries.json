@@ -1,14 +1,28 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-10T18:44:02.796234+00:00",
+  "updatedAt": "2026-11-11T02:50:15.234709+00:00",
   "triage": {
     "ruleVersion": "documentary-v2",
     "reviewed": 20,
-    "added": 0,
-    "pending": 20,
+    "added": 2,
+    "pending": 18,
     "outOfScope": 0
   },
   "projects": [
+    {
+      "repository": "freefrank/LostOdysseyRecomp",
+      "github": "https://github.com/freefrank/LostOdysseyRecomp",
+      "stars": 956,
+      "checkedAt": "2026-11-11T02:52:01.464004+00:00",
+      "evidenceUrl": "https://github.com/freefrank/LostOdysseyRecomp/blob/f9da0ae9bdd481a5ea4fe6431f3a4724d8261147/README.md"
+    },
+    {
+      "repository": "CaiusCodes/Hexic-HD-XBLA-PC-Recomp",
+      "github": "https://github.com/CaiusCodes/Hexic-HD-XBLA-PC-Recomp",
+      "stars": 0,
+      "checkedAt": "2026-11-11T02:51:55.448122+00:00",
+      "evidenceUrl": "https://github.com/CaiusCodes/Hexic-HD-XBLA-PC-Recomp/blob/d76af6f1d1186938186f7996f8cce8d7c55dfb1f/README.md"
+    },
     {
       "repository": "ObeseCatLord/galaxy-angel-2-pc",
       "github": "https://github.com/ObeseCatLord/galaxy-angel-2-pc",
@@ -344,20 +358,6 @@
       "stars": 3,
       "checkedAt": "2026-11-03T18:32:28.211804+00:00",
       "evidenceUrl": "https://github.com/vs-sr-dev/pc-dynastywarriors2/blob/c99c207f837839b271b552b4896febf817a12a53/README.md"
-    },
-    {
-      "repository": "Meluxz/iceage2-sw",
-      "github": "https://github.com/Meluxz/iceage2-sw",
-      "stars": 3,
-      "checkedAt": "2026-11-03T18:32:20.340596+00:00",
-      "evidenceUrl": "https://github.com/Meluxz/iceage2-sw/blob/1b3ebc35032e6dc097fa8d1072de9fb47d8eac2b/README.md"
-    },
-    {
-      "repository": "LeandroSSB/moh-vanguard-recomp",
-      "github": "https://github.com/LeandroSSB/moh-vanguard-recomp",
-      "stars": 3,
-      "checkedAt": "2026-11-03T18:32:16.785613+00:00",
-      "evidenceUrl": "https://github.com/LeandroSSB/moh-vanguard-recomp/blob/0c2f6dba8731c497fbe615b24ae878bad1cc417c/README.md"
     }
   ]
 }
