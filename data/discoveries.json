@@ -1,14 +1,35 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-11T02:50:15.234709+00:00",
+  "updatedAt": "2026-11-11T18:46:14.521540+00:00",
   "triage": {
     "ruleVersion": "documentary-v2",
     "reviewed": 20,
-    "added": 2,
-    "pending": 18,
+    "added": 0,
+    "pending": 20,
     "outOfScope": 0
   },
   "projects": [
+    {
+      "repository": "LittleBitUA/DownpourRecomp",
+      "github": "https://github.com/LittleBitUA/DownpourRecomp",
+      "stars": 366,
+      "checkedAt": "2026-11-11T18:48:19.178423+00:00",
+      "evidenceUrl": "https://github.com/LittleBitUA/DownpourRecomp/blob/a183ff0b21f5e504526102754a04f2a9534a97b7/README.md"
+    },
+    {
+      "repository": "Tsamiuy/jsp-vs-ex",
+      "github": "https://github.com/Tsamiuy/jsp-vs-ex",
+      "stars": 1,
+      "checkedAt": "2026-11-11T18:48:01.346372+00:00",
+      "evidenceUrl": "https://github.com/Tsamiuy/jsp-vs-ex/blob/39b1952c5561244afc9bff77faa5e33c40407287/README.md"
+    },
+    {
+      "repository": "brabro1/DrakengardPC",
+      "github": "https://github.com/brabro1/DrakengardPC",
+      "stars": 1,
+      "checkedAt": "2026-11-11T18:47:56.864645+00:00",
+      "evidenceUrl": "https://github.com/brabro1/DrakengardPC/blob/ef05725ce80cac14316d64a66d502c7755c1b1cc/README.md"
+    },
     {
       "repository": "freefrank/LostOdysseyRecomp",
       "github": "https://github.com/freefrank/LostOdysseyRecomp",
@@ -337,27 +358,6 @@
       "stars": 2,
       "checkedAt": "2026-11-03T18:32:54.405268+00:00",
       "evidenceUrl": "https://github.com/PDEYVID/HWDER---mod-pt-br/blob/e904adf812c4921f27c3a34360a47f16aead768a/README.md"
-    },
-    {
-      "repository": "MateoEscobar/TW-Recomp",
-      "github": "https://github.com/MateoEscobar/TW-Recomp",
-      "stars": 2,
-      "checkedAt": "2026-11-03T18:32:35.969092+00:00",
-      "evidenceUrl": "https://github.com/MateoEscobar/TW-Recomp/blob/45a4baa1cad7a315cf09e7825d05ced7c9ac690f/README.md"
-    },
-    {
-      "repository": "LasVola/hauntingground-recomp",
-      "github": "https://github.com/LasVola/hauntingground-recomp",
-      "stars": 2,
-      "checkedAt": "2026-11-03T18:32:34.145456+00:00",
-      "evidenceUrl": "https://github.com/LasVola/hauntingground-recomp/blob/85e49ffaa0f580ff86379d044a0bcf16cc4a2445/README.md"
-    },
-    {
-      "repository": "vs-sr-dev/pc-dynastywarriors2",
-      "github": "https://github.com/vs-sr-dev/pc-dynastywarriors2",
-      "stars": 3,
-      "checkedAt": "2026-11-03T18:32:28.211804+00:00",
-      "evidenceUrl": "https://github.com/vs-sr-dev/pc-dynastywarriors2/blob/c99c207f837839b271b552b4896febf817a12a53/README.md"
     }
   ]
 }
