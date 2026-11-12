@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-11T18:46:14.521540+00:00",
+  "updatedAt": "2026-11-12T03:51:51.391594+00:00",
   "triage": {
     "ruleVersion": "documentary-v2",
     "reviewed": 20,
@@ -9,6 +9,27 @@
     "outOfScope": 0
   },
   "projects": [
+    {
+      "repository": "EtherAura/xenogears-pc",
+      "github": "https://github.com/EtherAura/xenogears-pc",
+      "stars": 0,
+      "checkedAt": "2026-11-12T03:53:20.651129+00:00",
+      "evidenceUrl": "https://github.com/EtherAura/xenogears-pc/blob/efa60609c1b7dde11622212b8b78226dbe484a4b/README.md"
+    },
+    {
+      "repository": "miroslavdanutalexandru-alt/Resistance-Fall-of-Man-Recomp",
+      "github": "https://github.com/miroslavdanutalexandru-alt/Resistance-Fall-of-Man-Recomp",
+      "stars": 21,
+      "checkedAt": "2026-11-12T03:53:13.457621+00:00",
+      "evidenceUrl": "https://github.com/miroslavdanutalexandru-alt/Resistance-Fall-of-Man-Recomp/blob/f275921fc9a3339aa42217ae64c43a5baf1987db/README.md"
+    },
+    {
+      "repository": "OpenGP-dev/OpenGP",
+      "github": "https://github.com/OpenGP-dev/OpenGP",
+      "stars": 37,
+      "checkedAt": "2026-11-12T03:53:12.417843+00:00",
+      "evidenceUrl": "https://github.com/OpenGP-dev/OpenGP/blob/1a6aae48da0e505a7fcb425737113468ca6dcff8/README.md"
+    },
     {
       "repository": "LittleBitUA/DownpourRecomp",
       "github": "https://github.com/LittleBitUA/DownpourRecomp",
@@ -337,27 +358,6 @@
       "stars": 2,
       "checkedAt": "2026-11-04T03:06:02.307957+00:00",
       "evidenceUrl": "https://github.com/tsapZ/GiantsRecomp/blob/17cc3055ee2e97299f1cdb1d7d5293ca2c6d34e1/README.md"
-    },
-    {
-      "repository": "PS2recomp-swiss-team/tekken4-recomp",
-      "github": "https://github.com/PS2recomp-swiss-team/tekken4-recomp",
-      "stars": 2,
-      "checkedAt": "2026-11-04T03:05:53.192006+00:00",
-      "evidenceUrl": "https://github.com/PS2recomp-swiss-team/tekken4-recomp/blob/eb256343d8c5c99569a034b251735a6ea9fb3028/README.md"
-    },
-    {
-      "repository": "tsapZ/TrapTeamRecomp",
-      "github": "https://github.com/tsapZ/TrapTeamRecomp",
-      "stars": 3,
-      "checkedAt": "2026-11-04T03:05:46.348555+00:00",
-      "evidenceUrl": "https://github.com/tsapZ/TrapTeamRecomp/blob/847719efd87562cc0e7813cb72c6f285a2519595/README.md"
-    },
-    {
-      "repository": "PDEYVID/HWDER---mod-pt-br",
-      "github": "https://github.com/PDEYVID/HWDER---mod-pt-br",
-      "stars": 2,
-      "checkedAt": "2026-11-03T18:32:54.405268+00:00",
-      "evidenceUrl": "https://github.com/PDEYVID/HWDER---mod-pt-br/blob/e904adf812c4921f27c3a34360a47f16aead768a/README.md"
     }
   ]
 }
