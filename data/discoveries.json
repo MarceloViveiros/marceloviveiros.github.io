@@ -1,14 +1,70 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-12T03:51:51.391594+00:00",
+  "updatedAt": "2026-11-12T18:59:16.495258+00:00",
   "triage": {
     "ruleVersion": "documentary-v2",
     "reviewed": 20,
-    "added": 0,
-    "pending": 20,
+    "added": 1,
+    "pending": 19,
     "outOfScope": 0
   },
   "projects": [
+    {
+      "repository": "vs-sr-dev/wiikit",
+      "github": "https://github.com/vs-sr-dev/wiikit",
+      "stars": 2,
+      "checkedAt": "2026-11-12T19:02:06.093109+00:00",
+      "evidenceUrl": "https://github.com/vs-sr-dev/wiikit/blob/a60fb598e1e1482be8e674187b088bc5a81cd4f4/README.md"
+    },
+    {
+      "repository": "vs-sr-dev/pc-monsterhunter3",
+      "github": "https://github.com/vs-sr-dev/pc-monsterhunter3",
+      "stars": 2,
+      "checkedAt": "2026-11-12T19:02:04.221181+00:00",
+      "evidenceUrl": "https://github.com/vs-sr-dev/pc-monsterhunter3/blob/7d61a53b0879f6fd93f0a18c884bc59614c5f19e/README.md"
+    },
+    {
+      "repository": "Unkn0wnAli4n/TOoT-R",
+      "github": "https://github.com/Unkn0wnAli4n/TOoT-R",
+      "stars": 3,
+      "checkedAt": "2026-11-12T19:02:00.741590+00:00",
+      "evidenceUrl": "https://github.com/Unkn0wnAli4n/TOoT-R/blob/60039cf3cbf655f9f0e48cd5afd6065dd02b4016/README.md"
+    },
+    {
+      "repository": "Sacrappy/HeyListen",
+      "github": "https://github.com/Sacrappy/HeyListen",
+      "stars": 3,
+      "checkedAt": "2026-11-12T19:01:58.814992+00:00",
+      "evidenceUrl": "https://github.com/Sacrappy/HeyListen/blob/397eb4a558b1436d015e4fc023ad2f5092ec5876/README.md"
+    },
+    {
+      "repository": "vs-sr-dev/pc-megamanxcm",
+      "github": "https://github.com/vs-sr-dev/pc-megamanxcm",
+      "stars": 7,
+      "checkedAt": "2026-11-12T19:01:49.778936+00:00",
+      "evidenceUrl": "https://github.com/vs-sr-dev/pc-megamanxcm/blob/e596f50cf7486c329594cf04ec474d27964f8028/README.md"
+    },
+    {
+      "repository": "mattiasribera/WarriorsReborn",
+      "github": "https://github.com/mattiasribera/WarriorsReborn",
+      "stars": 8,
+      "checkedAt": "2026-11-12T19:01:48.087601+00:00",
+      "evidenceUrl": "https://github.com/mattiasribera/WarriorsReborn/blob/0bad80d25ea5ba69e7fdbef70ade42d47302b031/README.md"
+    },
+    {
+      "repository": "arcanite24/lavender-shift",
+      "github": "https://github.com/arcanite24/lavender-shift",
+      "stars": 17,
+      "checkedAt": "2026-11-12T19:01:45.952529+00:00",
+      "evidenceUrl": "https://github.com/arcanite24/lavender-shift/blob/1fe6db3bff1e9192992a7965537bf4b12caa7212/README.md"
+    },
+    {
+      "repository": "bhuiyah/infamous2-recomp",
+      "github": "https://github.com/bhuiyah/infamous2-recomp",
+      "stars": 78,
+      "checkedAt": "2026-11-12T19:01:40.562808+00:00",
+      "evidenceUrl": "https://github.com/bhuiyah/infamous2-recomp/blob/a1e5a585a6503607df34316cdee9375dbaf09f5d/README.md"
+    },
     {
       "repository": "EtherAura/xenogears-pc",
       "github": "https://github.com/EtherAura/xenogears-pc",
@@ -302,62 +358,6 @@
       "stars": 4,
       "checkedAt": "2026-11-05T18:51:12.930688+00:00",
       "evidenceUrl": "https://github.com/CalinGraphics/fifa-world-cup-2010-recompiled/blob/498d18ae09175d4991b24b633a9a5f2e0e1cc73e/README.md"
-    },
-    {
-      "repository": "KaikoClanworth1/wwe-crush-hour-pc",
-      "github": "https://github.com/KaikoClanworth1/wwe-crush-hour-pc",
-      "stars": 1,
-      "checkedAt": "2026-11-05T03:35:23.799075+00:00",
-      "evidenceUrl": "https://github.com/KaikoClanworth1/wwe-crush-hour-pc/blob/68f874e5d3595b0d0d8dd845b07aa6a8bfee0d54/README.md"
-    },
-    {
-      "repository": "ioritree/kyoei_toshi_pc",
-      "github": "https://github.com/ioritree/kyoei_toshi_pc",
-      "stars": 1,
-      "checkedAt": "2026-11-05T03:35:17.097320+00:00",
-      "evidenceUrl": "https://github.com/ioritree/kyoei_toshi_pc/blob/b7bc8d06506fcb9e028398c24283ef2b759f5bef/README.md"
-    },
-    {
-      "repository": "Korvonordico/shadow-of-rome-recompiled",
-      "github": "https://github.com/Korvonordico/shadow-of-rome-recompiled",
-      "stars": 3,
-      "checkedAt": "2026-11-05T03:35:03.979022+00:00",
-      "evidenceUrl": "https://github.com/Korvonordico/shadow-of-rome-recompiled/blob/617258f36448b614ec4bac4ddae1436f98673f7e/README.md"
-    },
-    {
-      "repository": "denzi-gh/crashwoc-nuworld",
-      "github": "https://github.com/denzi-gh/crashwoc-nuworld",
-      "stars": 1,
-      "checkedAt": "2026-11-04T18:43:58.232949+00:00",
-      "evidenceUrl": "https://github.com/denzi-gh/crashwoc-nuworld/blob/83e1ae7272c4d6ab569a71b135c084d5869a41df/README.md"
-    },
-    {
-      "repository": "LunarLaurus/adams-ant-farm-recomp",
-      "github": "https://github.com/LunarLaurus/adams-ant-farm-recomp",
-      "stars": 2,
-      "checkedAt": "2026-11-04T18:43:48.815003+00:00",
-      "evidenceUrl": "https://github.com/LunarLaurus/adams-ant-farm-recomp/blob/e21894159461074d7eb1806f6d6dae2128845ec0/README.md"
-    },
-    {
-      "repository": "batatinhafcbatatinha-pixel/ben10-alien-force-pc",
-      "github": "https://github.com/batatinhafcbatatinha-pixel/ben10-alien-force-pc",
-      "stars": 1,
-      "checkedAt": "2026-11-04T03:06:16.502162+00:00",
-      "evidenceUrl": "https://github.com/batatinhafcbatatinha-pixel/ben10-alien-force-pc/blob/58ca6f5b9c8d1a46cb3acab93a388d85bc8bb817/README.md"
-    },
-    {
-      "repository": "tsapZ/SuperChargersRecomp",
-      "github": "https://github.com/tsapZ/SuperChargersRecomp",
-      "stars": 2,
-      "checkedAt": "2026-11-04T03:06:04.303645+00:00",
-      "evidenceUrl": "https://github.com/tsapZ/SuperChargersRecomp/blob/a71b3d46f52bb7b9d74e1b8f1e708af722932437/README.md"
-    },
-    {
-      "repository": "tsapZ/GiantsRecomp",
-      "github": "https://github.com/tsapZ/GiantsRecomp",
-      "stars": 2,
-      "checkedAt": "2026-11-04T03:06:02.307957+00:00",
-      "evidenceUrl": "https://github.com/tsapZ/GiantsRecomp/blob/17cc3055ee2e97299f1cdb1d7d5293ca2c6d34e1/README.md"
     }
   ]
 }
