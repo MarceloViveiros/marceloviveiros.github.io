@@ -71,6 +71,40 @@
           "cons": []
         }
       }
+    },
+    {
+      "id": "remothered-red-nuns-legacy",
+      "game": "Remothered: Red Nun's Legacy",
+      "platform": "PC",
+      "progress": "completed",
+      "score": 7,
+      "reviewedAt": "2026-11-13",
+      "videoId": "KJuWiz9N04w",
+      "image": {
+        "url": "assets/reviews/remothered-red-nuns-legacy.jpg",
+        "kind": "reference",
+        "source": "https://store.steampowered.com/app/3335310/Remothered_Red_Nuns_Legacy/"
+      },
+      "content": {
+        "pt": {
+          "summary": "Zerei em cerca de 6 horas. Parece um filme de terror: a história e as reviravoltas do final me prenderam mais do que a gameplay, que é simples, mas bem executada.",
+          "opinion": "Gráficos\nBonitos e com bastante clima. Em alguns trechos o jogo é escuro demais, mais do que precisava.\n\nDesempenho\nRodou bem no meu PC (AMD Ryzen 5 5600X, NVIDIA GeForce RTX 3060 Ti e 16 GB de RAM), com algumas travadinhas pontuais no final.\n\nHistória\nO ponto forte do jogo. O roteiro é muito bom, pesado, e prende do começo ao fim. As reviravoltas do final foram bem surpreendentes.\n\nJogabilidade\nÉ aquele estilo de jogo com perseguidoras: você só corre, se esconde e usa itens para se soltar, sem como eliminar o inimigo. É simples, mas bem executada. Simples não quer dizer ruim.\n\nPuzzles\nGostei. Alguns momentos ficam vagos, e o mapa não ajuda muito. Teve uma parte em que fiquei rodando em círculos até descobrir que tinha confundido duas escadas.\n\nDificuldade\nAs freiras assustam e às vezes aparecem do nada, mas dá para despistar se você se esconder com calma e andar com a lanterna apagada.\n\nTempo de jogo\nCerca de 6 horas para zerar. É um jogo curtinho.\n\nÁudio\nOs passos e a música tensa avisam quando tem alguém por perto e deixam tudo mais tenso. Teve susto que me fez pular da cadeira.\n\nPra quem eu recomendo\nPra quem curte terror, filmes de terror e jogos de esconder e fugir.\n\nCompensa comprar?\nSim. Pode pagar o preço cheio.\n\nNota final\n7/10. A história vale muito a pena. A gameplay simples segura a nota, mas não estraga a experiência.",
+          "pros": [],
+          "cons": []
+        },
+        "en": {
+          "summary": "I finished it in about 6 hours. It feels like a horror movie: the story and the twists at the end held me more than the gameplay, which is simple but well executed.",
+          "opinion": "Graphics\nGood-looking and full of atmosphere. Some sections are darker than they needed to be.\n\nPerformance\nIt ran well on my PC (AMD Ryzen 5 5600X, NVIDIA GeForce RTX 3060 Ti and 16 GB of RAM), with a few small stutters near the end.\n\nStory\nThe game’s strongest point. The script is very good and heavy, and it holds you from start to finish. The twists at the end really surprised me.\n\nGameplay\nIt is a stalker game: you can only run, hide and use items to break free, with no way to take the enemy down. It is simple but well executed. Simple does not mean bad.\n\nPuzzles\nI liked them. Some moments are vague, and the map does not help much. At one point I went around in circles until I realized I had mixed up two staircases.\n\nDifficulty\nThe nuns are scary and sometimes show up out of nowhere, but you can lose them if you hide calmly and keep your flashlight off.\n\nLength\nAbout 6 hours to finish. It is a short game.\n\nAudio\nFootsteps and tense music warn you when someone is close and make everything more intense. One scare made me jump out of my chair.\n\nWho I recommend it to\nAnyone who enjoys horror, horror movies and hide-and-run games.\n\nIs it worth buying?\nYes. It is worth the full price.\n\nFinal score\n7/10. The story is well worth it. The simple gameplay holds the score back, but it does not spoil the experience.",
+          "pros": [],
+          "cons": []
+        },
+        "es": {
+          "summary": "Lo terminé en unas 6 horas. Parece una película de terror: la historia y los giros del final me atraparon más que la jugabilidad, que es simple pero está bien ejecutada.",
+          "opinion": "Gráficos\nBonitos y con mucha atmósfera. En algunos tramos el juego es más oscuro de lo necesario.\n\nRendimiento\nFuncionó bien en mi PC (AMD Ryzen 5 5600X, NVIDIA GeForce RTX 3060 Ti y 16 GB de RAM), con algunos tirones puntuales al final.\n\nHistoria\nEl punto fuerte del juego. El guion es muy bueno, duro, y engancha de principio a fin. Los giros del final me sorprendieron mucho.\n\nJugabilidad\nEs un juego de acosadoras: solo puedes correr, esconderte y usar objetos para soltarte, sin forma de eliminar al enemigo. Es simple, pero está bien ejecutada. Simple no quiere decir malo.\n\nPuzles\nMe gustaron. Algunos momentos son confusos y el mapa no ayuda mucho. En una parte di vueltas en círculo hasta darme cuenta de que había confundido dos escaleras.\n\nDificultad\nLas monjas asustan y a veces aparecen de la nada, pero puedes despistarlas si te escondes con calma y caminas con la linterna apagada.\n\nDuración\nUnas 6 horas para terminarlo. Es un juego corto.\n\nAudio\nLos pasos y la música tensa avisan cuando alguien está cerca y lo vuelven todo más tenso. Un susto me hizo saltar de la silla.\n\nA quién se lo recomiendo\nA quien le gusten el terror, las películas de terror y los juegos de esconderse y huir.\n\n¿Vale la pena comprarlo?\nSí. Vale el precio completo.\n\nNota final\n7/10. La historia vale mucho la pena. La jugabilidad simple limita la nota, pero no arruina la experiencia.",
+          "pros": [],
+          "cons": []
+        }
+      }
     }
   ]
 }
