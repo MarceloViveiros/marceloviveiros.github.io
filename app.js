@@ -42,10 +42,14 @@ function validateProject(p) {
 }
 function filterProjects(projects, f) {
   const q = normalize(f.query || '');
-  return projects.filter(p => (!q || normalize(p.game + ' ' + p.name).includes(q)) && (!f.origin || p.origins.includes(f.origin)) && (!f.target || p.targets.includes(f.target)) && (!f.type || p.type === f.type) && (!f.status || p.playability === f.status) && (!f.stage || p.developmentStage === f.stage) && (!Number(f.minStars) || (p.stars !== null && p.stars >= Number(f.minStars))));
+  return projects.filter(p => (!q || normalize(p.game + ' ' + p.name).includes(q)) && (!f.origin || p.origins.includes(f.origin)) && (!f.target || p.targets.includes(f.target)) && (!f.type || p.type === f.type) && (!f.status || p.playability === f.status) && (!f.stage || p.developmentStage === f.stage) && (!Number(f.minStars) || (p.stars !== null && p.stars >= Number(f.minStars))) && (!f.tested || isChannelTested(p)));
 }
+function isChannelTested(p){return p?.channelReview?.status==='approved';}
+const UNSTABLE_TAG=/(?:test|validation|nightly|pre-?release|preview|ci-|dev-?build|[-.]rc\d*$)/i;
+function stableRelease(release){return release&&typeof release.tag==='string'&&!UNSTABLE_TAG.test(release.tag)?release:null;}
 function sortProjects(projects, sort = 'stars', lang = 'pt') {
   return [...projects].sort((a,b) => {
+    if (sort === 'featured') return Number(isChannelTested(b)) - Number(isChannelTested(a)) || (b.stars ?? -1) - (a.stars ?? -1) || a.game.localeCompare(b.game, lang);
     if (sort === 'stars') return (b.stars ?? -1) - (a.stars ?? -1) || a.game.localeCompare(b.game, lang);
     if (sort === 'origin') return a.origins[0].localeCompare(b.origins[0], lang) || a.game.localeCompare(b.game, lang);
     return a.game.localeCompare(b.game, lang);
@@ -66,7 +70,7 @@ function projectVisual(p,language='pt',large=false){
     for(const node of [back,front]){node.loading=large?'eager':'lazy';node.decoding='async';node.referrerPolicy='no-referrer';if(node===front)node.onerror=()=>{const fallback=fallbackImage(p);if(front.getAttribute('src')!==fallback){front.src=fallback;back.src=fallback;front.alt=t('consoleImage')+' '+p.origins[0];}else{cover.classList.remove('has-image');back.remove();front.remove();}};}
     cover.append(back,front);
   }
-  const meta=el('div',undefined,'cover-labels');meta.append(el('span',p.origins[0]),el('span',t(p.type),'cover-type'));cover.append(meta);if(p.channelReview?.status==='approved'){const stamp=el('div',undefined,'channel-stamp');stamp.append(el('strong','✓'),el('span',t('channelApproved')),el('small','BORA DE PLAY'));cover.append(stamp);}if(!large){const likes=el('a','♡ —','cover-likes');likes.href=projectURL(p.id,language)+'#community';likes.dataset.likesProject=p.id;likes.dataset.language=language;likes.setAttribute('aria-label',BORA_I18N[language].communityLikesLogin);likes.title=BORA_I18N[language].communityLikesLogin;cover.append(likes);}return cover;
+  const meta=el('div',undefined,'cover-labels');meta.append(el('span',p.origins[0]),el('span',t(p.type),'cover-type'));cover.append(meta);if(p.channelReview?.status==='approved'){const stamp=el('div',undefined,'channel-stamp');stamp.append(el('strong','✓'),el('span',t('channelApproved')),el('small','BORA DE PLAY'));cover.append(stamp);}if(!large){const likes=el('a','♡','cover-likes');likes.hidden=true;likes.href=projectURL(p.id,language)+'#community';likes.dataset.likesProject=p.id;likes.dataset.language=language;likes.setAttribute('aria-label',BORA_I18N[language].communityLikesLogin);likes.title=BORA_I18N[language].communityLikesLogin;cover.append(likes);}return cover;
 }
 function imageCredit(p,language){const text=BORA_I18N[language];const box=el('p',undefined,'image-credit');if(p.image?.source)box.append(link(text.imageSource,p.image.source));else box.textContent=text.originalConsoleArt;return box;}
 async function init() {
@@ -101,19 +105,8 @@ async function init() {
     const playableBadge=el('span',t(p.playability),'badge');playableBadge.title=t('status');
     const stageBadge=el('span',t(p.developmentStage),'badge stage-badge');stageBadge.title=t('stage');
     body.append(el('span',t(p.type),'badge'),playableBadge,stageBadge,el('h3',p.game),el('p',p.name,'project-name'),stars,el('p',text.summary),el('p',`${p.origins.join(' / ')} → ${p.targets.join(' / ')}`,'platforms'));
-    const credit=imageCredit(p,language);if(credit)body.append(credit);
-    const details=el('details'); details.append(el('summary',t('details')));
-    details.append(el('h4',t('approach')),el('p',t(p.approach)));
-    for(const [title,value] of [['originalFiles',text.originalFiles],['limitations',text.limitations]])details.append(el('h4',t(title)),el('p',value));
-    for(const [title,items,tag] of [['requirements',text.requirements,'ul'],['installation',text.installation,'ol']]){const list=el(tag);items.forEach(i=>list.append(el('li',i)));details.append(el('h4',t(title)),list);}
-    details.append(link(t('instructions'),p.instructionsUrl),el('p',t('review',{date:date(p.reviewedAt),version:p.reviewedVersion.slice(0,12)}),'review'),el('p',t(p.channelReview?.status==='approved'?'channelTestNote':'notTested'),'review'),link(t('evidence'),p.evidenceUrl));
-    if(p.stars!==null)details.append(el('p',t('snapshot',{date:date(p.starsCollectedAt)}),'review'));
-    if(p.reviewedRelease)details.append(el('h4',t('reviewedRelease')),link(p.reviewedRelease.tag+' ↗',p.reviewedRelease.url),el('p',t('releaseNotice'),'review'));
-    if(p.relatedProject)details.append(el('p',undefined,'related-project'));if(p.relatedProject)details.lastChild.append(link(t('relatedVersion'),p.relatedProject));
-    const page=el('a',t('viewProject'),'button project-link');page.href=projectURL(p.id,language);if(p.authorClaim)details.append(el('h4',t('sourceClaim')),el('p',p.authorClaim));
-    if(p.upstream?.latestRelease)details.append(el('h4',t('latestRelease')),link(p.upstream.latestRelease.tag,p.upstream.latestRelease.url));
-    if(p.upstream?.documentationChanged)details.append(el('p',t('upstreamChanged'),'review'));
-    body.append(page,details,link(t('github'),p.github));article.append(cover,body);return article;
+    const page=el('a',t('viewProject'),'button project-link');page.href=projectURL(p.id,language);
+    body.append(page,link(t('github'),p.github));article.append(cover,body);return article;
   }
   function renderChannel(){
     if(!channelVideo)return;
@@ -129,12 +122,25 @@ async function init() {
     document.querySelector('#discoveries').hidden=false;
     const box=document.querySelector('#discoveries-list');box.replaceChildren();
     if(!discoveries.projects.length){box.append(el('p',t('discoveriesEmpty')));return;}
-    const list=el('ul');discoveries.projects.forEach(p=>{const item=el('li');item.append(link(p.repository,p.github),el('span',' · ★ '+number(p.stars)));list.append(item);});box.append(list);
+    const ordered=[...discoveries.projects].sort((a,b)=>String(b.checkedAt||'').localeCompare(String(a.checkedAt||''))||b.stars-a.stars);
+    const item=p=>{const li=el('li');li.append(link(p.repository.split('/').pop(),p.github),el('span',' · '+p.repository.split('/')[0]+' · ★ '+number(p.stars),'discovery-meta'));return li;};
+    const list=el('ul',undefined,'discovery-list');ordered.slice(0,5).forEach(p=>list.append(item(p)));box.append(list);
+    if(ordered.length>5){const more=el('details',undefined,'discovery-more');more.append(el('summary',t('discoveriesAll',{count:ordered.length})));const rest=el('ul',undefined,'discovery-list');ordered.slice(5).forEach(p=>rest.append(item(p)));more.append(rest);box.append(more);}
+  }
+  function renderHighlights(){
+    const testedBox=document.querySelector('#destaques'),recentBox=document.querySelector('#recentes');
+    if(loadFailed||!projects.length){testedBox.hidden=true;recentBox.hidden=true;return;}
+    const tested=sortProjects(projects.filter(isChannelTested),'stars',language);
+    testedBox.hidden=!tested.length;document.querySelector('#tested-list').replaceChildren(...tested.map(card));
+    const seen=new Set(),recent=[...projects].sort((a,b)=>b.reviewedAt.localeCompare(a.reviewedAt)||a.game.localeCompare(b.game,language)).filter(p=>!seen.has(p.editionId)&&seen.add(p.editionId)).slice(0,6);
+    const list=document.querySelector('#recent-list');list.replaceChildren();
+    for(const p of recent){const a=el('a',undefined,'mini-card');a.href=projectURL(p.id,language);const img=el('img');img.src=(p.image&&safeImageURL(p.image.url))||fallbackImage(p);img.alt='';img.loading='lazy';img.decoding='async';img.referrerPolicy='no-referrer';img.onerror=()=>{img.onerror=null;img.src=fallbackImage(p);};const info=el('span');info.append(el('strong',p.game),el('small',p.origins[0]+' → '+p.targets.join(' / ')+' · '+date(p.reviewedAt)));a.append(img,info);list.append(a);}
+    recentBox.hidden=!recent.length;
   }
   function render() {
-    renderDiscoveries();
+    renderDiscoveries();renderHighlights();
     if(loadFailed){total.textContent=t('unavailable');empty(t('loadError'),t('loadHelp'));return;}
-    const f={query:document.querySelector('#query').value}; ['origin','target','type','status','stage','minStars'].forEach(k=>f[k]=document.getElementById(k).value);
+    const f={query:document.querySelector('#query').value}; ['origin','target','type','status','stage','minStars'].forEach(k=>f[k]=document.getElementById(k).value);f.tested=document.querySelector('#tested').checked;
     const shown=sortProjects(filterProjects(projects,f),document.querySelector('#sort').value,language);
     total.textContent=t('count',{shown:shown.length,total:projects.length});
     if(!projects.length){const a=el('a',t('suggest'),'text-link');a.href='contribuir.html';empty(t('empty'),t('emptyBody'),a);return;}
@@ -162,4 +168,4 @@ async function init() {
   renderChannel();render();
 }
 if(typeof document!=='undefined' && document.querySelector('#filters'))init();
-if(typeof module!=='undefined')module.exports={filterProjects,sortProjects,validateProject,safeURL,pickLanguage,validDate,projectURL,safeImageURL};
+if(typeof module!=='undefined')module.exports={filterProjects,sortProjects,isChannelTested,stableRelease,validateProject,safeURL,pickLanguage,validDate,projectURL,safeImageURL};

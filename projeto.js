@@ -1,7 +1,9 @@
 'use strict';
 async function initProject(){
   let stored;try{stored=localStorage.getItem('bora-language');}catch{}
-  const requested=new URL(location.href).searchParams;
+  const requested=new URL(location.href).searchParams,projectId=document.body.dataset.projectId||requested.get('id')||'';
+  const PUBLIC_HOSTS=['boradeplay.blog.br','www.boradeplay.blog.br'];
+  const staticURL=(id,lang)=>'https://boradeplay.blog.br/jogo-'+encodeURIComponent(id)+'.html'+(lang==='pt'?'':'?lang='+lang);
   let language=pickLanguage(requested.get('lang'),stored),project=null,projects=[],loadFailed=false;
   const select=document.querySelector('#language'),content=document.querySelector('#project-content');
   const t=(key,values={})=>BORA_I18N[language][key].replace(/\{(\w+)\}/g,(_,name)=>String(values[name]??''));
@@ -23,22 +25,25 @@ async function initProject(){
     const stars=el('p',project.stars===null?t('unknownStars'):'★ '+new Intl.NumberFormat(language).format(project.stars),'stars');
     if(project.stars!==null)stars.append(el('small',t('snapshot',{date:date(project.starsCollectedAt)})));
     if(project.stars!==null)hero.append(stars);hero.append(el('p',text.summary,'project-summary'));const source=link(t(project.github?'openGithub':'openWebsite'),project.github||project.browser.url);source.className='button';hero.append(source);article.append(hero);
+    const videoId=project.channelReview?.status==='approved'&&/^[A-Za-z0-9_-]{11}$/.test(project.channelReview.videoId||'')?project.channelReview.videoId:null;
+    if(videoId){const box=el('section',undefined,'project-section channel-test-video');box.append(el('h2',t('channelVideo')));const frame=el('div',undefined,'channel-player'),play=el('button',undefined,'video-poster');play.type='button';play.setAttribute('aria-label',t('watchVideo'));const poster=el('img');poster.src='https://i.ytimg.com/vi/'+videoId+'/hqdefault.jpg';poster.alt='';poster.loading='lazy';play.append(poster,el('span','▶ '+t('watchVideo'),'video-play-label'));play.onclick=()=>{const iframe=el('iframe');iframe.src='https://www.youtube-nocookie.com/embed/'+videoId+'?autoplay=1&rel=0';iframe.title=t('channelVideo');iframe.allow='autoplay; encrypted-media; picture-in-picture; fullscreen';iframe.setAttribute('allowfullscreen','');frame.replaceChildren(iframe);};frame.append(play);box.append(frame);article.append(box);}
     const grid=el('div',undefined,'project-columns');grid.append(section('approach',t(project.approach)),section('originalFiles',text.originalFiles),section('requirements',text.requirements,'ul'),section('installation',text.installation,'ol'),section('limitations',text.limitations));article.append(grid);
     const evidence=el('section',undefined,'project-section evidence-panel');evidence.append(el('h2',t('evidence')),el('p',project.sourceKind==='website'?t('websiteReview')+' '+date(project.reviewedAt)+' · SHA-256 '+project.reviewedVersion.slice(0,12):t('review',{date:date(project.reviewedAt),version:project.reviewedVersion.slice(0,12)})),el('p',t(project.channelReview?.status==='approved'?'channelTestNote':'notTested')),link(t('instructions'),project.instructionsUrl),el('br'),link(t('evidence'),project.evidenceUrl));
     if(project.reviewAgent)evidence.append(el('p',t('autoReview'),'review'));if(project.authorClaim)evidence.append(el('h3',t('sourceClaim')),el('p',project.authorClaim));
     if(project.reviewedRelease)evidence.append(el('h3',t('reviewedRelease')),link(project.reviewedRelease.tag,project.reviewedRelease.url),el('p',t('releaseNotice')));
-    if(project.upstream?.latestRelease)evidence.append(el('h3',t('latestRelease')),link(project.upstream.latestRelease.tag,project.upstream.latestRelease.url));if(project.upstream?.documentationChanged)evidence.append(el('p',t('upstreamChanged')));article.append(evidence);
+    const latest=stableRelease(project.upstream?.latestRelease);if(latest&&latest.tag!==project.reviewedRelease?.tag)evidence.append(el('h3',t('latestRelease')),link(latest.tag,latest.url));if(project.upstream?.documentationChanged)evidence.append(el('p',t('upstreamChanged')));article.append(evidence);
     const related=projects.filter(p=>p.editionId===project.editionId&&p.id!==project.id);
     if(related.length){const box=el('section',undefined,'project-section');box.append(el('h2',t('otherProjects')));related.forEach(p=>{const a=el('a',p.name,'text-link');a.href=projectURL(p.id,language);box.append(a,el('br'));});article.append(box);}
     else if(project.relatedProject)article.append(link(t('relatedVersion'),project.relatedProject));
     content.replaceChildren(article);
     window.dispatchEvent(new CustomEvent('bora-project-change',{detail:{id:project.id,language}}));
-    document.querySelector('#share-url').value=new URL(projectURL(project.id,language),location.href).href;
+    const hasStatic=!project.browser&&PUBLIC_HOSTS.includes(location.hostname);document.querySelector('#share-url').value=hasStatic?staticURL(project.id,language):new URL(projectURL(project.id,language),location.href).href;
+    const canonical=document.querySelector('link[rel=canonical]');if(canonical&&hasStatic)canonical.href=staticURL(project.id,'pt');
     document.querySelector('#share-status').textContent='';
   }
   select.addEventListener('change',()=>{language=pickLanguage(select.value);try{localStorage.setItem('bora-language',language);}catch{}const u=new URL(location.href);u.searchParams.set('lang',language);history.replaceState(null,'',u);render();});
   document.querySelector('#copy-link').addEventListener('click',async()=>{const input=document.querySelector('#share-url'),status=document.querySelector('#share-status');try{await navigator.clipboard.writeText(input.value);status.textContent=t('copied');}catch{input.focus();input.select();status.textContent=t('copyFallback');}});
-  try{const response=await fetch('./data/projects.json',{cache:'no-store'});if(!response.ok)throw Error('HTTP '+response.status);const data=await response.json();if((requested.get('id')||'').startsWith('web-')){const browserResponse=await fetch('./data/browser-projects.json',{cache:'no-store'});if(!browserResponse.ok)throw Error('Browser catalog unavailable');const web=await browserResponse.json();if(web.schemaVersion!==3||!Array.isArray(web.projects))throw Error('Invalid browser catalog');data.projects.push(...web.projects);}if(data.schemaVersion!==3||!Array.isArray(data.projects))throw Error('Invalid catalog');projects=data.projects.map(validateProject);project=projects.find(p=>p.id===requested.get('id'))||null;}catch(error){loadFailed=true;console.error(error);}
+  try{const response=await fetch('./data/projects.json',{cache:'no-store'});if(!response.ok)throw Error('HTTP '+response.status);const data=await response.json();if(projectId.startsWith('web-')){const browserResponse=await fetch('./data/browser-projects.json',{cache:'no-store'});if(!browserResponse.ok)throw Error('Browser catalog unavailable');const web=await browserResponse.json();if(web.schemaVersion!==3||!Array.isArray(web.projects))throw Error('Invalid browser catalog');data.projects.push(...web.projects);}if(data.schemaVersion!==3||!Array.isArray(data.projects))throw Error('Invalid catalog');projects=data.projects.map(validateProject);project=projects.find(p=>p.id===projectId)||null;}catch(error){loadFailed=true;console.error(error);}
   render();
 }
 initProject();
