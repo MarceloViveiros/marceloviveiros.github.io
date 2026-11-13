@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-12T18:59:16.495258+00:00",
+  "updatedAt": "2026-11-13T03:29:06.608091+00:00",
   "triage": {
     "ruleVersion": "documentary-v2",
     "reviewed": 20,
@@ -9,6 +9,27 @@
     "outOfScope": 0
   },
   "projects": [
+    {
+      "repository": "chasem-dev/sms-pc-port",
+      "github": "https://github.com/chasem-dev/sms-pc-port",
+      "stars": 244,
+      "checkedAt": "2026-11-13T03:31:14.197851+00:00",
+      "evidenceUrl": "https://github.com/chasem-dev/sms-pc-port/blob/736edafc72fc829f9466224754cb3621921c63df/README.md"
+    },
+    {
+      "repository": "LittleBitUA/DPRecomp",
+      "github": "https://github.com/LittleBitUA/DPRecomp",
+      "stars": 187,
+      "checkedAt": "2026-11-13T03:31:05.385797+00:00",
+      "evidenceUrl": "https://github.com/LittleBitUA/DPRecomp/blob/e0624129c06b9437aa0278b58f2f3eb954192aec/README.md"
+    },
+    {
+      "repository": "CaiusCodes/Outrun-Online-Arcade-XBLA-PC-Recomp",
+      "github": "https://github.com/CaiusCodes/Outrun-Online-Arcade-XBLA-PC-Recomp",
+      "stars": 0,
+      "checkedAt": "2026-11-13T03:30:57.907512+00:00",
+      "evidenceUrl": "https://github.com/CaiusCodes/Outrun-Online-Arcade-XBLA-PC-Recomp/blob/e137bc825841d3415a0351753b44aea2386fb3a3/README.md"
+    },
     {
       "repository": "vs-sr-dev/wiikit",
       "github": "https://github.com/vs-sr-dev/wiikit",
@@ -337,27 +358,6 @@
       "stars": 13,
       "checkedAt": "2026-11-06T15:16:50.414701+00:00",
       "evidenceUrl": "https://github.com/bonllavier/Corruption_3-PC/blob/f7e7d78546883cbd4af862f46ea111fc4c5edb8b/README.md"
-    },
-    {
-      "repository": "PateeerQ/FreedomUniteRecomp",
-      "github": "https://github.com/PateeerQ/FreedomUniteRecomp",
-      "stars": 16,
-      "checkedAt": "2026-11-06T15:16:48.871537+00:00",
-      "evidenceUrl": "https://github.com/PateeerQ/FreedomUniteRecomp/blob/bd043ac708b10528d51ff2d5f411c91d3077bb2a/README.md"
-    },
-    {
-      "repository": "Aulcreen/TenchuZ-Xbox-Recomp",
-      "github": "https://github.com/Aulcreen/TenchuZ-Xbox-Recomp",
-      "stars": 1,
-      "checkedAt": "2026-11-05T18:51:21.754473+00:00",
-      "evidenceUrl": "https://github.com/Aulcreen/TenchuZ-Xbox-Recomp/blob/e2d2a08d7ea8cf4dc39f0c990f395f7f34e4e3d0/README.md"
-    },
-    {
-      "repository": "CalinGraphics/fifa-world-cup-2010-recompiled",
-      "github": "https://github.com/CalinGraphics/fifa-world-cup-2010-recompiled",
-      "stars": 4,
-      "checkedAt": "2026-11-05T18:51:12.930688+00:00",
-      "evidenceUrl": "https://github.com/CalinGraphics/fifa-world-cup-2010-recompiled/blob/498d18ae09175d4991b24b633a9a5f2e0e1cc73e/README.md"
     }
   ]
 }
