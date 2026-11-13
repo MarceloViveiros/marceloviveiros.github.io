@@ -595,7 +595,8 @@
         "status": "approved",
         "reviewedAt": "2026-10-17",
         "reviewer": "Bora de Play",
-        "basis": "owner-confirmation"
+        "basis": "owner-confirmation",
+        "videoId": "rJeCYUhlLTM"
       }
     },
     {
@@ -3752,7 +3753,8 @@
         "status": "approved",
         "reviewedAt": "2026-10-21",
         "reviewer": "Bora de Play",
-        "basis": "owner-confirmation"
+        "basis": "owner-confirmation",
+        "videoId": "KrUxit6Ezgc"
       },
       "upstream": {
         "checkedAt": "2026-11-13T03:30:05.369841+00:00",
