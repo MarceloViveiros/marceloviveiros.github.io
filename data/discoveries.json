@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-13T18:35:26.140825+00:00",
+  "updatedAt": "2026-11-14T03:18:36.413488+00:00",
   "triage": {
     "ruleVersion": "documentary-v2",
     "reviewed": 20,
@@ -9,6 +9,34 @@
     "outOfScope": 0
   },
   "projects": [
+    {
+      "repository": "KaikoClanworth1/wwe-svr2011-pc",
+      "github": "https://github.com/KaikoClanworth1/wwe-svr2011-pc",
+      "stars": 178,
+      "checkedAt": "2026-11-14T03:20:01.401766+00:00",
+      "evidenceUrl": "https://github.com/KaikoClanworth1/wwe-svr2011-pc/blob/bfc3e7a17d2bde3211b564901cc0eb0e832f8693/README.md"
+    },
+    {
+      "repository": "JackandBeans/Snap64Recomp",
+      "github": "https://github.com/JackandBeans/Snap64Recomp",
+      "stars": 134,
+      "checkedAt": "2026-11-14T03:19:54.022465+00:00",
+      "evidenceUrl": "https://github.com/JackandBeans/Snap64Recomp/blob/1a4e208ad7e1551af9a9d38866bb998b71ccf4e6/README.md"
+    },
+    {
+      "repository": "KIexster/god-of-war-recomp",
+      "github": "https://github.com/KIexster/god-of-war-recomp",
+      "stars": 234,
+      "checkedAt": "2026-11-14T03:19:52.145700+00:00",
+      "evidenceUrl": "https://github.com/KIexster/god-of-war-recomp/blob/d1d11ec545c3baf2f3fc17e2df4247ac4b732d5c/README.md"
+    },
+    {
+      "repository": "rwwo8/OdysseyRecomp",
+      "github": "https://github.com/rwwo8/OdysseyRecomp",
+      "stars": 37,
+      "checkedAt": "2026-11-14T03:19:44.313694+00:00",
+      "evidenceUrl": "https://github.com/rwwo8/OdysseyRecomp/blob/e4089f85e01dd3b8e7009366008c449ef5791365/README.md"
+    },
     {
       "repository": "murkantor/Project-Midas",
       "github": "https://github.com/murkantor/Project-Midas",
@@ -330,34 +358,6 @@
       "stars": 0,
       "checkedAt": "2026-11-07T02:51:59.947391+00:00",
       "evidenceUrl": "https://github.com/TheBozos/BozoEngine/blob/42db3fd524bc69d5f6ae8294a5409d22ddeaef5e/README.md"
-    },
-    {
-      "repository": "ReSands/ReSands",
-      "github": "https://github.com/ReSands/ReSands",
-      "stars": 0,
-      "checkedAt": "2026-11-07T02:51:52.144714+00:00",
-      "evidenceUrl": "https://github.com/ReSands/ReSands/blob/06d08f061e7c3d8e24889b7c1f9ac21449544307/README.md"
-    },
-    {
-      "repository": "Berry-Wilson/Drakengard-PC",
-      "github": "https://github.com/Berry-Wilson/Drakengard-PC",
-      "stars": 0,
-      "checkedAt": "2026-11-07T02:51:47.451614+00:00",
-      "evidenceUrl": "https://github.com/Berry-Wilson/Drakengard-PC/blob/8532c6f10a6268a9bb2dfd34d6a08433e8b07003/README.md"
-    },
-    {
-      "repository": "SeveerJ/Ghoulies_PC_Recomp",
-      "github": "https://github.com/SeveerJ/Ghoulies_PC_Recomp",
-      "stars": 9,
-      "checkedAt": "2026-11-07T02:51:46.261880+00:00",
-      "evidenceUrl": "https://github.com/SeveerJ/Ghoulies_PC_Recomp/blob/3054b683d94dc904c6f37044e739851374cde7e4/README.md"
-    },
-    {
-      "repository": "KelvinC54/nascar-rumble-pc",
-      "github": "https://github.com/KelvinC54/nascar-rumble-pc",
-      "stars": 0,
-      "checkedAt": "2026-11-06T18:03:08.638915+00:00",
-      "evidenceUrl": "https://github.com/KelvinC54/nascar-rumble-pc/blob/ef87e29c4795811ba66eca237f68a84d708a7f4a/README.md"
     }
   ]
 }
