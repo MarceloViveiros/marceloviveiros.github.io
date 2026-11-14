@@ -1,14 +1,35 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-14T03:18:36.413488+00:00",
+  "updatedAt": "2026-11-14T17:10:52.474297+00:00",
   "triage": {
     "ruleVersion": "documentary-v2",
     "reviewed": 20,
-    "added": 0,
-    "pending": 20,
+    "added": 1,
+    "pending": 18,
     "outOfScope": 0
   },
   "projects": [
+    {
+      "repository": "wivi514/Dead_Rising_2_Case_Zero_Xenon_Recomp",
+      "github": "https://github.com/wivi514/Dead_Rising_2_Case_Zero_Xenon_Recomp",
+      "stars": 117,
+      "checkedAt": "2026-11-14T17:12:25.950664+00:00",
+      "evidenceUrl": "https://github.com/wivi514/Dead_Rising_2_Case_Zero_Xenon_Recomp/blob/10d45b0952dd1b7f53f29dbff0795a27abb81ff7/README.md"
+    },
+    {
+      "repository": "Elie-0066/SPR-Recomp-Project",
+      "github": "https://github.com/Elie-0066/SPR-Recomp-Project",
+      "stars": 1,
+      "checkedAt": "2026-11-14T17:12:18.301799+00:00",
+      "evidenceUrl": "https://github.com/Elie-0066/SPR-Recomp-Project/blob/0cf7c064ad453a57c28ed66b8363c287affa78f0/README.md"
+    },
+    {
+      "repository": "CyriacFR/Kalamar",
+      "github": "https://github.com/CyriacFR/Kalamar",
+      "stars": 2,
+      "checkedAt": "2026-11-14T17:12:14.876687+00:00",
+      "evidenceUrl": "https://github.com/CyriacFR/Kalamar/blob/9f07d85485c50a100f4b304aeffd9e59a44859d7/README.md"
+    },
     {
       "repository": "KaikoClanworth1/wwe-svr2011-pc",
       "github": "https://github.com/KaikoClanworth1/wwe-svr2011-pc",
@@ -337,27 +358,6 @@
       "stars": 0,
       "checkedAt": "2026-11-07T16:55:40.890378+00:00",
       "evidenceUrl": "https://github.com/TheRealestNwah/skate-recomp/blob/9ceb0143092e9a81527d4ae8d9194df865d737b8/README.md"
-    },
-    {
-      "repository": "aoxzh/bayo3-recomp",
-      "github": "https://github.com/aoxzh/bayo3-recomp",
-      "stars": 0,
-      "checkedAt": "2026-11-07T16:55:38.321155+00:00",
-      "evidenceUrl": "https://github.com/aoxzh/bayo3-recomp/blob/8cba8da57e61b9926dd622ba3c84a61937ef613a/README.md"
-    },
-    {
-      "repository": "GrayRats/ArmoredcoreV-Port",
-      "github": "https://github.com/GrayRats/ArmoredcoreV-Port",
-      "stars": 2,
-      "checkedAt": "2026-11-07T16:55:34.538374+00:00",
-      "evidenceUrl": "https://github.com/GrayRats/ArmoredcoreV-Port/blob/3503dd14e55b122bd92351a1084796fce5efa7ff/README.md"
-    },
-    {
-      "repository": "TheBozos/BozoEngine",
-      "github": "https://github.com/TheBozos/BozoEngine",
-      "stars": 0,
-      "checkedAt": "2026-11-07T02:51:59.947391+00:00",
-      "evidenceUrl": "https://github.com/TheBozos/BozoEngine/blob/42db3fd524bc69d5f6ae8294a5409d22ddeaef5e/README.md"
     }
   ]
 }
