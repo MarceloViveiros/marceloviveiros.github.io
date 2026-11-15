@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-15T02:42:21.605832+00:00",
+  "updatedAt": "2026-11-15T17:45:59.924820+00:00",
   "triage": {
     "ruleVersion": "documentary-v2",
     "reviewed": 20,
@@ -9,6 +9,34 @@
     "outOfScope": 0
   },
   "projects": [
+    {
+      "repository": "crazyriddler/FinestHourRemastered",
+      "github": "https://github.com/crazyriddler/FinestHourRemastered",
+      "stars": 193,
+      "checkedAt": "2026-11-15T17:47:49.493583+00:00",
+      "evidenceUrl": "https://github.com/crazyriddler/FinestHourRemastered/blob/bd35ab60d8e927bdfd3c16e7bb9db0aabfe60a81/README.md"
+    },
+    {
+      "repository": "novapowers0/BloodyRoar2Recomp",
+      "github": "https://github.com/novapowers0/BloodyRoar2Recomp",
+      "stars": 98,
+      "checkedAt": "2026-11-15T17:47:40.284480+00:00",
+      "evidenceUrl": "https://github.com/novapowers0/BloodyRoar2Recomp/blob/eed1e8d123d903d24ec0adf49ebee71a16c5892c/README.md"
+    },
+    {
+      "repository": "iExplosiveRage/DBZ-Burst-Limit-Recompiled",
+      "github": "https://github.com/iExplosiveRage/DBZ-Burst-Limit-Recompiled",
+      "stars": 125,
+      "checkedAt": "2026-11-15T17:47:35.650624+00:00",
+      "evidenceUrl": "https://github.com/iExplosiveRage/DBZ-Burst-Limit-Recompiled/blob/40aaa4d6bf212239f9cdadebb85bf96e8e57b03c/README.md"
+    },
+    {
+      "repository": "TGP482/XboxXBERecomp",
+      "github": "https://github.com/TGP482/XboxXBERecomp",
+      "stars": 233,
+      "checkedAt": "2026-11-15T17:47:34.384637+00:00",
+      "evidenceUrl": "https://github.com/TGP482/XboxXBERecomp/blob/cc9edda3a821a4204dc28783f429b88a27ade4f9/README.md"
+    },
     {
       "repository": "kirklandsig/halo2-decompiled",
       "github": "https://github.com/kirklandsig/halo2-decompiled",
@@ -330,34 +358,6 @@
       "stars": 5,
       "checkedAt": "2026-11-09T21:31:28.960121+00:00",
       "evidenceUrl": "https://github.com/bc160201983/Captain-America-Super-Soldier-PC/blob/c71dee501424a61ba49384724464b37c25367c75/README.md"
-    },
-    {
-      "repository": "fasipe/Castlevania-COD-QOL",
-      "github": "https://github.com/fasipe/Castlevania-COD-QOL",
-      "stars": 17,
-      "checkedAt": "2026-11-09T21:19:25.588360+00:00",
-      "evidenceUrl": "https://github.com/fasipe/Castlevania-COD-QOL/blob/db8643a02db3377978b8c882e0eccdfd69b5ab39/README.md"
-    },
-    {
-      "repository": "MnkyArts/ProjectAvalanche",
-      "github": "https://github.com/MnkyArts/ProjectAvalanche",
-      "stars": 25,
-      "checkedAt": "2026-11-09T21:19:19.834987+00:00",
-      "evidenceUrl": "https://github.com/MnkyArts/ProjectAvalanche/blob/208af62913ea8b8f3f32a9530123783516aa83cc/README.md"
-    },
-    {
-      "repository": "kayliox/transformers-armada-recomp",
-      "github": "https://github.com/kayliox/transformers-armada-recomp",
-      "stars": 33,
-      "checkedAt": "2026-11-09T21:19:16.611755+00:00",
-      "evidenceUrl": "https://github.com/kayliox/transformers-armada-recomp/blob/20735858050ff9084e423ab25163b136f39e67f8/README.md"
-    },
-    {
-      "repository": "saulob/el-chavo-kart-recompiled",
-      "github": "https://github.com/saulob/el-chavo-kart-recompiled",
-      "stars": 37,
-      "checkedAt": "2026-11-09T21:19:14.882203+00:00",
-      "evidenceUrl": "https://github.com/saulob/el-chavo-kart-recompiled/blob/66f3b5aad5f67924efff448832afd744bc790ea9/README.md"
     }
   ]
 }
