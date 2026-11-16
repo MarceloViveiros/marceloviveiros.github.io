@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-15T17:45:59.924820+00:00",
+  "updatedAt": "2026-11-16T02:47:15.353878+00:00",
   "triage": {
     "ruleVersion": "documentary-v2",
     "reviewed": 20,
@@ -9,6 +9,13 @@
     "outOfScope": 0
   },
   "projects": [
+    {
+      "repository": "hachi23/unicorn_overlord_pc",
+      "github": "https://github.com/hachi23/unicorn_overlord_pc",
+      "stars": 253,
+      "checkedAt": "2026-11-16T02:48:41.293705+00:00",
+      "evidenceUrl": "https://github.com/hachi23/unicorn_overlord_pc/blob/6af04124c1e00ef9184dc5ee0cf20d2d408db3bc/README.md"
+    },
     {
       "repository": "crazyriddler/FinestHourRemastered",
       "github": "https://github.com/crazyriddler/FinestHourRemastered",
@@ -351,13 +358,6 @@
       "stars": 5,
       "checkedAt": "2026-11-09T21:31:30.073857+00:00",
       "evidenceUrl": "https://github.com/kelvynzucco/majistic-recomp/blob/b802304dfff8811d339f8262effae56a46733196/README.md"
-    },
-    {
-      "repository": "bc160201983/Captain-America-Super-Soldier-PC",
-      "github": "https://github.com/bc160201983/Captain-America-Super-Soldier-PC",
-      "stars": 5,
-      "checkedAt": "2026-11-09T21:31:28.960121+00:00",
-      "evidenceUrl": "https://github.com/bc160201983/Captain-America-Super-Soldier-PC/blob/c71dee501424a61ba49384724464b37c25367c75/README.md"
     }
   ]
 }
