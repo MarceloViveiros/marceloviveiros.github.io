@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-16T21:05:51.950784+00:00",
+  "updatedAt": "2026-11-17T05:08:25.704228+00:00",
   "triage": {
     "ruleVersion": "documentary-v2",
     "reviewed": 20,
@@ -9,6 +9,41 @@
     "outOfScope": 0
   },
   "projects": [
+    {
+      "repository": "santiquiroz/gears-of-war-2-pc-port",
+      "github": "https://github.com/santiquiroz/gears-of-war-2-pc-port",
+      "stars": 188,
+      "checkedAt": "2026-11-17T05:09:58.326713+00:00",
+      "evidenceUrl": "https://github.com/santiquiroz/gears-of-war-2-pc-port/blob/0f4748c480647ba77a5612ce1a58ca091dae72c4/README.md"
+    },
+    {
+      "repository": "nlwstein/skullburglar",
+      "github": "https://github.com/nlwstein/skullburglar",
+      "stars": 77,
+      "checkedAt": "2026-11-17T05:09:56.184679+00:00",
+      "evidenceUrl": "https://github.com/nlwstein/skullburglar/blob/8846b2508c7b28ee980ab77c15335713b01d3f8a/README.md"
+    },
+    {
+      "repository": "YYOzcan/Tobiichi-Port",
+      "github": "https://github.com/YYOzcan/Tobiichi-Port",
+      "stars": 62,
+      "checkedAt": "2026-11-17T05:09:55.191298+00:00",
+      "evidenceUrl": "https://github.com/YYOzcan/Tobiichi-Port/blob/471c83180a8df575cff4abd3fae6c043b5096925/README.md"
+    },
+    {
+      "repository": "theokyr/Project8Recomp",
+      "github": "https://github.com/theokyr/Project8Recomp",
+      "stars": 59,
+      "checkedAt": "2026-11-17T05:09:54.327311+00:00",
+      "evidenceUrl": "https://github.com/theokyr/Project8Recomp/blob/c8c21e2781acd134de6b2ccf12b666145e00ea6c/README.md"
+    },
+    {
+      "repository": "imyourhuckleberryponcho/Pokemon-XD-PC-Port",
+      "github": "https://github.com/imyourhuckleberryponcho/Pokemon-XD-PC-Port",
+      "stars": 40,
+      "checkedAt": "2026-11-17T05:09:40.071321+00:00",
+      "evidenceUrl": "https://github.com/imyourhuckleberryponcho/Pokemon-XD-PC-Port/blob/48295ac450f1a51502910a80cf33923ff4fe82c3/README.md"
+    },
     {
       "repository": "SulphurS16/ACFA-Port",
       "github": "https://github.com/SulphurS16/ACFA-Port",
@@ -323,41 +358,6 @@
       "stars": 956,
       "checkedAt": "2026-11-11T02:52:01.464004+00:00",
       "evidenceUrl": "https://github.com/freefrank/LostOdysseyRecomp/blob/f9da0ae9bdd481a5ea4fe6431f3a4724d8261147/README.md"
-    },
-    {
-      "repository": "CaiusCodes/Hexic-HD-XBLA-PC-Recomp",
-      "github": "https://github.com/CaiusCodes/Hexic-HD-XBLA-PC-Recomp",
-      "stars": 0,
-      "checkedAt": "2026-11-11T02:51:55.448122+00:00",
-      "evidenceUrl": "https://github.com/CaiusCodes/Hexic-HD-XBLA-PC-Recomp/blob/d76af6f1d1186938186f7996f8cce8d7c55dfb1f/README.md"
-    },
-    {
-      "repository": "ObeseCatLord/galaxy-angel-2-pc",
-      "github": "https://github.com/ObeseCatLord/galaxy-angel-2-pc",
-      "stars": 0,
-      "checkedAt": "2026-11-10T18:45:54.034058+00:00",
-      "evidenceUrl": "https://github.com/ObeseCatLord/galaxy-angel-2-pc/blob/0a01e5967fca04edfced7f10ae9693558a35382a/README.md"
-    },
-    {
-      "repository": "MertCNOZ/IndyPort",
-      "github": "https://github.com/MertCNOZ/IndyPort",
-      "stars": 2,
-      "checkedAt": "2026-11-10T18:45:46.715808+00:00",
-      "evidenceUrl": "https://github.com/MertCNOZ/IndyPort/blob/dfa611f0280c761b9083289de863c6ff5c2baedc/README.md"
-    },
-    {
-      "repository": "CaiusCodes/Aegis-Wing-XBLA-PC-Recomp",
-      "github": "https://github.com/CaiusCodes/Aegis-Wing-XBLA-PC-Recomp",
-      "stars": 7,
-      "checkedAt": "2026-11-10T18:45:43.177942+00:00",
-      "evidenceUrl": "https://github.com/CaiusCodes/Aegis-Wing-XBLA-PC-Recomp/blob/8b108ddfa7367d3caca699d3d0f466576ca45fa8/README.md"
-    },
-    {
-      "repository": "kayochiaradia/mtf-recomp",
-      "github": "https://github.com/kayochiaradia/mtf-recomp",
-      "stars": 9,
-      "checkedAt": "2026-11-10T18:45:41.733834+00:00",
-      "evidenceUrl": "https://github.com/kayochiaradia/mtf-recomp/blob/649cc6f0d3761d6b9126e6e52625026c068d25af/README.md"
     }
   ]
 }
