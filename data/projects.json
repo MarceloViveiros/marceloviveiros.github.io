@@ -3035,7 +3035,7 @@
       },
       "id": "auto-87167d9b93aebf",
       "editionId": "auto-87167d9b93aebf",
-      "game": "DOAXVB",
+      "game": "Dead or Alive Xtreme Beach Volleyball",
       "name": "NoRain211/doaxvb-re",
       "type": "recompilacao",
       "approach": "static-recompilation",
@@ -3144,7 +3144,7 @@
       },
       "id": "auto-ef78f74e6dcc16",
       "editionId": "auto-ef78f74e6dcc16",
-      "game": "Ring Out",
+      "game": "Soulcalibur II",
       "name": "jackpoison-prog/RingOut",
       "type": "recompilacao",
       "approach": "static-recompilation",
@@ -3190,7 +3190,7 @@
       "starsCollectedAt": "2026-11-17T05:09:01.365771+00:00",
       "content": {
         "pt": {
-          "summary": "Ring Out recompila a edição GameCube de Soulcalibur II para PC, levando os duelos com armas do jogo a um runtime derivado do Dolphin.",
+          "summary": "Soulcalibur II recompila a edição GameCube de Soulcalibur II para PC, levando os duelos com armas do jogo a um runtime derivado do Dolphin.",
           "originalFiles": "Forneça sua própria cópia compatível; confira edição e arquivos exigidos no README.",
           "requirements": [
             "Confira os requisitos completos e as diferenças entre sistemas na fonte fixada."
@@ -3202,7 +3202,7 @@
           "limitations": "Triagem por regras, sem execução do jogo. Alegações podem estar desatualizadas ou incorretas; não há garantia de campanha completa no seu PC."
         },
         "en": {
-          "summary": "Ring Out recompiles the GameCube edition of Soulcalibur II for PC, bringing its weapon-based duels to a Dolphin-derived runtime.",
+          "summary": "Soulcalibur II recompiles the GameCube edition of Soulcalibur II for PC, bringing its weapon-based duels to a Dolphin-derived runtime.",
           "originalFiles": "Provide your own compatible copy; check the required edition and files in the README.",
           "requirements": [
             "Check full requirements and OS differences in the pinned source."
@@ -3214,7 +3214,7 @@
           "limitations": "Rule-based screening without running the game. Claims may be outdated or incorrect; a full playthrough on your PC is not guaranteed."
         },
         "es": {
-          "summary": "Ring Out recompila la edición de GameCube de Soulcalibur II para PC y lleva sus duelos con armas a un entorno derivado de Dolphin.",
+          "summary": "Soulcalibur II recompila la edición de GameCube de Soulcalibur II para PC y lleva sus duelos con armas a un entorno derivado de Dolphin.",
           "originalFiles": "Proporciona tu copia compatible; consulta edición y archivos necesarios en el README.",
           "requirements": [
             "Consulta requisitos completos y diferencias entre sistemas en la fuente fijada."
@@ -3360,7 +3360,7 @@
       },
       "id": "auto-da524ec9282185",
       "editionId": "auto-da524ec9282185",
-      "game": "Earthworm Jim HD:",
+      "game": "Earthworm Jim HD",
       "name": "TekRantGaming/earthworm-jim-hd-recompiled",
       "type": "recompilacao",
       "approach": "static-recompilation",
@@ -3406,7 +3406,7 @@
       "starsCollectedAt": "2026-11-17T05:09:03.427934+00:00",
       "content": {
         "pt": {
-          "summary": "Recompilação de Earthworm Jim HD: para Windows / Linux, baseada na versão de Xbox.",
+          "summary": "Recompilação de Earthworm Jim HD para Windows / Linux, baseada na versão de Xbox.",
           "originalFiles": "Forneça sua própria cópia compatível; confira edição e arquivos exigidos no README.",
           "requirements": [
             "Confira os requisitos completos e as diferenças entre sistemas na fonte fixada."
@@ -3418,7 +3418,7 @@
           "limitations": "Triagem por regras, sem execução do jogo. Alegações podem estar desatualizadas ou incorretas; não há garantia de campanha completa no seu PC."
         },
         "en": {
-          "summary": "Recompilation of Earthworm Jim HD: for Windows / Linux, based on the Xbox version.",
+          "summary": "Recompilation of Earthworm Jim HD for Windows / Linux, based on the Xbox version.",
           "originalFiles": "Provide your own compatible copy; check the required edition and files in the README.",
           "requirements": [
             "Check full requirements and OS differences in the pinned source."
@@ -3430,7 +3430,7 @@
           "limitations": "Rule-based screening without running the game. Claims may be outdated or incorrect; a full playthrough on your PC is not guaranteed."
         },
         "es": {
-          "summary": "Recompilación de Earthworm Jim HD: para Windows / Linux, basada en la versión de Xbox.",
+          "summary": "Recompilación de Earthworm Jim HD para Windows / Linux, basada en la versión de Xbox.",
           "originalFiles": "Proporciona tu copia compatible; consulta edición y archivos necesarios en el README.",
           "requirements": [
             "Consulta requisitos completos y diferencias entre sistemas en la fuente fijada."
@@ -3468,7 +3468,7 @@
       },
       "id": "auto-122a6a822d2e4c",
       "editionId": "auto-122a6a822d2e4c",
-      "game": "Let's Go",
+      "game": "Pokémon: Let's Go, Pikachu! / Let's Go, Eevee!",
       "name": "raulzrrs/letsgo-recomp",
       "type": "recompilacao",
       "approach": "static-recompilation",
@@ -3513,7 +3513,7 @@
       "starsCollectedAt": "2026-11-17T05:09:04.462894+00:00",
       "content": {
         "pt": {
-          "summary": "Recompilação de Let's Go para Windows, baseada na versão de Switch.",
+          "summary": "Recompilação de Pokémon: Let's Go, Pikachu! / Let's Go, Eevee! para Windows, baseada na versão de Switch.",
           "originalFiles": "Forneça sua própria cópia compatível; confira edição e arquivos exigidos no README.",
           "requirements": [
             "Confira os requisitos completos e as diferenças entre sistemas na fonte fixada."
@@ -3525,7 +3525,7 @@
           "limitations": "Triagem por regras, sem execução do jogo. Alegações podem estar desatualizadas ou incorretas; não há garantia de campanha completa no seu PC."
         },
         "en": {
-          "summary": "Recompilation of Let's Go for Windows, based on the Switch version.",
+          "summary": "Recompilation of Pokémon: Let's Go, Pikachu! / Let's Go, Eevee! for Windows, based on the Switch version.",
           "originalFiles": "Provide your own compatible copy; check the required edition and files in the README.",
           "requirements": [
             "Check full requirements and OS differences in the pinned source."
@@ -3537,7 +3537,7 @@
           "limitations": "Rule-based screening without running the game. Claims may be outdated or incorrect; a full playthrough on your PC is not guaranteed."
         },
         "es": {
-          "summary": "Recompilación de Let's Go para Windows, basada en la versión de Switch.",
+          "summary": "Recompilación de Pokémon: Let's Go, Pikachu! / Let's Go, Eevee! para Windows, basada en la versión de Switch.",
           "originalFiles": "Proporciona tu copia compatible; consulta edición y archivos necesarios en el README.",
           "requirements": [
             "Consulta requisitos completos y diferencias entre sistemas en la fuente fijada."
@@ -3575,7 +3575,7 @@
       },
       "id": "auto-4095e890b46122",
       "editionId": "auto-4095e890b46122",
-      "game": "The Two Towers",
+      "game": "The Lord of the Rings: The Two Towers",
       "name": "Gumpolas/TooTawersRecomp",
       "type": "recompilacao",
       "approach": "static-recompilation",
@@ -3622,7 +3622,7 @@
       "starsCollectedAt": "2026-11-17T05:09:05.325119+00:00",
       "content": {
         "pt": {
-          "summary": "Recompilação de The Two Towers para Windows / Linux / macOS, baseada na versão de Xbox.",
+          "summary": "Recompilação de The Lord of the Rings: The Two Towers para Windows / Linux / macOS, baseada na versão de Xbox.",
           "originalFiles": "Forneça sua própria cópia compatível; confira edição e arquivos exigidos no README.",
           "requirements": [
             "Confira os requisitos completos e as diferenças entre sistemas na fonte fixada."
@@ -3634,7 +3634,7 @@
           "limitations": "Triagem por regras, sem execução do jogo. Alegações podem estar desatualizadas ou incorretas; não há garantia de campanha completa no seu PC."
         },
         "en": {
-          "summary": "Recompilation of The Two Towers for Windows / Linux / macOS, based on the Xbox version.",
+          "summary": "Recompilation of The Lord of the Rings: The Two Towers for Windows / Linux / macOS, based on the Xbox version.",
           "originalFiles": "Provide your own compatible copy; check the required edition and files in the README.",
           "requirements": [
             "Check full requirements and OS differences in the pinned source."
@@ -3646,7 +3646,7 @@
           "limitations": "Rule-based screening without running the game. Claims may be outdated or incorrect; a full playthrough on your PC is not guaranteed."
         },
         "es": {
-          "summary": "Recompilación de The Two Towers para Windows / Linux / macOS, basada en la versión de Xbox.",
+          "summary": "Recompilación de The Lord of the Rings: The Two Towers para Windows / Linux / macOS, basada en la versión de Xbox.",
           "originalFiles": "Proporciona tu copia compatible; consulta edición y archivos necesarios en el README.",
           "requirements": [
             "Consulta requisitos completos y diferencias entre sistemas en la fuente fijada."
@@ -3786,7 +3786,7 @@
       },
       "id": "auto-ba2197deb6f373",
       "editionId": "auto-ba2197deb6f373",
-      "game": "PerfectDarkZeroRecomp",
+      "game": "Perfect Dark Zero",
       "name": "nikolaygorb/PerfectDarkZeroRecomp",
       "type": "recompilacao",
       "approach": "static-recompilation",
@@ -3833,7 +3833,7 @@
       "starsCollectedAt": "2026-11-17T05:09:07.760686+00:00",
       "content": {
         "pt": {
-          "summary": "Recompilação de PerfectDarkZeroRecomp para Windows / Linux / macOS, baseada na versão de Xbox 360.",
+          "summary": "Recompilação de Perfect Dark Zero para Windows / Linux / macOS, baseada na versão de Xbox 360.",
           "originalFiles": "Forneça sua própria cópia compatível; confira edição e arquivos exigidos no README.",
           "requirements": [
             "Confira os requisitos completos e as diferenças entre sistemas na fonte fixada."
@@ -3845,7 +3845,7 @@
           "limitations": "Triagem por regras, sem execução do jogo. Alegações podem estar desatualizadas ou incorretas; não há garantia de campanha completa no seu PC."
         },
         "en": {
-          "summary": "Recompilation of PerfectDarkZeroRecomp for Windows / Linux / macOS, based on the Xbox 360 version.",
+          "summary": "Recompilation of Perfect Dark Zero for Windows / Linux / macOS, based on the Xbox 360 version.",
           "originalFiles": "Provide your own compatible copy; check the required edition and files in the README.",
           "requirements": [
             "Check full requirements and OS differences in the pinned source."
@@ -3857,7 +3857,7 @@
           "limitations": "Rule-based screening without running the game. Claims may be outdated or incorrect; a full playthrough on your PC is not guaranteed."
         },
         "es": {
-          "summary": "Recompilación de PerfectDarkZeroRecomp para Windows / Linux / macOS, basada en la versión de Xbox 360.",
+          "summary": "Recompilación de Perfect Dark Zero para Windows / Linux / macOS, basada en la versión de Xbox 360.",
           "originalFiles": "Proporciona tu copia compatible; consulta edición y archivos necesarios en el README.",
           "requirements": [
             "Consulta requisitos completos y diferencias entre sistemas en la fuente fijada."
@@ -3895,7 +3895,7 @@
       },
       "id": "auto-2a9628ca94d1b0",
       "editionId": "auto-2a9628ca94d1b0",
-      "game": "WCW vs. nWo World Tour:",
+      "game": "WCW vs. nWo: World Tour",
       "name": "jessetbh/WCWvsNWOWorldTourRecomp",
       "type": "recompilacao",
       "approach": "static-recompilation",
@@ -3941,7 +3941,7 @@
       "starsCollectedAt": "2026-11-17T05:09:08.753214+00:00",
       "content": {
         "pt": {
-          "summary": "Recompilação de WCW vs. nWo World Tour: para Windows / Linux, baseada na versão de Nintendo 64.",
+          "summary": "Recompilação de WCW vs. nWo: World Tour para Windows / Linux, baseada na versão de Nintendo 64.",
           "originalFiles": "Forneça sua própria cópia compatível; confira edição e arquivos exigidos no README.",
           "requirements": [
             "Confira os requisitos completos e as diferenças entre sistemas na fonte fixada."
@@ -3953,7 +3953,7 @@
           "limitations": "Triagem por regras, sem execução do jogo. Alegações podem estar desatualizadas ou incorretas; não há garantia de campanha completa no seu PC."
         },
         "en": {
-          "summary": "Recompilation of WCW vs. nWo World Tour: for Windows / Linux, based on the Nintendo 64 version.",
+          "summary": "Recompilation of WCW vs. nWo: World Tour for Windows / Linux, based on the Nintendo 64 version.",
           "originalFiles": "Provide your own compatible copy; check the required edition and files in the README.",
           "requirements": [
             "Check full requirements and OS differences in the pinned source."
@@ -3965,7 +3965,7 @@
           "limitations": "Rule-based screening without running the game. Claims may be outdated or incorrect; a full playthrough on your PC is not guaranteed."
         },
         "es": {
-          "summary": "Recompilación de WCW vs. nWo World Tour: para Windows / Linux, basada en la versión de Nintendo 64.",
+          "summary": "Recompilación de WCW vs. nWo: World Tour para Windows / Linux, basada en la versión de Nintendo 64.",
           "originalFiles": "Proporciona tu copia compatible; consulta edición y archivos necesarios en el README.",
           "requirements": [
             "Consulta requisitos completos y diferencias entre sistemas en la fuente fijada."
@@ -4111,7 +4111,7 @@
       },
       "id": "auto-9aee78ee2e480e",
       "editionId": "auto-9aee78ee2e480e",
-      "game": "Forza Motorsport 2 ReGPU",
+      "game": "Forza Motorsport 2",
       "name": "zer0ducksgiven/Forza-Motorsport-2-ReGPU",
       "type": "recompilacao",
       "approach": "static-recompilation",
@@ -4156,7 +4156,7 @@
       "starsCollectedAt": "2026-11-17T05:09:11.093629+00:00",
       "content": {
         "pt": {
-          "summary": "Recompilação de Forza Motorsport 2 ReGPU para Windows, baseada na versão de Xbox 360.",
+          "summary": "Recompilação de Forza Motorsport 2 para Windows, baseada na versão de Xbox 360.",
           "originalFiles": "Forneça sua própria cópia compatível; confira edição e arquivos exigidos no README.",
           "requirements": [
             "Confira os requisitos completos e as diferenças entre sistemas na fonte fixada."
@@ -4168,7 +4168,7 @@
           "limitations": "Triagem por regras, sem execução do jogo. Alegações podem estar desatualizadas ou incorretas; não há garantia de campanha completa no seu PC."
         },
         "en": {
-          "summary": "Recompilation of Forza Motorsport 2 ReGPU for Windows, based on the Xbox 360 version.",
+          "summary": "Recompilation of Forza Motorsport 2 for Windows, based on the Xbox 360 version.",
           "originalFiles": "Provide your own compatible copy; check the required edition and files in the README.",
           "requirements": [
             "Check full requirements and OS differences in the pinned source."
@@ -4180,7 +4180,7 @@
           "limitations": "Rule-based screening without running the game. Claims may be outdated or incorrect; a full playthrough on your PC is not guaranteed."
         },
         "es": {
-          "summary": "Recompilación de Forza Motorsport 2 ReGPU para Windows, basada en la versión de Xbox 360.",
+          "summary": "Recompilación de Forza Motorsport 2 para Windows, basada en la versión de Xbox 360.",
           "originalFiles": "Proporciona tu copia compatible; consulta edición y archivos necesarios en el README.",
           "requirements": [
             "Consulta requisitos completos y diferencias entre sistemas en la fuente fijada."
@@ -4218,7 +4218,7 @@
       },
       "id": "auto-eb0f43dd218020",
       "editionId": "auto-eb0f43dd218020",
-      "game": "Mind over",
+      "game": "Crash: Mind over Mutant",
       "name": "Maxilure/MindOver-Recomp",
       "type": "recompilacao",
       "approach": "static-recompilation",
@@ -4264,7 +4264,7 @@
       "starsCollectedAt": "2026-11-17T05:09:12.309720+00:00",
       "content": {
         "pt": {
-          "summary": "Recompilação de Mind over para Windows / Linux, baseada na versão de Xbox 360.",
+          "summary": "Recompilação de Crash: Mind over Mutant para Windows / Linux, baseada na versão de Xbox 360.",
           "originalFiles": "Forneça sua própria cópia compatível; confira edição e arquivos exigidos no README.",
           "requirements": [
             "Confira os requisitos completos e as diferenças entre sistemas na fonte fixada."
@@ -4276,7 +4276,7 @@
           "limitations": "Triagem por regras, sem execução do jogo. Alegações podem estar desatualizadas ou incorretas; não há garantia de campanha completa no seu PC."
         },
         "en": {
-          "summary": "Recompilation of Mind over for Windows / Linux, based on the Xbox 360 version.",
+          "summary": "Recompilation of Crash: Mind over Mutant for Windows / Linux, based on the Xbox 360 version.",
           "originalFiles": "Provide your own compatible copy; check the required edition and files in the README.",
           "requirements": [
             "Check full requirements and OS differences in the pinned source."
@@ -4288,7 +4288,7 @@
           "limitations": "Rule-based screening without running the game. Claims may be outdated or incorrect; a full playthrough on your PC is not guaranteed."
         },
         "es": {
-          "summary": "Recompilación de Mind over para Windows / Linux, basada en la versión de Xbox 360.",
+          "summary": "Recompilación de Crash: Mind over Mutant para Windows / Linux, basada en la versión de Xbox 360.",
           "originalFiles": "Proporciona tu copia compatible; consulta edición y archivos necesarios en el README.",
           "requirements": [
             "Consulta requisitos completos y diferencias entre sistemas en la fuente fijada."
@@ -4326,7 +4326,7 @@
       },
       "id": "auto-49941eb72220a0",
       "editionId": "auto-49941eb72220a0",
-      "game": "Midtown Madness 3 PC Native",
+      "game": "Midtown Madness 3",
       "name": "lakshya16157/midtown-madness-3-PC-Native",
       "type": "recompilacao",
       "approach": "static-recompilation",
@@ -4371,7 +4371,7 @@
       "starsCollectedAt": "2026-11-17T05:09:13.242123+00:00",
       "content": {
         "pt": {
-          "summary": "Recompilação de Midtown Madness 3 PC Native para Windows, baseada na versão de Xbox.",
+          "summary": "Recompilação de Midtown Madness 3 para Windows, baseada na versão de Xbox.",
           "originalFiles": "Forneça sua própria cópia compatível; confira edição e arquivos exigidos no README.",
           "requirements": [
             "Confira os requisitos completos e as diferenças entre sistemas na fonte fixada."
@@ -4383,7 +4383,7 @@
           "limitations": "Triagem por regras, sem execução do jogo. Alegações podem estar desatualizadas ou incorretas; não há garantia de campanha completa no seu PC."
         },
         "en": {
-          "summary": "Recompilation of Midtown Madness 3 PC Native for Windows, based on the Xbox version.",
+          "summary": "Recompilation of Midtown Madness 3 for Windows, based on the Xbox version.",
           "originalFiles": "Provide your own compatible copy; check the required edition and files in the README.",
           "requirements": [
             "Check full requirements and OS differences in the pinned source."
@@ -4395,7 +4395,7 @@
           "limitations": "Rule-based screening without running the game. Claims may be outdated or incorrect; a full playthrough on your PC is not guaranteed."
         },
         "es": {
-          "summary": "Recompilación de Midtown Madness 3 PC Native para Windows, basada en la versión de Xbox.",
+          "summary": "Recompilación de Midtown Madness 3 para Windows, basada en la versión de Xbox.",
           "originalFiles": "Proporciona tu copia compatible; consulta edición y archivos necesarios en el README.",
           "requirements": [
             "Consulta requisitos completos y diferencias entre sistemas en la fuente fijada."
@@ -4540,7 +4540,7 @@
       },
       "id": "auto-178bf2df1eb1ff",
       "editionId": "auto-178bf2df1eb1ff",
-      "game": "MHGU",
+      "game": "Monster Hunter Generations Ultimate",
       "name": "morerokk/MHGURecomp",
       "type": "port",
       "approach": "source-port",
@@ -4586,7 +4586,7 @@
       "starsCollectedAt": "2026-11-17T05:09:15.218170+00:00",
       "content": {
         "pt": {
-          "summary": "Adaptação de MHGU para Windows / Linux, baseada na versão de Switch.",
+          "summary": "Adaptação de Monster Hunter Generations Ultimate para Windows / Linux, baseada na versão de Switch.",
           "originalFiles": "Forneça sua própria cópia compatível; confira edição e arquivos exigidos no README.",
           "requirements": [
             "Confira os requisitos completos e as diferenças entre sistemas na fonte fixada."
@@ -4598,7 +4598,7 @@
           "limitations": "Triagem por regras, sem execução do jogo. Alegações podem estar desatualizadas ou incorretas; não há garantia de campanha completa no seu PC."
         },
         "en": {
-          "summary": "Adaptation of MHGU for Windows / Linux, based on the Switch version.",
+          "summary": "Adaptation of Monster Hunter Generations Ultimate for Windows / Linux, based on the Switch version.",
           "originalFiles": "Provide your own compatible copy; check the required edition and files in the README.",
           "requirements": [
             "Check full requirements and OS differences in the pinned source."
@@ -4610,7 +4610,7 @@
           "limitations": "Rule-based screening without running the game. Claims may be outdated or incorrect; a full playthrough on your PC is not guaranteed."
         },
         "es": {
-          "summary": "Adaptación de MHGU para Windows / Linux, basada en la versión de Switch.",
+          "summary": "Adaptación de Monster Hunter Generations Ultimate para Windows / Linux, basada en la versión de Switch.",
           "originalFiles": "Proporciona tu copia compatible; consulta edición y archivos necesarios en el README.",
           "requirements": [
             "Consulta requisitos completos y diferencias entre sistemas en la fuente fijada."
@@ -4648,7 +4648,7 @@
       },
       "id": "auto-a08dd37e96e730",
       "editionId": "auto-a08dd37e96e730",
-      "game": "DOA3",
+      "game": "Dead or Alive 3",
       "name": "NoRain211/doa3-re",
       "type": "recompilacao",
       "approach": "static-recompilation",
@@ -4695,7 +4695,7 @@
       "starsCollectedAt": "2026-11-17T05:09:16.410828+00:00",
       "content": {
         "pt": {
-          "summary": "Recompilação de DOA3 para Windows / Linux / macOS, baseada na versão de Xbox.",
+          "summary": "Recompilação de Dead or Alive 3 para Windows / Linux / macOS, baseada na versão de Xbox.",
           "originalFiles": "Forneça sua própria cópia compatível; confira edição e arquivos exigidos no README.",
           "requirements": [
             "Confira os requisitos completos e as diferenças entre sistemas na fonte fixada."
@@ -4707,7 +4707,7 @@
           "limitations": "Triagem por regras, sem execução do jogo. Alegações podem estar desatualizadas ou incorretas; não há garantia de campanha completa no seu PC."
         },
         "en": {
-          "summary": "Recompilation of DOA3 for Windows / Linux / macOS, based on the Xbox version.",
+          "summary": "Recompilation of Dead or Alive 3 for Windows / Linux / macOS, based on the Xbox version.",
           "originalFiles": "Provide your own compatible copy; check the required edition and files in the README.",
           "requirements": [
             "Check full requirements and OS differences in the pinned source."
@@ -4719,7 +4719,7 @@
           "limitations": "Rule-based screening without running the game. Claims may be outdated or incorrect; a full playthrough on your PC is not guaranteed."
         },
         "es": {
-          "summary": "Recompilación de DOA3 para Windows / Linux / macOS, basada en la versión de Xbox.",
+          "summary": "Recompilación de Dead or Alive 3 para Windows / Linux / macOS, basada en la versión de Xbox.",
           "originalFiles": "Proporciona tu copia compatible; consulta edición y archivos necesarios en el README.",
           "requirements": [
             "Consulta requisitos completos y diferencias entre sistemas en la fuente fijada."
@@ -4972,7 +4972,7 @@
       },
       "id": "auto-1e9fe7f799067f",
       "editionId": "auto-1e9fe7f799067f",
-      "game": "Gears of War Native",
+      "game": "Gears of War 2 / Gears of War 3 / Gears of War: Judgment",
       "name": "Shagg88/COGBox",
       "type": "recompilacao",
       "approach": "static-recompilation",
@@ -5018,7 +5018,7 @@
       "starsCollectedAt": "2026-11-17T05:09:19.480124+00:00",
       "content": {
         "pt": {
-          "summary": "Recompilação de Gears of War Native para Windows / Linux, baseada na versão de Xbox 360.",
+          "summary": "Recompilação de Gears of War 2 / Gears of War 3 / Gears of War: Judgment para Windows / Linux, baseada na versão de Xbox 360.",
           "originalFiles": "Forneça sua própria cópia compatível; confira edição e arquivos exigidos no README.",
           "requirements": [
             "Confira os requisitos completos e as diferenças entre sistemas na fonte fixada."
@@ -5030,7 +5030,7 @@
           "limitations": "Triagem por regras, sem execução do jogo. Alegações podem estar desatualizadas ou incorretas; não há garantia de campanha completa no seu PC."
         },
         "en": {
-          "summary": "Recompilation of Gears of War Native for Windows / Linux, based on the Xbox 360 version.",
+          "summary": "Recompilation of Gears of War 2 / Gears of War 3 / Gears of War: Judgment for Windows / Linux, based on the Xbox 360 version.",
           "originalFiles": "Provide your own compatible copy; check the required edition and files in the README.",
           "requirements": [
             "Check full requirements and OS differences in the pinned source."
@@ -5042,7 +5042,7 @@
           "limitations": "Rule-based screening without running the game. Claims may be outdated or incorrect; a full playthrough on your PC is not guaranteed."
         },
         "es": {
-          "summary": "Recompilación de Gears of War Native para Windows / Linux, basada en la versión de Xbox 360.",
+          "summary": "Recompilación de Gears of War 2 / Gears of War 3 / Gears of War: Judgment para Windows / Linux, basada en la versión de Xbox 360.",
           "originalFiles": "Proporciona tu copia compatible; consulta edición y archivos necesarios en el README.",
           "requirements": [
             "Consulta requisitos completos y diferencias entre sistemas en la fuente fijada."
@@ -5080,7 +5080,7 @@
       },
       "id": "auto-4fb3a09baf2313",
       "editionId": "auto-4fb3a09baf2313",
-      "game": "Digimon World 2003:",
+      "game": "Digimon World 2003",
       "name": "Feerdus95/dw3-native-port",
       "type": "port",
       "approach": "source-port",
@@ -5125,7 +5125,7 @@
       "starsCollectedAt": "2026-11-17T05:09:20.640024+00:00",
       "content": {
         "pt": {
-          "summary": "Adaptação de Digimon World 2003: para Windows, baseada na versão de PS1.",
+          "summary": "Adaptação de Digimon World 2003 para Windows, baseada na versão de PS1.",
           "originalFiles": "Forneça sua própria cópia compatível; confira edição e arquivos exigidos no README.",
           "requirements": [
             "Confira os requisitos completos e as diferenças entre sistemas na fonte fixada."
@@ -5137,7 +5137,7 @@
           "limitations": "Triagem por regras, sem execução do jogo. Alegações podem estar desatualizadas ou incorretas; não há garantia de campanha completa no seu PC."
         },
         "en": {
-          "summary": "Adaptation of Digimon World 2003: for Windows, based on the PS1 version.",
+          "summary": "Adaptation of Digimon World 2003 for Windows, based on the PS1 version.",
           "originalFiles": "Provide your own compatible copy; check the required edition and files in the README.",
           "requirements": [
             "Check full requirements and OS differences in the pinned source."
@@ -5149,7 +5149,7 @@
           "limitations": "Rule-based screening without running the game. Claims may be outdated or incorrect; a full playthrough on your PC is not guaranteed."
         },
         "es": {
-          "summary": "Adaptación de Digimon World 2003: para Windows, basada en la versión de PS1.",
+          "summary": "Adaptación de Digimon World 2003 para Windows, basada en la versión de PS1.",
           "originalFiles": "Proporciona tu copia compatible; consulta edición y archivos necesarios en el README.",
           "requirements": [
             "Consulta requisitos completos y diferencias entre sistemas en la fuente fijada."
@@ -5401,7 +5401,7 @@
       },
       "id": "auto-84e586440d1ce2",
       "editionId": "auto-84e586440d1ce2",
-      "game": "TMBRecomp",
+      "game": "Twisted Metal: Black",
       "name": "TheBozos/TMB_Recomp",
       "type": "recompilacao",
       "approach": "static-recompilation",
@@ -5447,7 +5447,7 @@
       "starsCollectedAt": "2026-11-17T05:09:23.840746+00:00",
       "content": {
         "pt": {
-          "summary": "Recompilação de TMBRecomp para Windows / Linux, baseada na versão de PS2.",
+          "summary": "Recompilação de Twisted Metal: Black para Windows / Linux, baseada na versão de PS2.",
           "originalFiles": "Forneça sua própria cópia compatível; confira edição e arquivos exigidos no README.",
           "requirements": [
             "Confira os requisitos completos e as diferenças entre sistemas na fonte fixada."
@@ -5459,7 +5459,7 @@
           "limitations": "Triagem por regras, sem execução do jogo. Alegações podem estar desatualizadas ou incorretas; não há garantia de campanha completa no seu PC."
         },
         "en": {
-          "summary": "Recompilation of TMBRecomp for Windows / Linux, based on the PS2 version.",
+          "summary": "Recompilation of Twisted Metal: Black for Windows / Linux, based on the PS2 version.",
           "originalFiles": "Provide your own compatible copy; check the required edition and files in the README.",
           "requirements": [
             "Check full requirements and OS differences in the pinned source."
@@ -5471,7 +5471,7 @@
           "limitations": "Rule-based screening without running the game. Claims may be outdated or incorrect; a full playthrough on your PC is not guaranteed."
         },
         "es": {
-          "summary": "Recompilación de TMBRecomp para Windows / Linux, basada en la versión de PS2.",
+          "summary": "Recompilación de Twisted Metal: Black para Windows / Linux, basada en la versión de PS2.",
           "originalFiles": "Proporciona tu copia compatible; consulta edición y archivos necesarios en el README.",
           "requirements": [
             "Consulta requisitos completos y diferencias entre sistemas en la fuente fijada."
@@ -5723,7 +5723,7 @@
       },
       "id": "auto-9b3d01437d9e7c",
       "editionId": "auto-9b3d01437d9e7c",
-      "game": "Proving Ground",
+      "game": "Tony Hawk's Proving Ground",
       "name": "Newbie1337x/ProvingGroundRecomp",
       "type": "recompilacao",
       "approach": "static-recompilation",
@@ -5769,7 +5769,7 @@
       "starsCollectedAt": "2026-11-17T05:09:26.670755+00:00",
       "content": {
         "pt": {
-          "summary": "Recompilação de Proving Ground para Windows / Linux, baseada na versão de Xbox 360.",
+          "summary": "Recompilação de Tony Hawk's Proving Ground para Windows / Linux, baseada na versão de Xbox 360.",
           "originalFiles": "Forneça sua própria cópia compatível; confira edição e arquivos exigidos no README.",
           "requirements": [
             "Confira os requisitos completos e as diferenças entre sistemas na fonte fixada."
@@ -5781,7 +5781,7 @@
           "limitations": "Triagem por regras, sem execução do jogo. Alegações podem estar desatualizadas ou incorretas; não há garantia de campanha completa no seu PC."
         },
         "en": {
-          "summary": "Recompilation of Proving Ground for Windows / Linux, based on the Xbox 360 version.",
+          "summary": "Recompilation of Tony Hawk's Proving Ground for Windows / Linux, based on the Xbox 360 version.",
           "originalFiles": "Provide your own compatible copy; check the required edition and files in the README.",
           "requirements": [
             "Check full requirements and OS differences in the pinned source."
@@ -5793,7 +5793,7 @@
           "limitations": "Rule-based screening without running the game. Claims may be outdated or incorrect; a full playthrough on your PC is not guaranteed."
         },
         "es": {
-          "summary": "Recompilación de Proving Ground para Windows / Linux, basada en la versión de Xbox 360.",
+          "summary": "Recompilación de Tony Hawk's Proving Ground para Windows / Linux, basada en la versión de Xbox 360.",
           "originalFiles": "Proporciona tu copia compatible; consulta edición y archivos necesarios en el README.",
           "requirements": [
             "Consulta requisitos completos y diferencias entre sistemas en la fuente fijada."
@@ -6252,12 +6252,16 @@
     },
     {
       "image": {
-        "url": "assets/platforms/ps2.svg",
-        "kind": "console"
+        "url": "https://upload.wikimedia.org/wikipedia/en/a/a7/Dark_Cloud_PS2_Game_cover.jpg",
+        "kind": "reference",
+        "source": "https://en.wikipedia.org/wiki/Dark_Cloud",
+        "subject": "Dark Cloud",
+        "provider": "wikipedia-summary-v1",
+        "checkedAt": "2026-11-17T11:13:56.652845+00:00"
       },
       "id": "auto-cb5629eb6e8aae",
       "editionId": "auto-cb5629eb6e8aae",
-      "game": "DCRecomp",
+      "game": "Dark Cloud",
       "name": "TheBozos/DC_Recomp",
       "type": "recompilacao",
       "approach": "static-recompilation",
@@ -6303,7 +6307,7 @@
       "starsCollectedAt": "2026-11-17T05:09:32.821109+00:00",
       "content": {
         "pt": {
-          "summary": "Recompilação de DCRecomp para Windows / Linux, baseada na versão de PS2.",
+          "summary": "Recompilação de Dark Cloud para Windows / Linux, baseada na versão de PS2.",
           "originalFiles": "Forneça sua própria cópia compatível; confira edição e arquivos exigidos no README.",
           "requirements": [
             "Confira os requisitos completos e as diferenças entre sistemas na fonte fixada."
@@ -6315,7 +6319,7 @@
           "limitations": "Triagem por regras, sem execução do jogo. Alegações podem estar desatualizadas ou incorretas; não há garantia de campanha completa no seu PC."
         },
         "en": {
-          "summary": "Recompilation of DCRecomp for Windows / Linux, based on the PS2 version.",
+          "summary": "Recompilation of Dark Cloud for Windows / Linux, based on the PS2 version.",
           "originalFiles": "Provide your own compatible copy; check the required edition and files in the README.",
           "requirements": [
             "Check full requirements and OS differences in the pinned source."
@@ -6327,7 +6331,7 @@
           "limitations": "Rule-based screening without running the game. Claims may be outdated or incorrect; a full playthrough on your PC is not guaranteed."
         },
         "es": {
-          "summary": "Recompilación de DCRecomp para Windows / Linux, basada en la versión de PS2.",
+          "summary": "Recompilación de Dark Cloud para Windows / Linux, basada en la versión de PS2.",
           "originalFiles": "Proporciona tu copia compatible; consulta edición y archivos necesarios en el README.",
           "requirements": [
             "Consulta requisitos completos y diferencias entre sistemas en la fuente fijada."
@@ -6356,12 +6360,16 @@
     },
     {
       "image": {
-        "url": "assets/platforms/generic.svg",
-        "kind": "console"
+        "url": "https://upload.wikimedia.org/wikipedia/en/4/4f/Batman_Begins_Xbox_art.jpg",
+        "kind": "reference",
+        "source": "https://en.wikipedia.org/wiki/Batman_Begins_(video_game)",
+        "subject": "Batman Begins (video game)",
+        "provider": "wikipedia-summary-v1",
+        "checkedAt": "2026-11-17T11:13:56.989915+00:00"
       },
       "id": "auto-1d200097779210",
       "editionId": "auto-1d200097779210",
-      "game": "BatmanBeginsRecomp",
+      "game": "Batman Begins",
       "name": "christiansmmc/BatmanBeginsRecomp",
       "type": "recompilacao",
       "approach": "static-recompilation",
@@ -6406,7 +6414,7 @@
       "starsCollectedAt": "2026-11-17T05:09:33.729642+00:00",
       "content": {
         "pt": {
-          "summary": "Recompilação de BatmanBeginsRecomp para Windows, baseada na versão de Xbox.",
+          "summary": "Recompilação de Batman Begins para Windows, baseada na versão de Xbox.",
           "originalFiles": "Forneça sua própria cópia compatível; confira edição e arquivos exigidos no README.",
           "requirements": [
             "Confira os requisitos completos e as diferenças entre sistemas na fonte fixada."
@@ -6418,7 +6426,7 @@
           "limitations": "Triagem por regras, sem execução do jogo. Alegações podem estar desatualizadas ou incorretas; não há garantia de campanha completa no seu PC."
         },
         "en": {
-          "summary": "Recompilation of BatmanBeginsRecomp for Windows, based on the Xbox version.",
+          "summary": "Recompilation of Batman Begins for Windows, based on the Xbox version.",
           "originalFiles": "Provide your own compatible copy; check the required edition and files in the README.",
           "requirements": [
             "Check full requirements and OS differences in the pinned source."
@@ -6430,7 +6438,7 @@
           "limitations": "Rule-based screening without running the game. Claims may be outdated or incorrect; a full playthrough on your PC is not guaranteed."
         },
         "es": {
-          "summary": "Recompilación de BatmanBeginsRecomp para Windows, basada en la versión de Xbox.",
+          "summary": "Recompilación de Batman Begins para Windows, basada en la versión de Xbox.",
           "originalFiles": "Proporciona tu copia compatible; consulta edición y archivos necesarios en el README.",
           "requirements": [
             "Consulta requisitos completos y diferencias entre sistemas en la fuente fijada."
@@ -6568,12 +6576,16 @@
     },
     {
       "image": {
-        "url": "assets/platforms/ps2.svg",
-        "kind": "console"
+        "url": "https://upload.wikimedia.org/wikipedia/en/0/03/F1_06.jpg",
+        "kind": "reference",
+        "source": "https://en.wikipedia.org/wiki/Formula_One_06",
+        "subject": "Formula One 06",
+        "provider": "wikipedia-summary-v1",
+        "checkedAt": "2026-11-17T11:13:57.300336+00:00"
       },
       "id": "auto-2bf77e48ce06dc",
       "editionId": "auto-2bf77e48ce06dc",
-      "game": "F1 06 PC: a native Windows port of Formula One 06 (PS2) by static recompilation",
+      "game": "Formula One 06",
       "name": "KevinL50-sysadmin/F1-06-PC",
       "type": "recompilacao",
       "approach": "static-recompilation",
@@ -6618,7 +6630,7 @@
       "starsCollectedAt": "2026-11-17T05:09:35.869731+00:00",
       "content": {
         "pt": {
-          "summary": "Recompilação de F1 06 PC: a native Windows port of Formula One 06 (PS2) by static recompilation para Windows, baseada na versão de PS2.",
+          "summary": "Recompilação de Formula One 06 para Windows, baseada na versão de PS2.",
           "originalFiles": "Forneça sua própria cópia compatível; confira edição e arquivos exigidos no README.",
           "requirements": [
             "Confira os requisitos completos e as diferenças entre sistemas na fonte fixada."
@@ -6630,7 +6642,7 @@
           "limitations": "Triagem por regras, sem execução do jogo. Alegações podem estar desatualizadas ou incorretas; não há garantia de campanha completa no seu PC."
         },
         "en": {
-          "summary": "Recompilation of F1 06 PC: a native Windows port of Formula One 06 (PS2) by static recompilation for Windows, based on the PS2 version.",
+          "summary": "Recompilation of Formula One 06 for Windows, based on the PS2 version.",
           "originalFiles": "Provide your own compatible copy; check the required edition and files in the README.",
           "requirements": [
             "Check full requirements and OS differences in the pinned source."
@@ -6642,7 +6654,7 @@
           "limitations": "Rule-based screening without running the game. Claims may be outdated or incorrect; a full playthrough on your PC is not guaranteed."
         },
         "es": {
-          "summary": "Recompilación de F1 06 PC: a native Windows port of Formula One 06 (PS2) by static recompilation para Windows, basada en la versión de PS2.",
+          "summary": "Recompilación de Formula One 06 para Windows, basada en la versión de PS2.",
           "originalFiles": "Proporciona tu copia compatible; consulta edición y archivos necesarios en el README.",
           "requirements": [
             "Consulta requisitos completos y diferencias entre sistemas en la fuente fijada."
@@ -6671,12 +6683,16 @@
     },
     {
       "image": {
-        "url": "assets/platforms/ps3.svg",
-        "kind": "console"
+        "url": "https://upload.wikimedia.org/wikipedia/en/d/db/Infamous_2.png",
+        "kind": "reference",
+        "source": "https://en.wikipedia.org/wiki/Infamous_2",
+        "subject": "Infamous 2",
+        "provider": "wikipedia-summary-v1",
+        "checkedAt": "2026-11-17T11:13:57.999147+00:00"
       },
       "id": "auto-5344c38400f761",
       "editionId": "auto-5344c38400f761",
-      "game": "⚡ inFAMOUS 2:",
+      "game": "inFAMOUS 2",
       "name": "SamiEnazi/infamous2-port",
       "type": "recompilacao",
       "approach": "static-recompilation",
@@ -6722,7 +6738,7 @@
       "starsCollectedAt": "2026-11-17T05:09:36.688035+00:00",
       "content": {
         "pt": {
-          "summary": "Recompilação de ⚡ inFAMOUS 2: para Windows / Linux, baseada na versão de PS3.",
+          "summary": "Recompilação de inFAMOUS 2 para Windows / Linux, baseada na versão de PS3.",
           "originalFiles": "Forneça sua própria cópia compatível; confira edição e arquivos exigidos no README.",
           "requirements": [
             "Confira os requisitos completos e as diferenças entre sistemas na fonte fixada."
@@ -6734,7 +6750,7 @@
           "limitations": "Triagem por regras, sem execução do jogo. Alegações podem estar desatualizadas ou incorretas; não há garantia de campanha completa no seu PC."
         },
         "en": {
-          "summary": "Recompilation of ⚡ inFAMOUS 2: for Windows / Linux, based on the PS3 version.",
+          "summary": "Recompilation of inFAMOUS 2 for Windows / Linux, based on the PS3 version.",
           "originalFiles": "Provide your own compatible copy; check the required edition and files in the README.",
           "requirements": [
             "Check full requirements and OS differences in the pinned source."
@@ -6746,7 +6762,7 @@
           "limitations": "Rule-based screening without running the game. Claims may be outdated or incorrect; a full playthrough on your PC is not guaranteed."
         },
         "es": {
-          "summary": "Recompilación de ⚡ inFAMOUS 2: para Windows / Linux, basada en la versión de PS3.",
+          "summary": "Recompilación de inFAMOUS 2 para Windows / Linux, basada en la versión de PS3.",
           "originalFiles": "Proporciona tu copia compatible; consulta edición y archivos necesarios en el README.",
           "requirements": [
             "Consulta requisitos completos y diferencias entre sistemas en la fuente fijada."
@@ -6775,12 +6791,16 @@
     },
     {
       "image": {
-        "url": "assets/platforms/ps2.svg",
-        "kind": "console"
+        "url": "https://upload.wikimedia.org/wikipedia/en/6/61/Transformers_%282004%29_Coverart.png",
+        "kind": "reference",
+        "source": "https://en.wikipedia.org/wiki/Transformers_(2004_video_game)",
+        "subject": "Transformers (2004 video game)",
+        "provider": "wikipedia-summary-v1",
+        "checkedAt": "2026-11-17T11:16:24.254373+00:00"
       },
       "id": "auto-8b97d80cb1fca9",
       "editionId": "auto-8b97d80cb1fca9",
-      "game": "Transformers (PS2) for Linux",
+      "game": "Transformers (2004)",
       "name": "kadraa-png/transformers-ps2-linux",
       "type": "recompilacao",
       "approach": "static-recompilation",
@@ -6826,7 +6846,7 @@
       "starsCollectedAt": "2026-11-17T05:09:38.032583+00:00",
       "content": {
         "pt": {
-          "summary": "Recompilação de Transformers (PS2) for Linux para Windows / Linux, baseada na versão de PS2.",
+          "summary": "Recompilação de Transformers (2004) para Windows / Linux, baseada na versão de PS2.",
           "originalFiles": "Forneça sua própria cópia compatível; confira edição e arquivos exigidos no README.",
           "requirements": [
             "Confira os requisitos completos e as diferenças entre sistemas na fonte fixada."
@@ -6838,7 +6858,7 @@
           "limitations": "Triagem por regras, sem execução do jogo. Alegações podem estar desatualizadas ou incorretas; não há garantia de campanha completa no seu PC."
         },
         "en": {
-          "summary": "Recompilation of Transformers (PS2) for Linux for Windows / Linux, based on the PS2 version.",
+          "summary": "Recompilation of Transformers (2004) for Windows / Linux, based on the PS2 version.",
           "originalFiles": "Provide your own compatible copy; check the required edition and files in the README.",
           "requirements": [
             "Check full requirements and OS differences in the pinned source."
@@ -6850,7 +6870,7 @@
           "limitations": "Rule-based screening without running the game. Claims may be outdated or incorrect; a full playthrough on your PC is not guaranteed."
         },
         "es": {
-          "summary": "Recompilación de Transformers (PS2) for Linux para Windows / Linux, basada en la versión de PS2.",
+          "summary": "Recompilación de Transformers (2004) para Windows / Linux, basada en la versión de PS2.",
           "originalFiles": "Proporciona tu copia compatible; consulta edición y archivos necesarios en el README.",
           "requirements": [
             "Consulta requisitos completos y diferencias entre sistemas en la fuente fijada."
