@@ -1,14 +1,56 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-17T19:54:46.619072+00:00",
+  "updatedAt": "2026-11-18T04:23:35.643184+00:00",
   "triage": {
     "ruleVersion": "documentary-v2",
     "reviewed": 20,
-    "added": 0,
-    "pending": 20,
+    "added": 2,
+    "pending": 18,
     "outOfScope": 0
   },
   "projects": [
+    {
+      "repository": "nefariousjosiah/WWE-SVR2010-RECOMP",
+      "github": "https://github.com/nefariousjosiah/WWE-SVR2010-RECOMP",
+      "stars": 44,
+      "checkedAt": "2026-11-18T04:25:10.219111+00:00",
+      "evidenceUrl": "https://github.com/nefariousjosiah/WWE-SVR2010-RECOMP/blob/356b8364ea6023f20c3179cdaa2b39cfba2c8c9a/README.md"
+    },
+    {
+      "repository": "Revivedx/SavageWindRecomp",
+      "github": "https://github.com/Revivedx/SavageWindRecomp",
+      "stars": 4734,
+      "checkedAt": "2026-11-18T04:25:00.813619+00:00",
+      "evidenceUrl": "https://github.com/Revivedx/SavageWindRecomp/blob/5270ac24662361bf98da0178f9da2968a695506a/README.md"
+    },
+    {
+      "repository": "KaikoClanworth1/buffy-chaos-bleeds-pc",
+      "github": "https://github.com/KaikoClanworth1/buffy-chaos-bleeds-pc",
+      "stars": 54,
+      "checkedAt": "2026-11-18T04:24:59.747355+00:00",
+      "evidenceUrl": "https://github.com/KaikoClanworth1/buffy-chaos-bleeds-pc/blob/4b9e48346bae14f22ed9ba1a9c822146dcede187/README.md"
+    },
+    {
+      "repository": "snufflyyy/OpenDream",
+      "github": "https://github.com/snufflyyy/OpenDream",
+      "stars": 0,
+      "checkedAt": "2026-11-18T04:24:58.808385+00:00",
+      "evidenceUrl": "https://github.com/snufflyyy/OpenDream/blob/761cc7ab182abbb05f7c9dd9e0604794dfcb098b/README.md"
+    },
+    {
+      "repository": "umagamer83182/Shinobido-Way-of-the-Ninja-Native-PC-Port",
+      "github": "https://github.com/umagamer83182/Shinobido-Way-of-the-Ninja-Native-PC-Port",
+      "stars": 1,
+      "checkedAt": "2026-11-18T04:24:56.117757+00:00",
+      "evidenceUrl": "https://github.com/umagamer83182/Shinobido-Way-of-the-Ninja-Native-PC-Port/blob/0a045457f31af4540504f814703183a82fec733d/README.md"
+    },
+    {
+      "repository": "finalpantasy/hot-shots-golf-ps3-recomp",
+      "github": "https://github.com/finalpantasy/hot-shots-golf-ps3-recomp",
+      "stars": 1,
+      "checkedAt": "2026-11-18T04:24:54.054653+00:00",
+      "evidenceUrl": "https://github.com/finalpantasy/hot-shots-golf-ps3-recomp/blob/53c5874163fb7900474bfc49d017c04f8b558d7f/README.md"
+    },
     {
       "repository": "Conker64Recomp/conker64-recompiled",
       "github": "https://github.com/Conker64Recomp/conker64-recompiled",
@@ -316,48 +358,6 @@
       "stars": 3,
       "checkedAt": "2026-11-12T19:01:58.814992+00:00",
       "evidenceUrl": "https://github.com/Sacrappy/HeyListen/blob/397eb4a558b1436d015e4fc023ad2f5092ec5876/README.md"
-    },
-    {
-      "repository": "vs-sr-dev/pc-megamanxcm",
-      "github": "https://github.com/vs-sr-dev/pc-megamanxcm",
-      "stars": 7,
-      "checkedAt": "2026-11-12T19:01:49.778936+00:00",
-      "evidenceUrl": "https://github.com/vs-sr-dev/pc-megamanxcm/blob/e596f50cf7486c329594cf04ec474d27964f8028/README.md"
-    },
-    {
-      "repository": "mattiasribera/WarriorsReborn",
-      "github": "https://github.com/mattiasribera/WarriorsReborn",
-      "stars": 8,
-      "checkedAt": "2026-11-12T19:01:48.087601+00:00",
-      "evidenceUrl": "https://github.com/mattiasribera/WarriorsReborn/blob/0bad80d25ea5ba69e7fdbef70ade42d47302b031/README.md"
-    },
-    {
-      "repository": "arcanite24/lavender-shift",
-      "github": "https://github.com/arcanite24/lavender-shift",
-      "stars": 17,
-      "checkedAt": "2026-11-12T19:01:45.952529+00:00",
-      "evidenceUrl": "https://github.com/arcanite24/lavender-shift/blob/1fe6db3bff1e9192992a7965537bf4b12caa7212/README.md"
-    },
-    {
-      "repository": "bhuiyah/infamous2-recomp",
-      "github": "https://github.com/bhuiyah/infamous2-recomp",
-      "stars": 78,
-      "checkedAt": "2026-11-12T19:01:40.562808+00:00",
-      "evidenceUrl": "https://github.com/bhuiyah/infamous2-recomp/blob/a1e5a585a6503607df34316cdee9375dbaf09f5d/README.md"
-    },
-    {
-      "repository": "EtherAura/xenogears-pc",
-      "github": "https://github.com/EtherAura/xenogears-pc",
-      "stars": 0,
-      "checkedAt": "2026-11-12T03:53:20.651129+00:00",
-      "evidenceUrl": "https://github.com/EtherAura/xenogears-pc/blob/efa60609c1b7dde11622212b8b78226dbe484a4b/README.md"
-    },
-    {
-      "repository": "miroslavdanutalexandru-alt/Resistance-Fall-of-Man-Recomp",
-      "github": "https://github.com/miroslavdanutalexandru-alt/Resistance-Fall-of-Man-Recomp",
-      "stars": 21,
-      "checkedAt": "2026-11-12T03:53:13.457621+00:00",
-      "evidenceUrl": "https://github.com/miroslavdanutalexandru-alt/Resistance-Fall-of-Man-Recomp/blob/f275921fc9a3339aa42217ae64c43a5baf1987db/README.md"
     }
   ]
 }
