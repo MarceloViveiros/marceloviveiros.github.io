@@ -1,14 +1,56 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-19T04:15:45.055666+00:00",
+  "updatedAt": "2026-11-19T19:32:34.358469+00:00",
   "triage": {
     "ruleVersion": "documentary-v2",
     "reviewed": 20,
-    "added": 0,
-    "pending": 20,
+    "added": 1,
+    "pending": 19,
     "outOfScope": 0
   },
   "projects": [
+    {
+      "repository": "nefariousjosiah/WWE-SVR2009-RECOMP",
+      "github": "https://github.com/nefariousjosiah/WWE-SVR2009-RECOMP",
+      "stars": 38,
+      "checkedAt": "2026-11-19T19:34:12.356922+00:00",
+      "evidenceUrl": "https://github.com/nefariousjosiah/WWE-SVR2009-RECOMP/blob/6d0e51c6ad948559829fe9c2ce493b1e185689ad/README.md"
+    },
+    {
+      "repository": "GTTeancum/OpenJam",
+      "github": "https://github.com/GTTeancum/OpenJam",
+      "stars": 65,
+      "checkedAt": "2026-11-19T19:34:11.357777+00:00",
+      "evidenceUrl": "https://github.com/GTTeancum/OpenJam/blob/53ac134a7182ff0ccc702f786ea6cf9a32ef5bf1/README.md"
+    },
+    {
+      "repository": "Mango77x/MHForever",
+      "github": "https://github.com/Mango77x/MHForever",
+      "stars": 85,
+      "checkedAt": "2026-11-19T19:34:10.205842+00:00",
+      "evidenceUrl": "https://github.com/Mango77x/MHForever/blob/6b8a6fd21bb5685b89e77bcbd466888daf83116b/README.md"
+    },
+    {
+      "repository": "Dyotson/RecompiledHaloReach",
+      "github": "https://github.com/Dyotson/RecompiledHaloReach",
+      "stars": 52,
+      "checkedAt": "2026-11-19T19:34:07.803789+00:00",
+      "evidenceUrl": "https://github.com/Dyotson/RecompiledHaloReach/blob/329148bb156e0710bcf7f89ced1044461ea7f18f/README.md"
+    },
+    {
+      "repository": "ObeseCatLord/Galaxy-Angel-II-PC",
+      "github": "https://github.com/ObeseCatLord/Galaxy-Angel-II-PC",
+      "stars": 3,
+      "checkedAt": "2026-11-19T19:34:05.540513+00:00",
+      "evidenceUrl": "https://github.com/ObeseCatLord/Galaxy-Angel-II-PC/blob/e7b5f5de7b1684670dfb64a02cc8c8981a907aca/README.md"
+    },
+    {
+      "repository": "Dipshet/GracemeriaRecomp",
+      "github": "https://github.com/Dipshet/GracemeriaRecomp",
+      "stars": 80,
+      "checkedAt": "2026-11-19T19:33:59.786758+00:00",
+      "evidenceUrl": "https://github.com/Dipshet/GracemeriaRecomp/blob/d0fd031f2939da79adc140339970d7a058a92db1/README.md"
+    },
     {
       "repository": "DrummingBird1/gow-psp-recomp",
       "github": "https://github.com/DrummingBird1/gow-psp-recomp",
@@ -316,48 +358,6 @@
       "stars": 425,
       "checkedAt": "2026-11-13T18:37:31.387363+00:00",
       "evidenceUrl": "https://github.com/murkantor/Project-Midas/blob/adfbbf817cda21fe5918a56cf3292f84ed93e9e4/readme.md"
-    },
-    {
-      "repository": "sargon494/PersonaRM",
-      "github": "https://github.com/sargon494/PersonaRM",
-      "stars": 0,
-      "checkedAt": "2026-11-13T18:37:29.881853+00:00",
-      "evidenceUrl": "https://github.com/sargon494/PersonaRM/blob/00fc5ef314450153d680f8cb2df553602421d977/README.md"
-    },
-    {
-      "repository": "MertCNOZ/ScarPort",
-      "github": "https://github.com/MertCNOZ/ScarPort",
-      "stars": 1,
-      "checkedAt": "2026-11-13T18:37:24.291520+00:00",
-      "evidenceUrl": "https://github.com/MertCNOZ/ScarPort/blob/14541d736748a14110bb11bd546b06bcaed3bdae/README.md"
-    },
-    {
-      "repository": "xynnpg/GT6PP",
-      "github": "https://github.com/xynnpg/GT6PP",
-      "stars": 7,
-      "checkedAt": "2026-11-13T18:37:16.091538+00:00",
-      "evidenceUrl": "https://github.com/xynnpg/GT6PP/blob/0b76a2d19bf79be0a91787cf422d84e0ef5f7ac9/README.md"
-    },
-    {
-      "repository": "Starkka15/spyro-aht-pc",
-      "github": "https://github.com/Starkka15/spyro-aht-pc",
-      "stars": 8,
-      "checkedAt": "2026-11-13T18:37:14.479898+00:00",
-      "evidenceUrl": "https://github.com/Starkka15/spyro-aht-pc/blob/ab00c042ff1b12f0c651dd72e0885b39949d2bd5/README.md"
-    },
-    {
-      "repository": "chasem-dev/sms-pc-port",
-      "github": "https://github.com/chasem-dev/sms-pc-port",
-      "stars": 244,
-      "checkedAt": "2026-11-13T03:31:14.197851+00:00",
-      "evidenceUrl": "https://github.com/chasem-dev/sms-pc-port/blob/736edafc72fc829f9466224754cb3621921c63df/README.md"
-    },
-    {
-      "repository": "LittleBitUA/DPRecomp",
-      "github": "https://github.com/LittleBitUA/DPRecomp",
-      "stars": 187,
-      "checkedAt": "2026-11-13T03:31:05.385797+00:00",
-      "evidenceUrl": "https://github.com/LittleBitUA/DPRecomp/blob/e0624129c06b9437aa0278b58f2f3eb954192aec/README.md"
     }
   ]
 }
