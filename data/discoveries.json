@@ -1,14 +1,56 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-20T04:02:17.088197+00:00",
+  "updatedAt": "2026-11-20T19:09:50.030045+00:00",
   "triage": {
     "ruleVersion": "documentary-v2",
     "reviewed": 20,
-    "added": 1,
-    "pending": 19,
+    "added": 0,
+    "pending": 20,
     "outOfScope": 0
   },
   "projects": [
+    {
+      "repository": "Antriksh1984/TheWarriors-XBERecomp",
+      "github": "https://github.com/Antriksh1984/TheWarriors-XBERecomp",
+      "stars": 63,
+      "checkedAt": "2026-11-20T19:11:41.383464+00:00",
+      "evidenceUrl": "https://github.com/Antriksh1984/TheWarriors-XBERecomp/blob/1d0c8c70951e102181a13a818702759ab3941843/README.md"
+    },
+    {
+      "repository": "BgbrhrWatchinOVO/dusklight-ps4",
+      "github": "https://github.com/BgbrhrWatchinOVO/dusklight-ps4",
+      "stars": 21,
+      "checkedAt": "2026-11-20T19:11:36.676492+00:00",
+      "evidenceUrl": "https://github.com/BgbrhrWatchinOVO/dusklight-ps4/blob/fd483cf5d4f04b0f4d887ff412d0e8691925de08/README.md"
+    },
+    {
+      "repository": "sp00nznet/xboxdashboard",
+      "github": "https://github.com/sp00nznet/xboxdashboard",
+      "stars": 19,
+      "checkedAt": "2026-11-20T19:11:35.651207+00:00",
+      "evidenceUrl": "https://github.com/sp00nznet/xboxdashboard/blob/1fd95ed0cccad6eb8ea655f9826d09964d71b392/README.md"
+    },
+    {
+      "repository": "TheRealestNwah/sotc-decomp",
+      "github": "https://github.com/TheRealestNwah/sotc-decomp",
+      "stars": 49,
+      "checkedAt": "2026-11-20T19:11:26.700078+00:00",
+      "evidenceUrl": "https://github.com/TheRealestNwah/sotc-decomp/blob/41f20d07f4634c8530e2dc40e8781cab8f9f4509/README.md"
+    },
+    {
+      "repository": "Genesis5500/ArmyOfTwo-Recomp",
+      "github": "https://github.com/Genesis5500/ArmyOfTwo-Recomp",
+      "stars": 22,
+      "checkedAt": "2026-11-20T19:11:25.671369+00:00",
+      "evidenceUrl": "https://github.com/Genesis5500/ArmyOfTwo-Recomp/blob/bd7e07472acfe9d8563a318502f4d399b6d4d791/README.md"
+    },
+    {
+      "repository": "johnatan28/ZarathosRecomp",
+      "github": "https://github.com/johnatan28/ZarathosRecomp",
+      "stars": 0,
+      "checkedAt": "2026-11-20T19:11:21.979485+00:00",
+      "evidenceUrl": "https://github.com/johnatan28/ZarathosRecomp/blob/7ca8dadc59b5807320839087d1f2dbd897516124/README.md"
+    },
     {
       "repository": "Nycolazs/EoWRecomp",
       "github": "https://github.com/Nycolazs/EoWRecomp",
@@ -316,48 +358,6 @@
       "stars": 117,
       "checkedAt": "2026-11-15T02:44:02.382170+00:00",
       "evidenceUrl": "https://github.com/wivi514/Dead_Rising_2_Case_West_Xenon_Recomp/blob/ba78bde572d654022f35e00eb9860be6c4583456/README.md"
-    },
-    {
-      "repository": "bossman-CT/sfassault-recomp",
-      "github": "https://github.com/bossman-CT/sfassault-recomp",
-      "stars": 0,
-      "checkedAt": "2026-11-15T02:43:57.510225+00:00",
-      "evidenceUrl": "https://github.com/bossman-CT/sfassault-recomp/blob/2742d2437ac5255b79c716cfb7aef2a97e9e7acf/README.md"
-    },
-    {
-      "repository": "wivi514/Dead_Rising_2_Case_Zero_Xenon_Recomp",
-      "github": "https://github.com/wivi514/Dead_Rising_2_Case_Zero_Xenon_Recomp",
-      "stars": 117,
-      "checkedAt": "2026-11-14T17:12:25.950664+00:00",
-      "evidenceUrl": "https://github.com/wivi514/Dead_Rising_2_Case_Zero_Xenon_Recomp/blob/10d45b0952dd1b7f53f29dbff0795a27abb81ff7/README.md"
-    },
-    {
-      "repository": "Elie-0066/SPR-Recomp-Project",
-      "github": "https://github.com/Elie-0066/SPR-Recomp-Project",
-      "stars": 1,
-      "checkedAt": "2026-11-14T17:12:18.301799+00:00",
-      "evidenceUrl": "https://github.com/Elie-0066/SPR-Recomp-Project/blob/0cf7c064ad453a57c28ed66b8363c287affa78f0/README.md"
-    },
-    {
-      "repository": "CyriacFR/Kalamar",
-      "github": "https://github.com/CyriacFR/Kalamar",
-      "stars": 2,
-      "checkedAt": "2026-11-14T17:12:14.876687+00:00",
-      "evidenceUrl": "https://github.com/CyriacFR/Kalamar/blob/9f07d85485c50a100f4b304aeffd9e59a44859d7/README.md"
-    },
-    {
-      "repository": "KaikoClanworth1/wwe-svr2011-pc",
-      "github": "https://github.com/KaikoClanworth1/wwe-svr2011-pc",
-      "stars": 178,
-      "checkedAt": "2026-11-14T03:20:01.401766+00:00",
-      "evidenceUrl": "https://github.com/KaikoClanworth1/wwe-svr2011-pc/blob/bfc3e7a17d2bde3211b564901cc0eb0e832f8693/README.md"
-    },
-    {
-      "repository": "JackandBeans/Snap64Recomp",
-      "github": "https://github.com/JackandBeans/Snap64Recomp",
-      "stars": 134,
-      "checkedAt": "2026-11-14T03:19:54.022465+00:00",
-      "evidenceUrl": "https://github.com/JackandBeans/Snap64Recomp/blob/1a4e208ad7e1551af9a9d38866bb998b71ccf4e6/README.md"
     }
   ]
 }
