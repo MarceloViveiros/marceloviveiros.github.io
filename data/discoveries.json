@@ -1,14 +1,42 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-21T04:01:35.737831+00:00",
+  "updatedAt": "2026-11-21T18:01:13.661048+00:00",
   "triage": {
     "ruleVersion": "documentary-v2",
     "reviewed": 20,
     "added": 0,
-    "pending": 19,
+    "pending": 20,
     "outOfScope": 0
   },
   "projects": [
+    {
+      "repository": "nefariousjosiah/WWE-SVR2007-RECOMP",
+      "github": "https://github.com/nefariousjosiah/WWE-SVR2007-RECOMP",
+      "stars": 25,
+      "checkedAt": "2026-11-21T18:02:47.623263+00:00",
+      "evidenceUrl": "https://github.com/nefariousjosiah/WWE-SVR2007-RECOMP/blob/ec3e37b86c04240892d03f30737cc382b9044ac4/README.md"
+    },
+    {
+      "repository": "ThiagoFraga761/infamous2-pc",
+      "github": "https://github.com/ThiagoFraga761/infamous2-pc",
+      "stars": 56,
+      "checkedAt": "2026-11-21T18:02:43.467523+00:00",
+      "evidenceUrl": "https://github.com/ThiagoFraga761/infamous2-pc/blob/2dbd6acc19b5ece889272ce482730b1ce59ea4b3/README.md"
+    },
+    {
+      "repository": "LasVola/godhand-recomp",
+      "github": "https://github.com/LasVola/godhand-recomp",
+      "stars": 48,
+      "checkedAt": "2026-11-21T18:02:42.168687+00:00",
+      "evidenceUrl": "https://github.com/LasVola/godhand-recomp/blob/14e956a1274332440273845fbab2c1f1e30c4a5a/README.md"
+    },
+    {
+      "repository": "khasinski/parasite-eve-pc",
+      "github": "https://github.com/khasinski/parasite-eve-pc",
+      "stars": 104,
+      "checkedAt": "2026-11-21T18:02:41.332032+00:00",
+      "evidenceUrl": "https://github.com/khasinski/parasite-eve-pc/blob/628e1c1bcfddceb0487a6bc8bacd198996a8ef50/README.md"
+    },
     {
       "repository": "kiesxoxo/burnout-crash-recomp",
       "github": "https://github.com/kiesxoxo/burnout-crash-recomp",
@@ -330,34 +358,6 @@
       "stars": 253,
       "checkedAt": "2026-11-16T02:48:41.293705+00:00",
       "evidenceUrl": "https://github.com/hachi23/unicorn_overlord_pc/blob/6af04124c1e00ef9184dc5ee0cf20d2d408db3bc/README.md"
-    },
-    {
-      "repository": "crazyriddler/FinestHourRemastered",
-      "github": "https://github.com/crazyriddler/FinestHourRemastered",
-      "stars": 193,
-      "checkedAt": "2026-11-15T17:47:49.493583+00:00",
-      "evidenceUrl": "https://github.com/crazyriddler/FinestHourRemastered/blob/bd35ab60d8e927bdfd3c16e7bb9db0aabfe60a81/README.md"
-    },
-    {
-      "repository": "novapowers0/BloodyRoar2Recomp",
-      "github": "https://github.com/novapowers0/BloodyRoar2Recomp",
-      "stars": 98,
-      "checkedAt": "2026-11-15T17:47:40.284480+00:00",
-      "evidenceUrl": "https://github.com/novapowers0/BloodyRoar2Recomp/blob/eed1e8d123d903d24ec0adf49ebee71a16c5892c/README.md"
-    },
-    {
-      "repository": "iExplosiveRage/DBZ-Burst-Limit-Recompiled",
-      "github": "https://github.com/iExplosiveRage/DBZ-Burst-Limit-Recompiled",
-      "stars": 125,
-      "checkedAt": "2026-11-15T17:47:35.650624+00:00",
-      "evidenceUrl": "https://github.com/iExplosiveRage/DBZ-Burst-Limit-Recompiled/blob/40aaa4d6bf212239f9cdadebb85bf96e8e57b03c/README.md"
-    },
-    {
-      "repository": "TGP482/XboxXBERecomp",
-      "github": "https://github.com/TGP482/XboxXBERecomp",
-      "stars": 233,
-      "checkedAt": "2026-11-15T17:47:34.384637+00:00",
-      "evidenceUrl": "https://github.com/TGP482/XboxXBERecomp/blob/cc9edda3a821a4204dc28783f429b88a27ade4f9/README.md"
     }
   ]
 }
