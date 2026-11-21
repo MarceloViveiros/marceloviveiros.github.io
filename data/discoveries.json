@@ -1,14 +1,28 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-20T19:09:50.030045+00:00",
+  "updatedAt": "2026-11-21T04:01:35.737831+00:00",
   "triage": {
     "ruleVersion": "documentary-v2",
     "reviewed": 20,
     "added": 0,
-    "pending": 20,
+    "pending": 19,
     "outOfScope": 0
   },
   "projects": [
+    {
+      "repository": "kiesxoxo/burnout-crash-recomp",
+      "github": "https://github.com/kiesxoxo/burnout-crash-recomp",
+      "stars": 21,
+      "checkedAt": "2026-11-21T04:03:04.067797+00:00",
+      "evidenceUrl": "https://github.com/kiesxoxo/burnout-crash-recomp/blob/ac11bd1043e13db61bd0a8171043ac053a1ac88f/README.md"
+    },
+    {
+      "repository": "KevinL50-sysadmin/F1-05-PC",
+      "github": "https://github.com/KevinL50-sysadmin/F1-05-PC",
+      "stars": 0,
+      "checkedAt": "2026-11-21T04:02:56.142690+00:00",
+      "evidenceUrl": "https://github.com/KevinL50-sysadmin/F1-05-PC/blob/2e152da281061d8175ccd2258fa04e180df3291c/README.md"
+    },
     {
       "repository": "Antriksh1984/TheWarriors-XBERecomp",
       "github": "https://github.com/Antriksh1984/TheWarriors-XBERecomp",
@@ -344,20 +358,6 @@
       "stars": 233,
       "checkedAt": "2026-11-15T17:47:34.384637+00:00",
       "evidenceUrl": "https://github.com/TGP482/XboxXBERecomp/blob/cc9edda3a821a4204dc28783f429b88a27ade4f9/README.md"
-    },
-    {
-      "repository": "kirklandsig/halo2-decompiled",
-      "github": "https://github.com/kirklandsig/halo2-decompiled",
-      "stars": 148,
-      "checkedAt": "2026-11-15T02:44:09.210786+00:00",
-      "evidenceUrl": "https://github.com/kirklandsig/halo2-decompiled/blob/2e8e9c7b0e14d6f1cfcdf884348390e972cb8de4/README.md"
-    },
-    {
-      "repository": "wivi514/Dead_Rising_2_Case_West_Xenon_Recomp",
-      "github": "https://github.com/wivi514/Dead_Rising_2_Case_West_Xenon_Recomp",
-      "stars": 117,
-      "checkedAt": "2026-11-15T02:44:02.382170+00:00",
-      "evidenceUrl": "https://github.com/wivi514/Dead_Rising_2_Case_West_Xenon_Recomp/blob/ba78bde572d654022f35e00eb9860be6c4583456/README.md"
     }
   ]
 }
