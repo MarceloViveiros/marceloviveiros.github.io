@@ -1,14 +1,56 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-21T18:01:13.661048+00:00",
+  "updatedAt": "2026-11-22T03:13:42.171052+00:00",
   "triage": {
     "ruleVersion": "documentary-v2",
     "reviewed": 20,
-    "added": 0,
-    "pending": 20,
+    "added": 2,
+    "pending": 18,
     "outOfScope": 0
   },
   "projects": [
+    {
+      "repository": "bucketcomps/infamous",
+      "github": "https://github.com/bucketcomps/infamous",
+      "stars": 16,
+      "checkedAt": "2026-11-22T03:15:21.887286+00:00",
+      "evidenceUrl": "https://github.com/bucketcomps/infamous/blob/f824d279808b0364bbcd8feaf5e33a3e6e536b75/README.md"
+    },
+    {
+      "repository": "BasedYuki/the-3rd-birthday-recomp",
+      "github": "https://github.com/BasedYuki/the-3rd-birthday-recomp",
+      "stars": 45,
+      "checkedAt": "2026-11-22T03:15:20.737622+00:00",
+      "evidenceUrl": "https://github.com/BasedYuki/the-3rd-birthday-recomp/blob/6e296089e94eabc0de7a7044758c80da63e64f12/.github/README.md"
+    },
+    {
+      "repository": "abilliontokens/sims2-recomp",
+      "github": "https://github.com/abilliontokens/sims2-recomp",
+      "stars": 44,
+      "checkedAt": "2026-11-22T03:15:13.297147+00:00",
+      "evidenceUrl": "https://github.com/abilliontokens/sims2-recomp/blob/8ce155df78ba5f5a2078acfeb2a5bbc8c2fc3689/README.md"
+    },
+    {
+      "repository": "monscriser/HydroThunderPORT",
+      "github": "https://github.com/monscriser/HydroThunderPORT",
+      "stars": 39,
+      "checkedAt": "2026-11-22T03:15:11.102150+00:00",
+      "evidenceUrl": "https://github.com/monscriser/HydroThunderPORT/blob/e6eef6411588c8fe07db7e6d4bfd89ef06b6f0d9/README.md"
+    },
+    {
+      "repository": "sozud/mmx4",
+      "github": "https://github.com/sozud/mmx4",
+      "stars": 39,
+      "checkedAt": "2026-11-22T03:15:07.517477+00:00",
+      "evidenceUrl": "https://github.com/sozud/mmx4/blob/6f5f939b267d120ed7dcbf97ffc3854658ecb0d7/README.md"
+    },
+    {
+      "repository": "MattSG/midtown-madness-3-recomp",
+      "github": "https://github.com/MattSG/midtown-madness-3-recomp",
+      "stars": 30,
+      "checkedAt": "2026-11-22T03:15:04.369582+00:00",
+      "evidenceUrl": "https://github.com/MattSG/midtown-madness-3-recomp/blob/237ad39bea41ad9b8f81a673b0159478bbd8d6e3/README.md"
+    },
     {
       "repository": "nefariousjosiah/WWE-SVR2007-RECOMP",
       "github": "https://github.com/nefariousjosiah/WWE-SVR2007-RECOMP",
@@ -316,48 +358,6 @@
       "stars": 94,
       "checkedAt": "2026-11-16T21:08:08.662288+00:00",
       "evidenceUrl": "https://github.com/CaiusCodes/GoldenEye-007-XBLA-PC-Recomp/blob/795ea9b9920b6b09487cfcc3eb65b91b36b76c08/README.md"
-    },
-    {
-      "repository": "thiagordsfx/urban-reign-recomp",
-      "github": "https://github.com/thiagordsfx/urban-reign-recomp",
-      "stars": 86,
-      "checkedAt": "2026-11-16T21:08:05.811345+00:00",
-      "evidenceUrl": "https://github.com/thiagordsfx/urban-reign-recomp/blob/80901198b6a25b99ff755031c2d04ddb9ab33469/README.md"
-    },
-    {
-      "repository": "HalmyLyseas/VandalHearts-PcPort",
-      "github": "https://github.com/HalmyLyseas/VandalHearts-PcPort",
-      "stars": 63,
-      "checkedAt": "2026-11-16T21:08:02.692291+00:00",
-      "evidenceUrl": "https://github.com/HalmyLyseas/VandalHearts-PcPort/blob/14552fffa0e0b47e02b57592e274fc6e7a649923/README.md"
-    },
-    {
-      "repository": "ShawnDarr96/Kaido-Recomp-Racer",
-      "github": "https://github.com/ShawnDarr96/Kaido-Recomp-Racer",
-      "stars": 0,
-      "checkedAt": "2026-11-16T21:07:53.681975+00:00",
-      "evidenceUrl": "https://github.com/ShawnDarr96/Kaido-Recomp-Racer/blob/650afcfdba9642f99e8ae0a1f612282606cead32/README.md"
-    },
-    {
-      "repository": "bassobr/Far-Cry-Instincts-Evolution-Recomp",
-      "github": "https://github.com/bassobr/Far-Cry-Instincts-Evolution-Recomp",
-      "stars": 4,
-      "checkedAt": "2026-11-16T21:07:49.075210+00:00",
-      "evidenceUrl": "https://github.com/bassobr/Far-Cry-Instincts-Evolution-Recomp/blob/3ea50cfa420c16c08108dec49569bd50f18eae53/README.md"
-    },
-    {
-      "repository": "iMrBurn/wwe12-pc",
-      "github": "https://github.com/iMrBurn/wwe12-pc",
-      "stars": 74,
-      "checkedAt": "2026-11-16T21:07:44.591683+00:00",
-      "evidenceUrl": "https://github.com/iMrBurn/wwe12-pc/blob/4f6c2c2733060a7980f9f4c4365bc3933de2fe05/README.md"
-    },
-    {
-      "repository": "hachi23/unicorn_overlord_pc",
-      "github": "https://github.com/hachi23/unicorn_overlord_pc",
-      "stars": 253,
-      "checkedAt": "2026-11-16T02:48:41.293705+00:00",
-      "evidenceUrl": "https://github.com/hachi23/unicorn_overlord_pc/blob/6af04124c1e00ef9184dc5ee0cf20d2d408db3bc/README.md"
     }
   ]
 }
