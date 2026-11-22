@@ -1,14 +1,70 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-22T03:13:42.171052+00:00",
+  "updatedAt": "2026-11-22T18:34:02.526294+00:00",
   "triage": {
     "ruleVersion": "documentary-v2",
     "reviewed": 20,
-    "added": 2,
-    "pending": 18,
+    "added": 0,
+    "pending": 20,
     "outOfScope": 0
   },
   "projects": [
+    {
+      "repository": "BigDaddyJRich/hctp-recomp",
+      "github": "https://github.com/BigDaddyJRich/hctp-recomp",
+      "stars": 70,
+      "checkedAt": "2026-11-22T18:35:41.793372+00:00",
+      "evidenceUrl": "https://github.com/BigDaddyJRich/hctp-recomp/blob/8069c4a92c8cb1f66a43d6c83cd5fff37913b2f8/README.md"
+    },
+    {
+      "repository": "Flippage/gears-of-war-3-recomp",
+      "github": "https://github.com/Flippage/gears-of-war-3-recomp",
+      "stars": 87,
+      "checkedAt": "2026-11-22T18:35:40.884918+00:00",
+      "evidenceUrl": "https://github.com/Flippage/gears-of-war-3-recomp/blob/81076705bb35e1ae18641af5425bf30f8c310259/README.md"
+    },
+    {
+      "repository": "saulob/marvel-ultimate-alliance-bundle-recompiled",
+      "github": "https://github.com/saulob/marvel-ultimate-alliance-bundle-recompiled",
+      "stars": 113,
+      "checkedAt": "2026-11-22T18:35:39.999393+00:00",
+      "evidenceUrl": "https://github.com/saulob/marvel-ultimate-alliance-bundle-recompiled/blob/9a081ed6cbeb03aa0e227c10e97e504c51efd725/README.md"
+    },
+    {
+      "repository": "NoRain211/doa2u-re",
+      "github": "https://github.com/NoRain211/doa2u-re",
+      "stars": 130,
+      "checkedAt": "2026-11-22T18:35:38.960425+00:00",
+      "evidenceUrl": "https://github.com/NoRain211/doa2u-re/blob/f60f8aef2c70461678bc0c1152a5648d1894817a/README.md"
+    },
+    {
+      "repository": "MysteriousAeon/rayman3-hd-recompiled",
+      "github": "https://github.com/MysteriousAeon/rayman3-hd-recompiled",
+      "stars": 94,
+      "checkedAt": "2026-11-22T18:35:37.972887+00:00",
+      "evidenceUrl": "https://github.com/MysteriousAeon/rayman3-hd-recompiled/blob/6520006125dd88acc0161675c257dd1cb727272c/README.md"
+    },
+    {
+      "repository": "yanm1103/War_of_the_Monsters_recomp",
+      "github": "https://github.com/yanm1103/War_of_the_Monsters_recomp",
+      "stars": 36,
+      "checkedAt": "2026-11-22T18:35:35.780599+00:00",
+      "evidenceUrl": "https://github.com/yanm1103/War_of_the_Monsters_recomp/blob/64ddee6e250ad9d1da0deb0e4c40b345acad79f8/README.md"
+    },
+    {
+      "repository": "CaiusCodes/MechAssault-Xbox-PC-Recomp",
+      "github": "https://github.com/CaiusCodes/MechAssault-Xbox-PC-Recomp",
+      "stars": 0,
+      "checkedAt": "2026-11-22T18:35:33.703930+00:00",
+      "evidenceUrl": "https://github.com/CaiusCodes/MechAssault-Xbox-PC-Recomp/blob/d012c1536c686db027a3cedec6d2a3675b7540aa/README.md"
+    },
+    {
+      "repository": "nacholuver1/Crimson-Skies-High-Road-To-Revenge-Repo",
+      "github": "https://github.com/nacholuver1/Crimson-Skies-High-Road-To-Revenge-Repo",
+      "stars": 20,
+      "checkedAt": "2026-11-22T18:35:24.992905+00:00",
+      "evidenceUrl": "https://github.com/nacholuver1/Crimson-Skies-High-Road-To-Revenge-Repo/blob/d140a8f27a762eac5f316cbe9b4e1fb4cfd12ecc/README.md"
+    },
     {
       "repository": "bucketcomps/infamous",
       "github": "https://github.com/bucketcomps/infamous",
@@ -302,62 +358,6 @@
       "stars": 81,
       "checkedAt": "2026-11-17T19:56:56.297687+00:00",
       "evidenceUrl": "https://github.com/saulob/hard-corps-uprising-recompiled/blob/fe5ae9d60d7c0c41a42154423f471e7b9e80ab3b/README.md"
-    },
-    {
-      "repository": "devall96/Unchained",
-      "github": "https://github.com/devall96/Unchained",
-      "stars": 1,
-      "checkedAt": "2026-11-17T19:56:48.193397+00:00",
-      "evidenceUrl": "https://github.com/devall96/Unchained/blob/01227f52127ffdb3565cad5f45a10b2b3afa86c1/README.md"
-    },
-    {
-      "repository": "santiquiroz/gears-of-war-2-pc-port",
-      "github": "https://github.com/santiquiroz/gears-of-war-2-pc-port",
-      "stars": 188,
-      "checkedAt": "2026-11-17T05:09:58.326713+00:00",
-      "evidenceUrl": "https://github.com/santiquiroz/gears-of-war-2-pc-port/blob/0f4748c480647ba77a5612ce1a58ca091dae72c4/README.md"
-    },
-    {
-      "repository": "nlwstein/skullburglar",
-      "github": "https://github.com/nlwstein/skullburglar",
-      "stars": 77,
-      "checkedAt": "2026-11-17T05:09:56.184679+00:00",
-      "evidenceUrl": "https://github.com/nlwstein/skullburglar/blob/8846b2508c7b28ee980ab77c15335713b01d3f8a/README.md"
-    },
-    {
-      "repository": "YYOzcan/Tobiichi-Port",
-      "github": "https://github.com/YYOzcan/Tobiichi-Port",
-      "stars": 62,
-      "checkedAt": "2026-11-17T05:09:55.191298+00:00",
-      "evidenceUrl": "https://github.com/YYOzcan/Tobiichi-Port/blob/471c83180a8df575cff4abd3fae6c043b5096925/README.md"
-    },
-    {
-      "repository": "theokyr/Project8Recomp",
-      "github": "https://github.com/theokyr/Project8Recomp",
-      "stars": 59,
-      "checkedAt": "2026-11-17T05:09:54.327311+00:00",
-      "evidenceUrl": "https://github.com/theokyr/Project8Recomp/blob/c8c21e2781acd134de6b2ccf12b666145e00ea6c/README.md"
-    },
-    {
-      "repository": "imyourhuckleberryponcho/Pokemon-XD-PC-Port",
-      "github": "https://github.com/imyourhuckleberryponcho/Pokemon-XD-PC-Port",
-      "stars": 40,
-      "checkedAt": "2026-11-17T05:09:40.071321+00:00",
-      "evidenceUrl": "https://github.com/imyourhuckleberryponcho/Pokemon-XD-PC-Port/blob/48295ac450f1a51502910a80cf33923ff4fe82c3/README.md"
-    },
-    {
-      "repository": "SulphurS16/ACFA-Port",
-      "github": "https://github.com/SulphurS16/ACFA-Port",
-      "stars": 88,
-      "checkedAt": "2026-11-16T21:08:10.194521+00:00",
-      "evidenceUrl": "https://github.com/SulphurS16/ACFA-Port/blob/3deb3de0c1a33b9922419d663930c581c7453918/README.md"
-    },
-    {
-      "repository": "CaiusCodes/GoldenEye-007-XBLA-PC-Recomp",
-      "github": "https://github.com/CaiusCodes/GoldenEye-007-XBLA-PC-Recomp",
-      "stars": 94,
-      "checkedAt": "2026-11-16T21:08:08.662288+00:00",
-      "evidenceUrl": "https://github.com/CaiusCodes/GoldenEye-007-XBLA-PC-Recomp/blob/795ea9b9920b6b09487cfcc3eb65b91b36b76c08/README.md"
     }
   ]
 }
