@@ -1,14 +1,42 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-23T03:46:49.007234+00:00",
+  "updatedAt": "2026-11-23T22:42:25.715563+00:00",
   "triage": {
     "ruleVersion": "documentary-v2",
     "reviewed": 20,
     "added": 1,
-    "pending": 18,
+    "pending": 19,
     "outOfScope": 0
   },
   "projects": [
+    {
+      "repository": "abilliontokens/bustinout-recomp",
+      "github": "https://github.com/abilliontokens/bustinout-recomp",
+      "stars": 32,
+      "checkedAt": "2026-11-23T22:45:32.712191+00:00",
+      "evidenceUrl": "https://github.com/abilliontokens/bustinout-recomp/blob/e37436806c5107ee0ed4cb4d5c7a62b4c72eb613/README.md"
+    },
+    {
+      "repository": "Augestxr/Re-Fine",
+      "github": "https://github.com/Augestxr/Re-Fine",
+      "stars": 0,
+      "checkedAt": "2026-11-23T22:45:24.913811+00:00",
+      "evidenceUrl": "https://github.com/Augestxr/Re-Fine/blob/f218f769ef18259725079fe9296f7ec1cba05ca0/README.md"
+    },
+    {
+      "repository": "TheBozos/Shinobido_WOTN_Recomp",
+      "github": "https://github.com/TheBozos/Shinobido_WOTN_Recomp",
+      "stars": 1,
+      "checkedAt": "2026-11-23T22:45:21.138374+00:00",
+      "evidenceUrl": "https://github.com/TheBozos/Shinobido_WOTN_Recomp/blob/492d8789d609a187eb8cbdb85288d4d07f6ec8ab/README.md"
+    },
+    {
+      "repository": "nacholuver1/Blitz-TheLeague-Recomp",
+      "github": "https://github.com/nacholuver1/Blitz-TheLeague-Recomp",
+      "stars": 9,
+      "checkedAt": "2026-11-23T22:45:09.159514+00:00",
+      "evidenceUrl": "https://github.com/nacholuver1/Blitz-TheLeague-Recomp/blob/ac25e62e44fbdf96853ebfd66d8c53b8b3def21f/README.md"
+    },
     {
       "repository": "otavix010/gow-ascension-pc",
       "github": "https://github.com/otavix010/gow-ascension-pc",
@@ -330,34 +358,6 @@
       "stars": 54,
       "checkedAt": "2026-11-18T04:24:59.747355+00:00",
       "evidenceUrl": "https://github.com/KaikoClanworth1/buffy-chaos-bleeds-pc/blob/4b9e48346bae14f22ed9ba1a9c822146dcede187/README.md"
-    },
-    {
-      "repository": "snufflyyy/OpenDream",
-      "github": "https://github.com/snufflyyy/OpenDream",
-      "stars": 0,
-      "checkedAt": "2026-11-18T04:24:58.808385+00:00",
-      "evidenceUrl": "https://github.com/snufflyyy/OpenDream/blob/761cc7ab182abbb05f7c9dd9e0604794dfcb098b/README.md"
-    },
-    {
-      "repository": "umagamer83182/Shinobido-Way-of-the-Ninja-Native-PC-Port",
-      "github": "https://github.com/umagamer83182/Shinobido-Way-of-the-Ninja-Native-PC-Port",
-      "stars": 1,
-      "checkedAt": "2026-11-18T04:24:56.117757+00:00",
-      "evidenceUrl": "https://github.com/umagamer83182/Shinobido-Way-of-the-Ninja-Native-PC-Port/blob/0a045457f31af4540504f814703183a82fec733d/README.md"
-    },
-    {
-      "repository": "finalpantasy/hot-shots-golf-ps3-recomp",
-      "github": "https://github.com/finalpantasy/hot-shots-golf-ps3-recomp",
-      "stars": 1,
-      "checkedAt": "2026-11-18T04:24:54.054653+00:00",
-      "evidenceUrl": "https://github.com/finalpantasy/hot-shots-golf-ps3-recomp/blob/53c5874163fb7900474bfc49d017c04f8b558d7f/README.md"
-    },
-    {
-      "repository": "Conker64Recomp/conker64-recompiled",
-      "github": "https://github.com/Conker64Recomp/conker64-recompiled",
-      "stars": 42,
-      "checkedAt": "2026-11-17T19:57:13.187375+00:00",
-      "evidenceUrl": "https://github.com/Conker64Recomp/conker64-recompiled/blob/af7eedae4f31bfa3139c55c381d1170ca8185712/README.md"
     }
   ]
 }
