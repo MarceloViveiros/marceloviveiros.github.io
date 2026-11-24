@@ -1,14 +1,35 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-23T22:42:25.715563+00:00",
+  "updatedAt": "2026-11-24T07:01:22.194651+00:00",
   "triage": {
     "ruleVersion": "documentary-v2",
     "reviewed": 20,
-    "added": 1,
-    "pending": 19,
+    "added": 0,
+    "pending": 20,
     "outOfScope": 0
   },
   "projects": [
+    {
+      "repository": "Pallypots/ProjectOogie",
+      "github": "https://github.com/Pallypots/ProjectOogie",
+      "stars": 31,
+      "checkedAt": "2026-11-24T07:03:51.605662+00:00",
+      "evidenceUrl": "https://github.com/Pallypots/ProjectOogie/blob/befadf893e1940c7e90091bae048a85b8754b443/README.md"
+    },
+    {
+      "repository": "skuza-oss/downhill-revived",
+      "github": "https://github.com/skuza-oss/downhill-revived",
+      "stars": 241,
+      "checkedAt": "2026-11-24T07:03:47.031564+00:00",
+      "evidenceUrl": "https://github.com/skuza-oss/downhill-revived/blob/6937e805944d6ca9d0c94f2d71ccb27638946a5e/README.md"
+    },
+    {
+      "repository": "ptfpinho23/rule-of-rose-recomp",
+      "github": "https://github.com/ptfpinho23/rule-of-rose-recomp",
+      "stars": 47,
+      "checkedAt": "2026-11-24T07:03:30.809183+00:00",
+      "evidenceUrl": "https://github.com/ptfpinho23/rule-of-rose-recomp/blob/654409cd7b35bca8f03307e353ed80c7b96b41dd/README.md"
+    },
     {
       "repository": "abilliontokens/bustinout-recomp",
       "github": "https://github.com/abilliontokens/bustinout-recomp",
@@ -337,27 +358,6 @@
       "stars": 18,
       "checkedAt": "2026-11-19T04:17:03.108113+00:00",
       "evidenceUrl": "https://github.com/papand7/Battlefield-Recompilation-Project/blob/f838eacd1c0d4eb4122ce9e0d52a5a7ecc779912/README.md"
-    },
-    {
-      "repository": "nefariousjosiah/WWE-SVR2010-RECOMP",
-      "github": "https://github.com/nefariousjosiah/WWE-SVR2010-RECOMP",
-      "stars": 44,
-      "checkedAt": "2026-11-18T04:25:10.219111+00:00",
-      "evidenceUrl": "https://github.com/nefariousjosiah/WWE-SVR2010-RECOMP/blob/356b8364ea6023f20c3179cdaa2b39cfba2c8c9a/README.md"
-    },
-    {
-      "repository": "Revivedx/SavageWindRecomp",
-      "github": "https://github.com/Revivedx/SavageWindRecomp",
-      "stars": 4734,
-      "checkedAt": "2026-11-18T04:25:00.813619+00:00",
-      "evidenceUrl": "https://github.com/Revivedx/SavageWindRecomp/blob/5270ac24662361bf98da0178f9da2968a695506a/README.md"
-    },
-    {
-      "repository": "KaikoClanworth1/buffy-chaos-bleeds-pc",
-      "github": "https://github.com/KaikoClanworth1/buffy-chaos-bleeds-pc",
-      "stars": 54,
-      "checkedAt": "2026-11-18T04:24:59.747355+00:00",
-      "evidenceUrl": "https://github.com/KaikoClanworth1/buffy-chaos-bleeds-pc/blob/4b9e48346bae14f22ed9ba1a9c822146dcede187/README.md"
     }
   ]
 }
