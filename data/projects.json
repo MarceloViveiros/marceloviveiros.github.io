@@ -7114,12 +7114,16 @@
     },
     {
       "image": {
-        "url": "assets/platforms/generic.svg",
-        "kind": "console"
+        "url": "https://upload.wikimedia.org/wikipedia/en/2/23/Project_Gotham_Racing_2_Coverart.png",
+        "kind": "reference",
+        "source": "https://en.wikipedia.org/wiki/Project_Gotham_Racing_2",
+        "subject": "Project Gotham Racing 2",
+        "provider": "wikipedia-summary-v1",
+        "checkedAt": "2026-11-24T11:02:44.151715+00:00"
       },
       "id": "auto-9fd2d8f9a83ece",
       "editionId": "auto-9fd2d8f9a83ece",
-      "game": "pgr2 recomp",
+      "game": "Project Gotham Racing 2",
       "name": "hk21x/pgr2-recomp",
       "type": "recompilacao",
       "approach": "static-recompilation",
@@ -7164,7 +7168,7 @@
       "starsCollectedAt": "2026-11-24T07:03:17.840983+00:00",
       "content": {
         "pt": {
-          "summary": "Recompilação de pgr2 recomp para Windows, baseada na versão de Xbox.",
+          "summary": "Recompilação de Project Gotham Racing 2 para Windows, baseada na versão de Xbox.",
           "originalFiles": "Forneça sua própria cópia compatível; confira edição e arquivos exigidos no README.",
           "requirements": [
             "Confira os requisitos completos e as diferenças entre sistemas na fonte fixada."
@@ -7176,7 +7180,7 @@
           "limitations": "Triagem por regras, sem execução do jogo. Alegações podem estar desatualizadas ou incorretas; não há garantia de campanha completa no seu PC."
         },
         "en": {
-          "summary": "Recompilation of pgr2 recomp for Windows, based on the Xbox version.",
+          "summary": "Recompilation of Project Gotham Racing 2 for Windows, based on the Xbox version.",
           "originalFiles": "Provide your own compatible copy; check the required edition and files in the README.",
           "requirements": [
             "Check full requirements and OS differences in the pinned source."
@@ -7188,7 +7192,7 @@
           "limitations": "Rule-based screening without running the game. Claims may be outdated or incorrect; a full playthrough on your PC is not guaranteed."
         },
         "es": {
-          "summary": "Recompilación de pgr2 recomp para Windows, basada en la versión de Xbox.",
+          "summary": "Recompilación de Project Gotham Racing 2 para Windows, basada en la versión de Xbox.",
           "originalFiles": "Proporciona tu copia compatible; consulta edición y archivos necesarios en el README.",
           "requirements": [
             "Consulta requisitos completos y diferencias entre sistemas en la fuente fijada."
@@ -7217,12 +7221,16 @@
     },
     {
       "image": {
-        "url": "assets/platforms/generic.svg",
-        "kind": "console"
+        "url": "https://upload.wikimedia.org/wikipedia/en/6/6e/Project_Gotham_Racing_Coverart.png",
+        "kind": "reference",
+        "source": "https://en.wikipedia.org/wiki/Project_Gotham_Racing_(video_game)",
+        "subject": "Project Gotham Racing (video game)",
+        "provider": "wikipedia-summary-v1",
+        "checkedAt": "2026-11-24T11:02:56.671519+00:00"
       },
       "id": "auto-c19c6175e8c2b7",
       "editionId": "auto-c19c6175e8c2b7",
-      "game": "pgr1 recomp",
+      "game": "Project Gotham Racing",
       "name": "hk21x/pgr1-recomp",
       "type": "recompilacao",
       "approach": "static-recompilation",
@@ -7267,7 +7275,7 @@
       "starsCollectedAt": "2026-11-24T07:03:19.491834+00:00",
       "content": {
         "pt": {
-          "summary": "Recompilação de pgr1 recomp para Windows, baseada na versão de Xbox.",
+          "summary": "Recompilação de Project Gotham Racing para Windows, baseada na versão de Xbox.",
           "originalFiles": "Forneça sua própria cópia compatível; confira edição e arquivos exigidos no README.",
           "requirements": [
             "Confira os requisitos completos e as diferenças entre sistemas na fonte fixada."
@@ -7279,7 +7287,7 @@
           "limitations": "Triagem por regras, sem execução do jogo. Alegações podem estar desatualizadas ou incorretas; não há garantia de campanha completa no seu PC."
         },
         "en": {
-          "summary": "Recompilation of pgr1 recomp for Windows, based on the Xbox version.",
+          "summary": "Recompilation of Project Gotham Racing for Windows, based on the Xbox version.",
           "originalFiles": "Provide your own compatible copy; check the required edition and files in the README.",
           "requirements": [
             "Check full requirements and OS differences in the pinned source."
@@ -7291,7 +7299,7 @@
           "limitations": "Rule-based screening without running the game. Claims may be outdated or incorrect; a full playthrough on your PC is not guaranteed."
         },
         "es": {
-          "summary": "Recompilación de pgr1 recomp para Windows, basada en la versión de Xbox.",
+          "summary": "Recompilación de Project Gotham Racing para Windows, basada en la versión de Xbox.",
           "originalFiles": "Proporciona tu copia compatible; consulta edición y archivos necesarios en el README.",
           "requirements": [
             "Consulta requisitos completos y diferencias entre sistemas en la fuente fijada."
@@ -7320,12 +7328,16 @@
     },
     {
       "image": {
-        "url": "assets/platforms/ps3.svg",
-        "kind": "console"
+        "url": "https://upload.wikimedia.org/wikipedia/en/d/db/3D_Dot_Game_Heroes_NA_box.jpg",
+        "kind": "reference",
+        "source": "https://en.wikipedia.org/wiki/3D_Dot_Game_Heroes",
+        "subject": "3D Dot Game Heroes",
+        "provider": "wikipedia-summary-v1",
+        "checkedAt": "2026-11-24T11:02:44.751463+00:00"
       },
       "id": "auto-f45ba44fbe383f",
       "editionId": "auto-f45ba44fbe383f",
-      "game": "Cubic.Heroes",
+      "game": "3D Dot Game Heroes",
       "name": "irnutsmurt/Cubic.Heroes",
       "type": "recompilacao",
       "approach": "static-recompilation",
@@ -7371,7 +7383,7 @@
       "starsCollectedAt": "2026-11-24T07:03:21.530440+00:00",
       "content": {
         "pt": {
-          "summary": "Recompilação de Cubic.Heroes para Windows / Linux, baseada na versão de PS3.",
+          "summary": "Recompilação de 3D Dot Game Heroes para Windows / Linux, baseada na versão de PS3.",
           "originalFiles": "Forneça sua própria cópia compatível; confira edição e arquivos exigidos no README.",
           "requirements": [
             "Confira os requisitos completos e as diferenças entre sistemas na fonte fixada."
@@ -7383,7 +7395,7 @@
           "limitations": "Triagem por regras, sem execução do jogo. Alegações podem estar desatualizadas ou incorretas; não há garantia de campanha completa no seu PC."
         },
         "en": {
-          "summary": "Recompilation of Cubic.Heroes for Windows / Linux, based on the PS3 version.",
+          "summary": "Recompilation of 3D Dot Game Heroes for Windows / Linux, based on the PS3 version.",
           "originalFiles": "Provide your own compatible copy; check the required edition and files in the README.",
           "requirements": [
             "Check full requirements and OS differences in the pinned source."
@@ -7395,7 +7407,7 @@
           "limitations": "Rule-based screening without running the game. Claims may be outdated or incorrect; a full playthrough on your PC is not guaranteed."
         },
         "es": {
-          "summary": "Recompilación de Cubic.Heroes para Windows / Linux, basada en la versión de PS3.",
+          "summary": "Recompilación de 3D Dot Game Heroes para Windows / Linux, basada en la versión de PS3.",
           "originalFiles": "Proporciona tu copia compatible; consulta edición y archivos necesarios en el README.",
           "requirements": [
             "Consulta requisitos completos y diferencias entre sistemas en la fuente fijada."
@@ -7424,17 +7436,21 @@
     },
     {
       "image": {
-        "url": "assets/platforms/switch.svg",
-        "kind": "console"
+        "url": "https://upload.wikimedia.org/wikipedia/en/e/e1/Pokemon_Black_Box_Artwork.jpg",
+        "kind": "reference",
+        "source": "https://en.wikipedia.org/wiki/Pok%C3%A9mon_Black_and_White",
+        "subject": "Pokémon Black and White",
+        "provider": "wikipedia-summary-v1",
+        "checkedAt": "2026-11-24T11:02:45.262456+00:00"
       },
       "id": "auto-d5de76c88619fb",
       "editionId": "auto-d5de76c88619fb",
-      "game": "eidos",
+      "game": "Pokémon Black / White",
       "name": "Project-Holon/eidos",
       "type": "port",
       "approach": "source-port",
       "origins": [
-        "Switch"
+        "Nintendo DS"
       ],
       "targets": [
         "Windows",
@@ -7476,7 +7492,7 @@
       "starsCollectedAt": "2026-11-24T07:03:23.117424+00:00",
       "content": {
         "pt": {
-          "summary": "Adaptação de eidos para Windows / Linux / macOS, baseada na versão de Switch.",
+          "summary": "Adaptação de Pokémon Black / White para Windows / Linux / macOS, baseada na versão de Nintendo DS.",
           "originalFiles": "Forneça sua própria cópia compatível; confira edição e arquivos exigidos no README.",
           "requirements": [
             "Confira os requisitos completos e as diferenças entre sistemas na fonte fixada."
@@ -7488,7 +7504,7 @@
           "limitations": "Triagem por regras, sem execução do jogo. Alegações podem estar desatualizadas ou incorretas; não há garantia de campanha completa no seu PC."
         },
         "en": {
-          "summary": "Adaptation of eidos for Windows / Linux / macOS, based on the Switch version.",
+          "summary": "Adaptation of Pokémon Black / White for Windows / Linux / macOS, based on the Nintendo DS version.",
           "originalFiles": "Provide your own compatible copy; check the required edition and files in the README.",
           "requirements": [
             "Check full requirements and OS differences in the pinned source."
@@ -7500,7 +7516,7 @@
           "limitations": "Rule-based screening without running the game. Claims may be outdated or incorrect; a full playthrough on your PC is not guaranteed."
         },
         "es": {
-          "summary": "Adaptación de eidos para Windows / Linux / macOS, basada en la versión de Switch.",
+          "summary": "Adaptación de Pokémon Black / White para Windows / Linux / macOS, basada en la versión de Nintendo DS.",
           "originalFiles": "Proporciona tu copia compatible; consulta edición y archivos necesarios en el README.",
           "requirements": [
             "Consulta requisitos completos y diferencias entre sistemas en la fuente fijada."
@@ -7529,12 +7545,16 @@
     },
     {
       "image": {
-        "url": "assets/platforms/generic.svg",
-        "kind": "console"
+        "url": "https://upload.wikimedia.org/wikipedia/en/f/f8/Everything_or_Nothing.jpg",
+        "kind": "reference",
+        "source": "https://en.wikipedia.org/wiki/James_Bond_007%3A_Everything_or_Nothing",
+        "subject": "James Bond 007: Everything or Nothing",
+        "provider": "wikipedia-summary-v1",
+        "checkedAt": "2026-11-24T11:02:45.611296+00:00"
       },
       "id": "auto-bee08d985db0a4",
       "editionId": "auto-bee08d985db0a4",
-      "game": "007eon recomp",
+      "game": "007: Everything or Nothing",
       "name": "hk21x/007eon-recomp",
       "type": "recompilacao",
       "approach": "static-recompilation",
@@ -7579,7 +7599,7 @@
       "starsCollectedAt": "2026-11-24T07:03:24.608755+00:00",
       "content": {
         "pt": {
-          "summary": "Recompilação de 007eon recomp para Windows, baseada na versão de Xbox.",
+          "summary": "Recompilação de 007: Everything or Nothing para Windows, baseada na versão de Xbox.",
           "originalFiles": "Forneça sua própria cópia compatível; confira edição e arquivos exigidos no README.",
           "requirements": [
             "Confira os requisitos completos e as diferenças entre sistemas na fonte fixada."
@@ -7591,7 +7611,7 @@
           "limitations": "Triagem por regras, sem execução do jogo. Alegações podem estar desatualizadas ou incorretas; não há garantia de campanha completa no seu PC."
         },
         "en": {
-          "summary": "Recompilation of 007eon recomp for Windows, based on the Xbox version.",
+          "summary": "Recompilation of 007: Everything or Nothing for Windows, based on the Xbox version.",
           "originalFiles": "Provide your own compatible copy; check the required edition and files in the README.",
           "requirements": [
             "Check full requirements and OS differences in the pinned source."
@@ -7603,7 +7623,7 @@
           "limitations": "Rule-based screening without running the game. Claims may be outdated or incorrect; a full playthrough on your PC is not guaranteed."
         },
         "es": {
-          "summary": "Recompilación de 007eon recomp para Windows, basada en la versión de Xbox.",
+          "summary": "Recompilación de 007: Everything or Nothing para Windows, basada en la versión de Xbox.",
           "originalFiles": "Proporciona tu copia compatible; consulta edición y archivos necesarios en el README.",
           "requirements": [
             "Consulta requisitos completos y diferencias entre sistemas en la fuente fijada."
