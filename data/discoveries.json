@@ -1,14 +1,28 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-24T07:01:22.194651+00:00",
+  "updatedAt": "2026-11-24T21:14:55.937940+00:00",
   "triage": {
     "ruleVersion": "documentary-v2",
     "reviewed": 20,
-    "added": 0,
-    "pending": 20,
+    "added": 1,
+    "pending": 18,
     "outOfScope": 0
   },
   "projects": [
+    {
+      "repository": "finalpantasy/star-road-recomp",
+      "github": "https://github.com/finalpantasy/star-road-recomp",
+      "stars": 0,
+      "checkedAt": "2026-11-24T21:17:11.758336+00:00",
+      "evidenceUrl": "https://github.com/finalpantasy/star-road-recomp/blob/6ad1440edddadbb77720384890a2bc02e818fc08/README.md"
+    },
+    {
+      "repository": "papand7/Battlefield-1943-BC-Recompilation",
+      "github": "https://github.com/papand7/Battlefield-1943-BC-Recompilation",
+      "stars": 39,
+      "checkedAt": "2026-11-24T21:16:56.828399+00:00",
+      "evidenceUrl": "https://github.com/papand7/Battlefield-1943-BC-Recompilation/blob/d952a139a83332192c2343f2a3d89f03c9765e70/README.md"
+    },
     {
       "repository": "Pallypots/ProjectOogie",
       "github": "https://github.com/Pallypots/ProjectOogie",
@@ -344,20 +358,6 @@
       "stars": 41,
       "checkedAt": "2026-11-19T04:17:17.259322+00:00",
       "evidenceUrl": "https://github.com/nefariousjosiah/WWE-SVR2008-RECOMP/blob/92e93446954e5cbe15ffeb7f46f11f85dbc92dc2/README.md"
-    },
-    {
-      "repository": "ObeseCatLord/Galaxy-Ange-II-PC",
-      "github": "https://github.com/ObeseCatLord/Galaxy-Ange-II-PC",
-      "stars": 3,
-      "checkedAt": "2026-11-19T04:17:08.055049+00:00",
-      "evidenceUrl": "https://github.com/ObeseCatLord/Galaxy-Ange-II-PC/blob/53bfd205893c060183bd04021e71537fe85dffd4/README.md"
-    },
-    {
-      "repository": "papand7/Battlefield-Recompilation-Project",
-      "github": "https://github.com/papand7/Battlefield-Recompilation-Project",
-      "stars": 18,
-      "checkedAt": "2026-11-19T04:17:03.108113+00:00",
-      "evidenceUrl": "https://github.com/papand7/Battlefield-Recompilation-Project/blob/f838eacd1c0d4eb4122ce9e0d52a5a7ecc779912/README.md"
     }
   ]
 }
