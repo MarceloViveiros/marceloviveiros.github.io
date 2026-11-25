@@ -1,14 +1,42 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-25T05:29:35.535323+00:00",
+  "updatedAt": "2026-11-25T20:32:00.124566+00:00",
   "triage": {
     "ruleVersion": "documentary-v2",
     "reviewed": 20,
-    "added": 0,
-    "pending": 20,
+    "added": 1,
+    "pending": 18,
     "outOfScope": 0
   },
   "projects": [
+    {
+      "repository": "victor-takai/rogue-galaxy-recomp",
+      "github": "https://github.com/victor-takai/rogue-galaxy-recomp",
+      "stars": 99,
+      "checkedAt": "2026-11-25T20:33:56.774736+00:00",
+      "evidenceUrl": "https://github.com/victor-takai/rogue-galaxy-recomp/blob/cdb476d90f8079897857f781b7bab0fff1afa8d5/README.md"
+    },
+    {
+      "repository": "owallzz/moonsprout",
+      "github": "https://github.com/owallzz/moonsprout",
+      "stars": 0,
+      "checkedAt": "2026-11-25T20:33:50.578488+00:00",
+      "evidenceUrl": "https://github.com/owallzz/moonsprout/blob/f323a1346fd87b1d81da66cd04c29461455fd046/README.md"
+    },
+    {
+      "repository": "Atlantean98/Alien-Trilogy-Remastered",
+      "github": "https://github.com/Atlantean98/Alien-Trilogy-Remastered",
+      "stars": 7,
+      "checkedAt": "2026-11-25T20:33:45.078333+00:00",
+      "evidenceUrl": "https://github.com/Atlantean98/Alien-Trilogy-Remastered/blob/2c7ad6eebd48ba78e2ef4ef3b5b5c6230fe61a22/README.md"
+    },
+    {
+      "repository": "Petexy/Golden-Fist-Launcher",
+      "github": "https://github.com/Petexy/Golden-Fist-Launcher",
+      "stars": 163,
+      "checkedAt": "2026-11-25T20:33:37.497247+00:00",
+      "evidenceUrl": "https://github.com/Petexy/Golden-Fist-Launcher/blob/7db8a1cfc80534f6603ff8056d26aa47f872498b/README.md"
+    },
     {
       "repository": "lorransouzaaguiar/Digimon-World-4-Recomp",
       "github": "https://github.com/lorransouzaaguiar/Digimon-World-4-Recomp",
@@ -330,34 +358,6 @@
       "stars": 52,
       "checkedAt": "2026-11-19T19:34:07.803789+00:00",
       "evidenceUrl": "https://github.com/Dyotson/RecompiledHaloReach/blob/329148bb156e0710bcf7f89ced1044461ea7f18f/README.md"
-    },
-    {
-      "repository": "ObeseCatLord/Galaxy-Angel-II-PC",
-      "github": "https://github.com/ObeseCatLord/Galaxy-Angel-II-PC",
-      "stars": 3,
-      "checkedAt": "2026-11-19T19:34:05.540513+00:00",
-      "evidenceUrl": "https://github.com/ObeseCatLord/Galaxy-Angel-II-PC/blob/e7b5f5de7b1684670dfb64a02cc8c8981a907aca/README.md"
-    },
-    {
-      "repository": "Dipshet/GracemeriaRecomp",
-      "github": "https://github.com/Dipshet/GracemeriaRecomp",
-      "stars": 80,
-      "checkedAt": "2026-11-19T19:33:59.786758+00:00",
-      "evidenceUrl": "https://github.com/Dipshet/GracemeriaRecomp/blob/d0fd031f2939da79adc140339970d7a058a92db1/README.md"
-    },
-    {
-      "repository": "DrummingBird1/gow-psp-recomp",
-      "github": "https://github.com/DrummingBird1/gow-psp-recomp",
-      "stars": 213,
-      "checkedAt": "2026-11-19T04:17:25.452175+00:00",
-      "evidenceUrl": "https://github.com/DrummingBird1/gow-psp-recomp/blob/18800afd0cfa84e5018ddb7e515f4b6571bfabe5/README.md"
-    },
-    {
-      "repository": "Waffle565/God-Of-War-Native-Port",
-      "github": "https://github.com/Waffle565/God-Of-War-Native-Port",
-      "stars": 65,
-      "checkedAt": "2026-11-19T04:17:22.977567+00:00",
-      "evidenceUrl": "https://github.com/Waffle565/God-Of-War-Native-Port/blob/d795e3409b0570e69fd32c6dc86a2199be4766da/README.md"
     }
   ]
 }
