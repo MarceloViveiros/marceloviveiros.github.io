@@ -1,14 +1,21 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-24T21:14:55.937940+00:00",
+  "updatedAt": "2026-11-25T05:29:35.535323+00:00",
   "triage": {
     "ruleVersion": "documentary-v2",
     "reviewed": 20,
-    "added": 1,
-    "pending": 18,
+    "added": 0,
+    "pending": 20,
     "outOfScope": 0
   },
   "projects": [
+    {
+      "repository": "lorransouzaaguiar/Digimon-World-4-Recomp",
+      "github": "https://github.com/lorransouzaaguiar/Digimon-World-4-Recomp",
+      "stars": 0,
+      "checkedAt": "2026-11-25T05:31:16.816464+00:00",
+      "evidenceUrl": "https://github.com/lorransouzaaguiar/Digimon-World-4-Recomp/blob/9f53bdd0bac0fa22b9b4fb4e1a4628df51d106c0/README.md"
+    },
     {
       "repository": "finalpantasy/star-road-recomp",
       "github": "https://github.com/finalpantasy/star-road-recomp",
@@ -351,13 +358,6 @@
       "stars": 65,
       "checkedAt": "2026-11-19T04:17:22.977567+00:00",
       "evidenceUrl": "https://github.com/Waffle565/God-Of-War-Native-Port/blob/d795e3409b0570e69fd32c6dc86a2199be4766da/README.md"
-    },
-    {
-      "repository": "nefariousjosiah/WWE-SVR2008-RECOMP",
-      "github": "https://github.com/nefariousjosiah/WWE-SVR2008-RECOMP",
-      "stars": 41,
-      "checkedAt": "2026-11-19T04:17:17.259322+00:00",
-      "evidenceUrl": "https://github.com/nefariousjosiah/WWE-SVR2008-RECOMP/blob/92e93446954e5cbe15ffeb7f46f11f85dbc92dc2/README.md"
     }
   ]
 }
