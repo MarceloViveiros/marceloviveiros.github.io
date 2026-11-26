@@ -1,14 +1,49 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-25T20:32:00.124566+00:00",
+  "updatedAt": "2026-11-26T05:07:07.649827+00:00",
   "triage": {
     "ruleVersion": "documentary-v2",
     "reviewed": 20,
     "added": 1,
-    "pending": 18,
+    "pending": 19,
     "outOfScope": 0
   },
   "projects": [
+    {
+      "repository": "koaque/Metropolismania-PC",
+      "github": "https://github.com/koaque/Metropolismania-PC",
+      "stars": 10,
+      "checkedAt": "2026-11-26T05:09:00.854896+00:00",
+      "evidenceUrl": "https://github.com/koaque/Metropolismania-PC/blob/eaab5d76c9cb912aca38da52dbf9f8c5e49af426/README.md"
+    },
+    {
+      "repository": "k1gs/Drakengard1Recompile",
+      "github": "https://github.com/k1gs/Drakengard1Recompile",
+      "stars": 14,
+      "checkedAt": "2026-11-26T05:08:54.803257+00:00",
+      "evidenceUrl": "https://github.com/k1gs/Drakengard1Recompile/blob/72dfd53bfec6b106cb0c329d8392c2baa7cd51c8/README.md"
+    },
+    {
+      "repository": "Claudio5702/Cristalis",
+      "github": "https://github.com/Claudio5702/Cristalis",
+      "stars": 13,
+      "checkedAt": "2026-11-26T05:08:53.652414+00:00",
+      "evidenceUrl": "https://github.com/Claudio5702/Cristalis/blob/48b91cbfca58e222dda743c7d56cd433b3d5fa42/README.md"
+    },
+    {
+      "repository": "CaiusCodes/Perfect-Dark-XBLA-PC-Recomp",
+      "github": "https://github.com/CaiusCodes/Perfect-Dark-XBLA-PC-Recomp",
+      "stars": 59,
+      "checkedAt": "2026-11-26T05:08:52.537323+00:00",
+      "evidenceUrl": "https://github.com/CaiusCodes/Perfect-Dark-XBLA-PC-Recomp/blob/2b95958a4184ce01d7cd0b5d3a56503602788403/README.md"
+    },
+    {
+      "repository": "dea7hsmiless/Sakura-Wars-So-Long-My-Love-Rebloom",
+      "github": "https://github.com/dea7hsmiless/Sakura-Wars-So-Long-My-Love-Rebloom",
+      "stars": 3,
+      "checkedAt": "2026-11-26T05:08:42.737787+00:00",
+      "evidenceUrl": "https://github.com/dea7hsmiless/Sakura-Wars-So-Long-My-Love-Rebloom/blob/4ab794e67d62a999a165882d584604bdea0658dd/README.md"
+    },
     {
       "repository": "victor-takai/rogue-galaxy-recomp",
       "github": "https://github.com/victor-takai/rogue-galaxy-recomp",
@@ -323,41 +358,6 @@
       "stars": 0,
       "checkedAt": "2026-11-20T04:04:49.243830+00:00",
       "evidenceUrl": "https://github.com/krixsan/Ashura-Wrath-PC-Native-/blob/c891075150525369c73628aeaaf62af2a648d5b5/README.md"
-    },
-    {
-      "repository": "iCosiSenpai/age-of-decomp",
-      "github": "https://github.com/iCosiSenpai/age-of-decomp",
-      "stars": 8,
-      "checkedAt": "2026-11-20T04:04:40.238355+00:00",
-      "evidenceUrl": "https://github.com/iCosiSenpai/age-of-decomp/blob/95f8ab3d587d89697e9e25ae92d8e4916b2d1f87/README.md"
-    },
-    {
-      "repository": "nefariousjosiah/WWE-SVR2009-RECOMP",
-      "github": "https://github.com/nefariousjosiah/WWE-SVR2009-RECOMP",
-      "stars": 38,
-      "checkedAt": "2026-11-19T19:34:12.356922+00:00",
-      "evidenceUrl": "https://github.com/nefariousjosiah/WWE-SVR2009-RECOMP/blob/6d0e51c6ad948559829fe9c2ce493b1e185689ad/README.md"
-    },
-    {
-      "repository": "GTTeancum/OpenJam",
-      "github": "https://github.com/GTTeancum/OpenJam",
-      "stars": 65,
-      "checkedAt": "2026-11-19T19:34:11.357777+00:00",
-      "evidenceUrl": "https://github.com/GTTeancum/OpenJam/blob/53ac134a7182ff0ccc702f786ea6cf9a32ef5bf1/README.md"
-    },
-    {
-      "repository": "Mango77x/MHForever",
-      "github": "https://github.com/Mango77x/MHForever",
-      "stars": 85,
-      "checkedAt": "2026-11-19T19:34:10.205842+00:00",
-      "evidenceUrl": "https://github.com/Mango77x/MHForever/blob/6b8a6fd21bb5685b89e77bcbd466888daf83116b/README.md"
-    },
-    {
-      "repository": "Dyotson/RecompiledHaloReach",
-      "github": "https://github.com/Dyotson/RecompiledHaloReach",
-      "stars": 52,
-      "checkedAt": "2026-11-19T19:34:07.803789+00:00",
-      "evidenceUrl": "https://github.com/Dyotson/RecompiledHaloReach/blob/329148bb156e0710bcf7f89ced1044461ea7f18f/README.md"
     }
   ]
 }
