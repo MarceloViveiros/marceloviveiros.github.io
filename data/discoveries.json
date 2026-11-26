@@ -1,14 +1,49 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-26T05:07:07.649827+00:00",
+  "updatedAt": "2026-11-26T20:14:05.309176+00:00",
   "triage": {
     "ruleVersion": "documentary-v2",
     "reviewed": 20,
-    "added": 1,
+    "added": 0,
     "pending": 19,
     "outOfScope": 0
   },
   "projects": [
+    {
+      "repository": "raulzrrs/swsh-recomp",
+      "github": "https://github.com/raulzrrs/swsh-recomp",
+      "stars": 74,
+      "checkedAt": "2026-11-26T20:16:24.057408+00:00",
+      "evidenceUrl": "https://github.com/raulzrrs/swsh-recomp/blob/6cebc8b5d14cf633b422fd232e7e5be472dd8161/README.md"
+    },
+    {
+      "repository": "N900x4/HauntingGround-Recomp-Project",
+      "github": "https://github.com/N900x4/HauntingGround-Recomp-Project",
+      "stars": 66,
+      "checkedAt": "2026-11-26T20:16:22.767081+00:00",
+      "evidenceUrl": "https://github.com/N900x4/HauntingGround-Recomp-Project/blob/1db0f0ce71850e15b86faa16b7532212aedf0a02/README.md"
+    },
+    {
+      "repository": "zenit2893-cmyk/Call-of-Duty-3-PC-Editon",
+      "github": "https://github.com/zenit2893-cmyk/Call-of-Duty-3-PC-Editon",
+      "stars": 54,
+      "checkedAt": "2026-11-26T20:16:16.104173+00:00",
+      "evidenceUrl": "https://github.com/zenit2893-cmyk/Call-of-Duty-3-PC-Editon/blob/62ab3b08e4db1a5f21fb0c13b49d4a3ebd004812/README.md"
+    },
+    {
+      "repository": "YodaMMM/NightfirePort",
+      "github": "https://github.com/YodaMMM/NightfirePort",
+      "stars": 18,
+      "checkedAt": "2026-11-26T20:16:05.105212+00:00",
+      "evidenceUrl": "https://github.com/YodaMMM/NightfirePort/blob/0f061d67e7fd5ac89fdd1f0be6027a42bdb70e97/README.md"
+    },
+    {
+      "repository": "IvanBarbosaFilho/Yakuza-Kenzan-Recomp",
+      "github": "https://github.com/IvanBarbosaFilho/Yakuza-Kenzan-Recomp",
+      "stars": 51,
+      "checkedAt": "2026-11-26T20:16:02.356155+00:00",
+      "evidenceUrl": "https://github.com/IvanBarbosaFilho/Yakuza-Kenzan-Recomp/blob/7817ccf496d20da62555c8e9af5963c0d1e07a4f/README.md"
+    },
     {
       "repository": "koaque/Metropolismania-PC",
       "github": "https://github.com/koaque/Metropolismania-PC",
@@ -323,41 +358,6 @@
       "stars": 19,
       "checkedAt": "2026-11-20T19:11:35.651207+00:00",
       "evidenceUrl": "https://github.com/sp00nznet/xboxdashboard/blob/1fd95ed0cccad6eb8ea655f9826d09964d71b392/README.md"
-    },
-    {
-      "repository": "TheRealestNwah/sotc-decomp",
-      "github": "https://github.com/TheRealestNwah/sotc-decomp",
-      "stars": 49,
-      "checkedAt": "2026-11-20T19:11:26.700078+00:00",
-      "evidenceUrl": "https://github.com/TheRealestNwah/sotc-decomp/blob/41f20d07f4634c8530e2dc40e8781cab8f9f4509/README.md"
-    },
-    {
-      "repository": "Genesis5500/ArmyOfTwo-Recomp",
-      "github": "https://github.com/Genesis5500/ArmyOfTwo-Recomp",
-      "stars": 22,
-      "checkedAt": "2026-11-20T19:11:25.671369+00:00",
-      "evidenceUrl": "https://github.com/Genesis5500/ArmyOfTwo-Recomp/blob/bd7e07472acfe9d8563a318502f4d399b6d4d791/README.md"
-    },
-    {
-      "repository": "johnatan28/ZarathosRecomp",
-      "github": "https://github.com/johnatan28/ZarathosRecomp",
-      "stars": 0,
-      "checkedAt": "2026-11-20T19:11:21.979485+00:00",
-      "evidenceUrl": "https://github.com/johnatan28/ZarathosRecomp/blob/7ca8dadc59b5807320839087d1f2dbd897516124/README.md"
-    },
-    {
-      "repository": "Nycolazs/EoWRecomp",
-      "github": "https://github.com/Nycolazs/EoWRecomp",
-      "stars": 157,
-      "checkedAt": "2026-11-20T04:05:06.848305+00:00",
-      "evidenceUrl": "https://github.com/Nycolazs/EoWRecomp/blob/dd9c79d6c01d9eaddafc1fc5a07b6658bfc56505/README.md"
-    },
-    {
-      "repository": "krixsan/Ashura-Wrath-PC-Native-",
-      "github": "https://github.com/krixsan/Ashura-Wrath-PC-Native-",
-      "stars": 0,
-      "checkedAt": "2026-11-20T04:04:49.243830+00:00",
-      "evidenceUrl": "https://github.com/krixsan/Ashura-Wrath-PC-Native-/blob/c891075150525369c73628aeaaf62af2a648d5b5/README.md"
     }
   ]
 }
