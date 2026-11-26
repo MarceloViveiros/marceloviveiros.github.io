@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "updatedAt": "2026-11-25T20:40:00.076359+00:00",
+  "updatedAt": "2026-11-26T05:25:39.549407+00:00",
   "projects": [
     {
       "id": "web-openlara",
@@ -24,7 +24,7 @@
         "Web"
       ],
       "stars": 5161,
-      "starsCollectedAt": "2026-11-25T20:37:10.482671+00:00",
+      "starsCollectedAt": "2026-11-26T05:23:33.511993+00:00",
       "content": {
         "pt": {
           "summary": "Motor de Tomb Raider com uma fase demonstrativa em WebGL.",
@@ -69,7 +69,7 @@
         "pageCheck": "landing-page",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:37:14.515387+00:00",
+          "checkedAt": "2026-11-26T05:23:35.981133+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -102,7 +102,7 @@
         "Web"
       ],
       "stars": 2897,
-      "starsCollectedAt": "2026-11-25T20:37:10.482671+00:00",
+      "starsCollectedAt": "2026-11-26T05:23:33.511993+00:00",
       "content": {
         "pt": {
           "summary": "Diablo no navegador, com opção shareware e uso dos seus dados do jogo completo.",
@@ -147,7 +147,7 @@
         "pageCheck": "landing-page",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:37:14.685016+00:00",
+          "checkedAt": "2026-11-26T05:23:36.120698+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -180,7 +180,7 @@
         "Web"
       ],
       "stars": 186,
-      "starsCollectedAt": "2026-11-25T20:37:10.482671+00:00",
+      "starsCollectedAt": "2026-11-26T05:23:33.511993+00:00",
       "content": {
         "pt": {
           "summary": "Half-Life no navegador pelo motor Xash3D compilado para WebAssembly.",
@@ -225,7 +225,7 @@
         "pageCheck": "landing-page",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:37:14.823607+00:00",
+          "checkedAt": "2026-11-26T05:23:36.243370+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -258,7 +258,7 @@
         "Web"
       ],
       "stars": 186,
-      "starsCollectedAt": "2026-11-25T20:37:10.482671+00:00",
+      "starsCollectedAt": "2026-11-26T05:23:33.511993+00:00",
       "content": {
         "pt": {
           "summary": "Counter-Strike 1.6 no navegador usando WebXash e arquivos da sua instalação.",
@@ -303,7 +303,7 @@
         "pageCheck": "landing-page",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:37:14.973619+00:00",
+          "checkedAt": "2026-11-26T05:23:36.396706+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -336,7 +336,7 @@
         "Web"
       ],
       "stars": 63,
-      "starsCollectedAt": "2026-11-25T20:37:10.482671+00:00",
+      "starsCollectedAt": "2026-11-26T05:23:33.511993+00:00",
       "content": {
         "pt": {
           "summary": "Motor de Quake no navegador, com opção livre com bots e suporte aos seus arquivos PAK.",
@@ -381,7 +381,7 @@
         "pageCheck": "landing-page",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:37:15.069915+00:00",
+          "checkedAt": "2026-11-26T05:23:36.472777+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -414,7 +414,7 @@
         "Web"
       ],
       "stars": 2219,
-      "starsCollectedAt": "2026-11-25T20:37:10.482671+00:00",
+      "starsCollectedAt": "2026-11-26T05:23:33.511993+00:00",
       "content": {
         "pt": {
           "summary": "Estratégia por turnos gratuita para navegador, com partidas individuais e multiplayer.",
@@ -459,7 +459,7 @@
         "pageCheck": "landing-page",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:37:15.530769+00:00",
+          "checkedAt": "2026-11-26T05:23:36.874908+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -492,7 +492,7 @@
         "Web"
       ],
       "stars": 75,
-      "starsCollectedAt": "2026-11-25T20:37:10.482671+00:00",
+      "starsCollectedAt": "2026-11-26T05:23:33.511993+00:00",
       "content": {
         "pt": {
           "summary": "Cliente moderno de Diablo com demo shareware, importação do seu MPQ e gerenciamento local de saves.",
@@ -537,7 +537,7 @@
         "pageCheck": "landing-page",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:37:16.312988+00:00",
+          "checkedAt": "2026-11-26T05:23:37.541090+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -570,7 +570,7 @@
         "Web"
       ],
       "stars": 2040,
-      "starsCollectedAt": "2026-11-25T20:37:10.482671+00:00",
+      "starsCollectedAt": "2026-11-26T05:23:33.511993+00:00",
       "content": {
         "pt": {
           "summary": "Adaptação de Halo de Xbox para navegador, com tela de importação da sua imagem de disco. O site cita o motor OpenCE.",
@@ -624,7 +624,7 @@
         "pageCheck": "landing-page",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:37:16.459705+00:00",
+          "checkedAt": "2026-11-26T05:23:37.789972+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -673,7 +673,7 @@
         "pageCheckedAt": "2026-10-17T11:35:34.661329+00:00",
         "health": {
           "status": "review",
-          "checkedAt": "2026-11-25T20:37:16.832501+00:00",
+          "checkedAt": "2026-11-26T05:23:38.029187+00:00",
           "method": "http-html",
           "reason": "connection-failed"
         }
@@ -765,7 +765,7 @@
         "pageCheckedAt": "2026-10-18T11:43:26.835069+00:00",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:37:17.523962+00:00",
+          "checkedAt": "2026-11-26T05:23:38.235642+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -855,7 +855,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:37:18.149848+00:00",
+          "checkedAt": "2026-11-26T05:23:38.803433+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -942,7 +942,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:37:18.456287+00:00",
+          "checkedAt": "2026-11-26T05:23:39.207823+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -1029,7 +1029,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:37:19.247087+00:00",
+          "checkedAt": "2026-11-26T05:23:39.543052+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -1116,7 +1116,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:37:19.702432+00:00",
+          "checkedAt": "2026-11-26T05:23:40.154793+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -1203,7 +1203,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:37:19.838336+00:00",
+          "checkedAt": "2026-11-26T05:23:40.281046+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -1290,7 +1290,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:37:20.054974+00:00",
+          "checkedAt": "2026-11-26T05:23:40.453729+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -1377,7 +1377,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:37:20.809277+00:00",
+          "checkedAt": "2026-11-26T05:23:41.382303+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -1464,7 +1464,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:37:21.431824+00:00",
+          "checkedAt": "2026-11-26T05:23:41.929638+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -1551,7 +1551,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:37:21.713795+00:00",
+          "checkedAt": "2026-11-26T05:23:42.128179+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -1638,7 +1638,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:37:21.989176+00:00",
+          "checkedAt": "2026-11-26T05:23:42.568808+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -1725,7 +1725,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:37:22.355809+00:00",
+          "checkedAt": "2026-11-26T05:23:42.925454+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -1812,7 +1812,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:37:23.206768+00:00",
+          "checkedAt": "2026-11-26T05:23:43.229716+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -1899,7 +1899,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:37:24.047066+00:00",
+          "checkedAt": "2026-11-26T05:23:44.006223+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -1986,7 +1986,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:37:24.177169+00:00",
+          "checkedAt": "2026-11-26T05:23:44.156932+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -2073,7 +2073,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:37:24.762032+00:00",
+          "checkedAt": "2026-11-26T05:23:44.493218+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -2160,7 +2160,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:37:24.860103+00:00",
+          "checkedAt": "2026-11-26T05:23:44.663968+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -2247,7 +2247,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:37:25.076053+00:00",
+          "checkedAt": "2026-11-26T05:23:45.113242+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -2334,7 +2334,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "review",
-          "checkedAt": "2026-11-25T20:37:25.442959+00:00",
+          "checkedAt": "2026-11-26T05:23:45.303247+00:00",
           "method": "http-html",
           "reason": "redirect-review"
         }
@@ -2421,7 +2421,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:37:25.731333+00:00",
+          "checkedAt": "2026-11-26T05:23:45.546111+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -2508,7 +2508,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:37:26.537756+00:00",
+          "checkedAt": "2026-11-26T05:23:46.249439+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -2595,7 +2595,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:37:31.221153+00:00",
+          "checkedAt": "2026-11-26T05:23:46.978614+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -2682,7 +2682,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:37:32.099689+00:00",
+          "checkedAt": "2026-11-26T05:23:47.601198+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -2769,7 +2769,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:37:32.843835+00:00",
+          "checkedAt": "2026-11-26T05:23:48.314033+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -2856,7 +2856,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:37:33.618920+00:00",
+          "checkedAt": "2026-11-26T05:23:49.004801+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -2943,7 +2943,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:37:34.386481+00:00",
+          "checkedAt": "2026-11-26T05:23:49.654765+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -3030,7 +3030,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:37:34.572422+00:00",
+          "checkedAt": "2026-11-26T05:23:49.769048+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -3117,7 +3117,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:37:34.899952+00:00",
+          "checkedAt": "2026-11-26T05:23:50.070772+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -3204,7 +3204,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:37:35.421030+00:00",
+          "checkedAt": "2026-11-26T05:23:50.352020+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -3291,7 +3291,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:37:35.723544+00:00",
+          "checkedAt": "2026-11-26T05:23:50.613319+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -3378,7 +3378,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:37:35.845600+00:00",
+          "checkedAt": "2026-11-26T05:23:50.746625+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -3465,7 +3465,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "review",
-          "checkedAt": "2026-11-25T20:37:36.009373+00:00",
+          "checkedAt": "2026-11-26T05:23:50.926094+00:00",
           "method": "http-html",
           "reason": "connection-failed"
         }
@@ -3552,7 +3552,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:37:48.429205+00:00",
+          "checkedAt": "2026-11-26T05:24:03.648331+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -3639,7 +3639,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:37:48.547820+00:00",
+          "checkedAt": "2026-11-26T05:24:03.754994+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -3726,7 +3726,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:37:49.464074+00:00",
+          "checkedAt": "2026-11-26T05:24:04.761400+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -3813,7 +3813,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:37:50.601297+00:00",
+          "checkedAt": "2026-11-26T05:24:05.075244+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -3900,7 +3900,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:37:50.934308+00:00",
+          "checkedAt": "2026-11-26T05:24:05.477910+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -3987,7 +3987,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:37:51.621246+00:00",
+          "checkedAt": "2026-11-26T05:24:06.019147+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -4074,7 +4074,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:37:51.749356+00:00",
+          "checkedAt": "2026-11-26T05:24:06.382177+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -4161,7 +4161,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:37:52.118000+00:00",
+          "checkedAt": "2026-11-26T05:24:06.815038+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -4248,7 +4248,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:37:52.733924+00:00",
+          "checkedAt": "2026-11-26T05:24:07.456394+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -4335,7 +4335,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:37:52.845760+00:00",
+          "checkedAt": "2026-11-26T05:24:07.802405+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -4422,7 +4422,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:37:52.949073+00:00",
+          "checkedAt": "2026-11-26T05:24:08.122980+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -4509,7 +4509,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:37:53.084665+00:00",
+          "checkedAt": "2026-11-26T05:24:08.549618+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -4596,7 +4596,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:37:53.223376+00:00",
+          "checkedAt": "2026-11-26T05:24:08.791379+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -4683,7 +4683,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:37:53.328553+00:00",
+          "checkedAt": "2026-11-26T05:24:08.922269+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -4770,7 +4770,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "review",
-          "checkedAt": "2026-11-25T20:37:53.451645+00:00",
+          "checkedAt": "2026-11-26T05:24:09.045858+00:00",
           "method": "http-html",
           "reason": "connection-failed"
         }
@@ -4857,7 +4857,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:37:53.562960+00:00",
+          "checkedAt": "2026-11-26T05:24:09.152483+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -4944,7 +4944,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:37:53.952761+00:00",
+          "checkedAt": "2026-11-26T05:24:09.454967+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -5031,7 +5031,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:37:54.076921+00:00",
+          "checkedAt": "2026-11-26T05:24:09.834370+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -5118,7 +5118,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "review",
-          "checkedAt": "2026-11-25T20:37:54.550667+00:00",
+          "checkedAt": "2026-11-26T05:24:09.931257+00:00",
           "method": "http-html",
           "reason": "connection-failed"
         }
@@ -5205,7 +5205,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:37:54.671490+00:00",
+          "checkedAt": "2026-11-26T05:24:10.062016+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -5292,7 +5292,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:37:54.847872+00:00",
+          "checkedAt": "2026-11-26T05:24:10.402043+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -5379,7 +5379,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:37:54.970057+00:00",
+          "checkedAt": "2026-11-26T05:24:10.525188+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -5466,7 +5466,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:37:55.161557+00:00",
+          "checkedAt": "2026-11-26T05:24:10.819014+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -5553,7 +5553,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:37:55.282132+00:00",
+          "checkedAt": "2026-11-26T05:24:10.925739+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -5640,7 +5640,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:37:55.559444+00:00",
+          "checkedAt": "2026-11-26T05:24:11.049911+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -5727,7 +5727,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:37:55.922727+00:00",
+          "checkedAt": "2026-11-26T05:24:11.174345+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -5814,7 +5814,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:37:56.054790+00:00",
+          "checkedAt": "2026-11-26T05:24:11.469701+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -5901,7 +5901,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:37:56.256378+00:00",
+          "checkedAt": "2026-11-26T05:24:11.582589+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -5988,7 +5988,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:37:56.381755+00:00",
+          "checkedAt": "2026-11-26T05:24:11.673547+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -6075,7 +6075,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:37:56.502314+00:00",
+          "checkedAt": "2026-11-26T05:24:11.801984+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -6162,7 +6162,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:37:56.629063+00:00",
+          "checkedAt": "2026-11-26T05:24:11.911073+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -6249,7 +6249,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:37:56.765724+00:00",
+          "checkedAt": "2026-11-26T05:24:12.038765+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -6336,7 +6336,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:37:56.910205+00:00",
+          "checkedAt": "2026-11-26T05:24:12.141900+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -6423,7 +6423,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:37:57.037847+00:00",
+          "checkedAt": "2026-11-26T05:24:12.301431+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -6510,7 +6510,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:37:57.160137+00:00",
+          "checkedAt": "2026-11-26T05:24:12.434920+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -6597,7 +6597,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:37:57.291970+00:00",
+          "checkedAt": "2026-11-26T05:24:12.558082+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -6684,7 +6684,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:37:57.459923+00:00",
+          "checkedAt": "2026-11-26T05:24:12.835851+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -6771,7 +6771,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:37:58.310387+00:00",
+          "checkedAt": "2026-11-26T05:24:13.407954+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -6858,7 +6858,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:37:59.130863+00:00",
+          "checkedAt": "2026-11-26T05:24:13.976678+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -6945,7 +6945,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:37:59.896138+00:00",
+          "checkedAt": "2026-11-26T05:24:14.510425+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -7032,7 +7032,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "review",
-          "checkedAt": "2026-11-25T20:38:00.643064+00:00",
+          "checkedAt": "2026-11-26T05:24:15.012254+00:00",
           "method": "http-html",
           "reason": "connection-failed"
         }
@@ -7119,7 +7119,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:38:00.904966+00:00",
+          "checkedAt": "2026-11-26T05:24:15.148064+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -7206,7 +7206,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "review",
-          "checkedAt": "2026-11-25T20:38:01.084723+00:00",
+          "checkedAt": "2026-11-26T05:24:15.297605+00:00",
           "method": "http-html",
           "reason": "redirect-review"
         }
@@ -7293,7 +7293,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:38:01.271796+00:00",
+          "checkedAt": "2026-11-26T05:24:15.499158+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -7380,7 +7380,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:38:01.809266+00:00",
+          "checkedAt": "2026-11-26T05:24:15.937559+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -7467,7 +7467,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:38:02.173875+00:00",
+          "checkedAt": "2026-11-26T05:24:16.340490+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -7554,7 +7554,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:38:02.426741+00:00",
+          "checkedAt": "2026-11-26T05:24:16.702521+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -7641,7 +7641,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:38:02.564361+00:00",
+          "checkedAt": "2026-11-26T05:24:16.831926+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -7728,7 +7728,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:38:02.804791+00:00",
+          "checkedAt": "2026-11-26T05:24:16.994427+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -7815,7 +7815,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:38:03.077846+00:00",
+          "checkedAt": "2026-11-26T05:24:17.300349+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -7902,7 +7902,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:38:03.184803+00:00",
+          "checkedAt": "2026-11-26T05:24:17.491882+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -7989,7 +7989,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:38:03.775196+00:00",
+          "checkedAt": "2026-11-26T05:24:17.768075+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -8076,7 +8076,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:38:04.210834+00:00",
+          "checkedAt": "2026-11-26T05:24:18.316498+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -8163,7 +8163,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:38:04.407597+00:00",
+          "checkedAt": "2026-11-26T05:24:18.621706+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -8250,7 +8250,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:38:04.621059+00:00",
+          "checkedAt": "2026-11-26T05:24:18.949399+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -8337,7 +8337,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "review",
-          "checkedAt": "2026-11-25T20:38:04.832090+00:00",
+          "checkedAt": "2026-11-26T05:24:19.263498+00:00",
           "method": "http-html",
           "reason": "connection-failed"
         }
@@ -8424,7 +8424,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "review",
-          "checkedAt": "2026-11-25T20:38:04.948429+00:00",
+          "checkedAt": "2026-11-26T05:24:19.446617+00:00",
           "method": "http-html",
           "reason": "connection-failed"
         }
@@ -8511,7 +8511,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:38:05.021850+00:00",
+          "checkedAt": "2026-11-26T05:24:19.545097+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -8598,7 +8598,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:38:05.214674+00:00",
+          "checkedAt": "2026-11-26T05:24:19.731380+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -8685,7 +8685,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:38:05.482901+00:00",
+          "checkedAt": "2026-11-26T05:24:19.921343+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -8772,7 +8772,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "review",
-          "checkedAt": "2026-11-25T20:38:05.610183+00:00",
+          "checkedAt": "2026-11-26T05:24:20.628091+00:00",
           "method": "http-html",
           "reason": "connection-failed"
         }
@@ -8859,7 +8859,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "review",
-          "checkedAt": "2026-11-25T20:38:05.983334+00:00",
+          "checkedAt": "2026-11-26T05:24:21.031549+00:00",
           "method": "http-html",
           "reason": "connection-failed"
         }
@@ -8945,10 +8945,10 @@
         "checkedAt": "2026-10-27T16:51:22.744506+00:00",
         "pageCheck": "http-html",
         "health": {
-          "status": "review",
-          "checkedAt": "2026-11-25T20:38:06.960025+00:00",
+          "status": "reachable",
+          "checkedAt": "2026-11-26T05:24:23.423009+00:00",
           "method": "http-html",
-          "reason": "connection-failed"
+          "reason": null
         }
       },
       "content": {
@@ -9033,7 +9033,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:38:07.063096+00:00",
+          "checkedAt": "2026-11-26T05:24:23.718739+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -9120,7 +9120,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:38:07.191745+00:00",
+          "checkedAt": "2026-11-26T05:24:23.833261+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -9207,7 +9207,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:38:07.378326+00:00",
+          "checkedAt": "2026-11-26T05:24:24.129644+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -9294,7 +9294,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:38:07.560070+00:00",
+          "checkedAt": "2026-11-26T05:24:24.425069+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -9381,7 +9381,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:38:07.750951+00:00",
+          "checkedAt": "2026-11-26T05:24:24.735404+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -9468,7 +9468,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:38:07.955269+00:00",
+          "checkedAt": "2026-11-26T05:24:25.012691+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -9555,7 +9555,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:38:08.115512+00:00",
+          "checkedAt": "2026-11-26T05:24:25.371068+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -9642,7 +9642,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:38:08.307559+00:00",
+          "checkedAt": "2026-11-26T05:24:25.676861+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -9729,7 +9729,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:38:08.506942+00:00",
+          "checkedAt": "2026-11-26T05:24:25.989209+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -9816,7 +9816,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:38:08.738204+00:00",
+          "checkedAt": "2026-11-26T05:24:26.206389+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -9903,7 +9903,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:38:08.958929+00:00",
+          "checkedAt": "2026-11-26T05:24:26.495177+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -9990,7 +9990,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:38:09.157472+00:00",
+          "checkedAt": "2026-11-26T05:24:26.811519+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -10077,7 +10077,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:38:09.343281+00:00",
+          "checkedAt": "2026-11-26T05:24:27.075003+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -10164,7 +10164,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:38:09.549506+00:00",
+          "checkedAt": "2026-11-26T05:24:27.382861+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -10251,7 +10251,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:38:09.737115+00:00",
+          "checkedAt": "2026-11-26T05:24:27.677776+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -10338,7 +10338,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:38:09.946938+00:00",
+          "checkedAt": "2026-11-26T05:24:28.183349+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -10425,7 +10425,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:38:10.154160+00:00",
+          "checkedAt": "2026-11-26T05:24:28.477352+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -10512,7 +10512,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:38:10.419558+00:00",
+          "checkedAt": "2026-11-26T05:24:28.776485+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -10599,7 +10599,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:38:10.613660+00:00",
+          "checkedAt": "2026-11-26T05:24:29.093684+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -10686,7 +10686,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:38:10.816000+00:00",
+          "checkedAt": "2026-11-26T05:24:29.366412+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -10773,7 +10773,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:38:11.020010+00:00",
+          "checkedAt": "2026-11-26T05:24:29.673779+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -10860,7 +10860,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:38:11.208040+00:00",
+          "checkedAt": "2026-11-26T05:24:29.981764+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -10947,7 +10947,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:38:11.389587+00:00",
+          "checkedAt": "2026-11-26T05:24:30.300981+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -11034,7 +11034,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:38:11.573443+00:00",
+          "checkedAt": "2026-11-26T05:24:30.593016+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -11121,7 +11121,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:38:11.794019+00:00",
+          "checkedAt": "2026-11-26T05:24:30.880228+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -11208,7 +11208,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "review",
-          "checkedAt": "2026-11-25T20:38:11.995740+00:00",
+          "checkedAt": "2026-11-26T05:24:31.188849+00:00",
           "method": "http-html",
           "reason": "url-review"
         }
@@ -11295,7 +11295,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:38:12.010350+00:00",
+          "checkedAt": "2026-11-26T05:24:31.215437+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -11382,7 +11382,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:38:12.194339+00:00",
+          "checkedAt": "2026-11-26T05:24:31.519335+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -11469,7 +11469,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:38:12.391456+00:00",
+          "checkedAt": "2026-11-26T05:24:31.809324+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -11556,7 +11556,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:38:12.584431+00:00",
+          "checkedAt": "2026-11-26T05:24:32.095972+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -11643,7 +11643,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:38:13.250619+00:00",
+          "checkedAt": "2026-11-26T05:24:32.624524+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -11730,7 +11730,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:38:13.453688+00:00",
+          "checkedAt": "2026-11-26T05:24:32.925492+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -11817,7 +11817,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "review",
-          "checkedAt": "2026-11-25T20:38:13.642338+00:00",
+          "checkedAt": "2026-11-26T05:24:33.209338+00:00",
           "method": "http-html",
           "reason": "connection-failed"
         }
@@ -11904,7 +11904,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:38:13.763883+00:00",
+          "checkedAt": "2026-11-26T05:24:33.490516+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -11991,7 +11991,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:38:14.222077+00:00",
+          "checkedAt": "2026-11-26T05:24:33.866804+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -12078,7 +12078,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "review",
-          "checkedAt": "2026-11-25T20:38:14.385313+00:00",
+          "checkedAt": "2026-11-26T05:24:34.031318+00:00",
           "method": "http-html",
           "reason": "redirect-review"
         }
@@ -12165,7 +12165,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:38:14.815826+00:00",
+          "checkedAt": "2026-11-26T05:24:34.415641+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -12252,7 +12252,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "review",
-          "checkedAt": "2026-11-25T20:38:15.015802+00:00",
+          "checkedAt": "2026-11-26T05:24:34.645258+00:00",
           "method": "http-html",
           "reason": "connection-failed"
         }
@@ -12339,7 +12339,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:38:27.275457+00:00",
+          "checkedAt": "2026-11-26T05:24:46.829380+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -12426,7 +12426,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:38:27.747899+00:00",
+          "checkedAt": "2026-11-26T05:24:46.943966+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -12513,7 +12513,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:38:27.938884+00:00",
+          "checkedAt": "2026-11-26T05:24:47.099843+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -12600,7 +12600,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:38:28.105133+00:00",
+          "checkedAt": "2026-11-26T05:24:47.284714+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -12687,7 +12687,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:38:28.240806+00:00",
+          "checkedAt": "2026-11-26T05:24:47.459088+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -12774,7 +12774,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:38:28.374709+00:00",
+          "checkedAt": "2026-11-26T05:24:47.592227+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -12861,7 +12861,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:38:28.540761+00:00",
+          "checkedAt": "2026-11-26T05:24:47.812872+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -12948,7 +12948,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:38:28.685545+00:00",
+          "checkedAt": "2026-11-26T05:24:48.066551+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -13035,7 +13035,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:38:28.811659+00:00",
+          "checkedAt": "2026-11-26T05:24:48.345407+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -13122,7 +13122,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:38:28.965314+00:00",
+          "checkedAt": "2026-11-26T05:24:48.518389+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -13209,7 +13209,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:38:29.210862+00:00",
+          "checkedAt": "2026-11-26T05:24:48.704715+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -13296,7 +13296,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:38:29.474305+00:00",
+          "checkedAt": "2026-11-26T05:24:48.958963+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -13383,7 +13383,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:38:29.784005+00:00",
+          "checkedAt": "2026-11-26T05:24:49.207880+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -13470,7 +13470,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:38:29.915418+00:00",
+          "checkedAt": "2026-11-26T05:24:49.348600+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -13557,7 +13557,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:38:30.074340+00:00",
+          "checkedAt": "2026-11-26T05:24:49.568038+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -13644,7 +13644,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:38:31.006222+00:00",
+          "checkedAt": "2026-11-26T05:24:50.253046+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -13731,7 +13731,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:38:31.601490+00:00",
+          "checkedAt": "2026-11-26T05:24:50.545537+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -13818,7 +13818,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:38:31.882068+00:00",
+          "checkedAt": "2026-11-26T05:24:50.798923+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -13905,7 +13905,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:38:32.145231+00:00",
+          "checkedAt": "2026-11-26T05:24:51.043136+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -13992,7 +13992,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:38:32.426987+00:00",
+          "checkedAt": "2026-11-26T05:24:51.277227+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -14079,7 +14079,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:38:32.752512+00:00",
+          "checkedAt": "2026-11-26T05:24:51.522335+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -14166,7 +14166,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:38:32.893156+00:00",
+          "checkedAt": "2026-11-26T05:24:51.662519+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -14253,7 +14253,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:38:32.983418+00:00",
+          "checkedAt": "2026-11-26T05:24:51.749117+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -14340,7 +14340,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:38:33.413119+00:00",
+          "checkedAt": "2026-11-26T05:24:52.038467+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -14427,7 +14427,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:38:33.912052+00:00",
+          "checkedAt": "2026-11-26T05:24:52.614700+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -14514,7 +14514,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:38:35.842798+00:00",
+          "checkedAt": "2026-11-26T05:24:54.083631+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -14601,7 +14601,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:38:36.779222+00:00",
+          "checkedAt": "2026-11-26T05:24:54.908116+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -14688,7 +14688,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:38:36.976458+00:00",
+          "checkedAt": "2026-11-26T05:24:55.175293+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -14775,7 +14775,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:38:37.773476+00:00",
+          "checkedAt": "2026-11-26T05:24:55.670529+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -14862,7 +14862,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:38:38.556439+00:00",
+          "checkedAt": "2026-11-26T05:24:56.431043+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -14949,7 +14949,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:38:39.278665+00:00",
+          "checkedAt": "2026-11-26T05:24:57.053689+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -15036,7 +15036,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:38:39.677226+00:00",
+          "checkedAt": "2026-11-26T05:24:57.261946+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -15123,7 +15123,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:38:40.043484+00:00",
+          "checkedAt": "2026-11-26T05:24:57.439414+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -15210,7 +15210,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:38:40.285217+00:00",
+          "checkedAt": "2026-11-26T05:24:57.632086+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -15297,7 +15297,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:38:40.964585+00:00",
+          "checkedAt": "2026-11-26T05:24:57.804938+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -15384,7 +15384,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:38:41.455219+00:00",
+          "checkedAt": "2026-11-26T05:24:58.107720+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -15471,7 +15471,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:38:41.815377+00:00",
+          "checkedAt": "2026-11-26T05:24:58.294908+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -15558,7 +15558,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:38:42.223381+00:00",
+          "checkedAt": "2026-11-26T05:24:58.614471+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -15645,7 +15645,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:38:42.742938+00:00",
+          "checkedAt": "2026-11-26T05:24:58.796376+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -15732,7 +15732,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:38:43.571713+00:00",
+          "checkedAt": "2026-11-26T05:24:58.977406+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -15819,7 +15819,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:38:44.422174+00:00",
+          "checkedAt": "2026-11-26T05:24:59.338219+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -15906,7 +15906,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:38:44.815922+00:00",
+          "checkedAt": "2026-11-26T05:24:59.519026+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -15993,7 +15993,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:38:45.200989+00:00",
+          "checkedAt": "2026-11-26T05:24:59.846811+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -16080,7 +16080,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:38:45.921640+00:00",
+          "checkedAt": "2026-11-26T05:25:00.028683+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -16167,7 +16167,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:38:46.301842+00:00",
+          "checkedAt": "2026-11-26T05:25:00.213727+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -16254,7 +16254,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:38:46.536449+00:00",
+          "checkedAt": "2026-11-26T05:25:00.497195+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -16341,7 +16341,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:38:46.764594+00:00",
+          "checkedAt": "2026-11-26T05:25:00.759495+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -16428,7 +16428,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:38:47.131696+00:00",
+          "checkedAt": "2026-11-26T05:25:01.057359+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -16515,7 +16515,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:38:47.535317+00:00",
+          "checkedAt": "2026-11-26T05:25:01.222148+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -16602,7 +16602,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:38:47.915199+00:00",
+          "checkedAt": "2026-11-26T05:25:01.419637+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -16689,7 +16689,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:38:48.433322+00:00",
+          "checkedAt": "2026-11-26T05:25:01.858792+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -16776,7 +16776,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:38:48.972394+00:00",
+          "checkedAt": "2026-11-26T05:25:02.275203+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -16863,7 +16863,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:38:49.519047+00:00",
+          "checkedAt": "2026-11-26T05:25:02.665760+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -16950,7 +16950,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:38:49.892051+00:00",
+          "checkedAt": "2026-11-26T05:25:02.951483+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -17037,7 +17037,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:38:50.598378+00:00",
+          "checkedAt": "2026-11-26T05:25:03.166043+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -17124,7 +17124,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:38:50.976055+00:00",
+          "checkedAt": "2026-11-26T05:25:03.611055+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -17211,7 +17211,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:38:51.347336+00:00",
+          "checkedAt": "2026-11-26T05:25:03.781959+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -17298,7 +17298,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:38:51.733548+00:00",
+          "checkedAt": "2026-11-26T05:25:03.971853+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -17385,7 +17385,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:38:52.540241+00:00",
+          "checkedAt": "2026-11-26T05:25:04.589610+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -17472,7 +17472,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:38:52.917049+00:00",
+          "checkedAt": "2026-11-26T05:25:04.878023+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -17559,7 +17559,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:38:53.147370+00:00",
+          "checkedAt": "2026-11-26T05:25:05.044790+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -17646,7 +17646,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:38:53.521741+00:00",
+          "checkedAt": "2026-11-26T05:25:05.334925+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -17733,7 +17733,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:38:53.893121+00:00",
+          "checkedAt": "2026-11-26T05:25:05.665441+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -17820,7 +17820,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:38:54.294746+00:00",
+          "checkedAt": "2026-11-26T05:25:06.057072+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -17907,7 +17907,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:38:54.970418+00:00",
+          "checkedAt": "2026-11-26T05:25:06.513896+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -17994,7 +17994,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:38:55.946377+00:00",
+          "checkedAt": "2026-11-26T05:25:07.320556+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -18081,7 +18081,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:38:56.051089+00:00",
+          "checkedAt": "2026-11-26T05:25:07.644789+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -18167,10 +18167,10 @@
         "checkedAt": "2026-11-18T04:42:37.161748+00:00",
         "pageCheck": "http-html",
         "health": {
-          "status": "review",
-          "checkedAt": "2026-11-25T20:38:57.005158+00:00",
+          "status": "reachable",
+          "checkedAt": "2026-11-26T05:25:08.399449+00:00",
           "method": "http-html",
-          "reason": "connection-failed"
+          "reason": null
         }
       },
       "content": {
@@ -18255,7 +18255,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:39:25.965564+00:00",
+          "checkedAt": "2026-11-26T05:25:09.031807+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -18342,7 +18342,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:39:26.738175+00:00",
+          "checkedAt": "2026-11-26T05:25:09.639683+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -18429,7 +18429,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:39:27.377273+00:00",
+          "checkedAt": "2026-11-26T05:25:10.133518+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -18516,7 +18516,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:39:28.023889+00:00",
+          "checkedAt": "2026-11-26T05:25:10.618176+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -18603,7 +18603,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:39:28.675400+00:00",
+          "checkedAt": "2026-11-26T05:25:11.104987+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -18690,7 +18690,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:39:29.332339+00:00",
+          "checkedAt": "2026-11-26T05:25:11.623486+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -18777,7 +18777,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:39:29.962812+00:00",
+          "checkedAt": "2026-11-26T05:25:12.391303+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -18864,7 +18864,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:39:30.120456+00:00",
+          "checkedAt": "2026-11-26T05:25:12.684634+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -18951,7 +18951,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:39:30.334989+00:00",
+          "checkedAt": "2026-11-26T05:25:12.840915+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -19038,7 +19038,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:39:31.132004+00:00",
+          "checkedAt": "2026-11-26T05:25:13.793000+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -19125,7 +19125,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:39:31.899755+00:00",
+          "checkedAt": "2026-11-26T05:25:14.104442+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -19212,7 +19212,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:39:32.060252+00:00",
+          "checkedAt": "2026-11-26T05:25:14.283743+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -19299,7 +19299,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:39:32.943786+00:00",
+          "checkedAt": "2026-11-26T05:25:15.109941+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -19386,7 +19386,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:39:33.082868+00:00",
+          "checkedAt": "2026-11-26T05:25:15.248257+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -19473,7 +19473,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:39:33.288392+00:00",
+          "checkedAt": "2026-11-26T05:25:15.368494+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -19560,7 +19560,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:39:34.101363+00:00",
+          "checkedAt": "2026-11-26T05:25:16.016824+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -19647,7 +19647,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:39:34.928319+00:00",
+          "checkedAt": "2026-11-26T05:25:16.687760+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -19734,7 +19734,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:39:35.061896+00:00",
+          "checkedAt": "2026-11-26T05:25:16.888068+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -19821,7 +19821,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:39:35.257112+00:00",
+          "checkedAt": "2026-11-26T05:25:17.049420+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -19908,7 +19908,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:39:35.433672+00:00",
+          "checkedAt": "2026-11-26T05:25:17.201078+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -19995,7 +19995,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:39:36.163389+00:00",
+          "checkedAt": "2026-11-26T05:25:17.872172+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -20082,7 +20082,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:39:36.410364+00:00",
+          "checkedAt": "2026-11-26T05:25:18.110530+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -20169,7 +20169,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:39:37.057039+00:00",
+          "checkedAt": "2026-11-26T05:25:18.611877+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -20256,7 +20256,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:39:37.878205+00:00",
+          "checkedAt": "2026-11-26T05:25:19.321084+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -20343,7 +20343,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:39:51.731970+00:00",
+          "checkedAt": "2026-11-26T05:25:19.738038+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -20430,7 +20430,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:39:52.859005+00:00",
+          "checkedAt": "2026-11-26T05:25:20.103934+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -20517,7 +20517,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:39:54.045928+00:00",
+          "checkedAt": "2026-11-26T05:25:20.593466+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -20604,7 +20604,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:39:55.396556+00:00",
+          "checkedAt": "2026-11-26T05:25:20.992159+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -20691,7 +20691,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:39:56.530219+00:00",
+          "checkedAt": "2026-11-26T05:25:21.565996+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -20778,7 +20778,7 @@
         "pageCheck": "http-html",
         "health": {
           "status": "reachable",
-          "checkedAt": "2026-11-25T20:39:57.731217+00:00",
+          "checkedAt": "2026-11-26T05:25:22.094053+00:00",
           "method": "http-html",
           "reason": null
         }
@@ -20824,20 +20824,455 @@
           "limitations": "Abrir una página no demuestra que una partida funcione. Bora de Play no ha probado campaña, controles, rendimiento ni tecnología. El hash identifica el HTML consultado. Se conservaron los avisos de desarrollo de la fuente."
         }
       }
+    },
+    {
+      "id": "web-inx-b4152d4fc277e8",
+      "editionId": "web-inx-b4152d4fc277e8",
+      "game": "Need for Speed: Underground",
+      "name": "Need for Speed: Underground · Web",
+      "type": "port",
+      "approach": "web-unconfirmed",
+      "playability": "nao-verificado",
+      "developmentStage": "desconhecido",
+      "sourceKind": "website",
+      "github": null,
+      "instructionsUrl": "https://nfsu.cc/",
+      "evidenceUrl": "https://nfsu.cc/",
+      "discoveredVia": "https://www.inxanitylabs.com/games/need-for-speed-underground",
+      "reviewedAt": "2026-11-26",
+      "reviewedVersion": "39081fdf68b498130da0c048cfd510c39ef7a0d597a064cff07da8deae321ab5",
+      "reviewMethod": "documentation",
+      "origins": [
+        "Outro"
+      ],
+      "targets": [
+        "Web"
+      ],
+      "stars": null,
+      "starsCollectedAt": null,
+      "image": {
+        "url": "https://www.inxanitylabs.com/assets/games/need-for-speed-underground-art.webp",
+        "kind": "reference",
+        "source": "https://www.inxanitylabs.com/games/need-for-speed-underground",
+        "provider": "inxanity-declared-cover-v1",
+        "subject": "Need for Speed: Underground"
+      },
+      "browser": {
+        "url": "https://nfsu.cc/",
+        "access": "web",
+        "verification": "documentation",
+        "checkedAt": "2026-11-26T05:25:33.524720+00:00",
+        "pageCheck": "http-html",
+        "health": {
+          "status": "reachable",
+          "checkedAt": "2026-11-26T05:25:33.168624+00:00",
+          "method": "http-html",
+          "reason": null
+        }
+      },
+      "content": {
+        "pt": {
+          "summary": "Need for Speed: Underground no navegador: um jogo de corrida e direção.",
+          "originalFiles": "Não verificado. Confira na página do jogo se são necessários arquivos próprios.",
+          "requirements": [
+            "Navegador atualizado; confira tecnologias, controles e requisitos no destino."
+          ],
+          "installation": [
+            "Abra o link direto pelo botão Jogar no navegador.",
+            "Siga as instruções da página do jogo.",
+            "Compartilhe erros e sua experiência na comunidade desta ficha."
+          ],
+          "limitations": "Abertura de página não comprova funcionamento de uma partida. Campanha, controles, desempenho e tecnologia não testados pelo Bora de Play. O hash identifica o HTML consultado. Os avisos de desenvolvimento da fonte foram preservados."
+        },
+        "en": {
+          "summary": "Need for Speed: Underground in your browser: a game focused on racing and driving.",
+          "originalFiles": "Not verified. Check the game page for any required files you must supply.",
+          "requirements": [
+            "An up-to-date browser; check technologies, controls and requirements at the destination."
+          ],
+          "installation": [
+            "Open the direct link using Play in browser.",
+            "Follow the instructions on the game page.",
+            "Share errors and your experience in this entry’s community section."
+          ],
+          "limitations": "Opening a page does not prove gameplay works. Campaign, controls, performance and technology have not been tested by Bora de Play. The hash identifies the consulted HTML. Development notices from the source were preserved."
+        },
+        "es": {
+          "summary": "Need for Speed: Underground en navegador: un juego de carreras y conducción.",
+          "originalFiles": "No verificado. Consulta si la página del juego requiere tus propios archivos.",
+          "requirements": [
+            "Navegador actualizado; consulta tecnologías, controles y requisitos en el destino."
+          ],
+          "installation": [
+            "Abre el enlace directo con Jugar en el navegador.",
+            "Sigue las instrucciones de la página del juego.",
+            "Comparte errores y tu experiencia en la comunidad de esta ficha."
+          ],
+          "limitations": "Abrir una página no demuestra que una partida funcione. Bora de Play no ha probado campaña, controles, rendimiento ni tecnología. El hash identifica el HTML consultado. Se conservaron los avisos de desarrollo de la fuente."
+        }
+      }
+    },
+    {
+      "id": "web-inx-bee51254d05a78",
+      "editionId": "web-inx-bee51254d05a78",
+      "game": "Tekken 5",
+      "name": "Tekken 5 · Web",
+      "type": "port",
+      "approach": "web-unconfirmed",
+      "playability": "nao-verificado",
+      "developmentStage": "desconhecido",
+      "sourceKind": "website",
+      "github": null,
+      "instructionsUrl": "https://tekken5.gamingretro.online/",
+      "evidenceUrl": "https://tekken5.gamingretro.online/",
+      "discoveredVia": "https://www.inxanitylabs.com/games/tekken-5",
+      "reviewedAt": "2026-11-26",
+      "reviewedVersion": "060c26d3947916a6f49abfe76678d030791509dd904fa7eb346916ed07af9caf",
+      "reviewMethod": "documentation",
+      "origins": [
+        "PS2"
+      ],
+      "targets": [
+        "Web"
+      ],
+      "stars": null,
+      "starsCollectedAt": null,
+      "image": {
+        "url": "https://www.inxanitylabs.com/assets/games/tekken-5-art.webp",
+        "kind": "reference",
+        "source": "https://www.inxanitylabs.com/games/tekken-5",
+        "provider": "inxanity-declared-cover-v1",
+        "subject": "Tekken 5"
+      },
+      "browser": {
+        "url": "https://tekken5.gamingretro.online/",
+        "access": "web",
+        "verification": "documentation",
+        "checkedAt": "2026-11-26T05:25:34.628086+00:00",
+        "pageCheck": "http-html",
+        "health": {
+          "status": "reachable",
+          "checkedAt": "2026-11-26T05:25:33.794421+00:00",
+          "method": "http-html",
+          "reason": null
+        }
+      },
+      "content": {
+        "pt": {
+          "summary": "Tekken 5 no navegador: um jogo de luta.",
+          "originalFiles": "Não verificado. Confira na página do jogo se são necessários arquivos próprios.",
+          "requirements": [
+            "Navegador atualizado; confira tecnologias, controles e requisitos no destino."
+          ],
+          "installation": [
+            "Abra o link direto pelo botão Jogar no navegador.",
+            "Siga as instruções da página do jogo.",
+            "Compartilhe erros e sua experiência na comunidade desta ficha."
+          ],
+          "limitations": "Abertura de página não comprova funcionamento de uma partida. Campanha, controles, desempenho e tecnologia não testados pelo Bora de Play. O hash identifica o HTML consultado. Os avisos de desenvolvimento da fonte foram preservados."
+        },
+        "en": {
+          "summary": "Tekken 5 in your browser: a game focused on fighting.",
+          "originalFiles": "Not verified. Check the game page for any required files you must supply.",
+          "requirements": [
+            "An up-to-date browser; check technologies, controls and requirements at the destination."
+          ],
+          "installation": [
+            "Open the direct link using Play in browser.",
+            "Follow the instructions on the game page.",
+            "Share errors and your experience in this entry’s community section."
+          ],
+          "limitations": "Opening a page does not prove gameplay works. Campaign, controls, performance and technology have not been tested by Bora de Play. The hash identifies the consulted HTML. Development notices from the source were preserved."
+        },
+        "es": {
+          "summary": "Tekken 5 en navegador: un juego de lucha.",
+          "originalFiles": "No verificado. Consulta si la página del juego requiere tus propios archivos.",
+          "requirements": [
+            "Navegador actualizado; consulta tecnologías, controles y requisitos en el destino."
+          ],
+          "installation": [
+            "Abre el enlace directo con Jugar en el navegador.",
+            "Sigue las instrucciones de la página del juego.",
+            "Comparte errores y tu experiencia en la comunidad de esta ficha."
+          ],
+          "limitations": "Abrir una página no demuestra que una partida funcione. Bora de Play no ha probado campaña, controles, rendimiento ni tecnología. El hash identifica el HTML consultado. Se conservaron los avisos de desarrollo de la fuente."
+        }
+      }
+    },
+    {
+      "id": "web-inx-01ee67e1a05a8b",
+      "editionId": "web-inx-01ee67e1a05a8b",
+      "game": "Need for Speed: Carbon",
+      "name": "Need for Speed: Carbon · Web",
+      "type": "port",
+      "approach": "web-unconfirmed",
+      "playability": "nao-verificado",
+      "developmentStage": "desconhecido",
+      "sourceKind": "website",
+      "github": null,
+      "instructionsUrl": "https://nfscrb.xyz/",
+      "evidenceUrl": "https://nfscrb.xyz/",
+      "discoveredVia": "https://www.inxanitylabs.com/games/need-for-speed-carbon",
+      "reviewedAt": "2026-11-26",
+      "reviewedVersion": "1b4f891a46ca63e0ce9de2eb61980e9b4e8149a67eb6723685f74eb488685174",
+      "reviewMethod": "documentation",
+      "origins": [
+        "Outro"
+      ],
+      "targets": [
+        "Web"
+      ],
+      "stars": null,
+      "starsCollectedAt": null,
+      "image": {
+        "url": "https://www.inxanitylabs.com/assets/games/need-for-speed-carbon-art.webp",
+        "kind": "reference",
+        "source": "https://www.inxanitylabs.com/games/need-for-speed-carbon",
+        "provider": "inxanity-declared-cover-v1",
+        "subject": "Need for Speed: Carbon"
+      },
+      "browser": {
+        "url": "https://nfscrb.xyz/",
+        "access": "web",
+        "verification": "documentation",
+        "checkedAt": "2026-11-26T05:25:36.526291+00:00",
+        "pageCheck": "http-html",
+        "health": {
+          "status": "reachable",
+          "checkedAt": "2026-11-26T05:25:34.904393+00:00",
+          "method": "http-html",
+          "reason": null
+        }
+      },
+      "content": {
+        "pt": {
+          "summary": "Need for Speed: Carbon no navegador: um jogo de corrida e direção.",
+          "originalFiles": "Não verificado. Confira na página do jogo se são necessários arquivos próprios.",
+          "requirements": [
+            "Navegador atualizado; confira tecnologias, controles e requisitos no destino."
+          ],
+          "installation": [
+            "Abra o link direto pelo botão Jogar no navegador.",
+            "Siga as instruções da página do jogo.",
+            "Compartilhe erros e sua experiência na comunidade desta ficha."
+          ],
+          "limitations": "Abertura de página não comprova funcionamento de uma partida. Campanha, controles, desempenho e tecnologia não testados pelo Bora de Play. O hash identifica o HTML consultado. Os avisos de desenvolvimento da fonte foram preservados."
+        },
+        "en": {
+          "summary": "Need for Speed: Carbon in your browser: a game focused on racing and driving.",
+          "originalFiles": "Not verified. Check the game page for any required files you must supply.",
+          "requirements": [
+            "An up-to-date browser; check technologies, controls and requirements at the destination."
+          ],
+          "installation": [
+            "Open the direct link using Play in browser.",
+            "Follow the instructions on the game page.",
+            "Share errors and your experience in this entry’s community section."
+          ],
+          "limitations": "Opening a page does not prove gameplay works. Campaign, controls, performance and technology have not been tested by Bora de Play. The hash identifies the consulted HTML. Development notices from the source were preserved."
+        },
+        "es": {
+          "summary": "Need for Speed: Carbon en navegador: un juego de carreras y conducción.",
+          "originalFiles": "No verificado. Consulta si la página del juego requiere tus propios archivos.",
+          "requirements": [
+            "Navegador actualizado; consulta tecnologías, controles y requisitos en el destino."
+          ],
+          "installation": [
+            "Abre el enlace directo con Jugar en el navegador.",
+            "Sigue las instrucciones de la página del juego.",
+            "Comparte errores y tu experiencia en la comunidad de esta ficha."
+          ],
+          "limitations": "Abrir una página no demuestra que una partida funcione. Bora de Play no ha probado campaña, controles, rendimiento ni tecnología. El hash identifica el HTML consultado. Se conservaron los avisos de desarrollo de la fuente."
+        }
+      }
+    },
+    {
+      "id": "web-inx-481368f652e696",
+      "editionId": "web-inx-481368f652e696",
+      "game": "Wolfenstein: Enemy Territory",
+      "name": "Wolfenstein: Enemy Territory · Web",
+      "type": "port",
+      "approach": "web-unconfirmed",
+      "playability": "nao-verificado",
+      "developmentStage": "desconhecido",
+      "sourceKind": "website",
+      "github": null,
+      "instructionsUrl": "https://et.pieter.com/",
+      "evidenceUrl": "https://et.pieter.com/",
+      "discoveredVia": "https://www.inxanitylabs.com/games/wolfenstein-enemy-territory",
+      "reviewedAt": "2026-11-26",
+      "reviewedVersion": "844227c0b2689650cc4f08b9a3e58f6c0fb1dbad57d4d922a875548059bc6b87",
+      "reviewMethod": "documentation",
+      "origins": [
+        "Outro"
+      ],
+      "targets": [
+        "Web"
+      ],
+      "stars": null,
+      "starsCollectedAt": null,
+      "image": {
+        "url": "https://www.inxanitylabs.com/assets/games/wolfenstein-enemy-territory-art.webp",
+        "kind": "reference",
+        "source": "https://www.inxanitylabs.com/games/wolfenstein-enemy-territory",
+        "provider": "inxanity-declared-cover-v1",
+        "subject": "Wolfenstein: Enemy Territory"
+      },
+      "browser": {
+        "url": "https://et.pieter.com/",
+        "access": "web",
+        "verification": "documentation",
+        "checkedAt": "2026-11-26T05:25:38.084518+00:00",
+        "pageCheck": "http-html",
+        "health": {
+          "status": "reachable",
+          "checkedAt": "2026-11-26T05:25:36.793270+00:00",
+          "method": "http-html",
+          "reason": null
+        }
+      },
+      "content": {
+        "pt": {
+          "summary": "Wolfenstein: Enemy Territory no navegador: um jogo de tiro.",
+          "originalFiles": "Não verificado. Confira na página do jogo se são necessários arquivos próprios.",
+          "requirements": [
+            "Navegador atualizado; confira tecnologias, controles e requisitos no destino."
+          ],
+          "installation": [
+            "Abra o link direto pelo botão Jogar no navegador.",
+            "Siga as instruções da página do jogo.",
+            "Compartilhe erros e sua experiência na comunidade desta ficha."
+          ],
+          "limitations": "Abertura de página não comprova funcionamento de uma partida. Campanha, controles, desempenho e tecnologia não testados pelo Bora de Play. O hash identifica o HTML consultado. Os avisos de desenvolvimento da fonte foram preservados."
+        },
+        "en": {
+          "summary": "Wolfenstein: Enemy Territory in your browser: a game focused on shooting.",
+          "originalFiles": "Not verified. Check the game page for any required files you must supply.",
+          "requirements": [
+            "An up-to-date browser; check technologies, controls and requirements at the destination."
+          ],
+          "installation": [
+            "Open the direct link using Play in browser.",
+            "Follow the instructions on the game page.",
+            "Share errors and your experience in this entry’s community section."
+          ],
+          "limitations": "Opening a page does not prove gameplay works. Campaign, controls, performance and technology have not been tested by Bora de Play. The hash identifies the consulted HTML. Development notices from the source were preserved."
+        },
+        "es": {
+          "summary": "Wolfenstein: Enemy Territory en navegador: un juego de disparos.",
+          "originalFiles": "No verificado. Consulta si la página del juego requiere tus propios archivos.",
+          "requirements": [
+            "Navegador actualizado; consulta tecnologías, controles y requisitos en el destino."
+          ],
+          "installation": [
+            "Abre el enlace directo con Jugar en el navegador.",
+            "Sigue las instrucciones de la página del juego.",
+            "Comparte errores y tu experiencia en la comunidad de esta ficha."
+          ],
+          "limitations": "Abrir una página no demuestra que una partida funcione. Bora de Play no ha probado campaña, controles, rendimiento ni tecnología. El hash identifica el HTML consultado. Se conservaron los avisos de desarrollo de la fuente."
+        }
+      }
+    },
+    {
+      "id": "web-inx-54083c5e6eb9ae",
+      "editionId": "web-inx-54083c5e6eb9ae",
+      "game": "Tsukihime: A Piece of Blue Glass Moon",
+      "name": "Tsukihime: A Piece of Blue Glass Moon · Web",
+      "type": "port",
+      "approach": "web-unconfirmed",
+      "playability": "nao-verificado",
+      "developmentStage": "desconhecido",
+      "sourceKind": "website",
+      "github": null,
+      "instructionsUrl": "https://arcueid.date/",
+      "evidenceUrl": "https://arcueid.date/",
+      "discoveredVia": "https://www.inxanitylabs.com/games/tsukihime-remake",
+      "reviewedAt": "2026-11-26",
+      "reviewedVersion": "290c45bf8529133df385df235678c016ca139a51c3c9e25fe8d8a95090aaf7cd",
+      "reviewMethod": "documentation",
+      "origins": [
+        "Outro"
+      ],
+      "targets": [
+        "Web"
+      ],
+      "stars": null,
+      "starsCollectedAt": null,
+      "image": {
+        "url": "https://www.inxanitylabs.com/assets/games/tsukihime-remake-art.webp",
+        "kind": "reference",
+        "source": "https://www.inxanitylabs.com/games/tsukihime-remake",
+        "provider": "inxanity-declared-cover-v1",
+        "subject": "Tsukihime: A Piece of Blue Glass Moon"
+      },
+      "browser": {
+        "url": "https://arcueid.date/",
+        "access": "web",
+        "verification": "documentation",
+        "checkedAt": "2026-11-26T05:25:38.575195+00:00",
+        "pageCheck": "http-html",
+        "health": {
+          "status": "reachable",
+          "checkedAt": "2026-11-26T05:25:38.349278+00:00",
+          "method": "http-html",
+          "reason": null
+        }
+      },
+      "content": {
+        "pt": {
+          "summary": "Versão de Tsukihime: A Piece of Blue Glass Moon para jogar diretamente no navegador.",
+          "originalFiles": "Não verificado. Confira na página do jogo se são necessários arquivos próprios.",
+          "requirements": [
+            "Navegador atualizado; confira tecnologias, controles e requisitos no destino."
+          ],
+          "installation": [
+            "Abra o link direto pelo botão Jogar no navegador.",
+            "Siga as instruções da página do jogo.",
+            "Compartilhe erros e sua experiência na comunidade desta ficha."
+          ],
+          "limitations": "Abertura de página não comprova funcionamento de uma partida. Campanha, controles, desempenho e tecnologia não testados pelo Bora de Play. O hash identifica o HTML consultado. Os avisos de desenvolvimento da fonte foram preservados."
+        },
+        "en": {
+          "summary": "A version of Tsukihime: A Piece of Blue Glass Moon playable directly in a browser.",
+          "originalFiles": "Not verified. Check the game page for any required files you must supply.",
+          "requirements": [
+            "An up-to-date browser; check technologies, controls and requirements at the destination."
+          ],
+          "installation": [
+            "Open the direct link using Play in browser.",
+            "Follow the instructions on the game page.",
+            "Share errors and your experience in this entry’s community section."
+          ],
+          "limitations": "Opening a page does not prove gameplay works. Campaign, controls, performance and technology have not been tested by Bora de Play. The hash identifies the consulted HTML. Development notices from the source were preserved."
+        },
+        "es": {
+          "summary": "Versión de Tsukihime: A Piece of Blue Glass Moon para jugar directamente en el navegador.",
+          "originalFiles": "No verificado. Consulta si la página del juego requiere tus propios archivos.",
+          "requirements": [
+            "Navegador actualizado; consulta tecnologías, controles y requisitos en el destino."
+          ],
+          "installation": [
+            "Abre el enlace directo con Jugar en el navegador.",
+            "Sigue las instrucciones de la página del juego.",
+            "Comparte errores y tu experiencia en la comunidad de esta ficha."
+          ],
+          "limitations": "Abrir una página no demuestra que una partida funcione. Bora de Play no ha probado campaña, controles, rendimiento ni tecnología. El hash identifica el HTML consultado. Se conservaron los avisos de desarrollo de la fuente."
+        }
+      }
     }
   ],
   "automation": {
-    "lastRunAt": "2026-11-25T20:37:10.475437+00:00",
+    "lastRunAt": "2026-11-26T05:23:33.506533+00:00",
     "metadata": "updated",
     "discovery": "completed",
     "inxanity": {
       "status": "completed",
-      "checkedAt": "2026-11-25T20:39:51.102590+00:00",
+      "checkedAt": "2026-11-26T05:25:32.591870+00:00",
       "discovered": 251,
       "reviewed": 6,
-      "added": 6,
+      "added": 5,
       "duplicates": 0,
-      "pending": 14
+      "pending": 9
     },
     "images": {
       "filled": 0,
@@ -20847,7 +21282,7 @@
       "unavailableCovers": 0,
       "missingGameCovers": 0
     },
-    "totalProjects": 240,
+    "totalProjects": 245,
     "pendingRepositories": 319,
     "reviewedRepositories": 6,
     "lowRelevanceRepositories": 193,
