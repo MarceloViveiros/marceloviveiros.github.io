@@ -1,14 +1,42 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-26T20:14:05.309176+00:00",
+  "updatedAt": "2026-11-27T05:06:20.807499+00:00",
   "triage": {
     "ruleVersion": "documentary-v2",
     "reviewed": 20,
-    "added": 0,
-    "pending": 19,
+    "added": 2,
+    "pending": 18,
     "outOfScope": 0
   },
   "projects": [
+    {
+      "repository": "TekRantGaming/whopping-recompilation-collection",
+      "github": "https://github.com/TekRantGaming/whopping-recompilation-collection",
+      "stars": 16,
+      "checkedAt": "2026-11-27T05:08:24.105322+00:00",
+      "evidenceUrl": "https://github.com/TekRantGaming/whopping-recompilation-collection/blob/9aea60276999a4a201112b74d24cdfaa68d98382/README.md"
+    },
+    {
+      "repository": "samuelMadureira23/allstars-port",
+      "github": "https://github.com/samuelMadureira23/allstars-port",
+      "stars": 29,
+      "checkedAt": "2026-11-27T05:08:22.650735+00:00",
+      "evidenceUrl": "https://github.com/samuelMadureira23/allstars-port/blob/0cf997ad334d96bbb803620d0eac9836a587f795/README.md"
+    },
+    {
+      "repository": "TheBozos/Amplitude_Recomp",
+      "github": "https://github.com/TheBozos/Amplitude_Recomp",
+      "stars": 0,
+      "checkedAt": "2026-11-27T05:08:19.772615+00:00",
+      "evidenceUrl": "https://github.com/TheBozos/Amplitude_Recomp/blob/1c9b7fc4111d3a6ef2c195257ffede7c2615861e/README.md"
+    },
+    {
+      "repository": "TheBozos/JC2_Recomp",
+      "github": "https://github.com/TheBozos/JC2_Recomp",
+      "stars": 1,
+      "checkedAt": "2026-11-27T05:08:15.009247+00:00",
+      "evidenceUrl": "https://github.com/TheBozos/JC2_Recomp/blob/d9859a5eeaed32f5250c31594d1b688ce8c5e8e7/README.md"
+    },
     {
       "repository": "raulzrrs/swsh-recomp",
       "github": "https://github.com/raulzrrs/swsh-recomp",
@@ -330,34 +358,6 @@
       "stars": 21,
       "checkedAt": "2026-11-21T04:03:04.067797+00:00",
       "evidenceUrl": "https://github.com/kiesxoxo/burnout-crash-recomp/blob/ac11bd1043e13db61bd0a8171043ac053a1ac88f/README.md"
-    },
-    {
-      "repository": "KevinL50-sysadmin/F1-05-PC",
-      "github": "https://github.com/KevinL50-sysadmin/F1-05-PC",
-      "stars": 0,
-      "checkedAt": "2026-11-21T04:02:56.142690+00:00",
-      "evidenceUrl": "https://github.com/KevinL50-sysadmin/F1-05-PC/blob/2e152da281061d8175ccd2258fa04e180df3291c/README.md"
-    },
-    {
-      "repository": "Antriksh1984/TheWarriors-XBERecomp",
-      "github": "https://github.com/Antriksh1984/TheWarriors-XBERecomp",
-      "stars": 63,
-      "checkedAt": "2026-11-20T19:11:41.383464+00:00",
-      "evidenceUrl": "https://github.com/Antriksh1984/TheWarriors-XBERecomp/blob/1d0c8c70951e102181a13a818702759ab3941843/README.md"
-    },
-    {
-      "repository": "BgbrhrWatchinOVO/dusklight-ps4",
-      "github": "https://github.com/BgbrhrWatchinOVO/dusklight-ps4",
-      "stars": 21,
-      "checkedAt": "2026-11-20T19:11:36.676492+00:00",
-      "evidenceUrl": "https://github.com/BgbrhrWatchinOVO/dusklight-ps4/blob/fd483cf5d4f04b0f4d887ff412d0e8691925de08/README.md"
-    },
-    {
-      "repository": "sp00nznet/xboxdashboard",
-      "github": "https://github.com/sp00nznet/xboxdashboard",
-      "stars": 19,
-      "checkedAt": "2026-11-20T19:11:35.651207+00:00",
-      "evidenceUrl": "https://github.com/sp00nznet/xboxdashboard/blob/1fd95ed0cccad6eb8ea655f9826d09964d71b392/README.md"
     }
   ]
 }
