@@ -1,14 +1,35 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-27T05:06:20.807499+00:00",
+  "updatedAt": "2026-11-27T20:00:33.845820+00:00",
   "triage": {
     "ruleVersion": "documentary-v2",
     "reviewed": 20,
-    "added": 2,
-    "pending": 18,
+    "added": 1,
+    "pending": 19,
     "outOfScope": 0
   },
   "projects": [
+    {
+      "repository": "Vnnc1/gow-native-pc",
+      "github": "https://github.com/Vnnc1/gow-native-pc",
+      "stars": 287,
+      "checkedAt": "2026-11-27T20:03:10.447063+00:00",
+      "evidenceUrl": "https://github.com/Vnnc1/gow-native-pc/blob/4152d910a67564436db94f4c1b23f7ec4afce9db/README.md"
+    },
+    {
+      "repository": "jakehasemeyer/joy-ride-turbo-recompiled",
+      "github": "https://github.com/jakehasemeyer/joy-ride-turbo-recompiled",
+      "stars": 0,
+      "checkedAt": "2026-11-27T20:02:55.537879+00:00",
+      "evidenceUrl": "https://github.com/jakehasemeyer/joy-ride-turbo-recompiled/blob/c284cbbc671b20a8b2fe1d6c78edcaef64c9a87c/README.md"
+    },
+    {
+      "repository": "dreamsofdecay/shadowman2-recomp",
+      "github": "https://github.com/dreamsofdecay/shadowman2-recomp",
+      "stars": 1,
+      "checkedAt": "2026-11-27T20:02:51.493268+00:00",
+      "evidenceUrl": "https://github.com/dreamsofdecay/shadowman2-recomp/blob/a7ff4f66b230a9cf1cc9d395f9469c7a29b06375/README.md"
+    },
     {
       "repository": "TekRantGaming/whopping-recompilation-collection",
       "github": "https://github.com/TekRantGaming/whopping-recompilation-collection",
@@ -337,27 +358,6 @@
       "stars": 56,
       "checkedAt": "2026-11-21T18:02:43.467523+00:00",
       "evidenceUrl": "https://github.com/ThiagoFraga761/infamous2-pc/blob/2dbd6acc19b5ece889272ce482730b1ce59ea4b3/README.md"
-    },
-    {
-      "repository": "LasVola/godhand-recomp",
-      "github": "https://github.com/LasVola/godhand-recomp",
-      "stars": 48,
-      "checkedAt": "2026-11-21T18:02:42.168687+00:00",
-      "evidenceUrl": "https://github.com/LasVola/godhand-recomp/blob/14e956a1274332440273845fbab2c1f1e30c4a5a/README.md"
-    },
-    {
-      "repository": "khasinski/parasite-eve-pc",
-      "github": "https://github.com/khasinski/parasite-eve-pc",
-      "stars": 104,
-      "checkedAt": "2026-11-21T18:02:41.332032+00:00",
-      "evidenceUrl": "https://github.com/khasinski/parasite-eve-pc/blob/628e1c1bcfddceb0487a6bc8bacd198996a8ef50/README.md"
-    },
-    {
-      "repository": "kiesxoxo/burnout-crash-recomp",
-      "github": "https://github.com/kiesxoxo/burnout-crash-recomp",
-      "stars": 21,
-      "checkedAt": "2026-11-21T04:03:04.067797+00:00",
-      "evidenceUrl": "https://github.com/kiesxoxo/burnout-crash-recomp/blob/ac11bd1043e13db61bd0a8171043ac053a1ac88f/README.md"
     }
   ]
 }
