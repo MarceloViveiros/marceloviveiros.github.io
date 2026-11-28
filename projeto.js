@@ -17,7 +17,7 @@ async function initProject(){
     document.title=(project?project.game:t('projectDetails'))+' | Bora de Play';
     document.querySelector('#share-panel').hidden=!project;
     if(!project){const box=el('div',undefined,'empty');box.append(el('h1',t(loadFailed?'loadError':'notFound')),el('p',t(loadFailed?'loadHelp':'notFoundHelp')));content.replaceChildren(box);return;}
-    const text=project.content[language];document.querySelector('meta[name="description"]').content=text.summary;
+    const text=project.content[language];document.querySelector('meta[name="description"]').content=text.summary;if(project.reviewAgent||project.browser?.verification==='documentation'&&project.playability==='nao-verificado'){let robots=document.querySelector('meta[name=robots]');if(!robots){robots=document.createElement('meta');robots.name='robots';document.head.append(robots);}robots.content='noindex,follow';}
     const article=el('article',undefined,'project-detail');article.dataset.project=project.id;const hero=el('header',undefined,'project-heading');
     hero.append(el('span',project.origins.join(' / ')+' → '+project.targets.join(' / '),'eyebrow'),el('h1',project.game),el('p',project.name,'project-name'));
     for(const key of [project.type,project.playability,project.developmentStage])hero.append(el('span',t(key),'badge'));
