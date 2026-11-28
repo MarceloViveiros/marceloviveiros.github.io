@@ -1,14 +1,63 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-27T20:00:33.845820+00:00",
+  "updatedAt": "2026-11-28T04:47:49.022432+00:00",
   "triage": {
     "ruleVersion": "documentary-v2",
     "reviewed": 20,
-    "added": 1,
-    "pending": 19,
+    "added": 0,
+    "pending": 20,
     "outOfScope": 0
   },
   "projects": [
+    {
+      "repository": "danielalves96/gow-pc-port",
+      "github": "https://github.com/danielalves96/gow-pc-port",
+      "stars": 224,
+      "checkedAt": "2026-11-28T04:50:56.427886+00:00",
+      "evidenceUrl": "https://github.com/danielalves96/gow-pc-port/blob/adebc00e69d4395318c94523f345b26c7daf3451/README.md"
+    },
+    {
+      "repository": "Astrr00/BloodbornePC",
+      "github": "https://github.com/Astrr00/BloodbornePC",
+      "stars": 3,
+      "checkedAt": "2026-11-28T04:50:47.994911+00:00",
+      "evidenceUrl": "https://github.com/Astrr00/BloodbornePC/blob/802e3f2bf2e38e71da0a46362ae4510a429f7213/README.md"
+    },
+    {
+      "repository": "8bitninja64/TenchuZ-PC",
+      "github": "https://github.com/8bitninja64/TenchuZ-PC",
+      "stars": 25,
+      "checkedAt": "2026-11-28T04:50:46.451257+00:00",
+      "evidenceUrl": "https://github.com/8bitninja64/TenchuZ-PC/blob/653b003b54acb65c8b509f6fb1b0a7f11a38ba22/README.md"
+    },
+    {
+      "repository": "tsapZ/SSARecomp",
+      "github": "https://github.com/tsapZ/SSARecomp",
+      "stars": 9,
+      "checkedAt": "2026-11-28T04:50:43.220124+00:00",
+      "evidenceUrl": "https://github.com/tsapZ/SSARecomp/blob/f48977c848a42b0545b26b4a6c31978457d06a19/README.md"
+    },
+    {
+      "repository": "TekRantGaming/angry-birds-re-hatched-collection",
+      "github": "https://github.com/TekRantGaming/angry-birds-re-hatched-collection",
+      "stars": 39,
+      "checkedAt": "2026-11-28T04:50:36.064338+00:00",
+      "evidenceUrl": "https://github.com/TekRantGaming/angry-birds-re-hatched-collection/blob/5738c41ca9c6b930efe2383b93cf47103e8d121f/README.md"
+    },
+    {
+      "repository": "xenosagaport/xenosaga-trilogy-port",
+      "github": "https://github.com/xenosagaport/xenosaga-trilogy-port",
+      "stars": 1,
+      "checkedAt": "2026-11-28T04:50:31.094202+00:00",
+      "evidenceUrl": "https://github.com/xenosagaport/xenosaga-trilogy-port/blob/08e34744c2369175b9defe039c030673aa18c819/README.md"
+    },
+    {
+      "repository": "sneid1/ratchet3-pc-remaster",
+      "github": "https://github.com/sneid1/ratchet3-pc-remaster",
+      "stars": 50,
+      "checkedAt": "2026-11-28T04:50:28.073875+00:00",
+      "evidenceUrl": "https://github.com/sneid1/ratchet3-pc-remaster/blob/5bc2b1279bd555019c74d8a5bcdba9d3dd57e622/README.md"
+    },
     {
       "repository": "Vnnc1/gow-native-pc",
       "github": "https://github.com/Vnnc1/gow-native-pc",
@@ -309,55 +358,6 @@
       "stars": 16,
       "checkedAt": "2026-11-22T03:15:21.887286+00:00",
       "evidenceUrl": "https://github.com/bucketcomps/infamous/blob/f824d279808b0364bbcd8feaf5e33a3e6e536b75/README.md"
-    },
-    {
-      "repository": "BasedYuki/the-3rd-birthday-recomp",
-      "github": "https://github.com/BasedYuki/the-3rd-birthday-recomp",
-      "stars": 45,
-      "checkedAt": "2026-11-22T03:15:20.737622+00:00",
-      "evidenceUrl": "https://github.com/BasedYuki/the-3rd-birthday-recomp/blob/6e296089e94eabc0de7a7044758c80da63e64f12/.github/README.md"
-    },
-    {
-      "repository": "abilliontokens/sims2-recomp",
-      "github": "https://github.com/abilliontokens/sims2-recomp",
-      "stars": 44,
-      "checkedAt": "2026-11-22T03:15:13.297147+00:00",
-      "evidenceUrl": "https://github.com/abilliontokens/sims2-recomp/blob/8ce155df78ba5f5a2078acfeb2a5bbc8c2fc3689/README.md"
-    },
-    {
-      "repository": "monscriser/HydroThunderPORT",
-      "github": "https://github.com/monscriser/HydroThunderPORT",
-      "stars": 39,
-      "checkedAt": "2026-11-22T03:15:11.102150+00:00",
-      "evidenceUrl": "https://github.com/monscriser/HydroThunderPORT/blob/e6eef6411588c8fe07db7e6d4bfd89ef06b6f0d9/README.md"
-    },
-    {
-      "repository": "sozud/mmx4",
-      "github": "https://github.com/sozud/mmx4",
-      "stars": 39,
-      "checkedAt": "2026-11-22T03:15:07.517477+00:00",
-      "evidenceUrl": "https://github.com/sozud/mmx4/blob/6f5f939b267d120ed7dcbf97ffc3854658ecb0d7/README.md"
-    },
-    {
-      "repository": "MattSG/midtown-madness-3-recomp",
-      "github": "https://github.com/MattSG/midtown-madness-3-recomp",
-      "stars": 30,
-      "checkedAt": "2026-11-22T03:15:04.369582+00:00",
-      "evidenceUrl": "https://github.com/MattSG/midtown-madness-3-recomp/blob/237ad39bea41ad9b8f81a673b0159478bbd8d6e3/README.md"
-    },
-    {
-      "repository": "nefariousjosiah/WWE-SVR2007-RECOMP",
-      "github": "https://github.com/nefariousjosiah/WWE-SVR2007-RECOMP",
-      "stars": 25,
-      "checkedAt": "2026-11-21T18:02:47.623263+00:00",
-      "evidenceUrl": "https://github.com/nefariousjosiah/WWE-SVR2007-RECOMP/blob/ec3e37b86c04240892d03f30737cc382b9044ac4/README.md"
-    },
-    {
-      "repository": "ThiagoFraga761/infamous2-pc",
-      "github": "https://github.com/ThiagoFraga761/infamous2-pc",
-      "stars": 56,
-      "checkedAt": "2026-11-21T18:02:43.467523+00:00",
-      "evidenceUrl": "https://github.com/ThiagoFraga761/infamous2-pc/blob/2dbd6acc19b5ece889272ce482730b1ce59ea4b3/README.md"
     }
   ]
 }
