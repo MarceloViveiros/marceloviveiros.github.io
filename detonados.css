@@ -22,3 +22,4 @@
 @media(max-width:580px){.guide-body{padding:24px 16px 48px}.guide-body h2{font-size:24px}.guide-body p,.guide-body li{font-size:15px}.guide-list{padding:24px 16px 48px}}
 .guide-card>img{height:auto;width:100%}
 .review-static{max-width:900px;margin:36px auto;padding:0 24px}.review-static h1{margin:12px 0}.review-static .review-cover{margin:20px 0}.review-static .review-cover img{width:100%;max-width:460px;height:auto;border-radius:12px;display:block}.review-static .review-date{font-size:13px}.review-static .review-channel-actions{margin:12px 0 28px}.review-static .review-langs{font-size:14px}.review-static .review-langs a,.review-static .image-credit a{color:var(--yellow);text-decoration:underline}
+.guide-language-notice{padding:14px 18px;border:1px solid var(--yellow);border-radius:10px;background:#ffd45a14;color:var(--cream)!important}.guide-language-notice a{font-weight:700}
